@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Jpg~
+Description  ~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        2
+Played       1374
+Room         21194
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   42 42 94 94 110 110
+Gold         0
+Exp          1575
+Height          52
+Weight          146
+Act          637535816
+AffectedBy   512
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Password     JpdnW/3g9jokY~
+Title         the Recruit~
+Lastname ~
+Flags        229376
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 13 14 14 16 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'dwarven'
+i3invis	0
+End
+
+#END

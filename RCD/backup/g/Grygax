@@ -1,0 +1,79 @@
+#PLAYER
+Version      3
+Name         Grygax~
+Description  ~
+Sex          1
+Class        14
+Race         23
+Languages    1 1
+Level        8
+Played       36927
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   88 102 142 142 191 191
+Gold         66637
+Exp          278059
+Height          62
+Weight          65
+Act          570426968
+AffectedBy   1048576
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    3
+Favor	       246
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        8
+ICEListen (null)~
+Mentalstate  -22
+Password     GrfL2gneEbMjo~
+Title         the Snatcher~
+Lastname (null)~
+AuthedBy     Cyph~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       146
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 13 12 13 12 11 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 17
+Site         207.202.214.132
+Skill        77 'backstab'
+Skill        17 'cook'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        18 'hide'
+Skill        19 'kick'
+Skill        41 'pick lock'
+Skill        18 'scan'
+Skill        18 'search'
+Skill        19 'sneak'
+Skill        17 'steal'
+Weapon       40 'bludgeons'
+Weapon       52 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       95 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'bless' 1119   6  18 0
+AffectData   'bless' 1119  -6  24 0
+AffectData   'armor' 485 -20  17 0
+Killed       6601 1
+Killed       6605 1
+i3invis	0
+End
+
+#END

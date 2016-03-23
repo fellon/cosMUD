@@ -1,0 +1,457 @@
+#PLAYER
+Version      3
+Name         Vorul~
+Description  ~
+Sex          2
+Class        2
+Race         8
+Species      5
+Languages    1 1
+Level        30
+Played       70594
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   630 580 236 158 407 477
+Gold         143477
+Exp          20967871
+Height          117
+Weight          601
+Act          536872536
+AffectedBy   520
+Position     112
+Style     2
+Practice     30
+SavingThrows 0 0 0 0 -4
+Alignment    -1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      4
+Damroll      0
+Armor        80
+Deaf         2
+ICEListen (null)~
+Mentalstate  0
+Password     Vo6LKEDrL/OkI~
+Title         the Mistress of Touch~
+Lastname ~
+AuthedBy     Andy~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       596
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 11 14 15 9 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 46 10 40
+Site         66.57.18.52
+Skill        17 'aid'
+Skill        95 'backstab'
+Skill        57 'circle'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        17 'disarm'
+Skill        17 'discern'
+Skill        85 'dual wield'
+Skill        37 'gouge'
+Skill        19 'headbutt'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        70 'knee'
+Skill        70 'parry'
+Skill        95 'pick lock'
+Skill        90 'scan'
+Skill        51 'search'
+Skill        90 'second attack'
+Skill        63 'sneak'
+Skill        36 'spinkick'
+Skill        18 'steal'
+Skill        46 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless' 711   4  18 0
+AffectData   'bless' 711  -4  24 0
+AffectData   'armor' 218 -20  17 0
+AffectData   'detect invis' 158   0  26 8
+Killed       618 1
+Killed       60882 1
+Killed       60857 1
+Killed       60880 1
+Killed       60879 5
+Killed       8911 1
+Killed       8909 1
+Killed       6500 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        12
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         1509
+WearLoc      3
+Level        15
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1509
+WearLoc      4
+Level        13
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9829
+WearLoc      6
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        100
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60909
+Level        7
+Values       18 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         60910
+Level        11
+Values       19 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         60910
+Level        11
+Values       22 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         60910
+Level        11
+Values       18 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         60880
+Level        20
+Values       20 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         60910
+Level        11
+Values       21 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         42923
+WearLoc      9
+Level        25
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42924
+WearLoc      5
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         42939
+WearLoc      8
+Level        21
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42978
+WearLoc      19
+Level        25
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42934
+WearLoc      2
+Level        21
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42937
+WearLoc      7
+Level        26
+Cost         0
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         42922
+WearLoc      18
+Level        26
+Values       12 8 24 1 0 0
+End
+
+#OBJECT
+Vnum         42920
+WearLoc      16
+Level        26
+Values       12 8 24 2 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        100
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12575
+Level        44
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12573
+Level        44
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12574
+Level        44
+Values       9 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12568
+Level        36
+Values       12 10 33 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12523
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil Soleran~
+Vnum         43
+Level        26
+Affect       -1 -1 1 1 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12524
+Level        40
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         30308
+ExtraFlags   2621960
+Level        32
+Values       10 50 100 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9832
+Level        12
+Values       9 5 15 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9832
+Level        11
+Values       12 5 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42938
+Level        23
+Values       12 7 23 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24541
+Level        39
+Values       12 11 35 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46024
+Level        43
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2801
+Level        37
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42922
+Level        27
+Values       12 8 25 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         60910
+Level        11
+Values       21 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Vnum         60879
+Level        3
+Values       13 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         60879
+Level        3
+Values       12 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         42940
+WearLoc      12
+Level        23
+Values       3 4 0 0 0 0
+End
+
+#END

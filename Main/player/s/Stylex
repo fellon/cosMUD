@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         StyleX~
+Sex          1
+Class        0
+Race         1
+Languages    1 1
+Level        2
+Played       2348
+Room         10314
+HpManaMove   26 26 114 114 110 110
+Gold         0
+Exp          2000
+Height          61
+Weight          115
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     StWT2QCd/ZZcA~
+Title         the Spell Student~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 17 12 15 11 15 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 17 17 10
+Site         (Link-Dead)
+Spell        19 'black hand'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

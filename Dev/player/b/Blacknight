@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         BlacKnight~
+Sex          1
+Class        0
+Race         0
+Languages    1 1
+Level        2
+Played       1730
+Room         10319
+HpManaMove   26 26 104 104 110 110
+Gold         0
+Exp          2000
+Height          68
+Weight          139
+Act          570426952
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Mentalstate  0
+Password     Bl53FBCuSc0Jc~
+Title         the Spell Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 16 12 14 13 12 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 27 27 10
+Site         207.202.214.132
+Weapon       19 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 577   3  18 0
+AffectData   'bless' 577  -3  24 0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

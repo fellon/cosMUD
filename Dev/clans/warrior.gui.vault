@@ -1,0 +1,485 @@
+#OBJECT
+Vnum         8307
+Level        12
+Values       42 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 5 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         6513
+Level        1
+End
+
+#OBJECT
+Vnum         15146
+WearFlags    1
+Level        27
+Values       0 0 48 0 0 0
+End
+
+#OBJECT
+Vnum         10316
+Values       0 0 13 0 0 0
+End
+
+#OBJECT
+Vnum         8910
+Level        10
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8910
+Level        9
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8910
+Level        18
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8910
+Level        16
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21059
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        29
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24818
+ExtraFlags   64
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15122
+Level        30
+Values       5 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14727
+Level        46
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         35
+Level        2
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         621
+Level        16
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        15
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         15166
+Level        35
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         14717
+Level        45
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         2815
+Level        20
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         621
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        15
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         41413
+Level        5
+Values       0 0 734 0 0 0
+End
+
+#OBJECT
+Vnum         21072
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         624
+Level        26
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         9836
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         9836
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         9835
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1537
+Level        7
+Values       21 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         15166
+Level        32
+Values       9 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         2442
+Level        10
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         624
+Level        15
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        26
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        29
+Values       7 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         664
+Level        20
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14716
+Level        47
+Values       12 13 41 8 0 0
+End
+
+#OBJECT
+Vnum         6630
+Level        3
+Values       3 3 0 1 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         6505
+Level        19
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         25034
+Level        35
+Values       12 11 32 3 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         623
+Level        25
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       4 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         15143
+Level        28
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15143
+Level        27
+Values       5 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21086
+Level        1
+End
+
+#OBJECT
+Vnum         645
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+Level        43
+Values       -50 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         627
+Level        16
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         41430
+Level        27
+Values       9 9 9 4 0 0
+End
+
+#OBJECT
+Vnum         627
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2443
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2446
+Level        9
+Cost         0
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         15141
+WearFlags    33
+Level        28
+Values       7 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+Level        43
+Values       1 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         15166
+Level        35
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         9833
+Level        10
+Values       12 2 14 7 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        29
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+Level        55
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         8907
+Level        18
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14745
+Level        48
+Values       12 12 43 3 0 0
+End
+
+#OBJECT
+Vnum         9834
+Level        16
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         46942
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+Level        44
+Values       1 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14727
+Level        50
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         9829
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         24823
+ExtraFlags   596
+Level        40
+Values       61 4 4 88 0 0
+Spell 3      'energy drain'
+End
+
+#OBJECT
+Vnum         620
+Level        28
+Values       6 6 0 0 0 0
+End
+
+#END

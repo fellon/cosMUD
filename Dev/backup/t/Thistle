@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Thistle~
+Description  ~
+Sex          1
+Class        29
+Race         17
+Species      8
+Languages    1 1
+Level        2
+Played       2024
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   35 30 104 114 113 113
+Gold         2136
+Exp          5154
+Height          32
+Weight          49
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     Th/8tNSNKDnyE~
+Title         the Apprentice Harper~
+Lastname (null)~
+AuthedBy     Relgar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 10 13 11 14 19
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 25 10
+Site         63.169.107.252
+Spell        43 'discord'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'shield' 271 -20  17 0
+Killed       10301 1
+Killed       10302 1
+i3invis	0
+End
+
+#END

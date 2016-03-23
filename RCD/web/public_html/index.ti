@@ -1,0 +1,11 @@
+<HTML><HEAD>
+<TITLE>Telnet Interface</TITLE>
+</HEAD>
+   </font><font color=#FFFFFF>                           1)  <a href="./wizlist">The Wizlist</a>
+   </font><font color=#FFFFFF>                           2)  <a href="./wholist">The Who List</a>
+   </font><font color=#FFFFFF>                           3)  <a href="telnet://localhost:4000">Telnet to MUD</a>
+</font><hr>
+<font face="arial" size=-2><i>This interface is based on a snippet written by: Rob Siemborski (Defiant) &lt;mud@towers.crusoe.net&gt;<BR>
+Modifications made by Head Coder/Implementor of Forever's End: Trax &lt;C.J.Fewtrell@uea.ac.uk&gt;<br>
+Final Modifications made by Co-Owner of Haslage Net Electronics: Christopher Aaron Haslage (Yakkov) &lt;kilokahn@eriecoast.com&gt;<br>
+</i></font></body></html></center>

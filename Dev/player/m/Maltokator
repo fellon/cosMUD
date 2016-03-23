@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Maltokator~
+Sex          1
+Class        4
+Race         11
+Languages    1 1
+Level        2
+Played       9317
+Room         21000
+HpManaMove   32 32 112 112 55 110
+Gold         1429
+Exp          2319
+Height          52
+Weight          102
+Act          570427000
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    -27
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -8
+Password     Mar79IKk/jPPI~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       17
+MDeaths      1
+IllegalPK    0
+AttrPerm     11 15 13 18 10 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 10 1
+Site         62.46.182.120
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 489 -20  17 0
+Killed       10316 2
+Killed       10309 2
+End
+
+#END

@@ -1,0 +1,204 @@
+Filename          immortal.brd~
+Vnum              1200
+Min_read_level    102
+Min_post_level    102
+Min_remove_level  105
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          highgod.brd~
+Vnum              1203
+Min_read_level    112
+Min_post_level    100
+Min_remove_level  113
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          IMC.brd~
+Vnum              40001
+Min_read_level    2
+Min_post_level    2
+Min_remove_level  111
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          general.brd~
+Vnum              21042
+Min_read_level    2
+Min_post_level    2
+Min_remove_level  10
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          buildcode.brd~
+Vnum              1201
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  105
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          mail.brd~
+Vnum              21048
+Min_read_level    2
+Min_post_level    2
+Min_remove_level  2
+Max_posts         100
+Type 	           1
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          cabinet.brd~
+Vnum              1216
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         999
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          druidguild.brd~
+Vnum              60801
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          imc.brd~
+Vnum              0
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         0
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          rdaf.brd~
+Vnum              100016
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         200
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          buildcode.brd~
+Vnum              0
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         0
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          bug.brd~
+Vnum              10429
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         200
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          pe.brd~
+Vnum              3000052
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          clerics.brd~
+Vnum              3000101
+Min_read_level    101
+Min_post_level    101
+Min_remove_level  0
+Max_posts         50
+Type 	           0
+Read_group        guild of clerics~
+Post_group        guild of clerics~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          izmyr.brd~
+Vnum              49999
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          ooc.brd~
+Vnum              30348
+Min_read_level    101
+Min_post_level    101
+Min_remove_level  0
+Max_posts         50
+Type 	           0
+Read_group        Order of Chaos~
+Post_group        Order of Chaos~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          ooc.brd~
+Vnum              0
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  0
+Max_posts         0
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End

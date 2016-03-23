@@ -1,0 +1,206 @@
+#PLAYER
+Version      3
+Name         Warden~
+Description  ~
+Sex          1
+Class        6
+Race         9
+Languages    1 1
+Level        6
+Played       11273
+Room         10300
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   123 118 129 129 154 60
+Gold         18833
+Exp          141224
+Height          59
+Weight          149
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     17
+SavingThrows 0 0 0 0 -6
+Alignment    -3
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     WabwT/k4Qo2tE~
+Title         the Tracker~
+Lastname ~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       42
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 18 18 18 18 18 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 5 10
+Site         (Link-Dead)
+Skill        18 'climb'
+Skill        18 'cook'
+Skill        18 'dig'
+Skill        18 'kick'
+Skill        18 'mount'
+Skill        18 'search'
+Skill        18 'track'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       18 'long blades'
+Weapon       18 'pugilism'
+Weapon       18 'short blades'
+Weapon       18 'talonous arms'
+AffectData   'bless' 874   6  18 0
+AffectData   'bless' 874  -6  24 0
+AffectData   'armor' 220 -20  17 0
+Killed       10301 2
+Killed       10303 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2441
+WearLoc      5
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Values       10 1 7 14 1 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   1
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21018
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#END

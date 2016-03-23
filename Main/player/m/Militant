@@ -1,0 +1,276 @@
+#PLAYER
+Version      3
+Name         Militant~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Species      2
+Languages    1 1
+Level        7
+Played       20867
+Room         21032
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   121 116 132 132 268 178
+Gold         62076
+Exp          277867
+Height          67
+Weight          138
+Act          570426952
+Position     112
+Style     2
+Practice     7
+SavingThrows 0 0 0 0 0
+Alignment    -6
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Deaf         2
+ICEListen (null)~
+Mentalstate  0
+Password     Mi2llWW1DHmDM~
+Title         the Guide~
+Lastname (null)~
+AuthedBy     Fairburn~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       148
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 14 14 13 11 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 35 17
+Site         207.202.214.132
+Skill        18 'cook'
+Skill        18 'dual wield'
+Skill        18 'kick'
+Skill        18 'scan'
+Skill        18 'search'
+Skill        18 'track'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       85 'long blades'
+Weapon       18 'pugilism'
+Weapon       18 'short blades'
+Tongue       100 'common'
+Killed       10300 6
+Killed       10302 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         127
+Level        1
+Values       12 1 5 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10316
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        14
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10326
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10330
+Level        1
+Values       20 59 61 175 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       9 176 60 229 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        7
+Values       12 4 12 3 0 0
+End
+
+#END

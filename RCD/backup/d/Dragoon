@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Dragoon~
+Description  ~
+Sex          1
+Class        3
+Race         6
+Species      5
+Languages    1 1
+Level        5
+Played       2458
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   44 116 100 100 237 152
+Gold         13237
+Exp          115879
+Height          120
+Weight          571
+Act          570427000
+AffectedBy   512
+Position     106
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -4
+Password     DrJ0FmEFvdfok~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98818
+PKills       0
+PDeaths      0
+MKills       44
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 11 9 16 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 10
+Site         207.202.214.132
+Skill        46 'dual wield'
+Skill        100 'enhanced damage'
+Tongue       100 'common'
+Tongue       100 'ogre'
+Killed       10397 2
+Killed       10396 15
+i3invis	0
+End
+
+#END

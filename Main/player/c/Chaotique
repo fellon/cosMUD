@@ -1,0 +1,273 @@
+#PLAYER
+Version      3
+Name         Chaotique~
+Description  ~
+Sex          1
+Class        5
+Race         27
+Species      1
+Languages    1 1
+Level        5
+Played       16915
+Room         10343
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   60 60 200 200 152 152
+Gold         15563
+Exp          112776
+Height          55
+Weight          68
+Act          570426968
+AffectedBy   -2147483104
+Position     112
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 -6
+Alignment    375
+Favor	       -398
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     GhCHN475FQhwQ~
+Title         the Missionary~
+Lastname &G Globulus &w~
+AuthedBy     Arbadus~
+Prompt       < &Y%hhp &B%mmp &R%X TNL &w >~
+Deity	     Bane~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       65
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 16 18 13 11 17 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 11 10
+Site         (Link-Dead)
+Spell        29 'armor'
+Spell        95 'cause light'
+Spell        72 'continual light'
+Spell        57 'create food'
+Spell        19 'create water'
+Spell        26 'detect invis'
+Spell        95 'faerie fire'
+Skill        19 'dual wield'
+Skill        95 'kick'
+Skill        22 'scan'
+Weapon       19 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 530   6  18 0
+AffectData   'bless' 530  -6  24 0
+Killed       10322 3
+Killed       10345 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21068
+Values       10 2 8 14 1 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21068
+Values       10 2 5 14 1 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         126
+WearLoc      16
+Level        1
+Values       12 2 5 7 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      4
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#ALIAS
+Name     ccl~
+Commands cast 'continual light'~
+End
+
+#ALIAS
+Name     cf~
+Commands cast 'create food'~
+End
+
+#ALIAS
+Name     cw~
+Commands cast 'create water'~
+End
+
+#ALIAS
+Name     ff~
+Commands cast 'faerie fire'~
+End
+
+#ALIAS
+Name     ll~
+Commands cast 'cause light'~
+End
+
+#END

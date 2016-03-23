@@ -1,0 +1,342 @@
+#PLAYER
+Version      3
+Name         Art~
+Description  ~
+Sex          1
+Class        9
+Race         36
+Species      3
+Languages    1 1
+Level        6
+Played       9037
+Room         2408
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   108 103 141 129 265 165
+Gold         56516
+Exp          156910
+Height          336
+Weight          2012
+Act          536872536
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    430
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        10
+Deaf         8388816
+ICEListen (null)~
+Resistant    1
+Susceptible  4
+Mentalstate  0
+Password     ArCissI01FOZs~
+Title         the Dragon Hatchling~
+Lastname ~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       71
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 13 14 10 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 13 19 13
+Site         207.202.214.131
+Spell        26 'armor'
+Spell        24 'cancelation'
+Spell        21 'create fire'
+Spell        100 'dragon wit'
+Spell        45 'dragonskin'
+Spell        19 'shield'
+Skill        26 'bite'
+Skill        33 'enhanced damage'
+Skill        33 'fan'
+Skill        40 'kick'
+Skill        95 'scan'
+Weapon       45 'bludgeons'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+AffectData   'bless' 447  -6  24 0
+AffectData   'bless' 447   6  18 0
+AffectData   'armor' 356 -20  17 0
+Killed       2409 1
+Killed       2407 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        3
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2071
+Level        8
+Values       12 4 12 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         117
+Level        1
+Values       4 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        1
+Values       10 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        3
+Values       9 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        2
+Values       12 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        2
+Values       11 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        5
+Values       15 4 4 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2465
+Level        1
+End
+
+#OBJECT
+Nest         1
+Vnum         2464
+Level        1
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      2
+Level        4
+End
+
+#OBJECT
+Vnum         2427
+WearLoc      4
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2436
+WearLoc      17
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2409
+WearLoc      5
+Level        4
+Values       6 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2432
+WearLoc      20
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2405
+WearLoc      16
+Level        4
+Values       12 3 7 7 0 0
+End
+
+#OBJECT
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         2447
+Level        5
+Values       3 4 0 0 0 0
+End
+
+#ALIAS
+Name     water~
+Commands get water from bag~
+End
+
+#ALIAS
+Name     nowater~
+Commands put dragonskin in sack~
+End
+
+#ALIAS
+Name     ds~
+Commands cast dragonskin~
+End
+
+#ALIAS
+Name     recall~
+Commands recite recall~
+End
+
+#ALIAS
+Name     potion~
+Commands quaff potion~
+End
+
+#ALIAS
+Name     armor~
+Commands c armor Art~
+End
+
+#END

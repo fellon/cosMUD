@@ -1,0 +1,194 @@
+#PLAYER
+Version      3
+Name         Betsy~
+Description  ~
+Sex          2
+Class        10
+Race         28
+Languages    1 1
+Level        5
+Played       6475
+Room         60898
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   83 126 100 100 152 152
+Gold         23461
+Exp          92870
+Height          81
+Weight          292
+Act          570427258
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       868
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        50
+ICEListen (null)~
+Mentalstate  0
+Password     Be1oyLhR5.2Nw~
+Title         the Imp~
+Lastname ~
+AuthedBy     Cyph~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       58
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 11 14 15 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 38 38 15
+Site         216.27.147.121
+Spell        19 'burning hands'
+Spell        19 'devils might'
+Skill        52 'feed'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Killed       60880 1
+Killed       60881 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         630
+WearLoc      16
+Level        17
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         621
+WearLoc      5
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         624
+WearLoc      8
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         60888
+WearLoc      14
+Level        4
+Values       4 2 2 0 0 0
+End
+
+#OBJECT
+Vnum         60888
+WearLoc      15
+Level        5
+Values       3 2 2 0 0 0
+End
+
+#END

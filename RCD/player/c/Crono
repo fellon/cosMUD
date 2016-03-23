@@ -1,0 +1,47 @@
+#PLAYER
+Version      3
+Name         Crono~
+Sex          1
+Class        5
+Race         1
+Languages    1 1
+Level        2
+Played       1564
+Room         21194
+HpManaMove   30 30 113 113 110 110
+Gold         0
+Exp          1643
+Height          60
+Weight          107
+Act          570426952
+AffectedBy   16
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Password     Crc2c3OmeuD1.~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 16 16 17 11 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 467 -20  17 0
+End
+
+#END

@@ -1,0 +1,77 @@
+#PLAYER
+Version      3
+Name         Noisufnoc~
+Description  ~
+Sex          1
+Class        13
+Race         51
+Species      9
+Languages    1 1
+Level        6
+Played       16445
+Room         21181
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   64 64 134 134 165 165
+Gold         47570
+Exp          167506
+Height          60
+Weight          142
+Act          570426952
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        5
+ICEListen (null)~
+Mentalstate  0
+Password     NosvauMEIPHOg~
+Title         the Surveyor~
+Lastname  Confusion~
+AuthedBy     Rathkor~
+Prompt       &R%k&w<&G%h&W/&R%H&Whp &G%m&W/&R%M&Wm &G%v&w/&R%V&Wmv&w>~
+FPrompt	     &R%k&w<&G%h&W/&R%H&Whp &G%m&W/&R%M&Wm &G%v&w/&R%V&Wmv  &Y%C %c &w>~
+Deity	     Soleran~
+Flags        98818
+PKills       0
+PDeaths      0
+MKills       88
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 17 13 13 12 11 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 3 16
+Site         66.217.68.164
+Spell        72 'armor'
+Spell        95 'chill touch'
+Spell        21 'continual light'
+Spell        29 'create food'
+Spell        19 'create spring'
+Spell        19 'create water'
+Skill        19 'cook'
+Skill        22 'dual wield'
+Skill        20 'kick'
+Skill        85 'scan'
+Skill        33 'search'
+Weapon       73 'bludgeons'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+AffectData   'armor' 303 -20  17 0
+AffectData   'bless' 950   6  18 0
+AffectData   'bless' 950  -6  24 0
+Killed       1537 1
+Killed       10303 2
+i3invis	0
+End
+
+#END

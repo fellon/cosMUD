@@ -1,0 +1,239 @@
+#PLAYER
+Version      3
+Name         Mystique~
+Description  ~
+Sex          1
+Class        8
+Race         9
+Languages    1 1
+Level        6
+Played       55319
+Room         1521
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   88 88 124 124 250 150
+Gold         110458
+Exp          254361
+Height          65
+Weight          150
+Act          637535818
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    858
+Favor	       282
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Mym1jyzjnJepQ~
+Title         the Keeper of Justice~
+Lastname ~
+Deity	     Thhan~
+Flags        229376
+PKills       0
+PDeaths      1
+MKills       277
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 13 14 10 15 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 18 16
+Site         (Link-Dead)
+Spell        53 'armor'
+Spell        26 'continual light'
+Spell        61 'create food'
+Spell        57 'cure light'
+Spell        55 'refresh'
+Skill        90 'enhanced damage'
+Skill        90 'parry'
+Weapon       95 'bludgeons'
+Weapon       18 'long blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       1538 1
+Killed       1533 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       40 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         35
+Level        3
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6632
+Level        1
+Values       30 61 191 175 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         6632
+Level        2
+Values       31 61 191 175 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        12
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        6
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1502
+Level        5
+Values       12 2 8 7 0 0
+End
+
+#MOBILE
+Vnum	21059
+Room	1521
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Mystique'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

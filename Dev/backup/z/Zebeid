@@ -1,0 +1,453 @@
+#PLAYER
+Version      3
+Name         Zebeid~
+Description  A dark skinned fellow with dirty white hair and a grey beard.
+~
+Sex          1
+Class        1
+Race         9
+Species      0
+Languages    524329 8
+Level        41
+Played       557657
+Room         3000100
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   383 384 76 289 528 503
+Gold         5055761
+Exp          60253628
+Height          69
+Weight          159
+Act          570427000
+AffectedBy   533034
+Position     112
+Style     4
+Practice     71
+SavingThrows 0 0 0 0 -10
+Alignment    1000
+Favor	       2425
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      10
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Zed6OtkFRtPsA~
+Title         the Priest~
+Lastname ~
+Prompt       &G< %h | %m | %v | %X>~
+Pagerlen     20
+Deity	     Aoskar~
+Clan         Guild of Clerics~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2294
+MDeaths      24
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 14 17 14 12 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 10 47
+Site         64.169.158.195
+Spell        83 'alertness'
+Spell        55 'aqua breath'
+Spell        95 'armor'
+Spell        95 'benediction'
+Spell        95 'bless'
+Spell        95 'blindness'
+Spell        80 'call lightning'
+Spell        41 'cancelation'
+Spell        95 'cause critical'
+Spell        95 'cause light'
+Spell        95 'cause serious'
+Spell        32 'charged beacon'
+Spell        93 'continual light'
+Spell        95 'control weather'
+Spell        95 'create food'
+Spell        32 'create symbol'
+Spell        95 'create water'
+Spell        31 'cure blindness'
+Spell        95 'cure critical'
+Spell        95 'cure light'
+Spell        87 'cure poison'
+Spell        95 'cure serious'
+Spell        62 'curse'
+Spell        55 'detect evil'
+Spell        82 'detect hidden'
+Spell        94 'detect invis'
+Spell        59 'detect magic'
+Spell        40 'detect poison'
+Spell        53 'detect traps'
+Spell        95 'dispel evil'
+Spell        27 'dispel magic'
+Spell        39 'dream'
+Spell        95 'earthquake'
+Spell        95 'faerie fire'
+Spell        19 'faerie fog'
+Spell        19 'fatigue'
+Spell        95 'fireshield'
+Spell        95 'flamestrike'
+Spell        51 'flight'
+Spell        55 'float'
+Spell        72 'fortify'
+Spell        51 'grounding'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        95 'identify'
+Spell        40 'indignation'
+Spell        33 'infravision'
+Spell        89 'know alignment'
+Spell        28 'lethargy'
+Spell        78 'locate object'
+Spell        84 'major invocation'
+Spell        95 'mass invis'
+Spell        95 'midas touch'
+Spell        95 'minor invocation'
+Spell        19 'necromantic touch'
+Spell        95 'poison'
+Spell        95 'protection'
+Spell        95 'refresh'
+Spell        95 'remove curse'
+Spell        19 'remove trap'
+Spell        23 'resilience'
+Spell        40 'restoration'
+Spell        95 'sanctuary'
+Spell        65 'scry'
+Spell        56 'shockshield'
+Spell        37 'solar flight'
+Spell        65 'summon'
+Spell        78 'transport'
+Spell        33 'true sight'
+Spell        95 'unravel defense'
+Spell        95 'uplift'
+Spell        95 'word of recall'
+Skill        31 'aid'
+Skill        19 'brew'
+Skill        95 'climb'
+Skill        19 'cook'
+Skill        80 'cuff'
+Skill        42 'dig'
+Skill        50 'dodge'
+Skill        19 'dual wield'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        95 'mount'
+Skill        19 'rescue'
+Skill        19 'scan'
+Skill        94 'search'
+Skill        50 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Weapon       95 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       95 'long blades'
+Weapon       50 'pugilism'
+Weapon       60 'short blades'
+Weapon       50 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Tongue       99 'gith'
+Tongue       99 'orcish'
+Tongue       99 'pixie'
+AffectData   'detect invis' 279   0  26 8
+AffectData   'flight' 295   0  26 524288
+AffectData   'minor invocation' 628   5  18 0
+AffectData   'minor invocation' 628  -5  24 0
+AffectData   'bless' 630   5  18 0
+AffectData   'bless' 630  -5  24 0
+AffectData   'protection'  98   0  26 8192
+AffectData   'armor' 101 -20  17 0
+AffectData   'detect hidden' 951   0  26 32
+AffectData   'invis' 423   0  26 2
+Killed       802 1
+Killed       24805 1
+Killed       24803 3
+Killed       6502 1
+Killed       6501 1
+Killed       6500 2
+Killed       42927 1
+Killed       42908 2
+Killed       42929 2
+Killed       42900 1
+Killed       42932 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21065
+WearLoc      11
+Level        7
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2070
+WearLoc      17
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        10
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      2
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        13
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3000112
+Level        11
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         3000112
+Level        11
+Values       48 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         3000112
+Level        9
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         3000112
+Level        9
+Values       49 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         3000112
+Level        6
+Values       49 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         3000112
+Level        6
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         3000112
+Level        6
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        15
+Vnum         3000112
+Level        9
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         3000112
+Level        11
+Values       49 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         3000112
+Level        11
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         813
+WearLoc      0
+Level        26
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24804
+WearLoc      16
+Level        32
+Values       11 10 30 8 0 0
+End
+
+#OBJECT
+Vnum         7219
+WearLoc      9
+Level        41
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         816
+WearLoc      7
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         41427
+WearLoc      8
+Level        28
+Values       8 8 8 2 0 0
+End
+
+#OBJECT
+Vnum         41428
+WearLoc      6
+Level        28
+Values       9 9 9 3 0 0
+End
+
+#OBJECT
+Vnum         42910
+WearLoc      5
+Level        20
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      3
+Level        26
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      4
+Level        25
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         20
+Timer        32
+Values       5 0 0 0 0 0
+End
+
+#END

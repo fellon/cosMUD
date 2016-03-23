@@ -1,0 +1,366 @@
+#PLAYER
+Version      3
+Name         Ifrit~
+Description  ~
+Sex          1
+Class        9
+Race         35
+Species      3
+Languages    262151 1
+Level        41
+Played       198645
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   743 807 523 333 670 620
+Gold         619719
+Exp          75281739
+Height          354
+Weight          1917
+Act          570426952
+AffectedBy   2097152
+Position     104
+Style     2
+Practice     73
+SavingThrows 0 0 0 0 -6
+Alignment    -870
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        60
+Wimpy        180
+ICEListen (null)~
+Resistant    33
+Susceptible  2
+Mentalstate  0
+Password     Ifx0I2CYTnj02~
+Title         the Adult Dragon~
+Lastname ~
+AuthedBy     Andy~
+Deity	     Soleran~
+Clan         Order of Chaos~
+Flags        98306
+PKills       1
+PDeaths      0
+MKills       892
+MDeaths      17
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 12 11 13 14 13 11
+AttrMod      0 3 0 0 0 0 0
+Condition    0 19 38 50
+Site         172.169.45.45
+Spell        98 'armor'
+Spell        77 'cancelation'
+Spell        95 'create fire'
+Spell        19 'detect magic'
+Spell        19 'dispel magic'
+Spell        100 'dragon wit'
+Spell        80 'dragonskin'
+Spell        28 'extradimensional portal'
+Spell        32 'faerie fire'
+Spell        95 'float'
+Spell        62 'locate object'
+Spell        53 'poison'
+Spell        95 'shield'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        95 'bite'
+Skill        40 'dodge'
+Skill        32 'doorbash'
+Skill        66 'dual wield'
+Skill        95 'enhanced damage'
+Skill        69 'fan'
+Skill        22 'fifth attack'
+Skill        67 'fourth attack'
+Skill        40 'kick'
+Skill        50 'parry'
+Skill        95 'scan'
+Skill        46 'search'
+Skill        100 'second attack'
+Skill        95 'third attack'
+Skill        95 'track'
+Weapon       50 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       23 'pugilism'
+Weapon       50 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       9 'dwarven'
+Tongue       18 'elvish'
+AffectData   'dragon wit' 374   3   3 0
+AffectData   'dragonskin' 336  32  27 0
+AffectData   'shield' 377 -20  17 0
+AffectData   'float' 379   0  26 2097152
+AffectData   'bless' 860   6  18 0
+AffectData   'bless' 860  -6  24 0
+AffectData   'armor' 458 -20  17 0
+Killed       21067 1
+Killed       24835 1
+Killed       24836 1
+Killed       24818 1
+Killed       24819 1
+Killed       24820 1
+Killed       14729 9
+Killed       21045 1
+Killed       14741 11
+Killed       14742 14
+Killed       14732 14
+i3invis	0
+End
+
+#OBJECT
+Vnum         25564
+WearLoc      17
+Level        1
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         15100
+ExtraFlags   0
+WearLoc      15
+Level        8
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         42934
+WearLoc      1
+Level        22
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42940
+Level        22
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Name         flask potion pass door~
+ShortDescr   a pass door potion~
+Description  A strange potion labelled 'pass door' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       100 161 -1 -1 0 0
+Spell 1      'pass door'
+End
+
+#OBJECT
+Nest         1
+Name         flask potion detect invis~
+ShortDescr   a detect invis potion~
+Description  A strange potion labelled 'detect invis' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       100 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Nest         1
+Vnum         30309
+Level        35
+Values       51 3 3 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Nest         1
+Vnum         30306
+End
+
+#OBJECT
+Nest         1
+Vnum         2111
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         645
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         30307
+WearLoc      19
+Level        24
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         30308
+ExtraFlags   2621960
+WearLoc      16
+Level        26
+Values       12 50 100 2 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      3
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         30308
+ExtraFlags   2621960
+Level        33
+Values       12 50 100 2 0 0
+End
+
+#OBJECT
+Vnum         30310
+WearLoc      13
+Level        35
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        32
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2308
+WearLoc      11
+Level        28
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        13
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21017
+Values       10 9 10 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#END

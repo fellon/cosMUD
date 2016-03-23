@@ -1,0 +1,1298 @@
+#AREA   The Unholy empire~
+
+
+
+#VERSION 1
+#AUTHOR Andy/Maelstrom~
+
+#RANGES
+1 100 1 116
+$
+
+#RESETMSG ~
+
+#FLAGS
+5 10
+
+#ECONOMY 3827382 5693583
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#900
+~
+~
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#901
+Unholy trainer~
+The trainer of the uholy gods~
+The Unholy Trainer is here.
+~
+~
+1049667 0 0 S
+1 0 0 20000d20000+20000 0d0+0
+0 0
+112 112 0
+#902
+Demon~
+Demon~
+A beastly demon is here befor you.
+~
+~
+131329 373293184 0 S
+51 0 0 32000d3500+32000 0d0+0
+37438748 0
+112 112 0
+> act_prog p spits in your face~
+if isimmort($n)
+gr
+else
+mpslay $n
+endif
+~
+|
+#903
+Sephiroth~
+Sephiroth~
+Sephiroth is here before you.
+~
+~
+67240003 0 0 C
+50 0 0 0d10000+10 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> rand_prog 100~
+remove all
+~
+|
+#904
+Healer~
+A healer of the unholy gods~
+A healer is here healing your wounds
+~
+~
+218234947 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+> speech_prog heal_me~
+say you are wise $n now you shal be rewarded
+mpecho The healer puts its hand on your head and suddenly you feel a
+mpecho surge of warmth flow through you...
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+~
+> speech_prog spellup~
+nod
+c sanctuary $n
+c div $n
+c firesh $n
+c shocksh $n
+c ice $n
+c troll $n
+c saga $n
+c slink $n
+c armor $n
+c bark $n
+bow
+~
+|
+#905
+Nameless Immortal~
+Weapons guy~
+The nameless Immortal stands here.
+~
+~
+67240003 0 0 C
+1 0 0 1000d10000+10000 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#906
+Dameon~
+An old traper~
+Dameon the Dark Mage has his shop here.
+~
+~
+1 0 0 C
+55 0 0 500d20000+700 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#907
+One winged angel~
+One winged angel~
+A one winged angel is standing here.
+~
+~
+67240003 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+> all_greet_prog 100~
+if clan($n) == Unholy Empire
+or isimmort($n)
+say welcome to our clan $n!
+else
+shout $n was caught invading the unholy empire but was transfered out!
+c word $n
+endif
+~
+|
+#908
+leprechaun bitch slave~
+The leprechaun slave~
+A pet leprechaun slave is here.
+~
+~
+257 100663424 0 S
+95 0 0 50d1500+100 0d0+0
+0 0
+112 112 0
+> rand_prog 5~
+say Where are me lucky charms?
+if rand(20)
+say there magicly delicious you know!
+else
+if rand(2)
+,scampers arround, hyper aint he?
+endif
+endif
+~
+|
+#909
+Bird~
+fuzzy little bird~
+A fuzzy little bird is here.
+~
+~
+257 0 0 S
+55 0 0 100d100+500 0d0+0
+0 0
+112 112 0
+> hitprcnt_prog 20~
+stun
+stun
+stun
+stun
+c curse
+c poison
+~
+|
+#910
+Human Slave~
+A human slave~
+A human slave is here.
+~
+~
+257 100663424 0 C
+40 0 0 100d1000+100 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+50 65 0 0 0 0 0 0
+#911
+Monkey~
+The insane monkey~
+A insane monkey is here.
+~
+~
+257 100663296 0 C
+80 0 0 50d1500+50 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+20 15 0 0 0 0 0 0
+#912
+~
+~
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#900
+~
+~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#901
+note board~
+Note Board~
+The note board is here hangning from the northern wall~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#902
+alter~
+Alter~
+The sacraficial alter is here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#903
+Astral sphere~
+An astral sphere~
+A small shiny sphere no biger than your fist is here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+> exa_prog 100~
+if clan($n)==Unholy Empire
+mptransfer $n 24818
+mpat $n mpforce $n where
+mptransfer $n
+mptransfer $n 8143
+mpat $n mpforce $n where
+mptransfer $n
+mptransfer $n 12522
+mpat $n mpforce $n where
+mptransfer $n
+mptransfer $n 48338
+mpat $n mpforce $n where
+mptransfer $n
+mptransfer $n 806
+mpat $n mpforce $n where
+mptransfer $n
+mptransfer $n 10347
+mpat $n mpforce $n where
+mptransfer $n
+else
+say your not a clan member
+endif
+~
+|
+#904
+Shroud of Malice~
+Shroud of Malice~
+The Shroud of malice lies here.~
+~
+9 2629633 17 1
+120 120 0 0
+1 10500 1050
+A
+27 128
+A
+27 16
+A
+28 1024
+A
+28 2048
+A
+18 10
+A
+19 15
+A
+13 40
+A
+17 -30
+> get_prog 100~
+if clan($n)==Unholy Empire
+else
+say you may NOT hold me in your arms!
+mpecho the unholy helm explodes into hundreds of peices that fly out
+mpecho at $n, reducing them to a bloody mess!
+mpslay $n
+endif
+~
+|
+#905
+Blazing Soul of an Angel~
+Blazing Soul of an Angel~
+Blazing Sould of an Angel~
+~
+1 8192 1
+0 0 0 0
+1 2000 200
+A
+13 50
+A
+25 4
+A
+2 5
+A
+31 8
+> sac_prog 100~
+if clan($n)==Unholy Empire
+mptransfer $n 901
+else
+endif
+~
+|
+#906
+Unholy Judgement~
+Unholy Judgement~
+The Unholy Sword of the Empire rests here.~
+~
+5 532506 8193
+10 1 20 7
+5 500000 436241
+A
+1 1
+A
+2 1
+A
+13 50
+A
+12 80
+A
+18 11
+A
+19 11
+A
+25 5
+A
+27 1051648
+A
+30 70
+#907
+Gauntlets of Deception~
+&YGauntlets of &Rdeception~
+&YGauntlets of great &Revil&Y lay here.~
+~
+9 534340 129
+17 0 0 0
+1 39473 3947
+A
+1 1
+A
+2 1
+A
+17 -10
+A
+13 25
+A
+12 25
+A
+18 7
+A
+19 7
+A
+27 64
+#908
+Perspective of Destruction~
+The Perspective of Destruction~
+The lense of annihilation lies here.~
+~
+9 100948 131073
+27 0 0 0
+1 49320 4932
+A
+1 -1
+A
+3 2
+A
+12 125
+A
+13 75
+A
+18 4
+A
+19 4
+A
+26 544
+#909
+Hell on Earth~
+&RHell &YOn &GEarth~
+&GA robe is here in the &Gm&gi&Gd&gs&Gt &Bof a &Rbl&raz&Ring &rin&Rfe&rr&Rno~
+~
+9 2105617 1025 1
+100 100 100 0
+1 35432 3543
+A
+17 -150
+A
+13 100
+A
+4 5
+A
+5 3
+A
+25 4
+A
+12 70
+A
+66 40
+#910
+Boots of Tyranny~
+Boots of Tyranny~
+The Boots of Tyranny glimmer in a black aura.~
+~
+9 2105347 65
+130 0 0 0
+1 42212 4221
+A
+47 30
+A
+19 15
+A
+27 1
+A
+17 -50
+A
+14 100
+A
+18 10
+#911
+Ring of Disdain~
+&BThe ring of &Rd&ri&Rs&rd&Ra&ri&Rn~
+&GThe ring of &Rd&ri&Rs&rd&Ra&ri&Rn&G is here.&P~
+~
+9 2105344 3
+150 0 0 0
+1 2342 234
+A
+13 50
+A
+18 5
+A
+19 10
+A
+21 -50
+A
+20 -67
+A
+2 4
+A
+25 4
+A
+5 6
+#912
+Unholy wand~
+An unholy wand~
+Some god dropped a newly created Unholy wand here.~
+~
+3 8192 16385
+60 10 10 -1
+1 392 39
+'acetum primus'
+#913
+Belt of Lost Souls~
+&RA belt of lost &Gs&go&Gu&gl&Gs~
+&RA belt of lost &Gs&go&Gu&gl&Gs &Ris here.~
+~
+9 2629634 1 1
+200 0 0 0
+1 59329 5932
+A
+18 15
+A
+19 8
+A
+28 512
+A
+21 -50
+A
+17 -10
+A
+24 -30
+A
+13 25
+> sac_prog 40~
+if clan($n)==Unholy Empire
+mpoload 8800
+drop blackrazor
+mpecho The gods see your sacrafice and give you somthing in return...
+endif
+~
+|
+#914
+Unholy Earrings~
+Unholy Earrings~
+Unholy Earrings are laying here.~
+~
+9 -2144854016 65537 1
+130 0 0 0
+1 500 50
+A
+18 20
+A
+19 25
+A
+13 15
+#915
+Bloodlust~
+The Bloodlust~
+The Bloodlust lies here.~
+~
+5 532480 8193 1
+0 0 0 6
+6 10000 75000
+A
+1 1
+A
+4 2
+A
+17 -30
+A
+13 75
+A
+12 150
+A
+18 14
+A
+19 14
+A
+24 -5
+A
+27 2
+A
+26 -2147483648
+> wear_prog 100~
+if level($n) < 50
+mpforce $n grin
+else
+mpforce $n remove bloodlust
+mpforce $n drop bloodlust
+mpforce $n sac bloodlust
+mpoload 919
+drop bloodlust2
+mpforce $n take bloodlust2
+mpforce $n wear bloodlust2
+endif
+~
+|
+#916
+Blackrazor black razor~
+Blackrazor~
+A sword with a blade that resembles the night sky hums quietly.~
+~
+5 538 8193
+0 0 0 6
+8 10000 120000
+A
+3 3
+A
+17 -30
+A
+13 100
+A
+12 100
+A
+18 15
+A
+19 15
+A
+26 16777228
+A
+28 2048
+A
+27 1049088
+A
+24 -25
+A
+21 -25
+> get_prog 100~
+if clan($n)==Unholy Empire
+grin
+else
+mpfavor $n -25000
+c hyper $n
+c curse $n
+c poison $n
+c hyper $n
+c hyper $n
+c hyper $n
+c hyper $n
+c hyper $n
+c hyper $n
+c hyper $n
+c hyper $n
+c hyper $n
+endif
+~
+|
+#917
+A pile of gold coins~
+Some gold~
+A pile of gold coins.~
+~
+13 8192 0
+0 0 0 0
+1 20 2
+> get_prog 100~
+if clan($n)==Unholy empire
+else
+mpforce $n drop 150000 coins
+mpforce $n drop gold
+mppurg
+endif
+~
+|
+#918
+Damnation~
+Damnation~
+A red steel blade glows with a hellish light.~
+~
+13 8193 1
+0 0 0 0
+1 1000 100
+> get_prog 100~
+if clan($n)==Unholy Empire
+mpforce $n grin
+else
+c change $n
+c curse $n
+c magic $n
+c poison $n
+endif
+~
+|
+#919
+bloodlust2 bloodlust blood lust~
+The bloodlust~
+The bloodlust~
+~
+5 524553 8193
+0 10 9 0
+1 100000 10000
+A
+27 128
+A
+17 -100
+A
+18 20
+A
+19 20
+A
+13 100
+#920
+refrigerator fridge maelstrom~
+Maelstrom's Fridge~
+&RA refidgerator is here.~
+~
+15 -2147475435 0
+1874919423 0 0 0
+1 0 0
+> speech_prog refill~
+mpoload 921
+take soul
+put soul fridge
+~
+|
+#921
+Blend of Souls~
+blend of souls~
+A steaming blend of souls lies here.~
+%s swallow$q a dark mixture of souls.~
+10 -2145902315 1
+0 -1 122 159
+3 1000000 100000
+'sanctuary' 'heal' 'nostrum'
+#922
+Staff of Animation~
+The staff of animation~
+Some god dropped a newly created Staff of Animation here.~
+~
+3 1073741824 16384
+2 50 50 -1
+1 0 0
+'animate dead'
+#924
+Button~
+a button~
+A button~
+~
+37 0 0
+0 0 0 0
+1 0 0
+> push_prog 200~
+if isleader($n)
+or isimmort($n)
+mpoload 925
+give rod $n
+mpforce $n wear rod
+mpforce $n grin
+mpforce $n grip
+mpforce $n pull button
+else
+endif
+~
+|
+#925
+The rod of Maelstrom~
+The rod of the leader~
+The rod of the leader is here~
+~
+5 2629635 8193
+20 1 100 0
+1 0 0
+A
+24 -75
+A
+28 1024
+A
+28 2048
+A
+27 1
+A
+27 4
+A
+17 -150
+A
+18 20
+A
+19 20
+A
+40 12
+A
+26 4194304
+A
+26 33554432
+A
+26 268435456
+A
+26 67108864
+A
+24 -20
+> rand_prog 2~
+if rand(20)
+c sanc maelstrom
+c div maelstrom
+c firesh maelstrom
+c ice maelstrom
+c shocksh maelstrom
+c ground maelstrom
+c bark maelstrom
+endif
+~
+|
+#926
+Statue of a Demonlord~
+A statue of a Demonlord stands here.~
+A towering statue of a Demonlord stands here. Dark flowing entergy swirls around the base.~
+~
+8 17 0
+0 0 0 0
+1 0 0
+#927
+Floating orb doom~
+The orb~
+~
+~
+9 0 4194305
+100 100 0 0
+1 0 0
+A
+27 8
+A
+53 5
+A
+32 80
+A
+29 1048576
+#928
+Black War Paint~
+Black war paint~
+Black War Paint~
+You smear the paint on your face.~
+9 2105360 1048576
+100 100 100 0
+1 2000 200
+E
+You smear the paint on your face.~
+You smear the charcoal colored paint on your face.
+~
+A
+18 10
+A
+19 13
+A
+9 -50
+A
+25 -2
+A
+40 5
+A
+26 32768
+A
+26 4194304
+#929
+Nail in the Coffin~
+Final nail in the coffin~
+The final nail in the coffin lies here.~
+~
+59 2629648 0
+0 0 0 0
+1 200 20
+#930
+~
+~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#900
+Foyer of Darkness~
+The smell of blood welcomes you as you gaze down the narrow hallway.
+Spirits float by, and screams can be heard, but you still feel a sense
+  of comfort. Mounted on the walls are skulls, with candles in them, that
+dimly lights the room with an eerie glow.
+Looking northward you see the Main Hall of the clan. You boldly step forward.
+~
+0 2097156 0
+D0
+~
+~
+0 -1 901
+D2
+~
+~
+0 -1 920
+S
+#901
+Chamber of Evil~
+The grand hall of the Unholy Empire is here. The room is inlaid with
+blood stained bones There is a set of beautiful stairs made out entirely
+of the bones of Humans. The whole room exudes a dark aura as
+your vision is momentarily clouded by a passing ghost.
+~
+0 1075838976 1
+D1
+~
+~
+0 -1 903
+D2
+~
+~
+0 -1 900
+D3
+~
+~
+0 -1 902
+D4
+~
+~
+0 -1 905
+D6
+~
+~
+0 -1 919
+S
+#902
+Shelter of the Empire~
+A ghostly healer is hear to cure the wounds of the injured.
+This is your refuge from the good forces that would seek to destroy you.
+~
+0 1075840000 1
+D1
+~
+~
+0 -1 901
+S
+#903
+Board Room of Chaos~
+Post notes to clan members here. Important information from
+Maelstrom will be posted here.
+~
+0 1075838976 1
+D3
+~
+~
+0 -1 901
+S
+#904
+Donation Chamber       ~
+This is where you can drop items for other clan members to get for
+their own use.
+~
+0 1075855360 1
+D2
+~
+~
+0 -1 901
+S
+#905
+Hall of the Vendors~
+This floor contains the shops of the Empire. To the east weapons are sold
+and to the west armor is sold. To the north the clan pet store is set up.
+To the south there is an items store.
+~
+0 1075838980 1
+D0
+~
+~
+0 -1 915
+D1
+~
+~
+0 -1 907
+D3
+~
+~
+0 -1 909
+D4
+~
+~
+0 -1 910
+D5
+~
+~
+0 -1 901
+S
+#906
+Floating in a void~
+shops with food and shouvels and stuff
+~
+0 1075838976 1
+D2
+~
+~
+0 -1 905
+S
+#907
+The Forge of Apocalypse~
+A giant iron forge stands to the side of the shopkeeper's
+counter. The fabled Forge of Apocalypse is not a myth. The nameless
+vendor stands here hammering out another blade forged in the fires
+of Hell.
+~
+0 1075838976 1
+D3
+~
+~
+0 -1 905
+S
+#909
+Armorgeddon~
+Mounted on the wall are various kinds of armor. There is a large fire
+in the middle of the room where the equipment is forged in. The flames
+flare up to the ceiling as a new item is made. 
+~
+0 1075838976 1
+D1
+~
+~
+0 -1 905
+S
+#910
+Floor of the Dark Arts~
+This floor houses the chambers of the Dark Arts. To the east is
+the Dark Arts store. To the west is the Teleport room.
+To the south is the Intelligence Room.
+~
+0 1075838980 1
+D1
+~
+~
+0 -1 911
+D2
+~
+~
+0 -1 912
+D3
+~
+~
+0 -1 913
+D4
+~
+~
+0 -1 914
+D5
+~
+~
+0 -1 905
+S
+#911
+Store of Dark Arts~
+A swirling mass of dark clouds envelop the top of the room as various
+items of decepon are being sold here. The clouds rumble as the sounds
+of thunder are heard. 
+~
+0 1075838976 1
+D3
+~
+~
+0 -1 910
+S
+#912
+Intelligence Room~
+This is the secret chamber of spies. Here we can view our progress in wars
+and detect enemy movements. A very valuable sphere glows as it searches
+for souls in the realm.
+~
+0 1075838976 1
+D0
+~
+~
+0 -1 910
+S
+#913
+Teleport Room~
+A whole wall is covered in a black shimmering energy field.
+You gasp in astonishment as a minion of darkness says a word and is 
+  absorbed entirely by the field of evil. You feel attracted to the  
+portal and desire to enter into it.
+~
+0 1075838976 1
+D1
+~
+~
+0 -1 910
+> speech_prog ghost_town~
+if clan($n)==Unholy Empire
+mptransfer $n 8143
+endif
+~
+> speech_prog gallery~
+if clan($n)==Unholy Empire
+mptransfer $n 24818
+else
+mptransfer $n 6
+endif
+~
+> speech_prog ghost_town~
+if clan($n)==Unholy Empire
+mptransfer $n 8100
+mpat $n mpforce $n look
+else
+say uh...no
+~
+> speech_prog xchan~
+mptransfer $n 12500
+mpat $n force $n look
+~
+> speech_prog square~
+if clan($n)==Unholy Empire
+mptransfer $n 21000
+mpat 21000 mpforce 0.$n look
+else
+endif
+~
+|
+S
+#914
+&RThe leader's lair~
+This is the lair of Unholy Empire's leader, only he and the one of his
+most trusted followers are allowed here. The Leader has a set of facilitie
+given to him by his mighty deeds.
+ 
+to refill the fridge just say refill
+~
+0 1075840000 1
+D5
+~
+~
+0 -1 910
+> entry_prog 100~
+if isleader($n) == Unholy Empire
+or isimmort($n)
+mea $n The room seems to brighten in recognition of your prescence.
+mer $n The room seems to brighten a bit as $n enters.
+else
+mea $n A terrible pain wracks your body as you climb, causing you to return.
+mer $n $n is wracked with pain and forced to turn back down.
+mpat 910 mpe $n Suddenly rushes back down into the room in pain!
+c refresh $n
+mpforce $n d
+mpat 0.$n mptransfer $n 910
+endif
+~
+|
+S
+#915
+Hellish Delight~
+The shrieking sounds of animals and the screams of Demons assault your
+ears as you first walk in. You notice many beasts and slaves chained 
+to the wall. You realize that this is not a dungeon by any means
+ but a pet shop. Grinning evilly you ponder over which you will buy.
+~
+0 1073745920 1
+D2
+~
+~
+0 -1 905
+S
+#916
+Floating in a void~
+THIS ROOM MUS BE KEPT TO THE VNUM RIGHT AFTER THE ONE WITH THE PET
+MAN TO MAINTAIN FUNCTIONALITY OF THE SHOP.
+ 
+Thanks,
+ 
+Andy
+~
+0 1073741828 1
+S
+#917
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 916
+S
+#918
+Floating in a void~
+the teacher room
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 915
+S
+#919
+Gift to the Unholy Gods~
+A large alter stands at the north east wall. Favor is found here for the
+ evil as you sacrifice items to your deity. Blood, items of gold and other
+obcts are being consumed by the fires of hell as the statue in the 
+alter's center seems to come alive in the delight of a new gift.
+~
+0 1073741824 1
+D9
+~
+~
+0 -1 901
+> act_prog p drops~
+if clan($n)==Unholy empire
+mppurg
+mpoload 902
+mpfavor $n 10
+mpecho your favor has been increase by for your sacrafice!
+else
+mptransfer $n 21000
+endif
+~
+|
+S
+#920
+Outside the Gates of the Empire~
+The massive black gates protect the enterance to the headquarters
+of the Unholy Empire. A massive tower looms high above as the 
+city of the damned creatures who obey the empire surrounds
+it in every direction.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 900
+> entry_prog ~
+if clan($n)!=Unholy Empire
+ mea $n This is for members of the Unholy Empire ONLY.
+ mpforce $n south
+endif
+~
+|
+S
+#921
+~
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+M 0 907 1 900
+M 0 904 1 902
+O 0 901 1 903
+M 0 905 1 907
+G 1 928 1
+G 1 929 1
+G 1 906 1
+G 1 912 1
+G 1 915 1
+M 0 903 1 909
+G 1 904 1
+G 1 905 1
+G 1 907 1
+G 1 908 1
+G 1 909 1
+G 1 910 1
+G 1 911 1
+G 1 913 1
+G 1 913 1
+G 1 914 1
+M 0 906 1 911
+G 1 918 1
+G 1 916 1
+G 1 917 1
+O 0 903 1 912
+O 0 920 1 914
+P 0 913 1 0
+P 1 921 1 0
+O 0 924 1 914
+M 0 902 1 916
+M 0 910 1 916
+M 0 909 1 916
+M 0 911 1 916
+M 0 908 1 916
+M 0 901 1 918
+O 1 902 1 919
+M 1 907 1 920
+O 1 22 1 920
+O 0 457 1 914
+O 0 45370 1 912
+O 0 49805 1 912
+S
+
+
+#SHOPS
+ 903    0  0  0  0  0   120  90         0 23    ; Sephiroth
+ 905    0  0  0  0  0   120  90         0 23    ; Weapons guy
+ 906    0  0  0  0  0   120  90         0 23    ; An old traper
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  904 spec_cast_adept
+S
+
+
+#$

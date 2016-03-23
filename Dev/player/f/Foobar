@@ -1,0 +1,51 @@
+#PLAYER
+Version      3
+Name         Foobar~
+Description  ~
+Sex          1
+Class        21
+Race         0
+Languages    1 1
+Level        2
+Played       181
+Room         6553
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   11 26 102 109 113 113
+Gold         0
+Exp          2000
+Height          71
+Weight          148
+Act          536872520
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Password     FokKtzY4ufcX2~
+Title         the Footpad~
+Lastname (null)~
+Flags        65540
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 14 14 16 12 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 48 10
+Site         (Link-Dead)
+i3invis	0
+End
+
+#END

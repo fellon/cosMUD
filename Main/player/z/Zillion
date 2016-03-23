@@ -1,0 +1,305 @@
+#PLAYER
+Version      3
+Name         Zillion~
+Description  Zillion is a beautiful hot babe, just like all other woman in this mud.
+She has long blond hairs and sparkling blue eyes.
+She seems fairly confident about herself which makes you wonder how
+strong she really is.
+~
+Sex          2
+Class        7
+Race         0
+Species      2
+Languages    131075 1
+Level        52
+Played       290140
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   956 576 609 416 863 763
+Gold         211771
+Exp          181841346
+Height          62
+Weight          140
+Act          637535816&4
+AffectedBy   98346
+Position     104
+Style     2
+Practice     122
+SavingThrows 0 0 0 0 -6
+Alignment    950
+Favor	       2500
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      6
+Damroll      0
+Armor        52
+Wimpy        100
+ICEListen (null)~
+Mentalstate  0
+Password     Zi2YutR2ICDec~
+Title         the Seeker~
+Extraname  Miss~
+Lastname  Brightmoon~
+AuthedBy     Marten~
+Prompt       &B(&R%A &G%h&B/&G%H&B-&C%m&B/&C%M&B-&c%a&B) &w~
+FPrompt	     &B(&R%A &G%h&B/&G%H&B-&C%m&B/&C%M&B-&c%c&B) &w~
+Deity	     Tyr~
+Flags        98560
+PKills       0
+PDeaths      0
+MKills       952
+MDeaths      12
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 11 16 12 12 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 19 9 62
+Site         213.224.144.148
+Spell        19 'aqua breath'
+Spell        90 'armor'
+Spell        86 'bless'
+Spell        90 'blindness'
+Spell        54 'cancelation'
+Spell        19 'cause critical'
+Spell        95 'cause serious'
+Spell        59 'charm person'
+Spell        95 'chill touch'
+Spell        57 'continual light'
+Spell        77 'create food'
+Spell        93 'create spring'
+Spell        64 'create water'
+Spell        75 'cure light'
+Spell        91 'detect hidden'
+Spell        95 'detect invis'
+Spell        21 'detect magic'
+Spell        19 'dispel magic'
+Spell        90 'earthquake'
+Spell        46 'enchant weapon'
+Spell        72 'energy drain'
+Spell        95 'faerie fire'
+Spell        81 'flight'
+Spell        81 'float'
+Spell        95 'harm'
+Spell        85 'helical flow'
+Spell        90 'identify'
+Spell        76 'inner warmth'
+Spell        95 'invis'
+Spell        90 'lightning bolt'
+Spell        67 'locate object'
+Spell        95 'nostrum'
+Spell        58 'pass door'
+Spell        90 'poison'
+Spell        19 'refresh'
+Spell        19 'remove invis'
+Spell        95 'sanctuary'
+Spell        95 'scorching surge'
+Spell        90 'shield'
+Spell        90 'shocking grasp'
+Spell        35 'sleep'
+Spell        95 'spiral blast'
+Spell        75 'stone skin'
+Spell        73 'weaken'
+Spell        95 'word of recall'
+Skill        42 'aid'
+Skill        19 'cook'
+Skill        90 'cuff'
+Skill        80 'dual wield'
+Skill        75 'enhanced damage'
+Skill        95 'fourth attack'
+Skill        95 'fourth cast'
+Skill        90 'hide'
+Skill        90 'kick'
+Skill        68 'meditate'
+Skill        95 'parry'
+Skill        19 'rescue'
+Skill        85 'scan'
+Skill        26 'search'
+Skill        33 'second attack'
+Skill        95 'second cast'
+Skill        75 'sneak'
+Skill        66 'third attack'
+Skill        95 'third cast'
+Skill        83 'trance'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       45 'long blades'
+Weapon       90 'pugilism'
+Weapon       85 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'elvish'
+Tongue       99 'halfling'
+AffectData   'detect hidden' 101   0  26 32
+AffectData   'detect invis' 102   0  26 8
+AffectData   'invis' 437   0   0 2
+AffectData   'sneak' 1051   0  26 32768
+AffectData   'stone skin' 1125 -40  17 0
+AffectData   'bless' 1126   6  18 0
+AffectData   'bless' 1126  -6  24 0
+Killed       24819 1
+Killed       24820 1
+Killed       14747 1
+Killed       14737 1
+Killed       14739 4
+Killed       14738 1
+Killed       14732 1
+Killed       263 1
+Killed       260 1
+Killed       262 2
+Killed       14729 1
+Killed       14741 2
+Killed       14742 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      1
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      2
+Level        11
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        26
+Cost         0
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         42921
+WearLoc      13
+Level        25
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         100014
+WearLoc      16
+Level        35
+Values       12 9 30 0 0 0
+End
+
+#OBJECT
+Vnum         100014
+Level        38
+Values       12 11 33 0 0 0
+End
+
+#OBJECT
+Vnum         2801
+Level        37
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2801
+WearLoc      4
+Level        38
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14732
+WearLoc      0
+Level        49
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+WearLoc      6
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        42
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+WearLoc      5
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         46922
+WearLoc      10
+Level        51
+Values       12 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         12504
+WearLoc      18
+Level        50
+Values       12 14 44 3 0 0
+End
+
+#OBJECT
+Vnum         46028
+WearLoc      3
+Level        47
+Values       20 20 0 0 0 0
+End
+
+#END

@@ -1,0 +1,34 @@
+Name		   Newhell~
+Owner		   None~
+Coder		    Ashden~
+Status		   No update.~
+Date		   Thu Sep 12 16:53:03 2002~
+Description         Andy and I have been assigned to build the new hell, which will offer
+our naughty players a great deal of *cough* comfort *sigh*.
+~
+Log
+Sender Ashden~
+Date Thu Sep 12 19:35:26 2002~
+Subject To Andy~
+Text Andy, i have decided to actually start building. Prage gave me an idea.
+He suggested we should make a mob that hunts people, not to kill them,
+only teasing. So i used the vnums from 25110 to 25126 to make a "hunting
+area"
+~
+Endlog
+Log
+Sender Ashden~
+Date Thu Sep 12 19:39:23 2002~
+Subject Map of the "hunting area"~
+Text [25115]-[25111]-[25116]
+     |     /     |     \     |
+[25114]-[25110]-[25112]
+     |     \     |     /     |
+[25118]-[25113]-[25117]
+ 
+Each room is named after it's position (Central room, Northen room ... )
+Each room, except 25110 has an exit leading up to a room with a vnum
+range from 25119 to 25126.
+~
+Endlog
+End

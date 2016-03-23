@@ -1,0 +1,53 @@
+#PLAYER
+Version      3
+Name         Theshadow~
+Sex          1
+Class        0
+Race         9
+Languages    1 1
+Level        2
+Played       8534
+Room         21194
+HpManaMove   30 30 105 105 110 110
+Gold         0
+Exp          1610
+Height          70
+Weight          159
+Act          570426952
+AffectedBy   512
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  -76
+Password     ThsR1zXjMvZM.~
+Title         the Spell Student~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 16 13 14 13 15 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Spell        19 'detect magic'
+Spell        19 'magic missile'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 348   6  18 0
+AffectData   'bless' 348  -6  24 0
+AffectData   'armor' 175 -20  17 0
+End
+
+#END

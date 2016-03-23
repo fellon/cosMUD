@@ -1,0 +1,69 @@
+#GOLDADJUSTPERCENT 1.00
+#SKILLS
+'fromskill' 'toskill'
+#SPELLS
+'fromspell' 'tospell'
+#AREAFLAGS
+fromflag toflag
+#MOBFLAGS
+fromflag toflag
+#AFFECTED
+fromflag toflag
+#MOBRACE
+fromrace torace
+#MOBCLASS
+fromclass toclass
+#MOBLANGUAGE
+fromlang tolang
+#MOBPOSITIONS
+frompos topos
+#SECTORTYPES
+fromsector tosector
+#BODYPARTS
+frompart topart
+#RISFLAGS
+fromris toris
+#MOBATTACKS
+fromattack toattack
+#MOBDEFENSES
+fromdefense todefense
+#OBJTYPES
+fromtype totype
+#OBJFLAGS
+fromflag toflag
+#WEARFLAGS
+fromflag toflag
+#CONTAINTERFLAGS
+fromflag toflag
+#OBJWEARLAYERLAGS
+fromflag toflag
+#LIQUIDTYPES
+fromliquid toliquid
+#HERBS
+fromherb toherb
+#TRAPTRIGGERS
+fromtrig totrig
+#TRAPTYPES
+fromtraptype totraptype
+#TRAPFLAGS
+fromtrapflag totrapflag
+#WEAPONTYPES
+fromtype totype
+#OBJAPPLYTYPES
+fromapply toapply
+#ROOMFLAGS
+fromflag toflag
+#ROOMEXITDIRS
+fromdir todir
+#ROOMEXITFLAGS
+fromflag toflag
+#SPECIALFUNCTIONS
+fromspec tospec
+#WEARLOCATIONS
+fromloc toloc
+#PROGTRIGGERS
+fromtrig totrig
+#PROGCOMMANDS
+fromcmd tocmd
+#END
+

@@ -1,0 +1,130 @@
+#PLAYER
+Version      3
+Name         Oracle~
+Description  ~
+Sex          1
+Class        14
+Race         11
+Species      1
+Languages    1 1
+Level        3
+Played       9026
+Room         21113
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -10 46 130 130 122 126
+Gold         4882
+Exp          12751
+Height          64
+Weight          108
+Act          570426968
+AffectedBy   16876032
+Position     101
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    -250
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        10
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     OrYvLIvlz3.pw~
+Title         the Filcher~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       16
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     12 14 14 15 13 9 17
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 20 13
+Site         207.202.214.132
+Skill        22 'backstab'
+Skill        17 'kick'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'forcefield' 1125 -50  17 0
+AffectData   'fog' 1127   0  26 32768
+AffectData   'fog' 1127   0  26 65536
+AffectData   'barkskin' 1129 -20  17 0
+AffectData   'holy armor' 1131 -20  17 0
+Killed       10345 1
+Killed       10344 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   524804
+Level        4
+Values       12 7 14 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24884
+Level        27
+Values       12 7 25 3 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#END

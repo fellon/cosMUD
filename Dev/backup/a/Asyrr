@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Asyrr~
+Description  ~
+Sex          1
+Class        17
+Race         20
+Species      8
+Languages    1 1
+Level        8
+Played       14604
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   172 172 217 217 191 191
+Gold         32887
+Exp          437776
+Height          104
+Weight          751
+Act          536872536
+AffectedBy   512
+Position     106
+Style     2
+Practice     13
+SavingThrows 0 0 0 0 0
+Alignment    395
+Favor	       67
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        25
+ICEListen (null)~
+Mentalstate  0
+Password     AsHMVVVbEM9kA~
+Title         the Page~
+Lastname  Horseyfoot~
+AuthedBy     Prage~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       87
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 14 15 11 16 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 18
+Site         63.169.107.252
+Spell        22 'create water'
+Skill        90 'dual wield'
+Skill        60 'kick'
+Skill        26 'scan'
+Skill        18 'search'
+Skill        18 'track'
+Weapon       18 'long blades'
+Weapon       40 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 481 -20  17 0
+Killed       2071 1
+Killed       2471 1
+i3invis	0
+End
+
+#END

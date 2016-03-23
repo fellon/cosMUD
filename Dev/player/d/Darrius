@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Darrius~
+Sex          2
+Class        0
+Race         10
+Languages    1 1
+Level        2
+Played       4830
+Room         10308
+HpManaMove   31 31 125 125 110 110
+Gold         0
+Exp          2343
+Height          76
+Weight          156
+Act          570426952
+AffectedBy   8
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -61
+Password     Daz3yHcTEWp3Q~
+Title         the Spell Student~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 16 11 15 11 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Spell        19 'black hand'
+Spell        19 'magic missile'
+Tongue       100 'common'
+Tongue       100 'gith'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

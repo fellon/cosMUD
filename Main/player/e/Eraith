@@ -1,0 +1,98 @@
+#PLAYER
+Version      3
+Name         Eraith~
+Sex          1
+Class        6
+Race         1
+Languages    1 1
+Level        4
+Played       30195
+Room         21000
+HpManaMove   59 60 122 122 130 130
+Gold         18247
+Exp          31022
+Height          63
+Weight          108
+Act          570426970
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -390
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  -1
+Password     Er3R2E5Y04IJ2~
+Title         the Scout Master~
+AuthedBy     Cyph~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       57
+MDeaths      1
+IllegalPK    0
+AttrPerm     15 14 13 15 11 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 17 10
+Site         62.7.144.84
+Skill        90 'kick'
+Weapon       18 'flexible arms'
+Weapon       18 'long blades'
+Weapon       18 'pugilism'
+Weapon       18 'short blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10303 9
+Killed       10302 11
+Killed       10301 11
+End
+
+#OBJECT
+Vnum         21017
+Values       10 7 10 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+WearLoc      21
+Values       10 2 5 14 1 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#MOBILE
+Vnum	21059
+Room	21000
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Eraith'.
+~
+Position 12
+Flags 259
+EndMobile
+#END

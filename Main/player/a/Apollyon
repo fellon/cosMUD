@@ -1,0 +1,211 @@
+#PLAYER
+Version      3
+Name         Apollyon~
+Description  ~
+Sex          0
+Class        0
+Race         0
+Species      2
+Languages    1572871 1
+Level        58
+Played       225064
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   629 629 810 432 841 841
+Gold         5325967
+Exp          232738553
+Height          65
+Weight          159
+Act          570426952
+AffectedBy   8
+Position     104
+Style     2
+Practice     135
+SavingThrows 0 0 0 0 -6
+Alignment    -399
+Favor	       579
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        -10
+Wimpy        50
+ICEListen (null)~
+Mentalstate  0
+Password     ApCQ05Z44qs.Y~
+Title         the Magus~
+Lastname  Of Souls~
+AuthedBy     Andy~
+Deity	     Soleran~
+Flags        98304
+PKills       1
+PDeaths      0
+MKills       1115
+MDeaths      29
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     11 14 14 14 14 13 12
+AttrMod      4 0 0 0 4 -2 0
+Condition    0 7 20 68
+Site         213.154.157.18
+Spell        81 'acid blast'
+Spell        19 'antimagic shell'
+Spell        19 'aqua breath'
+Spell        95 'armor'
+Spell        19 'black fist'
+Spell        19 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        19 'blazeward'
+Spell        19 'blindness'
+Spell        95 'blur'
+Spell        19 'burning hands'
+Spell        19 'cancelation'
+Spell        95 'caustic fount'
+Spell        53 'charm person'
+Spell        91 'chill touch'
+Spell        19 'colour spray'
+Spell        73 'continual light'
+Spell        30 'control weather'
+Spell        19 'create fire'
+Spell        95 'create spring'
+Spell        19 'curse'
+Spell        84 'demonskin'
+Spell        95 'detect invis'
+Spell        22 'detect magic'
+Spell        19 'detect traps'
+Spell        21 'dispel magic'
+Spell        19 'disruption'
+Spell        95 'dragon wit'
+Spell        90 'dragonskin'
+Spell        50 'dream'
+Spell        91 'eldritch sphere'
+Spell        36 'elven beauty'
+Spell        53 'enchant weapon'
+Spell        95 'energy drain'
+Spell        19 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        68 'ethereal shield'
+Spell        29 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        23 'faerie fog'
+Spell        40 'farsight'
+Spell        19 'feather fall'
+Spell        95 'fireball'
+Spell        55 'flight'
+Spell        21 'float'
+Spell        19 'galvanic whip'
+Spell        19 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        23 'infravision'
+Spell        55 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        19 'knock'
+Spell        26 'know alignment'
+Spell        35 'lightning bolt'
+Spell        84 'liquid skin'
+Spell        93 'locate object'
+Spell        19 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        19 'mass invis'
+Spell        79 'ogrish hide'
+Spell        95 'pass door'
+Spell        95 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'refresh'
+Spell        33 'remove invis'
+Spell        19 'remove trap'
+Spell        82 'sagacity'
+Spell        46 'scry'
+Spell        91 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        19 'sleep'
+Spell        62 'slink'
+Spell        19 'sonic resonance'
+Spell        19 'spectral furor'
+Spell        94 'stone skin'
+Spell        88 'summon'
+Spell        19 'swordbait'
+Spell        63 'teleport'
+Spell        19 'transport'
+Spell        95 'trollish vigor'
+Spell        35 'true sight'
+Spell        68 'valiance'
+Spell        47 'ventriloquate'
+Spell        22 'weaken'
+Spell        19 'winter mist'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        19 'brew'
+Skill        60 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        19 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        68 'meditate'
+Skill        20 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        19 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       9 'dwarven'
+Tongue       9 'elvish'
+Tongue       9 'gith'
+Tongue       9 'gnome'
+AffectData   'detect invis' 246   0  26 8
+AffectData   'shield' 292 -20  17 0
+AffectData   'stone skin' 235 -40  17 0
+AffectData   'trollish vigor' 347  -1  25 0
+AffectData   'trollish vigor' 347   4   5 0
+AffectData   'kindred strength' 348   4   1 0
+AffectData   'bless' 413   6  18 0
+AffectData   'bless' 413  -6  24 0
+AffectData   'armor'  59 -20  17 0
+AffectData   'ogrish hide' 524  -1  25 0
+AffectData   'ogrish hide' 524 -30  17 0
+Killed       42938 1
+Killed       42915 1
+Killed       14708 2
+Killed       14705 1
+Killed       14701 2
+Killed       5101 1
+Killed       2811 1
+Killed       2807 2
+Killed       2803 1
+Killed       2103 1
+Killed       2108 2
+Killed       42945 2
+Killed       601 1
+Killed       8105 1
+Killed       8100 1
+i3invis	0
+End
+
+#ALIAS
+Name     :~
+Commands supplicate uplift~
+End
+
+#END

@@ -1,0 +1,216 @@
+#PLAYER
+Version      3
+Name         Kewulf~
+Description  ~
+Sex          1
+Class        18
+Race         10
+Languages    1 1
+Level        15
+Played       63770
+Room         1514
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   139 245 149 287 282 282
+Gold         274973
+Exp          4053906
+Height          71
+Weight          131
+Act          570426952
+AffectedBy   8
+Position     112
+Style     2
+Practice     15
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  0
+Password     Ke11lYIZb3bOk~
+Title         the Mystic~
+Lastname ~
+AuthedBy     Marten~
+Deity	     Soleran~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       516
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     13 14 14 17 10 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 16 9 24
+Site         207.202.214.132
+Spell        72 'armor'
+Spell        19 'cause serious'
+Spell        95 'chill touch'
+Spell        19 'continual light'
+Spell        95 'create food'
+Spell        73 'create spring'
+Spell        19 'create water'
+Spell        19 'cure light'
+Spell        90 'lightning bolt'
+Spell        90 'shocking grasp'
+Spell        19 'weaken'
+Skill        80 'dual wield'
+Skill        90 'kick'
+Skill        19 'scan'
+Skill        19 'search'
+Weapon       95 'long blades'
+Weapon       85 'short blades'
+Tongue       100 'common'
+Tongue       100 'gith'
+Killed       1532 1
+Killed       1503 3
+Killed       1531 1
+Killed       1505 8
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21073
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        7
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         60909
+Level        10
+Values       20 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Vnum         21072
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      18
+Level        11
+Values       10 5 15 3 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        12
+Values       10 5 14 3 0 0
+End
+
+#END

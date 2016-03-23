@@ -1,0 +1,843 @@
+#AREA   New Hell~
+
+
+
+#VERSION 1
+#AUTHOR Andy/Ashden~
+
+#RANGES
+0 0 101 116
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 29246310
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#25100
+First mob~
+a newly created First mob~
+Some god abandoned a newly created First mob here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#25101
+lucifer shopkeeper~
+Lucifer~
+Lucifer is here offering you his cookies.
+~
+~
+67108865 680 -1000 C
+105 0 0 0d0+0 0d0+0
+100000 0
+108 112 0
+25 13 13 13 13 13 13
+0 0 0 0 0
+0 10 0 0 1 1 0
+50 50 65536 0 0 0 268435456 0
+> rand_prog 100~
+remove cookie
+~
+> all_greet_prog 100~
+if name($n) == Andy
+grovel andy
+say hello master, would you like a cookie?
+else
+if isimmort($n)
+grovel $n
+say hello it is nice to have an immortal arround here somtimes.
+else
+say hello $n would you like a cookie?
+endif
+endif
+~
+> rand_prog 1~
+say Hello $n, please enjoy your stay at hell.
+~
+|
+#25102
+Dracula~
+Dracula~
+Count Dracula is here, searching for some fresh blood ...
+~
+~
+131073 4194984 -1000 C
+105 0 -300 0d0+0 0d0+0
+0 0
+108 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+5 0 0 0 1 0 0
+56 58 262144 0 3207 0 2081 3
+> all_greet_prog 100~
+'Big missstake, my little bag of freshhh blood ...
+es
+~
+> fight_prog 100~
+grasp $n
+c chill $n
+feed
+bite
+~
+|
+#25103
+bartender man~
+a bartender~
+A bartender is here, ready to deliver &Rdeath&P.
+~
+~
+67108865 552 0 C
+105 0 -295 0d0+0 0d0+0
+0 0
+108 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 14 0 0 1 1 0
+67 65 0 0 0 0 0 0
+> all_greet_prog 100~
+if isimmort($n)
+bow $n
+'How can i serve you ?
+else
+eh $n
+'Need a drink ?
+es
+endif
+~
+> act_prog p sits on~
+yell hey $n what do you think your doing?!
+yell get the hell off my bar right now!
+mpforce $n say okay calm down sheesh
+mpforce $n stand
+thank $n
+say ok, what can i get ya?
+~
+> speech_prog whiskey~
+,gets a bottle of whiskey from a bar.
+mpoload 25106
+give bott $n
+'That will be 10000 gold.
+grin
+~
+> bribe_prog 1~
+'Nice doing buisness with you, $n !
+'Now get the hell out of my bar !
+grin $n
+~
+|
+#25104
+Hunter~
+The hunter~
+&zA hunter is here, hunting you.
+~
+~
+1 0 0 C
+80 0 -300 0d0+0 0d0+0
+1230 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+30 0 0 0 1 1 0
+70 65 0 0 0 0 0 0
+> rand_prog 30~
+say wuss, why dont you fight me?
+if rand(1)
+say to late im gonna fight you!
+if isfight($n)
+nm
+else
+say DIE!!!!
+hitall
+c spiral
+c earth
+c black
+endif
+endif
+~
+|
+#25105
+lava man ~
+lava man~
+A pool of lava boils around you.
+~
+~
+1 680 0 C
+105 0 -300 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 0 0 0
+85 65 0 0 0 0 256 2
+#25199
+Last mob~
+a newly created Last mob~
+Some god abandoned a newly created Last mob here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#0
+
+
+#OBJECTS
+#25100
+newhell board~
+Newhell Board~
+The Newhell Board hangs here.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#25101
+beer bottle~
+a bottle of beer~
+A small bottle, tipped on its side, drips on the ground.~
+~
+17 0 16385
+5 5 1 0
+1 100 10
+#25102
+Lucifer's pitch fork~
+Lucifer's fork~
+Lucifer droped his fork here.~
+~
+5 0 8193
+0 20 50 0
+10000 100000000 10000000
+A
+18 50
+A
+19 70
+A
+17 -1000
+A
+53 100
+A
+30 302
+A
+30 82
+#25103
+Yummy cookie~
+a tasty looking cookie~
+A cookie from hell is here.~
+~
+19 -2147483647 16385
+1 0 0 2
+1 100 10
+#25104
+sugar cookie~
+A tasty sugar cookie~
+A sugar cookie from the kitchen of lucifer is here!~
+~
+19 8192 4210689
+-1 0 0 2
+1 120 12
+> use_prog 100~
+if ispc($n)
+c change $n
+mpdamage $n 20
+else
+eh
+endif
+~
+|
+#25105
+A bar~
+A bar~
+A bar with many kinds of drinks on it is here.~
+~
+12 0 0
+20 0 17 0
+1 0 0
+#25106
+Bottle whiskey~
+&zA bottle of &Bwh&bis&Bke&by~
+&zA bottle of &Bw&bh&Bi&bs&Bk&be&By &p is ready to &rint&Rox&rica&Rte &Gits drinker.~
+~
+17 0 0
+10000 10000 9 0
+1 120 12
+#25107
+bottle of ale~
+&cA &PBottle &rOf &BAle~
+&rA &Rbottle &Bof &cA&Bl&be &Pis &zhere~
+~
+17 0 16385
+100 100 13 0
+1 500 50
+> use_prog 100~
+mpech $n drinks blood from A &PBottle &rOf &BAle
+mpforce $n bah
+mpforce $n say no wonder they call this this is the bar from hell!!!
+mpforce $n say NO ALCOHAL!!!
+cackle
+~
+|
+#25108
+Refridgerator fridge~
+A &zfridge~
+&RLucifer's &Brefridgerator &Pis here~
+~
+12 0 0
+0 0 0 0
+1 0 0
+> exa_prog 100~
+mpforce $n eek
+mpforce $n yell my god there is a refridgerator here with no food
+mpforce $n yell what is this world coming to
+~
+|
+#25109
+test~
+a newly created test~
+Some god dropped a newly created test here.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+#25110
+water bed~
+&Pa pink water bed~
+&PA pink water bed is in the corner on the room~
+~
+12 0 0
+1 50 1168 0
+1 15000 150000
+#25111
+Lucifer's dresser~
+&BLucifer's Dresser~
+&RLucifer's dresser is here beside you.~
+~
+15 0 0
+10000 0 0 0
+1 0 0
+> rand_prog 5~
+if ispc ($n)
+if is immort($n)
+else
+mpecho The dresser falls over ....
+mpdamage $n 10
+endif
+endif
+~
+> rand_prog 100~
+if ovnumcarry(25112) < 1
+mpoload 25112
+take shirt
+put shirt dresser
+endif
+~
+|
+#25112
+Lucifer's Shirt~
+&RLucifer&z'&Rs &BShirt~
+Some god dropped a newly created Lucifer's Shirt here.~
+~
+9 4097 9
+-100 0 0 0
+1 10323 1032
+A
+26 4096
+A
+26 1024
+A
+18 -5
+A
+19 -5
+#25113
+claw~
+Dracula's claw~
+A famous vampire's claw is here.~
+~
+5 83 8193
+0 10 10 0
+1 0 0
+A
+2 3
+A
+1 5
+A
+26 128
+#25114
+lava club~
+lava club~
+A club made of lava lies here.~
+~
+5 64 8193
+0 20 50 0
+1 0 0
+A
+30 65
+#25199
+Last object~
+a newly created Last object~
+Some god dropped a newly created Last object here.~
+~
+13 1073741824 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#25100
+Lucifer's office~
+Welcome to &RHell&Y !
+~
+0 1109401604 1
+S
+#25101
+&RLucifer's lair...~
+&RYou stand in a red room lucifer is in the corner brandishing his pitch
+fork and makeing up a fresh batch of sugar cookies for the inmates
+pleasure.
+~
+0 1107304448 1
+D6
+~
+~
+0 -1 25102
+S
+#25102
+Dracula's hangout~
+Like the famous vampire says, this is a huge mistake. The surroundings
+give you the creeps. And this ugly looking vampire doesn't look very
+friendly.
+~
+0 1107304448 1
+D1
+~
+~
+0 -1 25103
+D3
+~
+~
+0 -1 25104
+D5
+~
+~
+0 -1 25110
+D7
+~
+~
+0 -1 25105
+D9
+~
+~
+0 -1 25101
+S
+#25103
+&RThe &rKitchen~
+&cYou are in deaths kitchen where he bakes his cookies, his stove is in the
+corner of the room and there is a fridge right in the middle of the room
+~
+0 1107304448 1
+D3
+~
+~
+0 -1 25102
+D10
+~
+Refridgerator~
+526345 -1 25106
+S
+#25104
+&BThe &btavern &Bfrom &Rh&re&Rl&rl~
+You stand in the hell's bar. This room is very hot and here, you might
+find something to cool you down. Near the bar you see a pool of boiling
+lava, used for brewing the drinks. Eww ...
+~
+0 1107304448 1
+D1
+~
+~
+0 -1 25102
+S
+#25105
+&PLucifer's pretty pink bedroom~
+Now here's a bedroom in which you &Rdon't&Y want to sleep in. A bed
+made of skulls, a huge iris instead of a mirror, any more comments ?
+~
+0 1107304448 1
+D8
+~
+~
+0 -1 25102
+S
+#25106
+Room of &RC&ro&Rn&rf&Ru&rs&Ri&ro&Rn~
+You are in a nice and cozy room. In the middle of the room is a bed
+and by the bed, you see a book shelf and a table. This looks pretty
+comfortable. The question is : Is this real ?
+~
+0 1107304452 1
+D0
+~
+~
+0 -1 25107
+> entry_prog 100~
+mpmload 25102
+mpforce dracula c hyper $n
+mpforce dracula c hyper $n
+mpforce dracula c hyper $n
+mppurge dracula
+~
+|
+S
+#25107
+Another room in hell~
+Same dark, creepy, hot rooms. By the looks of it, you might not get
+out of this place alive. You are at the mercy of the gods and if they
+got you here ...
+~
+0 1107304452 1
+D2
+~
+~
+0 -1 25106
+S
+#25108
+Floating in a void~
+~
+0 1107304452 1
+S
+#25109
+Floating in a void~
+~
+0 1107304452 1
+S
+#25110
+Center room~
+~
+0 1107304452 1
+D0
+~
+~
+0 -1 25111
+D1
+~
+~
+0 -1 25112
+D2
+~
+~
+0 -1 25113
+D3
+~
+~
+0 -1 25114
+S
+#25111
+Northen room~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 25116
+D2
+~
+~
+0 -1 25110
+D3
+~
+~
+0 -1 25115
+D4
+~
+~
+0 -1 25119
+D8
+~
+~
+0 -1 25112
+D9
+~
+~
+0 -1 25114
+S
+#25112
+Eastern room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 25116
+D2
+~
+~
+0 -1 25117
+D3
+~
+~
+0 -1 25110
+D4
+~
+~
+0 -1 25121
+D7
+~
+~
+0 -1 25111
+D9
+~
+~
+0 -1 25113
+S
+#25113
+Southern room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 25110
+D1
+~
+~
+0 -1 25117
+D3
+~
+~
+0 -1 25118
+D4
+~
+~
+0 -1 25123
+D6
+~
+~
+0 -1 25112
+D7
+~
+~
+0 -1 25114
+S
+#25114
+Western room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 25115
+D1
+~
+~
+0 -1 25110
+D2
+~
+~
+0 -1 25118
+D4
+~
+~
+0 -1 25125
+D6
+~
+~
+0 -1 25111
+D8
+~
+~
+0 -1 25113
+S
+#25115
+Northwestern room~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 25111
+D2
+~
+~
+0 -1 25114
+D4
+~
+~
+0 -1 25126
+S
+#25116
+Northeastern room~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 25112
+D3
+~
+~
+0 -1 25111
+D4
+~
+~
+0 -1 25120
+S
+#25117
+Southeastern room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 25112
+D3
+~
+~
+0 -1 25113
+D4
+~
+~
+0 -1 25122
+S
+#25118
+Southwestern room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 25114
+D1
+~
+~
+0 -1 25113
+D4
+~
+~
+0 -1 25124
+S
+#25119
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25111
+S
+#25120
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25116
+S
+#25121
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25112
+S
+#25122
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25117
+S
+#25123
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25113
+S
+#25124
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25118
+S
+#25125
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25114
+S
+#25126
+Upper room~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 25115
+S
+#25199
+Last Room~
+~
+0 1109401604 1
+S
+#0
+
+
+#RESETS
+M 0 25101 1 25101
+G 1 25104 1
+G 1 25103 1
+E 1 25102 1 16
+E 1 25101 1 17
+M 1 25103 1 25104
+G 1 25107 1
+G 1 25106 1
+O 1 25105 1 25104
+O 0 25108 1 25103
+O 1 25110 1 25105
+O 1 25111 1 25105
+O 0 25111 1 25105
+M 1 25102 1 25102
+E 1 25113 1 16
+O 1 25100 1 25100
+M 0 25104 1 25110
+M 0 25104 1 25126
+M 0 25104 1 25115
+M 1 25105 1 25111
+E 1 25114 1 16
+E 1 25114 1 18
+S
+
+
+#SHOPS
+ 25101    0  0  0  0  0   120  90         0 23    ; Lucifer
+ 25103    0  0  0  0  0   120  90         0 23    ; a bartender
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

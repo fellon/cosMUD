@@ -1,0 +1,59 @@
+#PLAYER
+Version      3
+Name         Therin~
+Description  ~
+Sex          1
+Class        30
+Race         53
+Species      0
+Languages    1 1
+Level        9
+Played       20068
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   7 179 153 141 124 204
+Gold         83212
+Exp          626104
+Height          67
+Weight          136
+Act          570427000
+Position     112
+Style     2
+Practice     15
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -8
+Password     Thkeeki9g5Cw2~
+Title         the Sharper~
+Lastname  Telamon~
+AuthedBy     Prage~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       217
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 8 8 20 17 8 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 13
+Site         67.217.179.91
+Weapon       17 'pugilism'
+Tongue       100 'common'
+Killed       41429 1
+Killed       41411 1
+Killed       41404 1
+i3invis	0
+End
+
+#END

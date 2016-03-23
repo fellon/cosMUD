@@ -1,0 +1,224 @@
+#PLAYER
+Version      3
+Name         Intifada~
+Description  ~
+Sex          1
+Class        3
+Race         14
+Species      7
+Languages    1 1
+Level        2
+Played       8930
+Room         21446
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   29 29 113 113 113 113
+Gold         2000
+Exp          2000
+Height          48
+Weight          104
+Act          570426968
+AffectedBy   528
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    8
+Susceptible  1
+Mentalstate  0
+Password     InYHjrWQna5R.~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 16 14 12 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 40 20 12
+Site         207.202.214.132
+Skill        17 'enhanced damage'
+Skill        18 'scan'
+Weapon       17 'long blades'
+Tongue       100 'common'
+Tongue       100 'gnome'
+Killed       103 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21063
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        12
+Values       10 6 16 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6001
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6000
+Level        5
+Values       12 2 12 1 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#END

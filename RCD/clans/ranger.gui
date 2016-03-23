@@ -1,0 +1,33 @@
+#CLAN
+Name         Guild of Rangers~
+Filename     ranger.gui~
+Motto        Live free or die.~
+Leader       Nezuke~
+NumberOne    null~
+NumberTwo    Exu~
+PKillRangeNew   0 0 0 0 0 0 0
+PDeathRangeNew  0 0 0 0 0 0 0
+MKills       11098
+MDeaths      107
+IllegalPK    1
+Score        0
+Type         14
+Class        6
+Favour       0
+Strikes      0
+Members      7
+MemLimit     0
+Alignment    0
+Board        60653
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       60658
+Storeroom    60652
+GuardOne     0
+GuardTwo     0
+End
+
+#END

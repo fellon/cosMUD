@@ -1,0 +1,437 @@
+Name        Dragon~
+Class       9
+Attrprime   1
+Alignment   0
+Weapon      10313
+Guild       3039
+Skilladept  99
+Thac0       19
+Thac32      9
+Hpmin       11
+Hpmax       20
+Mana        10
+Expbase     1165
+Skill 'armor' 2 100
+Skill 'cancelation' 4 95
+Skill 'create fire' 4 95
+Skill 'detect magic' 5 95
+Skill 'dispel magic' 18 95
+Skill 'dragon wit' 3 100
+Skill 'dragonskin' 2 100
+Skill 'extradimensional portal' 27 95
+Skill 'faerie fire' 18 100
+Skill 'float' 5 95
+Skill 'locate object' 10 95
+Skill 'poison' 11 95
+Skill 'shield' 2 100
+Skill 'word of recall' 16 95
+Skill 'acid breath' 2 90
+Skill 'aid' 15 75
+Skill 'bash' 46 90
+Skill 'between' 50 95
+Skill 'bite' 6 95
+Skill 'climb' 2 95
+Skill 'clover' 2 95
+Skill 'dig' 2 95
+Skill 'disarm' 58 95
+Skill 'dlick' 45 95
+Skill 'dodge' 2 60
+Skill 'doorbash' 30 95
+Skill 'drowfire' 2 95
+Skill 'dual wield' 2 100
+Skill 'dust' 2 95
+Skill 'enhanced damage' 6 95
+Skill 'fan' 2 95
+Skill 'fifth attack' 40 85
+Skill 'fire breath' 2 95
+Skill 'fly' 2 95
+Skill 'forestwalk' 2 95
+Skill 'fourth attack' 30 90
+Skill 'frost breath' 2 95
+Skill 'gas breath' 2 95
+Skill 'gouge' 80 95
+Skill 'grip' 63 95
+Skill 'jump' 2 95
+Skill 'kick' 2 40
+Skill 'lightning breath' 2 95
+Skill 'lore' 2 90
+Skill 'mount' 2 95
+Skill 'parry' 40 50
+Skill 'peek' 2 60
+Skill 'punch' 2 50
+Skill 'scan' 2 95
+Skill 'search' 2 95
+Skill 'second attack' 10 100
+Skill 'shriek' 50 85
+Skill 'stun' 70 90
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 20 95
+Skill 'track' 13 95
+Skill 'vision' 50 95
+Skill 'bludgeons' 1 50
+Skill 'flexible arms' 1 50
+Skill 'long blades' 1 50
+Skill 'pugilism' 1 80
+Skill 'short blades' 1 50
+Skill 'talonous arms' 1 100
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Title
+Man~
+Woman~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Dragon Hatchling~
+Dragon Hatchling~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Young Dragon~
+Young Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Juvenile Dragon~
+Juvenile Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Young Adult Dragon~
+Young Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Adult Dragon~
+Adult Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Mature Dragon~
+Mature Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Venerable Dragon~
+Venerable Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Ancient Dragon~
+Ancient Dragon~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Wyrm~
+Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Great Wyrm~
+Great Wyrm~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

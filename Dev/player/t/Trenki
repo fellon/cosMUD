@@ -1,0 +1,52 @@
+#PLAYER
+Version      3
+Name         Trenki~
+Sex          1
+Class        2
+Race         3
+Languages    1 1
+Level        2
+Played       2809
+Room         21194
+HpManaMove   25 25 110 110 110 110
+Gold         200
+Exp          1345
+Height          32
+Weight          69
+Act          570426968
+AffectedBy   32772
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -41
+Password     TrEHD.R.i25bI~
+Title         the Footpad~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      1
+IllegalPK    0
+AttrPerm     12 14 13 18 14 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Skill        17 'pick lock'
+Skill        17 'steal'
+Tongue       100 'common'
+Tongue       100 'halfling'
+AffectData   'bless' 597   6  18 0
+AffectData   'bless' 597  -6  24 0
+Killed       10310 2
+End
+
+#END

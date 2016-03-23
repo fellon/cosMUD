@@ -1,0 +1,244 @@
+#PLAYER
+Version      3
+Name         Dvyer~
+Description  ~
+Sex          1
+Class        20
+Race         11
+Species      0
+Languages    5 1
+Level        21
+Played       121170
+Room         6540
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   320 320 517 517 360 360
+Gold         766598
+Exp          9620474
+Height          65
+Weight          117
+Act          570426952
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        15
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     DvC45Le4.Ymwg~
+Title         the Martial Artist~
+Lastname  Na'Skai~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1198
+MDeaths      15
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 14 12 18 12 10 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 46 18 30
+Site         207.202.214.131
+Spell        83 'bless'
+Spell        22 'cure blindness'
+Spell        95 'cure light'
+Spell        24 'cure poison'
+Spell        95 'cure serious'
+Spell        30 'protection'
+Spell        25 'refresh'
+Spell        33 'remove curse'
+Skill        17 'aid'
+Skill        17 'cook'
+Skill        64 'disarm'
+Skill        20 'doorbash'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        95 'kick'
+Skill        95 'meditate'
+Skill        28 'pinch'
+Skill        17 'rescue'
+Skill        45 'scan'
+Skill        26 'search'
+Skill        95 'second attack'
+Skill        95 'spinkick'
+Weapon       95 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       50 'long blades'
+Weapon       95 'pugilism'
+Weapon       60 'short blades'
+Weapon       50 'talonous arms'
+Tongue       100 'common'
+Tongue       45 'dwarven'
+Tongue       100 'elvish'
+AffectData   'bless' 901  -6  24 0
+AffectData   'bless' 901   6  18 0
+AffectData   'armor' 279 -20  17 0
+Killed       2314 3
+Killed       2302 1
+Killed       2303 3
+Killed       20015 1
+Killed       20010 1
+Killed       20011 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21006
+Level        1
+Values       2 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21424
+WearLoc      16
+Level        11
+Values       12 2 14 7 0 0
+End
+
+#OBJECT
+Vnum         21424
+Level        11
+Values       12 4 15 7 0 0
+End
+
+#OBJECT
+Vnum         21019
+Values       2 2 6 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         6504
+WearLoc      18
+Level        19
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         6505
+WearLoc      5
+Level        18
+Values       8 8 0 0 0 0
+End
+
+#END

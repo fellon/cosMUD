@@ -1,0 +1,224 @@
+#PLAYER
+Version      3
+Name         Sorcerer~
+Sex          1
+Class        4
+Race         6
+Languages    1 1
+Level        4
+Played       24659
+Room         10370
+HpManaMove   51 71 98 92 230 130
+Gold         59303
+Exp          67830
+Height          99
+Weight          326
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Resistant    32
+Mentalstate  0
+Password     SoICcFpEi6G0.~
+Title         the Delver in Blood~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       126
+MDeaths      1
+IllegalPK    0
+AttrPerm     14 11 10 13 18 9 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 33 43 2
+Site         193.137.203.232
+Spell        95 'chill touch'
+Spell        19 'float'
+Spell        94 'infravision'
+Skill        95 'feed'
+Skill        95 'hide'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'ogre'
+Killed       10301 2
+Killed       10303 5
+Killed       10300 3
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10324
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10330
+Level        1
+Values       20 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10316
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       9 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      2
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#END

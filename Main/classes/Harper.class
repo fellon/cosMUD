@@ -1,0 +1,451 @@
+Name        Harper~
+Class       19
+Attrprime   3
+Alignment   0
+Weapon      10312
+Guild       3028
+Skilladept  85
+Thac0       18
+Thac32      8
+Hpmin       7
+Hpmax       12
+Mana        1
+Expbase     850
+Skill 'bless' 32 95
+Skill 'bringaround ballad' 56 95
+Skill 'cancelation' 63 95
+Skill 'cat eyes' 55 95
+Skill 'change sex' 83 95
+Skill 'charm person' 55 95
+Skill 'colour spray' 12 95
+Skill 'discord' 1 95
+Skill 'earthsong' 36 95
+Skill 'enchant weapon' 35 95
+Skill 'faerie fire' 9 95
+Skill 'feather fall' 58 95
+Skill 'firesong' 24 95
+Skill 'float' 9 95
+Skill 'forcefield' 90 95
+Skill 'fortissimmo' 20 95
+Skill 'hand of chaos' 42 95
+Skill 'haste' 95 95
+Skill 'leprechaun fortune' 43 95
+Skill 'pianissimmo' 22 95
+Skill 'quickfire' 70 95
+Skill 'riversong' 31 95
+Skill 'visitation' 77 95
+Skill 'windsong' 13 95
+Skill 'witherfist' 74 95
+Skill 'word of recall' 17 95
+Skill 'aid' 18 70
+Skill 'bandage' 42 95
+Skill 'bash' 49 60
+Skill 'climb' 2 85
+Skill 'clover' 2 90
+Skill 'cook' 1 95
+Skill 'detrap' 16 85
+Skill 'dig' 2 90
+Skill 'disarm' 10 90
+Skill 'dodge' 2 95
+Skill 'drowfire' 2 85
+Skill 'dual wield' 2 70
+Skill 'dust' 2 95
+Skill 'enhanced damage' 44 55
+Skill 'fly' 2 95
+Skill 'focus' 68 95
+Skill 'forestwalk' 2 95
+Skill 'fourth attack' 47 30
+Skill 'fourth cast' 33 95
+Skill 'hide' 1 85
+Skill 'jump' 2 95
+Skill 'kick' 2 40
+Skill 'knee' 15 70
+Skill 'lore' 2 50
+Skill 'meditate' 35 95
+Skill 'mount' 2 85
+Skill 'peek' 2 60
+Skill 'pick lock' 1 95
+Skill 'pigeon' 30 95
+Skill 'pinch' 61 95
+Skill 'punch' 2 50
+Skill 'scan' 2 90
+Skill 'search' 2 85
+Skill 'second attack' 10 90
+Skill 'second cast' 10 95
+Skill 'sneak' 1 95
+Skill 'steal' 1 95
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 33 70
+Skill 'third cast' 20 95
+Skill 'track' 15 85
+Skill 'tumble' 46 95
+Skill 'bludgeons' 1 40
+Skill 'flexible arms' 1 95
+Skill 'long blades' 1 80
+Skill 'pugilism' 1 85
+Skill 'short blades' 1 95
+Skill 'talonous arms' 1 80
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Skill 'orcish' 1 99
+Skill 'pixie' 1 99
+Skill 'trollese' 1 99
+Title
+Man~
+Woman~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Apprentice Harper~
+Apprentice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Novice Harper~
+Novice Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Journeyman Harper~
+Journeyman Harper~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Gleeman~
+Gleeman~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Bard~
+Bard~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Harper~
+Harper~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Spellsinger~
+Spellsinger~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Conductor~
+Conductor~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Adept Harper~
+Adept Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Master Harper~
+Master Harper~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

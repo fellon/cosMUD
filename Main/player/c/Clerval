@@ -1,0 +1,204 @@
+#PLAYER
+Version      3
+Name         Clerval~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      2
+Languages    1 1
+Level        3
+Played       12870
+Room         10382
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   32 39 112 112 226 126
+Gold         4849
+Exp          15346
+Height          63
+Weight          138
+Act          570426968
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Deaf         2
+ICEListen (null)~
+Mentalstate  -6
+Password     ClSm//uma8U9A~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       31
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 12 15 14 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 13
+Site         207.202.214.132
+Spell        44 'magic missile'
+Spell        19 'weaken'
+Skill        19 'search'
+Weapon       19 'long blades'
+Tongue       100 'common'
+AffectData   'bless'  48   6  18 0
+AffectData   'bless'  48  -6  24 0
+Killed       10303 1
+Killed       10344 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flask potion quantum spike~
+ShortDescr   a quantum spike potion~
+Description  A strange potion labelled 'quantum spike' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       66 171 -1 -1 0 0
+Spell 1      'quantum spike'
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

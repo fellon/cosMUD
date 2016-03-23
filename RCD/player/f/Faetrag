@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Faetrag~
+Sex          1
+Class        16
+Race         5
+Species      4
+Languages    1 1
+Level        5
+Played       5050
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1 94 118 118 103 152
+Gold         4095
+Exp          94297
+Height          60
+Weight          145
+Act          536872536
+AffectedBy   512
+Position     106
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Password     SppBJO9fJXiNU~
+Title         the Medium of Magic~
+Lastname (null)~
+AuthedBy     Fairburn~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       39
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 11 14 15 14 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 2
+Site         217.39.218.213
+Skill        19 'dual wield'
+Skill        90 'feed'
+Skill        26 'kick'
+Skill        19 'scan'
+Tongue       100 'common'
+Killed       8908 1
+Killed       6601 1
+i3invis	0
+End
+
+#END

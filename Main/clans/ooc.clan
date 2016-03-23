@@ -1,0 +1,32 @@
+#CLAN
+Name         Order of Chaos~
+Filename     ooc.clan~
+Motto        Death is to kind for the good.~
+Deity        Soleran~
+Leader       Argon~
+PKillRangeNew   0 2 0 3 6 3 8
+PDeathRangeNew  0 0 0 0 1 1 8
+MKills       9039
+MDeaths      128
+IllegalPK    1
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      10
+MemLimit     0
+Alignment    0
+Board        0
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       30300
+Storeroom    30302
+GuardOne     0
+GuardTwo     0
+End
+
+#END

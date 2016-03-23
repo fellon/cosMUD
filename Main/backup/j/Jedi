@@ -1,0 +1,99 @@
+#PLAYER
+Version      3
+Name         Jedi~
+Description  ~
+Sex          1
+Class        2
+Race         23
+Species      4
+Languages    1 1
+Level        15
+Played       96272
+Room         21045
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   173 173 184 184 282 282
+Gold         0
+Exp          2461446
+Height          59
+Weight          68
+Act          536872538
+AffectedBy   1048576
+Position     112
+Style     2
+Practice     15
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       -2308
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        50
+ICEListen (null)~
+Mentalstate  0
+Password     Jedv6kTRf8Ooc~
+Title         the Thief~
+Lastname ~
+AuthedBy     Rathkor~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Deity	     Aoskar~
+Flags        98306
+PKills       1
+PDeaths      0
+MKills       329
+MDeaths      12
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 14 12 18 12 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 2 22
+Site         207.202.214.132
+Skill        42 'backstab'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        17 'discern'
+Skill        85 'dual wield'
+Skill        17 'hide'
+Skill        80 'kick'
+Skill        17 'knee'
+Skill        23 'pick lock'
+Skill        90 'scan'
+Skill        17 'search'
+Skill        90 'second attack'
+Skill        24 'sneak'
+Skill        17 'steal'
+Skill        17 'track'
+Weapon       80 'long blades'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Killed       10302 1
+Killed       10301 1
+Killed       10303 3
+Killed       21045 1
+i3invis	0
+End
+
+#MOBILE
+Vnum	21056
+Room	21045
+Description The hawk returns your stare with unfeeling eyes.  Its beak and talons
+appear as though they could rend even the toughest of flesh.
+A neck tag says 'I belong to Jedi'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#COMMENT
+sender	Prage~
+date  	Fri Jul 26 13:32:42 2002~
+to     	~
+subject	~
+text
+removed attacker flag, said he only killed catz who is deadly.
+~
+#END

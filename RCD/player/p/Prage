@@ -1,0 +1,1219 @@
+#PLAYER
+Version      3
+Name         Prage~
+Description  ~
+Sex          1
+Class        2
+Race         18
+Species      0
+Languages    -1 1
+Level        115
+Played       2170363
+Room         1200
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1 1 400 400 1495 1495
+Gold         8081009
+Exp          1259312400
+Height          46
+Weight          10
+Act          1644174922&4
+Position     112
+Style     2
+Practice     227
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       2500
+Balance      59100000
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null) ichat~
+Mentalstate  0
+Password     Pr56LKao/G4qc~
+Rank         &pZombie~
+Bestowments  reboot~
+Title         the defrosted~
+Extraname &Y~
+Lastname ~
+Bio          Fellon's pierce DISEMBOWELS you! [14]
+That really did HURT!
+Fellon's pierce GUTS you! [21]
+ 
+ 
+Chimerus says 'ack! a naked kender with the gavel of judgement and the grave
+digger's chisel'
+ 
+Trespin says 'North'
+Trespin leaves south.
+ 
+The robot guard is resting on a pitcher of cold beer here.
+~
+AuthedBy     Fellon~
+Bamfin       &rYou feel a tingle run up your spine&x, as Prage enters the room.~
+Bamfout      Prage vanishes in a puff of logic.~
+Restore_time 1030164254
+WizInvis     115
+Council      Builder Council~
+Deity	     Thirian~
+Flags        98320
+PKills       0
+PDeaths      0
+MKills       249
+MDeaths      0
+ArenaWins    2
+ArenaKills   6
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     18 18 10 21 9 10 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 -1 0 125
+Site         203.58.238.202
+Spell        100 'acetum primus'
+Spell        100 'acid blast'
+Spell        100 'alertness'
+Spell        100 'animate dead'
+Spell        100 'antimagic shell'
+Spell        100 'apport arcane'
+Spell        100 'aqua breath'
+Spell        100 'armor'
+Spell        100 'astral walk'
+Spell        100 'barkskin'
+Spell        100 'basic shield'
+Spell        100 'benediction'
+Spell        100 'benefic aura'
+Spell        100 'bethsaidean touch'
+Spell        100 'black fist'
+Spell        100 'black hand'
+Spell        100 'black lightning'
+Spell        100 'blazebane'
+Spell        100 'blazeward'
+Spell        100 'bless'
+Spell        100 'blindness'
+Spell        100 'blizzard'
+Spell        100 'blur'
+Spell        100 'bringaround ballad'
+Spell        100 'burning hands'
+Spell        100 'call lightning'
+Spell        100 'cancelation'
+Spell        100 'cat eyes'
+Spell        100 'cause critical'
+Spell        100 'cause light'
+Spell        100 'cause serious'
+Spell        100 'caustic fount'
+Spell        100 'chain lightning'
+Spell        100 'change sex'
+Spell        100 'charged beacon'
+Spell        100 'charm person'
+Spell        100 'chemical funnel'
+Spell        100 'chill touch'
+Spell        100 'claustrophobia'
+Spell        100 'colour spray'
+Spell        100 'confusion'
+Spell        100 'continual light'
+Spell        100 'control weather'
+Spell        100 'cool breeze'
+Spell        100 'cover of darkness'
+Spell        100 'create fire'
+Spell        100 'create food'
+Spell        100 'create mint'
+Spell        100 'create pop'
+Spell        100 'create spring'
+Spell        100 'create symbol'
+Spell        100 'create water'
+Spell        100 'create wine'
+Spell        100 'crescent'
+Spell        100 'cure blindness'
+Spell        100 'cure critical'
+Spell        100 'cure light'
+Spell        100 'cure poison'
+Spell        100 'cure serious'
+Spell        100 'curse'
+Spell        100 'darkblaze'
+Spell        100 'demonskin'
+Spell        100 'detect evil'
+Spell        100 'detect hidden'
+Spell        100 'detect invis'
+Spell        100 'detect magic'
+Spell        100 'detect poison'
+Spell        100 'detect traps'
+Spell        100 'devils might'
+Spell        100 'discord'
+Spell        100 'dispel evil'
+Spell        100 'dispel magic'
+Spell        100 'disruption'
+Spell        100 'divine intervention'
+Spell        100 'divinity'
+Spell        100 'dragon wit'
+Spell        100 'dragonskin'
+Spell        100 'dream'
+Spell        100 'earthquake'
+Spell        100 'earthsong'
+Spell        100 'elder power'
+Spell        100 'eldritch sphere'
+Spell        100 'elemental rage'
+Spell        100 'elven beauty'
+Spell        100 'enchant weapon'
+Spell        100 'energy drain'
+Spell        100 'ethereal fist'
+Spell        100 'ethereal funnel'
+Spell        100 'ethereal shield'
+Spell        100 'exhaustion'
+Spell        100 'expurgation'
+Spell        100 'extradimensional portal'
+Spell        100 'faerie fire'
+Spell        100 'faerie fog'
+Spell        100 'farsight'
+Spell        100 'fatigue'
+Spell        100 'feather fall'
+Spell        100 'feebleness'
+Spell        100 'festering wounds'
+Spell        100 'fireball'
+Spell        100 'fireshield'
+Spell        100 'firesong'
+Spell        100 'flamestrike'
+Spell        100 'flare'
+Spell        100 'flash'
+Spell        100 'fletch'
+Spell        100 'flight'
+Spell        100 'float'
+Spell        100 'fog'
+Spell        100 'forcefield'
+Spell        100 'fortify'
+Spell        100 'fortissimmo'
+Spell        100 'galvanic whip'
+Spell        100 'gate'
+Spell        100 'grounding'
+Spell        100 'hallucination'
+Spell        100 'hand of chaos'
+Spell        100 'harm'
+Spell        100 'haste'
+Spell        100 'heal'
+Spell        100 'helical flow'
+Spell        100 'hezekiahs cure'
+Spell        100 'holy armor'
+Spell        100 'holy sanctity'
+Spell        100 'holy strength'
+Spell        100 'hyperactivity'
+Spell        100 'iceshard'
+Spell        100 'iceshield'
+Spell        100 'identify'
+Spell        100 'ill fortune'
+Spell        100 'improvement'
+Spell        100 'indignation'
+Spell        100 'infravision'
+Spell        100 'inner warmth'
+Spell        100 'invis'
+Spell        100 'kindred strength'
+Spell        100 'knock'
+Spell        100 'know alignment'
+Spell        100 'leprechaun fortune'
+Spell        100 'lethargy'
+Spell        100 'life force'
+Spell        100 'lightning bolt'
+Spell        100 'liquid skin'
+Spell        100 'locate object'
+Spell        100 'mageblade'
+Spell        100 'magic missile'
+Spell        100 'magnetic thrust'
+Spell        100 'major invocation'
+Spell        100 'mana drain'
+Spell        100 'mass invis'
+Spell        100 'mental block'
+Spell        100 'midas touch'
+Spell        100 'minor invocation'
+Spell        100 'minstrel shield'
+Spell        100 'mist walk'
+Spell        100 'necromantic touch'
+Spell        100 'nostrum'
+Spell        100 'ogrish hide'
+Spell        100 'pass door'
+Spell        100 'penetrate defenses'
+Spell        100 'pianissimmo'
+Spell        100 'plant pass'
+Spell        100 'poison'
+Spell        100 'polymorph'
+Spell        100 'portal'
+Spell        100 'possess'
+Spell        100 'power word kill'
+Spell        100 'protection'
+Spell        100 'quantum spike'
+Spell        100 'quickfire'
+Spell        100 'razorbait'
+Spell        100 'recharge'
+Spell        100 'refresh'
+Spell        100 'remove curse'
+Spell        100 'remove invis'
+Spell        100 'remove trap'
+Spell        100 'resilience'
+Spell        100 'restoration'
+Spell        100 'restore group'
+Spell        100 'restore mana'
+Spell        100 'revelation'
+Spell        100 'riversong'
+Spell        100 'sacral divinity'
+Spell        100 'sagacity'
+Spell        100 'sanctuary'
+Spell        100 'scorching surge'
+Spell        100 'scry'
+Spell        100 'shadowform'
+Spell        100 'shield'
+Spell        100 'shocking grasp'
+Spell        100 'shockshield'
+Spell        100 'shockwave'
+Spell        100 'sleep'
+Spell        100 'slink'
+Spell        100 'slow'
+Spell        100 'solar flight'
+Spell        100 'solomonic invocation'
+Spell        100 'sonic resonance'
+Spell        100 'spectral furor'
+Spell        100 'spellbait'
+Spell        100 'spiderweb'
+Spell        100 'spiral blast'
+Spell        100 'spiritual wrath'
+Spell        100 'stone skin'
+Spell        100 'sulfurous spray'
+Spell        100 'summon'
+Spell        100 'swordbait'
+Spell        100 'teleport'
+Spell        100 'torrent'
+Spell        100 'transmutation'
+Spell        100 'transport'
+Spell        100 'trollish vigor'
+Spell        100 'true sight'
+Spell        100 'unravel defense'
+Spell        100 'uplift'
+Spell        100 'valiance'
+Spell        100 'ventriloquate'
+Spell        100 'visitation'
+Spell        100 'vitalize'
+Spell        100 'vorpal gauntlets'
+Spell        100 'warmth'
+Spell        100 'weaken'
+Spell        100 'windsong'
+Spell        100 'winter mist'
+Spell        100 'witherfist'
+Spell        100 'wizard eye'
+Spell        100 'word of recall'
+Spell        100 'wrath of dominus'
+Skill        100 'acid breath'
+Skill        100 'adrenaline'
+Skill        100 'aggressive style'
+Skill        100 'aid'
+Skill        100 'backstab'
+Skill        100 'bandage'
+Skill        100 'bash'
+Skill        100 'bearhug'
+Skill        100 'berserk style'
+Skill        100 'between'
+Skill        100 'bite'
+Skill        100 'blitz'
+Skill        100 'bloodlet'
+Skill        100 'brew'
+Skill        100 'broach'
+Skill        100 'circle'
+Skill        100 'clairvoyance'
+Skill        100 'claw'
+Skill        100 'cleanse'
+Skill        100 'climb'
+Skill        100 'clover'
+Skill        100 'cook'
+Skill        100 'cuff'
+Skill        100 'defensive style'
+Skill        100 'detrap'
+Skill        100 'dig'
+Skill        100 'dirt throw'
+Skill        100 'disarm'
+Skill        100 'discern'
+Skill        100 'dkick'
+Skill        100 'dlick'
+Skill        100 'dodge'
+Skill        100 'dominate'
+Skill        100 'doorbash'
+Skill        100 'drowfire'
+Skill        100 'dual wield'
+Skill        100 'dust'
+Skill        100 'eighth cast'
+Skill        100 'elbow'
+Skill        100 'enhanced damage'
+Skill        100 'evasive style'
+Skill        100 'fade'
+Skill        100 'fan'
+Skill        100 'feed'
+Skill        100 'fifth attack'
+Skill        100 'fifth cast'
+Skill        100 'fire breath'
+Skill        100 'fly'
+Skill        100 'focus'
+Skill        100 'forestwalk'
+Skill        100 'fourth attack'
+Skill        100 'fourth cast'
+Skill        100 'frenzy'
+Skill        100 'frost breath'
+Skill        100 'garrote'
+Skill        100 'gas breath'
+Skill        100 'gouge'
+Skill        100 'grasp suspiria'
+Skill        100 'grip'
+Skill        100 'headbutt'
+Skill        100 'hide'
+Skill        100 'hitall'
+Skill        100 'howl'
+Skill        100 'jump'
+Skill        100 'kick'
+Skill        100 'knee'
+Skill        100 'levitate'
+Skill        100 'lightning breath'
+Skill        100 'limber'
+Skill        100 'lore'
+Skill        100 'lunge'
+Skill        100 'meditate'
+Skill        100 'mindflay'
+Skill        100 'mistform'
+Skill        100 'mistwalk'
+Skill        100 'mount'
+Skill        100 'nightvision'
+Skill        100 'occulutus visum'
+Skill        100 'parry'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'pigeon'
+Skill        100 'pinch'
+Skill        100 'poison weapon'
+Skill        100 'pummel'
+Skill        100 'punch'
+Skill        100 'purify'
+Skill        100 'rage'
+Skill        100 'rescue'
+Skill        100 'roundhouse'
+Skill        100 'ruminate'
+Skill        100 'scan'
+Skill        100 'scribe'
+Skill        100 'search'
+Skill        100 'second attack'
+Skill        100 'second cast'
+Skill        100 'serenity'
+Skill        100 'seventh cast'
+Skill        100 'shieldwork'
+Skill        100 'shoulder'
+Skill        100 'shriek'
+Skill        100 'sixth cast'
+Skill        100 'slice'
+Skill        100 'slit'
+Skill        100 'sneak'
+Skill        100 'spinkick'
+Skill        100 'spy'
+Skill        100 'standard style'
+Skill        100 'steal'
+Skill        100 'sting'
+Skill        100 'stun'
+Skill        100 'tail'
+Skill        100 'talonslash'
+Skill        100 'taunt'
+Skill        100 'third attack'
+Skill        100 'third cast'
+Skill        100 'track'
+Skill        100 'trance'
+Skill        100 'tumble'
+Skill        100 'vision'
+Skill        100 'visogy'
+Skill        100 'vomica pravus'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'missile weapons'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'dwarven'
+Tongue       100 'elvish'
+Tongue       100 'gith'
+Tongue       100 'gnome'
+Tongue       100 'goblin'
+Tongue       100 'halfling'
+Tongue       100 'ogre'
+Tongue       100 'orcish'
+Tongue       100 'pixie'
+Tongue       100 'trollese'
+Killed       903 1
+Killed       10302 9
+Killed       21037 2
+Killed       49998 1
+Killed       70003 1
+Killed       1515 7
+Killed       30302 2
+Killed       46908 1
+Killed       7041 1
+Killed       21016 1
+Killed       10396 1
+Killed       263 1
+Killed       25003 1
+Killed       4155 1
+Killed       42941 1
+Killed       20016 2
+Killed       20004 2
+Killed       20006 4
+Killed       20008 4
+Killed       20007 3
+Killed       24828 5
+Killed       46263 1
+Killed       10305 1
+Killed       7003 1
+Killed       5100 1
+i3invis	0
+End
+
+#OBJECT
+Name         loincloth handmaiden rename~
+ShortDescr   a loincloth borrowed from a handmaiden~
+Vnum         25503
+Values       1 8 0 0 0 0
+End
+
+#OBJECT
+Name         corpse Llamus~
+ShortDescr   the corpse of Llamus~
+Description  The corpse of Llamus is lying here.~
+Vnum         11
+WearFlags    4
+Timer        -1
+Values       0 0 5 0 4 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5011
+Level        1
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Name         corpse Bradley~
+ShortDescr   the corpse of Bradley~
+Description  The corpse of Bradley fills the air with a foul stench.~
+ActionDesc   word gods~
+Vnum         11
+ExtraFlags   4194304
+WearFlags    131072
+Values       0 0 3 0 42 0
+End
+
+#OBJECT
+Nest         1
+Vnum         646
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         645
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         640
+Level        31
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         620
+Level        29
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        11
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        42
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         1539
+Level        4
+Values       15 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         2
+Vnum         1502
+Level        5
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1539
+Level        4
+Values       16 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         2
+Vnum         1536
+Level        7
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         1541
+Level        8
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         1502
+Level        6
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1539
+Level        5
+Values       15 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         2
+Vnum         70098
+Level        99
+Values       12 85 170 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         70070
+ExtraFlags   526336
+Level        83
+Values       12 67 134 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1502
+Level        7
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1540
+Level        8
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1540
+Level        9
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14712
+Level        53
+Values       10 15 44 11 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14715
+Level        47
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21061
+Level        14
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14756
+Level        49
+Values       12 13 42 4 0 0
+End
+
+#OBJECT
+Nest         2
+Count        6
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21009
+Values       10 5 5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         644
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         643
+Level        29
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         642
+Level        30
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         641
+Level        30
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         639
+Level        30
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26539
+End
+
+#OBJECT
+Nest         1
+Vnum         24819
+Level        41
+Values       49 6 6 40 0 0
+Spell 3      'chill touch'
+End
+
+#OBJECT
+Name         corpse Nicremog~
+ShortDescr   the corpse of Nicremog~
+Description  The corpse of Nicremog fills the air with a foul stench.~
+ActionDesc   Athmoz~
+Vnum         11
+ExtraFlags   4194304
+WearFlags    4096
+Values       0 0 3 1 62 2
+End
+
+#OBJECT
+Name         corpse Nicremog~
+ShortDescr   the corpse of Nicremog~
+Description  The corpse of Nicremog is lying here.~
+Vnum         11
+ExtraFlags   4194304
+WearFlags    4096
+Values       0 0 5 1 62 2
+End
+
+#OBJECT
+Vnum         1211
+Values       -1 0 -1 0 0 0
+End
+
+#OBJECT
+Name         corpse Aramys~
+ShortDescr   the corpse of Aramys~
+Description  The corpse of Aramys is crawling with vermin.~
+ActionDesc   tomb raider~
+Vnum         11
+ExtraFlags   4194304
+WearFlags    4194304
+Values       0 0 2 0 58 0
+End
+
+#OBJECT
+Count        2
+Vnum         925
+Level        50
+Values       20 1 15 0 0 0
+End
+
+#OBJECT
+Vnum         918
+End
+
+#OBJECT
+Vnum         916
+Level        7
+Values       12 2 12 6 0 0
+End
+
+#OBJECT
+Vnum         917
+End
+
+#OBJECT
+Vnum         906
+Level        9
+Values       10 1 20 7 0 0
+End
+
+#OBJECT
+Name         corpse Maelstrom~
+ShortDescr   the corpse of Maelstrom~
+Description  The corpse of Maelstrom is lying here.~
+ActionDesc   Prage~
+Vnum         11
+ExtraFlags   4194304
+WearFlags    16
+Values       0 0 5 1 59 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7206
+ExtraFlags   64
+Level        17
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12572
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12575
+Level        44
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12576
+Level        44
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12567
+Level        34
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14714
+Level        53
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15147
+Level        29
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2111
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12571
+Level        45
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46274
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         30310
+Level        35
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         30307
+Level        30
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12501
+Level        53
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         3604
+Level        1
+Cost         0
+Values       0 1 5 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         13027
+Level        14
+Values       157 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         8107
+Level        60
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         9940
+Level        33
+Values       32 10 10 119 0 0
+Spell 3      'hand of chaos'
+End
+
+#OBJECT
+Nest         2
+Vnum         48026
+Level        53
+Values       10 187 138 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'kindred strength'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         2
+Vnum         48009
+Level        54
+Values       31 73 122 -1 0 0
+Spell 1      'dispel evil'
+Spell 2      'heal'
+End
+
+#OBJECT
+Nest         2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         30308
+ExtraFlags   2621960
+Level        29
+Values       12 50 100 2 0 0
+End
+
+#OBJECT
+Nest         2
+Count        8
+Vnum         21004
+Level        4
+Values       24 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         9940
+Level        32
+Values       34 10 10 119 0 0
+Spell 3      'hand of chaos'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        5
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         268
+Level        80
+Values       92 92 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         12524
+Level        49
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         9940
+Level        29
+Values       32 9 9 119 0 0
+Spell 3      'hand of chaos'
+End
+
+#OBJECT
+Nest         2
+Count        12
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        5
+Values       52 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9940
+Level        31
+Values       33 10 10 119 0 0
+Spell 3      'hand of chaos'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21004
+Level        4
+Values       24 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         48008
+Level        33
+Values       6 7 7 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21422
+Level        34
+End
+
+#OBJECT
+Nest         1
+Vnum         12545
+Level        49
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12505
+Level        50
+Values       12 14 43 11 0 0
+End
+
+#OBJECT
+Nest         1
+Name         one winged angel~
+ShortDescr   One Winged Angel~
+Description  Maelstrom has dropped the One Winged Angel here.~
+Vnum         46900
+Level        52
+Values       12 12 144 6 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Name         corpse Andy~
+ShortDescr   the corpse of Andy~
+Description  The corpse of Andy is lying here.~
+ActionDesc   Prage~
+Vnum         11
+ExtraFlags   4194304
+WearFlags    512
+Values       0 0 5 1 113 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46939
+ExtraFlags   524306
+Values       12 1 7 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1209
+Level        14
+End
+
+#OBJECT
+Count        2
+Vnum         48615
+Values       12 2 8 14 0 0
+End
+
+#OBJECT
+Vnum         4152
+Values       11 2 10 11 0 0
+End
+
+#OBJECT
+Vnum         100097
+Values       3 8 0 12 0 0
+End
+
+#OBJECT
+Vnum         60924
+Values       6 4 12 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21003
+Level        1
+Values       1 59 -1 -1 0 0
+Spell 1      'cure light'
+End
+
+#OBJECT
+Count        2
+Vnum         21003
+Level        1
+Values       2 59 -1 -1 0 0
+Spell 1      'cure light'
+End
+
+#OBJECT
+Vnum         50152
+Values       5 1 3 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Vnum         60924
+Values       6 5 12 0 0 0
+End
+
+#ALIAS
+Name     square~
+Commands goto 21000~
+End
+
+#ALIAS
+Name     boo~
+Commands save;quit~
+End
+
+#ALIAS
+Name     fallover~
+Commands buy potion;dance;buy potion~
+End
+
+#END

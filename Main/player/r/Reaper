@@ -1,0 +1,204 @@
+#PLAYER
+Version      3
+Name         Reaper~
+Description  ~
+Sex          1
+Class        3
+Race         6
+Species      5
+Languages    16483 1
+Level        59
+Played       412370
+Room         21194
+Memorized		21194 0 0 0 0 0 0 0
+HpManaMove   1456 1456 100 100 854 854
+Gold         429176
+Exp          233845117
+Height          106
+Weight          496
+Act          570426984&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     23
+SavingThrows 0 0 0 0 -6
+Alignment    448
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    32
+Mentalstate  0
+Password     ReJ18cOgzyVCw~
+Title         the Commander~
+Extraname  Grim~
+Lastname ~
+AuthedBy     Marten~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Clan         Guild of Warriors~
+Flags        99074
+PKills       10
+PDeaths      23
+MKills       1397
+MDeaths      34
+ArenaWins    2
+ArenaKills   8
+ArenaDeaths  17
+IllegalPK    0
+AttrPerm     18 11 12 10 18 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 2 69
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        17 'bash'
+Skill        17 'cook'
+Skill        42 'disarm'
+Skill        69 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        35 'grip'
+Skill        90 'headbutt'
+Skill        28 'hitall'
+Skill        95 'kick'
+Skill        34 'lunge'
+Skill        100 'parry'
+Skill        24 'pummel'
+Skill        17 'rescue'
+Skill        17 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        24 'shoulder'
+Skill        85 'stun'
+Skill        95 'third attack'
+Skill        85 'track'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       99 'pugilism'
+Weapon       100 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'elvish'
+Tongue       99 'goblin'
+Tongue       100 'ogre'
+Tongue       99 'orcish'
+Tongue       99 'trollese'
+AffectData   'armor' 420 -20  17 0
+AffectData   'bless' 1125   6  18 0
+AffectData   'bless' 1125  -6  24 0
+Killed       8910 4
+Killed       8909 4
+Killed       8911 2
+Killed       8903 2
+Killed       8908 3
+Killed       8906 2
+Killed       8901 2
+Killed       8904 3
+Killed       8900 2
+Killed       8907 6
+Killed       8902 2
+Killed       8905 3
+Killed       21045 1
+Killed       21037 5
+Killed       14715 1
+i3invis	0
+End
+
+#ALIAS
+Name     pp~
+Commands dri spri~
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     as~
+Commands elbow~
+End
+
+#ALIAS
+Name     sd~
+Commands headbutt~
+End
+
+#ALIAS
+Name     dd~
+Commands disarm~
+End
+
+#ALIAS
+Name     tt~
+Commands track druid~
+End
+
+#ALIAS
+Name     yy~
+Commands scan north~
+End
+
+#ALIAS
+Name     ee~
+Commands drink carton~
+End
+
+#ALIAS
+Name     vv~
+Commands stun~
+End
+
+#ALIAS
+Name     ssd~
+Commands sd;sd;sd;sd;sd~
+End
+
+#ALIAS
+Name     mm~
+Commands get potion shopping;quaff potion~
+End
+
+#ALIAS
+Name     nn~
+Commands recite invis~
+End
+
+#ALIAS
+Name     kk~
+Commands murder maelst~
+End
+
+#ALIAS
+Name     mmm~
+Commands mm;mm;mm;mm;mm;mm;mm;mm;mm;mm;mm;~
+End
+
+#ALIAS
+Name     ll~
+Commands drop 1 coin; sac coin~
+End
+
+#MOBILE
+Vnum	21058
+Room	21134
+Description The black steed snorts as you examine him.  His fine black coat shines
+brightly regardless of light and the warhorse seems as though it could
+run tirelessly for days.
+A neck tag says 'I belong to Reaper'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

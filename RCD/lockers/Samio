@@ -1,0 +1,48 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         125
+Room         327685
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10312
+Room         327685
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         2443
+Room         327685
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2442
+Room         327685
+Level        7
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Room         327685
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Room         327685
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#END

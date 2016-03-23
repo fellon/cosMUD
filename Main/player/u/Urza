@@ -1,0 +1,141 @@
+#PLAYER
+Version      3
+Name         Urza~
+Sex          1
+Class        1
+Race         1
+Languages    1 1
+Level        2
+Played       4891
+Room         10356
+HpManaMove   23 30 112 112 210 110
+Gold         1522
+Exp          2678
+Height          58
+Weight          111
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  -18
+Password     UrwMBbYjN3E0s~
+Title         the Attendant~
+Flags        0
+PKills       0
+PDeaths      0
+MKills       27
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 15 17 16 12 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 21 8 10
+Site         200.56.197.56
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless'  21   6  18 0
+AffectData   'bless'  21  -6  24 0
+AffectData   'armor'  42 -20  17 0
+Killed       10312 11
+Killed       10305 8
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#END

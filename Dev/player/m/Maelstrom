@@ -1,0 +1,231 @@
+#PLAYER
+Version      3
+Name         Maelstrom~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      2
+Languages    278529 1
+Level        59
+Played       388834
+Room         21002
+Memorized		21000 21036 0 0 0 0 0 0
+HpManaMove   535 535 448 448 854 854
+Gold         4393964
+Exp          244093409
+Height          60
+Weight          140
+Act          570426952&4
+AffectedBy   8
+Position     112
+Style     2
+Practice     84
+SavingThrows 0 0 0 0 0
+Alignment    -407
+Favor	       395
+Balance      0
+Glory        154
+MGlory       194
+Hitroll      0
+Damroll      0
+Armor        100
+Deaf         12615921
+ICEListen (null)~
+Mentalstate  -50
+Password     MatdyJfAX4Lgc~
+Title         the Magus~
+Extraname  Dark Lord~
+Lastname ~
+AuthedBy     Prage~
+FPrompt	     <%hhp %mm %vmv %g %c %C>~
+Pagerlen     20
+Deity	     Soleran~
+Clan         Order of Chaos~
+Flags        98818
+PKills       32
+PDeaths      3
+MKills       1711
+MDeaths      51
+ArenaWins    9
+ArenaKills   30
+ArenaDeaths  22
+IllegalPK    0
+AttrPerm     12 14 13 14 12 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 69
+Site         172.141.248.182
+Spell        62 'acid blast'
+Spell        34 'aqua breath'
+Spell        95 'armor'
+Spell        21 'black fist'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        26 'blazeward'
+Spell        25 'blindness'
+Spell        86 'blur'
+Spell        94 'burning hands'
+Spell        95 'caustic fount'
+Spell        88 'charm person'
+Spell        95 'colour spray'
+Spell        83 'continual light'
+Spell        21 'control weather'
+Spell        95 'create spring'
+Spell        19 'curse'
+Spell        72 'demonskin'
+Spell        95 'detect invis'
+Spell        19 'dispel magic'
+Spell        45 'disruption'
+Spell        68 'dragon wit'
+Spell        38 'dragonskin'
+Spell        19 'dream'
+Spell        42 'eldritch sphere'
+Spell        65 'elven beauty'
+Spell        39 'enchant weapon'
+Spell        95 'energy drain'
+Spell        19 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        33 'ethereal shield'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        95 'farsight'
+Spell        85 'fireball'
+Spell        74 'flight'
+Spell        38 'float'
+Spell        95 'galvanic whip'
+Spell        35 'hand of chaos'
+Spell        84 'iceshield'
+Spell        95 'identify'
+Spell        27 'infravision'
+Spell        37 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        55 'knock'
+Spell        95 'lightning bolt'
+Spell        67 'liquid skin'
+Spell        95 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        27 'ogrish hide'
+Spell        83 'pass door'
+Spell        95 'portal'
+Spell        23 'razorbait'
+Spell        19 'recharge'
+Spell        22 'refresh'
+Spell        93 'sagacity'
+Spell        95 'shadowform'
+Spell        95 'shield'
+Spell        75 'shockshield'
+Spell        27 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        30 'spectral furor'
+Spell        73 'stone skin'
+Spell        95 'summon'
+Spell        22 'swordbait'
+Spell        95 'teleport'
+Spell        19 'transport'
+Spell        87 'trollish vigor'
+Spell        22 'true sight'
+Spell        20 'valiance'
+Spell        55 'weaken'
+Spell        19 'winter mist'
+Spell        22 'wizard eye'
+Spell        95 'word of recall'
+Skill        26 'aid'
+Skill        19 'brew'
+Skill        60 'cuff'
+Skill        18 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        59 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        54 'meditate'
+Skill        30 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        23 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        93 'trance'
+Weapon       80 'bludgeons'
+Weapon       20 'flexible arms'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       9 'goblin'
+AffectData   'detect invis' 710   0  26 8
+Killed       1545 2
+Killed       7007 1
+Killed       7011 1
+Killed       7010 1
+Killed       30302 1
+Killed       21067 1
+Killed       437 2
+Killed       438 1
+Killed       432 2
+Killed       431 2
+Killed       21052 2
+Killed       444 1
+Killed       446 1
+Killed       439 3
+Killed       8902 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         24854
+Values       90 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         448
+Values       0 1000 0 0 0 0
+End
+
+#OBJECT
+Vnum         45315
+Values       5 5 11 0 0 0
+End
+
+#OBJECT
+Vnum         127
+Values       12 3 6 3 0 0
+End
+
+#OBJECT
+Vnum         4101
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         70026
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#ALIAS
+Name     bl~
+Commands c black ~
+End
+
+#ALIAS
+Name     en~
+Commands c energy ~
+End
+
+#ALIAS
+Name     a~
+Commands c word~
+End
+
+#END

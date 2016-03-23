@@ -1,0 +1,64 @@
+#PLAYER
+Version      3
+Name         Gabriel~
+Sex          1
+Class        4
+Race         10
+Languages    1 1
+Level        2
+Played       6233
+Room         2106
+HpManaMove   5 35 120 120 24 110
+Gold         4569
+Exp          5969
+Height          75
+Weight          155
+Act          570426952
+AffectedBy   1032
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -5
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      5
+Damroll      0
+Armor        80
+Wimpy        2
+ICEListen ~
+Mentalstate  -1
+Password     Gauj6KvIIHwrg~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       30
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 14 14 17 10 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 1
+Site         128.196.133.225
+Spell        19 'infravision'
+Skill        19 'standard style'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'gith'
+AffectData   'armor' 124 -20  17 0
+AffectData   'bless' 776   6  18 0
+AffectData   'bless' 776  -6  24 0
+AffectData   'curse' 1359  -1  18 1024
+AffectData   'curse' 1359   1  24 1024
+Killed       10344 1
+Killed       10309 4
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#END

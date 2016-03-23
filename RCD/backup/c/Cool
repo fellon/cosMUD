@@ -1,0 +1,166 @@
+#PLAYER
+Version      3
+Name         Cool~
+Sex          1
+Class        6
+Race         1
+Species      1
+Languages    1 1
+Level        2
+Played       2996
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   25 37 120 120 113 113
+Gold         3000
+Exp          2000
+Height          57
+Weight          101
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     CoRHq7oDSYFqM~
+Title         the Strider~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 13 14 14 12 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 47 47 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       103 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        12
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         127
+Level        1
+Values       12 2 6 3 0 0
+End
+
+#OBJECT
+Vnum         127
+WearLoc      16
+Level        1
+Values       12 1 7 3 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

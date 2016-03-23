@@ -1,0 +1,91 @@
+#PLAYER
+Version      3
+Name         Mhek~
+Description  ~
+Sex          1
+Class        0
+Race         10
+Species      0
+Languages    1 1
+Level        9
+Played       162211
+Room         21194
+Memorized		21194 0 0 0 0 0 0 0
+HpManaMove   93 93 176 176 189 189
+Gold         4622841
+Exp          707343
+Height          73
+Weight          154
+Act          570427000
+AffectedBy   8
+Position     112
+Style     4
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    3
+Favor	       -676
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        10
+Deaf         32768
+ICEListen ~
+Mentalstate  0
+Password     MhdEKaw2nKgXk~
+Title         t&ch&Ce &rE&RV&rI&RL &CG&cu&Cmm&ci &CB&ce&Ca&cr&C~
+Lastname &c,&C~
+AuthedBy     Cyph~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       374
+MDeaths      4
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     11 17 12 15 11 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 18
+Site         64.157.32.82
+Spell        95 'black hand'
+Spell        95 'burning hands'
+Spell        95 'chill touch'
+Spell        95 'continual light'
+Spell        95 'detect invis'
+Spell        85 'float'
+Spell        95 'galvanic whip'
+Spell        23 'locate object'
+Spell        95 'magic missile'
+Spell        95 'weaken'
+Spell        83 'word of recall'
+Skill        19 'dual wield'
+Skill        20 'kick'
+Skill        95 'second cast'
+Tongue       100 'common'
+Tongue       100 'gith'
+AffectData   'armor' 444 -20  17 0
+AffectData   'bless' 1109  -6  24 0
+AffectData   'bless' 1109   6  18 0
+Killed       44704 1
+Killed       44701 1
+Killed       44700 2
+i3invis	0
+End
+
+#MOBILE
+Vnum	21070
+Room	21126
+Description This fat, lumbering creature is dirty and unkept. You find yourself
+wondering what it carries.
+A neck tag says 'I belong to Mhek'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

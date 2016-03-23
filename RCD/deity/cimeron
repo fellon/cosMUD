@@ -1,0 +1,48 @@
+#DEITY
+Filename		../deity/cimeron~
+Name		Cimeron~
+Detitle	Protector of Felines and Women~
+Domains	Females, Felines, Ice~
+Description	~
+Alignment		700
+Worshippers	3
+Flee		-50
+Flee_npcrace	10
+Flee_npcfoe	-10
+Kill		5
+Kill_npcrace	-50
+Kill_npcfoe	35
+Kill_magic	7
+Sac		5
+Bury_corpse	10
+Aid_spell		5
+Aid		5
+Steal		-10
+Backstab		-10
+Die		-50
+Die_npcrace	-35
+Die_npcfoe	-35
+Spell_aid		5
+Dig_corpse	-10
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Sdtrap		0
+Race		-1
+Class		-1
+Element		0
+Sex		2
+Affected		0
+Npcrace		74
+Npcfoe		73
+Suscept		0
+Race2		-1
+Susceptnum	250
+Elementnum	500
+Affectednum	1250
+Objstat		0
+End
+
+#END

@@ -1,0 +1,58 @@
+#PLAYER
+Version      3
+Name         Zique~
+Sex          1
+Class        5
+Race         9
+Languages    1 1
+Level        2
+Played       927
+Room         10303
+HpManaMove   35 35 105 105 110 110
+Gold         0
+Exp          2000
+Height          68
+Weight          149
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     ZiSiXYcpUmCaM~
+Title         the Attendant~
+Flags        0
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 15 16 12 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 38 38 10
+Site         202.187.175.38
+Spell        19 'create water'
+Skill        19 'cook'
+Weapon       19 'long blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

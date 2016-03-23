@@ -1,0 +1,498 @@
+#PLAYER
+Version      3
+Name         Xion~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      2
+Languages    3 1
+Level        54
+Played       353378
+Room         24852
+Memorized		21001 8164 0 0 0 0 0 0
+HpManaMove   558 423 250 409 889 789
+Gold         1048444
+Exp          187087567
+Height          69
+Weight          141
+Act          570426952&4
+AffectedBy   268435464
+Position     104
+Style     2
+Practice     9
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        30
+ICEListen (null)~
+Resistant    1056776
+Mentalstate  0
+Password     XiaOl5H3c39LE~
+Title         the Magus~
+Extraname &G~
+Lastname ~
+Bio          /q
+ 
+~
+AuthedBy     Prage~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Pagerlen     25
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       1338
+MDeaths      71
+ArenaWins    8
+ArenaKills   13
+ArenaDeaths  12
+IllegalPK    0
+AttrPerm     12 17 13 13 13 11 13
+AttrMod      4 0 0 0 0 -1 0
+Condition    0 5 7 63
+Site         210.212.228.77
+Spell        34 'aqua breath'
+Spell        95 'armor'
+Spell        95 'astral walk'
+Spell        68 'black fist'
+Spell        22 'black hand'
+Spell        95 'black lightning'
+Spell        21 'blur'
+Spell        95 'caustic fount'
+Spell        32 'charm person'
+Spell        45 'chill touch'
+Spell        95 'colour spray'
+Spell        88 'continual light'
+Spell        95 'create fire'
+Spell        95 'create spring'
+Spell        19 'curse'
+Spell        26 'demonskin'
+Spell        95 'detect invis'
+Spell        59 'detect magic'
+Spell        23 'disruption'
+Spell        22 'dragonskin'
+Spell        33 'dream'
+Spell        86 'eldritch sphere'
+Spell        54 'enchant weapon'
+Spell        42 'energy drain'
+Spell        39 'ethereal fist'
+Spell        30 'ethereal funnel'
+Spell        67 'ethereal shield'
+Spell        65 'extradimensional portal'
+Spell        48 'faerie fire'
+Spell        95 'faerie fog'
+Spell        95 'farsight'
+Spell        95 'fireball'
+Spell        65 'flight'
+Spell        47 'float'
+Spell        95 'galvanic whip'
+Spell        47 'hand of chaos'
+Spell        92 'iceshield'
+Spell        95 'identify'
+Spell        95 'invis'
+Spell        74 'kindred strength'
+Spell        33 'know alignment'
+Spell        95 'lightning bolt'
+Spell        95 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        82 'pass door'
+Spell        95 'portal'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        28 'scry'
+Spell        29 'shadowform'
+Spell        28 'shockshield'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        93 'stone skin'
+Spell        95 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        80 'transport'
+Spell        35 'true sight'
+Spell        19 'valiance'
+Spell        95 'word of recall'
+Skill        37 'aid'
+Skill        25 'cuff'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       19 'bludgeons'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       91 'elvish'
+AffectData   'ogrish hide' 694  -1  25 0
+AffectData   'ogrish hide' 694 -30  17 0
+AffectData   'detect invis' 1060   0  26 8
+AffectData   'kindred strength' 1183   4   1 0
+AffectData   'eldritch sphere'   6 1048576  27 0
+AffectData   'eldritch sphere'   6 8192  27 0
+AffectData   'ethereal shield' 1062   8  27 0
+AffectData   'stone skin' 1065 -40  17 0
+AffectData   'iceshield'  48   0  26 268435456
+Killed       14732 3
+Killed       14729 1
+Killed       8108 1
+Killed       8101 1
+Killed       8100 1
+Killed       8128 1
+Killed       8127 1
+Killed       10397 1
+Killed       10396 5
+Killed       8122 1
+Killed       8125 1
+Killed       8124 2
+Killed       8115 2
+Killed       8132 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        30
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        27
+Values       5 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         8118
+WearLoc      0
+Level        48
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         7220
+WearLoc      6
+Level        42
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7219
+WearLoc      9
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7218
+WearLoc      7
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7217
+WearLoc      5
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7223
+WearLoc      10
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        51
+Values       11 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14745
+WearLoc      18
+Level        46
+Values       12 12 39 3 0 0
+End
+
+#OBJECT
+Vnum         8103
+ExtraFlags   1026
+Level        47
+Values       12 14 40 11 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         44
+Level        53
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         807
+Level        11
+Values       12 3 12 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15163
+Level        44
+Values       12 11 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        55
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        58
+Values       50 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         813
+Level        50
+Values       -2 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7222
+Level        4
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7223
+Level        5
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7220
+Level        5
+Cost         0
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7219
+Level        4
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7217
+Level        5
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7221
+Level        42
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        9
+Values       77 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        13
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        9
+Values       77 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42946
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#ALIAS
+Name     as~
+Commands c caustic~
+End
+
+#ALIAS
+Name     sd~
+Commands c 'black lightning'~
+End
+
+#ALIAS
+Name     df~
+Commands c 'ethereal funnel'~
+End
+
+#ALIAS
+Name     qw~
+Commands c 'faerie fog'~
+End
+
+#ALIAS
+Name     wat~
+Commands c 'create spring'~
+End
+
+#ALIAS
+Name     ert~
+Commands c 'create fire'~
+End
+
+#ALIAS
+Name     io~
+Commands dr sp~
+End
+
+#ALIAS
+Name     kl~
+Commands io;io;io;io;io;io;io~
+End
+
+#ALIAS
+Name     din~
+Commands c 'detect inv'~
+End
+
+#ALIAS
+Name     dma~
+Commands c 'detect magic'~
+End
+
+#ALIAS
+Name     ice~
+Commands c ice~
+End
+
+#ALIAS
+Name     arm~
+Commands c arm~
+End
+
+#ALIAS
+Name     eth~
+Commands c 'ethereal shield'~
+End
+
+#ALIAS
+Name     sto~
+Commands c stone~
+End
+
+#ALIAS
+Name     eld~
+Commands c eldri~
+End
+
+#ALIAS
+Name     qp~
+Commands q puce~
+End
+
+#ALIAS
+Name     qb~
+Commands q blue~
+End
+
+#ALIAS
+Name     xc~
+Commands get shot extr;q shot~
+End
+
+#ALIAS
+Name     sho~
+Commands c shockshield~
+End
+
+#ALIAS
+Name     bn~
+Commands c shadowform~
+End
+
+#ALIAS
+Name     kk~
+Commands supp uplift~
+End
+
+#ALIAS
+Name     fg~
+Commands c blur~
+End
+
+#ALIAS
+Name     mana~
+Commands get blue bag;q blue~
+End
+
+#END

@@ -1,0 +1,119 @@
+#PLAYER
+Version      3
+Name         Greck~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        2
+Played       4428
+Room         10339
+HpManaMove   39 39 94 94 110 110
+Gold         1945
+Exp          2902
+Height          50
+Weight          137
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     Gr5ZA/aGZaahE~
+Title         the Recruit~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 14 14 14 16 13 12
+AttrMod      3 0 0 0 0 0 0
+Condition    0 12 10 10
+Site         208.187.217.153
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'bless' 330   6  18 0
+AffectData   'bless' 330  -6  24 0
+AffectData   'kindred strength' 506   3   1 0
+Killed       10344 2
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10323
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       20 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       19 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#END

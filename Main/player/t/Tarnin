@@ -1,0 +1,404 @@
+#PLAYER
+Version      3
+Name         Tarnin~
+Description  ~
+Sex          1
+Class        1
+Race         5
+Species      0
+Languages    1 1
+Level        13
+Played       34911
+Room         21002
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   245 247 195 183 256 256
+Gold         642242
+Exp          1581204
+Height          53
+Weight          149
+Act          570429000
+AffectedBy   524800
+Position     112
+Style     2
+Practice     13
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1022
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     TalwRW.Xf2ugQ~
+Title         the Acolyte~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Borrin~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       350
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     15 11 16 15 12 10 12
+AttrMod      0 0 3 0 0 0 0
+Condition    0 0 0 23
+Site         203.58.238.132
+Spell        55 'armor'
+Spell        25 'bless'
+Spell        67 'blindness'
+Spell        19 'call lightning'
+Spell        19 'cause critical'
+Spell        36 'cause serious'
+Spell        19 'control weather'
+Spell        19 'create food'
+Spell        19 'create water'
+Spell        19 'cure blindness'
+Spell        28 'cure critical'
+Spell        75 'cure light'
+Spell        19 'cure poison'
+Spell        95 'cure serious'
+Spell        32 'curse'
+Spell        19 'detect evil'
+Spell        33 'detect hidden'
+Spell        45 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'earthquake'
+Spell        95 'faerie fire'
+Spell        32 'flamestrike'
+Spell        26 'flight'
+Spell        20 'float'
+Spell        19 'identify'
+Spell        19 'lethargy'
+Spell        19 'locate object'
+Spell        19 'minor invocation'
+Spell        39 'poison'
+Spell        35 'protection'
+Spell        19 'refresh'
+Spell        19 'remove curse'
+Spell        19 'summon'
+Spell        39 'word of recall'
+Skill        19 'aid'
+Skill        30 'dual wield'
+Skill        95 'feed'
+Skill        20 'kick'
+Skill        92 'scan'
+Skill        19 'search'
+Weapon       95 'bludgeons'
+Weapon       19 'long blades'
+Tongue       100 'common'
+AffectData   'flight'  27   0  26 524288
+AffectData   'sagacity' 1118   3   4 0
+Killed       2110 1
+Killed       10300 5
+Killed       10301 7
+Killed       10302 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         2427
+WearLoc      3
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      18
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         6635
+WearLoc      12
+Level        3
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         9838
+WearLoc      7
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        6
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         1541
+WearLoc      6
+Level        8
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2424
+WearLoc      2
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1511
+Level        9
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6632
+Level        1
+Values       29 61 191 175 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2436
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        5
+Values       15 4 4 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2417
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2417
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2410
+Level        4
+Values       11 3 3 95 0 0
+Spell 3      'faerie fire'
+End
+
+#OBJECT
+Nest         1
+Vnum         2409
+Level        5
+Values       6 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9838
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2432
+Level        6
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1536
+Level        11
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        6
+Values       15 3 3 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         2424
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6631
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        10
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        4
+Values       16 4 4 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 2 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        12
+Values       2 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#END

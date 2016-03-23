@@ -1,0 +1,442 @@
+#PLAYER
+Version      3
+Name         Leod~
+Description  ~
+Sex          1
+Class        2
+Race         9
+Species      0
+Languages    1 1
+Level        15
+Played       141000
+Room         3503
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   229 224 142 142 337 282
+Gold         1002581
+Exp          2749568
+Height          69
+Weight          135
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     7
+SavingThrows 0 0 0 0 0
+Alignment    -6
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+Deaf         146833655
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     LeGENCMPLe1ZU~
+Title         the Thief~
+Lastname ~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       497
+MDeaths      24
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 13 12 17 11 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 32 6 24
+Site         207.202.214.132
+Skill        95 'backstab'
+Skill        17 'cook'
+Skill        24 'disarm'
+Skill        71 'discern'
+Skill        85 'dual wield'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        17 'knee'
+Skill        95 'pick lock'
+Skill        58 'scan'
+Skill        65 'search'
+Skill        90 'second attack'
+Skill        40 'sneak'
+Skill        95 'steal'
+Skill        18 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       42 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       21052 1
+Killed       1505 1
+Killed       8908 1
+Killed       8904 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1540
+WearLoc      13
+Level        10
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        6
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         1508
+WearLoc      2
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        3
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        14
+Values       12 7 16 3 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21081
+Level        5
+Values       12 1 8 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9832
+Level        10
+Values       12 3 13 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21021
+Values       4 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 4 7 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5101
+Level        10
+Values       12 3 15 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         1537
+Level        7
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        9
+Values       18 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         34
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         1537
+Level        8
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        6
+Values       19 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        7
+Values       19 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1542
+Level        10
+Values       14 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        9
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        10
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       13 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        13
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1535
+Level        13
+Values       12 4 12 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6511
+Level        18
+End
+
+#OBJECT
+Nest         1
+Vnum         21055
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         5252
+Level        7
+Values       12 2 10 11 0 0
+End
+
+#MOBILE
+Vnum	21060
+Room	21134
+Description The hunting dog constantly sniffs the ground, searching for its prey.
+A neck tag says 'I belong to Leod'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

@@ -1,0 +1,315 @@
+#PLAYER
+Version      3
+Name         Aoi~
+Description  ~
+Sex          1
+Class        8
+Race         0
+Species      0
+Languages    1 1
+Level        19
+Played       85177
+Room         24840
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   314 314 181 181 250 322
+Gold         95977
+Exp          7664224
+Height          65
+Weight          135
+Act          570427000
+Position     112
+Style     2
+Practice     10
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       664
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        49
+ICEListen ~
+Mentalstate  -1
+Password     AoZEouKrmtKVs~
+Title         the Defender of Valor~
+Lastname ~
+Deity	     Shaundakul~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       531
+MDeaths      9
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     17 13 11 13 13 13 13
+AttrMod      4 0 0 0 0 0 0
+Condition    0 6 0 18
+Site         203.130.222.193
+Spell        90 'armor'
+Spell        18 'bethsaidean touch'
+Spell        37 'bless'
+Spell        22 'continual light'
+Spell        80 'create food'
+Spell        18 'create water'
+Spell        46 'cure light'
+Spell        18 'detect evil'
+Spell        18 'detect hidden'
+Spell        18 'detect poison'
+Spell        18 'float'
+Spell        18 'hezekiahs cure'
+Spell        18 'know alignment'
+Spell        36 'refresh'
+Spell        18 'solomonic invocation'
+Skill        18 'aid'
+Skill        18 'cook'
+Skill        90 'dual wield'
+Skill        90 'enhanced damage'
+Skill        18 'kick'
+Skill        90 'parry'
+Skill        18 'rescue'
+Skill        29 'scan'
+Skill        20 'search'
+Skill        90 'second attack'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       95 'long blades'
+Tongue       100 'common'
+AffectData   'kindred strength'  80   4   1 0
+Killed       24816 2
+Killed       24817 2
+Killed       24815 3
+Killed       24814 3
+Killed       6514 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        7
+Values       4 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6114
+WearLoc      2
+Level        8
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        20
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21071
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       8 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        3
+Vnum         34
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6507
+Level        1
+Values       0 0 100 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6504
+Level        19
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6505
+Level        18
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6508
+Level        4
+Values       11 2 12 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6506
+Level        7
+Values       11 10 10 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         6509
+Level        15
+Values       12 2 14 1 0 0
+End
+
+#OBJECT
+Vnum         100017
+WearLoc      16
+Level        7
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Vnum         44702
+WearLoc      18
+Level        6
+Values       12 3 9 3 0 0
+End
+
+#END

@@ -1,0 +1,51 @@
+#PLAYER
+Version      3
+Name         DarkKnight~
+Sex          1
+Class        5
+Race         0
+Languages    1 1
+Level        2
+Played       2405
+Room         10304
+HpManaMove   34 34 103 103 110 110
+Gold         0
+Exp          2000
+Height          64
+Weight          151
+Act          570426952
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     DaFVFpYsMrs1A~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 14 15 13 14 10 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 15 15 10
+Site         (Link-Dead)
+Tongue       100 'common'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

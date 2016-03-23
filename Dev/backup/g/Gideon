@@ -1,0 +1,77 @@
+#PLAYER
+Version      3
+Name         Gideon~
+Sex          1
+Class        22
+Race         44
+Species      10
+Languages    1 1
+Level        6
+Played       12393
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   20 113 121 125 256 165
+Gold         22259
+Exp          177955
+Height          61
+Weight          146
+Act          536872536
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    668
+Favor	       46
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Password     GibeV5Ue6X3vo~
+Title         the Kind~
+Lastname (null)~
+AuthedBy     Prage~
+Deity	     Tyr~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       88
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 17 13 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 16
+Site         63.169.107.252
+Spell        38 'armor'
+Spell        33 'bless'
+Spell        27 'continual light'
+Spell        21 'create food'
+Spell        21 'create water'
+Spell        19 'cure blindness'
+Spell        95 'cure light'
+Spell        67 'cure serious'
+Spell        30 'detect evil'
+Spell        28 'detect invis'
+Spell        32 'detect magic'
+Spell        19 'detect poison'
+Spell        19 'faerie fire'
+Spell        27 'invis'
+Spell        19 'protection'
+Spell        22 'refresh'
+Spell        46 'uplift'
+Skill        19 'aid'
+Skill        19 'scan'
+Skill        19 'search'
+Weapon       93 'bludgeons'
+Tongue       100 'common'
+Killed       7003 5
+Killed       3501 7
+i3invis	0
+End
+
+#END

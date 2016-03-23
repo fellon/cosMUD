@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Chimaera~
+Sex          1
+Class        3
+Race         12
+Languages    1 1
+Level        2
+Played       2312
+Room         21194
+HpManaMove   29 29 110 110 110 110
+Gold         0
+Exp          1224
+Height          68
+Weight          116
+Act          637535816
+AffectedBy   -2147483632
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    600
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -2
+Password     ChL6q790kWDU6~
+Title         the Recruit~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      3
+IllegalPK    0
+AttrPerm     15 15 12 13 11 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 0 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 416 -20  17 0
+AffectData   'bless' 1148   6  18 0
+AffectData   'bless' 1148  -6  24 0
+End
+
+#END

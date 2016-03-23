@@ -1,0 +1,464 @@
+#PLAYER
+Version      3
+Name         Riot~
+Description  ~
+Sex          1
+Class        13
+Race         10
+Languages    1 1
+Level        20
+Played       308435
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   411 336 337 357 357 347
+Gold         438463
+Exp          9500493
+Height          69
+Weight          135
+Act          570427000
+AffectedBy   2097176
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -3
+Alignment    -1000
+Favor	       2096
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+Wimpy        35
+Deaf         2
+ICEListen (null)~
+Mentalstate  0
+Password     Rig9iV45sZpps~
+Title         the Warlock~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       986
+MDeaths      51
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 17 12 16 11 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 30 27
+Site         207.202.214.132
+Spell        90 'armor'
+Spell        95 'bless'
+Spell        87 'cause critical'
+Spell        95 'cause serious'
+Spell        95 'chill touch'
+Spell        90 'continual light'
+Spell        95 'create food'
+Spell        95 'create spring'
+Spell        75 'create water'
+Spell        75 'cure light'
+Spell        95 'detect magic'
+Spell        19 'dispel magic'
+Spell        90 'earthquake'
+Spell        85 'energy drain'
+Spell        95 'float'
+Spell        90 'identify'
+Spell        95 'invis'
+Spell        90 'lightning bolt'
+Spell        90 'shocking grasp'
+Spell        28 'sleep'
+Spell        80 'weaken'
+Spell        95 'word of recall'
+Skill        28 'aid'
+Skill        30 'dual wield'
+Skill        82 'hide'
+Skill        95 'meditate'
+Skill        19 'rescue'
+Skill        85 'scan'
+Skill        79 'search'
+Skill        33 'second attack'
+Skill        95 'second cast'
+Skill        82 'sneak'
+Weapon       19 'flexible arms'
+Weapon       45 'long blades'
+Weapon       85 'short blades'
+Tongue       100 'common'
+Tongue       100 'gith'
+AffectData   'minor invocation'  95  -1  24 0
+AffectData   'minor invocation'  95   1  18 0
+AffectData   'float' 298   0  26 2097152
+AffectData   'detect magic' 299   0  26 16
+AffectData   'bless' 280  -2  24 0
+AffectData   'bless' 280   2  18 0
+AffectData   'armor'  23 -20  17 0
+Killed       10409 1
+Killed       10416 1
+Killed       41422 1
+Killed       41411 1
+Killed       41405 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         3500
+WearLoc      19
+Level        5
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         623
+WearLoc      7
+Level        17
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         621
+WearLoc      5
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      2
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         625
+WearLoc      9
+Level        15
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         15156
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2443
+WearLoc      11
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      3
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24894
+WearLoc      6
+Level        7
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1509
+WearLoc      4
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         41421
+WearLoc      16
+Level        19
+Values       12 4 20 2 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      14
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      15
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2360
+WearLoc      8
+Level        20
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1544
+WearLoc      12
+Level        17
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2436
+WearLoc      17
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#ALIAS
+Name     dw~
+Commands get dragonskin rune ; drink water ; examine dragonskin ; put dragonskin rune~
+End
+
+#ALIAS
+Name     shr~
+Commands c 'create food' ; eat mushroom ; yummy~
+End
+
+#ALIAS
+Name     wk~
+Commands c weaken~
+End
+
+#ALIAS
+Name     shk~
+Commands c 'shocking grasp'~
+End
+
+#ALIAS
+Name     chl~
+Commands c chill~
+End
+
+#ALIAS
+Name     filskin~
+Commands get skin bag ; c 'create water' skin ; put skin bag~
+End
+
+#ALIAS
+Name     pab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     eb~
+Commands exam bag~
+End
+
+#ALIAS
+Name     zz~
+Commands c 'cause critical'~
+End
+
+#ALIAS
+Name     qq~
+Commands c cure riot~
+End
+
+#ALIAS
+Name     ws~
+Commands c word~
+End
+
+#ALIAS
+Name     lk~
+Commands c lightning~
+End
+
+#ALIAS
+Name     spr~
+Commands c 'create spring' ; dr spr~
+End
+
+#ALIAS
+Name     ga~
+Commands get all ; put all bag~
+End
+
+#ALIAS
+Name     dm~
+Commands c 'detect magic'~
+End
+
+#ALIAS
+Name     hx~
+Commands c cure xivis~
+End
+
+#ALIAS
+Name     hr~
+Commands c cure raos~
+End
+
+#ALIAS
+Name     fx~
+Commands c float xivis~
+End
+
+#ALIAS
+Name     fr~
+Commands c float raos~
+End
+
+#ALIAS
+Name     ax~
+Commands c armor xivis~
+End
+
+#ALIAS
+Name     lx~
+Commands look xivis~
+End
+
+#ALIAS
+Name     lr~
+Commands look raos~
+End
+
+#ALIAS
+Name     armr~
+Commands c armor raos~
+End
+
+#ALIAS
+Name     hxhx~
+Commands hx ; hx ; hx~
+End
+
+#ALIAS
+Name     shrx~
+Commands c create ; give mush xivis~
+End
+
+#ALIAS
+Name     shrr~
+Commands c create ; give mush raos~
+End
+
+#ALIAS
+Name     wx~
+Commands c word xivis~
+End
+
+#ALIAS
+Name     wr~
+Commands c word raos~
+End
+
+#ALIAS
+Name     ix~
+Commands c invis xivis~
+End
+
+#ALIAS
+Name     ir~
+Commands c invis raos~
+End
+
+#ALIAS
+Name     medmed~
+Commands med ; med ; med ; med ; halo~
+End
+
+#ALIAS
+Name     qqqq~
+Commands qq ; qq ; qq ; qq~
+End
+
+#ALIAS
+Name     pow~
+Commands c armor ; c float ; c 'detect magic' ; c bless ; c invis ; book~
+End
+
+#ALIAS
+Name     end~
+Commands c 'energy drain'~
+End
+
+#ALIAS
+Name     ear~
+Commands c earthquake~
+End
+
+#ALIAS
+Name     blr~
+Commands c bless raos~
+End
+
+#ALIAS
+Name     hrhr~
+Commands cross ; hr ; hr ; hr ; hr~
+End
+
+#ALIAS
+Name     bx~
+Commands c bless xivis~
+End
+
+#ALIAS
+Name     din~
+Commands get tur bag ; get tur bag ; eat tur ; eat tur ; dw ; burp~
+End
+
+#ALIAS
+Name     gocath~
+Commands nw ; w ; w ; n ; n ; n ; n ; n~
+End
+
+#ALIAS
+Name     goval~
+Commands e ; e ; e ; e ; e ; e ; e ; e ; s ; s ; s ; s ; s ; s ; e ; e ; s ; e ; e ; say 'Drow City d w s d d  Elemental Canyon d s u u u u'~
+End
+
+#ALIAS
+Name     lootcorp~
+Commands get all corp ; wear all ; get all corp ; wear all ; get all corp ; wear all ; get all corp ; wear all~
+End
+
+#ALIAS
+Name     lvcath~
+Commands stan ; s ; s ; s ; s ; s ; e ; e ; se~
+End
+
+#ALIAS
+Name     ql~
+Commands get all corp ; wear all ; pab ;  get all corp ; wear all ; pab ;~
+End
+
+#ALIAS
+Name     cls~
+Commands c cure soul ; c cure soul ; c cure soul~
+End
+
+#END

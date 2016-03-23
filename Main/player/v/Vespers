@@ -1,0 +1,307 @@
+#PLAYER
+Version      3
+Name         Vespers~
+Description  ~
+Sex          2
+Class        5
+Race         27
+Species      8
+Languages    1 1
+Level        6
+Played       23643
+Room         21012
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   58 58 210 227 176 165
+Gold         64860
+Exp          169971
+Height          58
+Weight          65
+Act          570426952
+AffectedBy   -2147483080
+Position     112
+Style     2
+Practice     10
+SavingThrows 0 0 0 0 0
+Alignment    565
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -1
+Password     Ver4kPB/teMyo~
+Title         Tree-Huggin Hippy~
+Lastname  the Miniture~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       131
+MDeaths      9
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 16 18 15 10 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 1 16
+Site         207.202.214.132
+Spell        85 'armor'
+Spell        84 'bless'
+Spell        95 'cause serious'
+Spell        95 'continual light'
+Spell        95 'create fire'
+Spell        95 'create food'
+Spell        19 'cure blindness'
+Spell        95 'cure light'
+Spell        91 'detect invis'
+Spell        91 'detect magic'
+Skill        28 'aid'
+Skill        44 'dual wield'
+Skill        19 'kick'
+Skill        60 'scan'
+Skill        19 'search'
+Weapon       86 'bludgeons'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless'  40   0  24 0
+AffectData   'bless'  40   0  18 0
+AffectData   'detect magic'  48   0  26 16
+AffectData   'detect invis'  49   0  26 8
+AffectData   'armor'  30 -20  17 0
+Killed       10300 1
+Killed       10302 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        5
+Values       12 4 11 11 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21082
+Level        9
+Values       7 5 12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        2
+Values       10 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        7
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        4
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2070
+WearLoc      17
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#ALIAS
+Name     waa~
+Commands wear all~
+End
+
+#ALIAS
+Name     ks~
+Commands kill slug~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corpse~
+End
+
+#ALIAS
+Name     curr~
+Commands c 'cure light'~
+End
+
+#ALIAS
+Name     scs~
+Commands scan s~
+End
+
+#ALIAS
+Name     scn~
+Commands scan n~
+End
+
+#ALIAS
+Name     sce~
+Commands scan e~
+End
+
+#ALIAS
+Name     scw~
+Commands scan w~
+End
+
+#ALIAS
+Name     bb~
+Commands exam bag~
+End
+
+#ALIAS
+Name     ab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     gc~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     scd~
+Commands scan d~
+End
+
+#ALIAS
+Name     df~
+Commands drink fountain~
+End
+
+#ALIAS
+Name     nag~
+Commands c 'cause serious' nag~
+End
+
+#ALIAS
+Name     tor~
+Commands c 'continual light'~
+End
+
+#ALIAS
+Name     basic~
+Commands c armor ; c bless ; c 'detect magic' ; c 'detect invis'~
+End
+
+#ALIAS
+Name     emm~
+Commands eat mush~
+End
+
+#ALIAS
+Name     cf~
+Commands c 'create food'~
+End
+
+#ALIAS
+Name     lam~
+Commands c 'cause serious' lam~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin~
+End
+
+#ALIAS
+Name     scu~
+Commands scan up~
+End
+
+#ALIAS
+Name     skel~
+Commands c 'cause serious' skel~
+End
+
+#ALIAS
+Name     ff~
+Commands flee~
+End
+
+#ALIAS
+Name     zom~
+Commands c 'cause serious' zom~
+End
+
+#ALIAS
+Name     fb~
+Commands get skin bag ; fill skin~
+End
+
+#END

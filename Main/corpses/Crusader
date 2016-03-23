@@ -1,0 +1,12 @@
+#CORPSE
+Name         corpse Crusader~
+ShortDescr   the corpse of Crusader~
+Description  The corpse of Crusader is lying here.~
+Vnum         11
+Room         1521
+Timer        39
+Values       0 0 5 1 6 0
+End
+
+#END
+

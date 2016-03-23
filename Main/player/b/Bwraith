@@ -1,0 +1,209 @@
+#PLAYER
+Version      3
+Name         Bwraith~
+Sex          1
+Class        2
+Race         0
+Languages    1 1
+Level        3
+Played       35792
+Room         21064
+HpManaMove   57 52 100 100 230 130
+Gold         8084
+Exp          19203
+Height          61
+Weight          157
+Act          637535864
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen ~
+Mentalstate  0
+Password     BwcSUlnDIQM/c~
+Bestowments  sack sack~
+Title         the Filcher~
+AuthedBy     BloodWraith~
+Flags        164352
+PKills       0
+PDeaths      0
+MKills       50
+MDeaths      1
+IllegalPK    0
+AttrPerm     13 12 13 15 13 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 6 12
+Site         (Link-Dead)
+Skill        17 'dig'
+Skill        95 'dodge'
+Skill        31 'peek'
+Skill        17 'pick lock'
+Skill        17 'standard style'
+Weapon       17 'pugilism'
+Killed       10301 1
+Killed       10303 2
+Killed       10302 4
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 2 2 107 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6507
+Level        1
+Values       0 0 100 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#END

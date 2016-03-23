@@ -1,0 +1,47 @@
+#PLAYER
+Version      3
+Name         Chaotix~
+Sex          1
+Class        1
+Race         12
+Languages    1 1
+Level        2
+Played       2950
+Room         21194
+HpManaMove   26 26 112 112 110 110
+Gold         0
+Exp          1384
+Height          65
+Weight          102
+Act          637535816
+AffectedBy   -2147483632
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    600
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Password     ChqzunnGpN02g~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 14 17 15 11 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 468 -20  17 0
+End
+
+#END

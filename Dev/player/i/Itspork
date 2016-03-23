@@ -1,0 +1,49 @@
+#PLAYER
+Version      3
+Name         ItsPork~
+Sex          1
+Class        7
+Race         10
+Languages    1 1
+Level        2
+Played       3269
+Room         21194
+HpManaMove   37 37 123 123 110 110
+Gold         0
+Exp          1675
+Height          66
+Weight          145
+Act          637535816
+AffectedBy   8
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -44
+Password     ItqEYi1ox3SGY~
+Title         the Understudy of Magic~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 16 15 16 11 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'gith'
+AffectData   'bless' 533   6  18 0
+AffectData   'bless' 533  -6  24 0
+End
+
+#END

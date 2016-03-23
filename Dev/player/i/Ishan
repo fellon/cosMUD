@@ -1,0 +1,239 @@
+#PLAYER
+Version      3
+Name         Ishan~
+Description  ~
+Sex          1
+Class        18
+Race         0
+Species      2
+Languages    1 1
+Level        6
+Played       18810
+Room         1520
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   122 117 135 135 265 165
+Gold         1037786
+Exp          217205
+Height          71
+Weight          163
+Act          570426968
+AffectedBy   2621440
+Position     112
+Style     2
+Practice     28
+SavingThrows 0 0 0 0 0
+Alignment    -38
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     Isx6lwHbD2H/g~
+Title         the Fallen Paladin~
+Lastname ~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       80
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 16 13 15 12 14
+AttrMod      4 4 4 4 4 3 0
+Condition    0 39 39 16
+Site         68.61.192.34
+Tongue       100 'common'
+AffectData   'shield' 814 -20  17 0
+AffectData   'slink' 819   4   2 0
+AffectData   'trollish vigor' 820  -1  25 0
+AffectData   'trollish vigor' 820   4   5 0
+AffectData   'dragon wit' 821   4   3 0
+AffectData   'sagacity' 822   4   4 0
+AffectData   'kindred strength' 824   4   1 0
+AffectData   'elven beauty' 825   4  25 0
+AffectData   'float' 1024   0  26 2097152
+AffectData   'flight' 1024   0  26 524288
+Killed       1537 2
+Killed       1533 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48026
+Level        58
+Values       13 187 138 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'kindred strength'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         25048
+ExtraFlags   573952
+Level        41
+Values       12 13 36 3 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         1537
+Level        9
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         1537
+Level        8
+Values       21 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         1537
+Level        7
+Values       21 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         1540
+WearLoc      13
+Level        6
+Values       1 3 0 0 0 0
+End
+
+#END

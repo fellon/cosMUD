@@ -1,0 +1,62 @@
+#PLAYER
+Version      3
+Name         Graz~
+Sex          1
+Class        6
+Race         9
+Languages    1 1
+Level        2
+Played       321
+Room         10308
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   20 38 109 109 113 113
+Gold         0
+Exp          2794
+Height          59
+Weight          159
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    2
+Mentalstate  -3
+Password     Gr6Eo60hwbfz2~
+Title         the Strider~
+Lastname (null)~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 14 13 14 11 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 45 10
+Site         207.202.214.132
+Weapon       18 'bludgeons'
+Tongue       100 'common'
+Tongue       100 'elvish'
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

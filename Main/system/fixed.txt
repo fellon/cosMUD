@@ -1,0 +1,77 @@
+&g|&G06/25 &g| &G60900&g|  Cyph:  &GFixed the true-sight potion, they were casting at level 9, now cast at 50.
+&g|&G06/26 &g| &G  122&g|  Marten:  &GThe auth program here. Removed rprog ; replaced with oprog on rope.
+&g|&G06/26 &g| &G  122&g|  Marten:  &G...Problem was the rope pulling was not echoing, and not triggering room prog with act_prog p pulls a rope.
+&g|&G06/27 &g| &G21446&g|  Prage:  &Gadded room
+&g|&G06/28 &g| &G 1200&g|  Marten:  &GLocked down the immortal board to > 105
+&g|&G06/28 &g| &G21039&g|  Prage:  &Gadded rprog here. also a level 3 iron bar to the weaponsmith before
+&g|&G06/28 &g| &G21062&g|  Prage:  &Gattempted to add low level weapons to the weaponsmith, failed
+&g|&G06/30 &g| &G 3551&g|  Marten:  &GThis fucking fucking fucking boulder exit for the last fucking time ever.
+&g|&G07/04 &g| &G46375&g|  Marten:  &GCouch description. Vnum 457. Folded swanbrk.are
+&g|&G07/04 &g| &G46375&g|  Marten:  &GAdded Vicomaster as leader of Werewolf Guild.
+&g|&G07/04 &g| &G46375&g|  Marten:  &GAdded a program to this cat Vnum 46263. Folded hitower.are
+&g|&G07/04 &g| &G46278&g|  Marten:  &G2 Storekeepers. 4 Objects. Folded hitower.are
+&g|&G07/05 &g| &G    1&g|  Marten:  &GDeleted "Yakkov's Famous Test Social!". Saved socials.
+&g|&G07/06 &g| &G21001&g|  Marten:  &GDarkhaven guards now open gates upon command. Folded newdark.are
+&g|&G07/06 &g| &G10355&g|  Prage:  &Gadded 'Fighter' class to silvina
+&g|&G07/06 &g| &G  101&g|  Marten:  &GReplaced the "Resort Mud Hostess" with our very own SDFMUD hostess.
+&g|&G07/07 &g| &G    1&g|  Marten:  &GDeleted "talk" social. Was a plug for something called "YakTalk". Please assist in vanishing all references to "Yakkov".
+&g|&G07/07 &g| &G    1&g|  Marten:  &GDeleted "Yakkov" social. heh.
+&g|&G07/08 &g| &G 1200&g|  Cyph:  &GOrder of Chaos' clan hall now makes sure that only clan members can enter.
+&g|&G07/08 &g| &G30306&g|  Prage:  &Gred skull lever in argon's area
+&g|&G07/08 &g| &G 1200&g|  Prage:  &Gseveral items at the order of chaos
+&g|&G07/08 &g| &G 8909&g|  Marten:  &GAttached Werewolf guild here, via rprog.
+&g|&G07/08 &g| &G 1200&g|  Fairburn:  &Gopened BRAVELAND!!
+&g|&G07/09 &g| &G    5&g|  Prage:  &Gadded sign to locker room
+&g|&G07/09 &g| &G    1&g|  Marten:  &GRemoved "yakkov" related help file with Prage. Saved help.are 
+&g|&G07/11 &g| &G  200&g|  Marten:  &GTemporarily set level 101 hard limit on vantower.are
+&g|&G07/11 &g| &G 1200&g|  Marten:  &GBugged get_prog on object #46902. Folded keraptis.are
+&g|&G07/11 &g| &G    1&g|  Marten:  &GGave Prage's drunken builder spec_func_mage. Folded newdark.are
+&g|&G07/13 &g| &G  243&g|  Marten:  &Gs/mptransfer all/mptransfer $n on Nyalub. Will probably break functionality, however until I'm convinced that "mptransfer all" won't lock up the mud, this is how it will stay
+&g|&G07/13 &g| &G  243&g|  Marten:  &GRemoved > 101 on vantower.are; folded vantower.are
+&g|&G07/14 &g| &G 1200&g|  Marten:  &GGave Prilla truesight. Folded exports.are
+&g|&G07/14 &g| &G44951&g|  Marten:  &GFlagged this death trap noastral. Folded arachnos.are. Thanks Andy.
+&g|&G07/15 &g| &G10300&g|  Marten:  &Glitx
+&g|&G07/15 &g| &G10300&g|  Marten:  &GTsythia's rand 100 mpadvance was broken. Changed to an "act_prog" instead; thanks to Metheus for the suggestion.
+&g|&G07/16 &g| &G  106&g|  Marten:  &GAdded *another beep* for the initial newbie Auth request. No need to thank me... folded newgate.are
+&g|&G07/16 &g| &G10306&g|  Marten:  &GAbbigayle now teaches Gnome. Thanks to Metheus again. folded newacad.are
+&g|&G07/18 &g| &G21000&g|  Prage:  &Gchanged berserk level for augurers to 101, from 38(or 48)
+&g|&G07/19 &g| &G 1200&g|  Marten:  &GRewrote pkill help file
+&g|&G07/19 &g| &G14793&g|  Prage:  &Gremoved the corpse of %s here
+&g|&G07/21 &g| &G 1200&g|  Fellon:  &GCorrected a few class files today
+&g|&G07/23 &g| &G 1200&g|  Marten:  &GImmortal board is now read/post lev >=102 for Andy
+&g|&G07/24 &g| &G 1200&g|  Rathkor:  &GUpdated DH gaurds to pick up old equipment on the ground.
+&g|&G07/24 &g| &G 1200&g|  Arbadus:  &GAdded a section to the 'sacrifice' helpfile about DH guard sacrificing
+&g|&G07/25 &g| &G46902&g|  Rathkor:  &Gkeraptis gynosphynx opens passage with the correct vnums
+&g|&G07/26 &g| &G 6003&g|  Prage:  &Gdeleted ninja rabbits
+&g|&G07/26 &g| &G10355&g|  Marten:  &GAdded frock class portal to Silvina. Points at "war" or wherever demons go.
+&g|&G07/26 &g| &G10355&g|  Rathkor:  &GSilvina now transfers unrecognized classes to the warrior hall
+&g|&G07/27 &g| &G24697&g|  Prage:  &Gremoved blood, added mob with book here at aella's request
+&g|&G07/27 &g| &G 3604&g|  Rathkor:  &Ggrave.are now has the appropriate door into chapel catacombs
+&g|&G07/28 &g| &G 1200&g|  Marten:  &GUpdated the help pkill file to reflect Single Item looting rule
+&g|&G07/28 &g| &G21001&g|  Marten:  &GRemoved pkill toggle program from executioner. I though it was gone long ago.
+&g|&G07/28 &g| &G    1&g|  Marten:  &GRemoved deadly flag from Vicomaster. He was guild leader.
+&g|&G07/29 &g| &G  122&g|  Rathkor:  &Gthe rope in newgate.are will now always be in the UP position
+&g|&G07/30 &g| &G 1200&g|  Rathkor:  &Gadded a ninjathat gives quest tokens to anyone who can catch him as part of a quest gods.are
+&g|&G07/30 &g| &G 1200&g|  Rathkor:  &Gbuild a blood fountain gods.are
+&g|&G07/30 &g| &G60351&g|  Arbadus:  &GRearranged the mages guild for hamspiced, moved it across the street 
+&g|&G07/31 &g| &G 1200&g|  Rathkor:  &Gupdated ninja rabbit quest mob and blood fountain
+&g|&G07/31 &g| &G21024&g|  Rathkor:  &Gweaponsmith is tougher, blood fountain in the vampire house
+&g|&G07/31 &g| &G12201&g|  Marten:  &GRemoved stupid mprogs from necro.are; folded. 
+&g|&G07/31 &g| &G12201&g|  Marten:  &GOdeleted Sword of Doom from necro.are ; folded.
+&g|&G07/31 &g| &G12797&g|  Prage:  &Gdeleted act proog
+&g|&G07/31 &g| &G10429&g|  Prage:  &Gchanged chained paladin act prog to a speech prog!
+&g|&G07/31 &g| &G 1200&g|  Rathkor:  &Gadded a generic quest mob to gods.are
+&g|&G08/01 &g| &G30308&g|  Rathkor:  &Gadded an ooc poison fountain staff at mealstrom's request
+&g|&G08/02 &g| &G 1200&g|  Rathkor:  &Gadded an astral room to the OOC hq for Mealstrom and Argon
+&g|&G08/02 &g| &G 1200&g|  Marten:  &GSet mortalize command to level 101
+&g|&G08/02 &g| &G21009&g|  Fairburn:  &Gadded a rapist from the valhalla prison to darkhaven; details see darkhaven board
+&g|&G08/02 &g| &G 1200&g|  Rathkor:  &Gfixed mageblade spell and gave it to ~level 10 for mages, battlemages, and warlocks
+&g|&G08/02 &g| &G 1200&g|  Rathkor:  &Ggave necromantic touch back to necromancers level 50 where it was before
+&g|&G08/02 &g| &G 1200&g|  Rathkor:  &Gpaladin holy symbol is now fixed including all broken paladin spells
+&g|&G08/02 &g| &G 1200&g|  Rathkor:  &Gcrescent dammsg fixed
+&g|&G08/02 &g| &G 1200&g|  Rathkor:  &Gdodge is no longer a secret skill with no teacher, back to normal (i don't know whats up with all the other secret skills but dodge is so essential that fixing at least this one I did)
+&g|&G08/03 &g| &G21002&g|  Marten:  &GRemoved Basuki. Sorry Dewa, he was just killing too many newbies. Tone him down a bit and try again. :)
+&g|&G08/03 &g| &G30303&g|  Marten:  &GAdded OOC note board here. Folded lordrom1.are
+&g|&G08/04 &g| &G24819&g|  Prage:  &Gset valid weapon type for sword of necromancers (12203)
+&g|&G08/04 &g| &G 1234&g|  Prage:  &Gchanged heart of stone possess to charm
+&g|&G08/05 &g| &G 1200&g|  Marten:  &GPeople were using summon to pull out mobs from shoker area. Flagged all rooms nosummon. Folded reign.are

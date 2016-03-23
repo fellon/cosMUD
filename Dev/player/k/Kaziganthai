@@ -1,0 +1,309 @@
+#PLAYER
+Version      3
+Name         Kaziganthai~
+Description  Kaziganthai, also known as Kaz, the comrade of Huma Dragonbane.
+~
+Sex          1
+Class        3
+Race         15
+Languages    1 1
+Level        35
+Played       54477
+Room         24806
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   776 725 110 100 512 542
+Gold         927018
+Exp          45561245
+Height          120
+Weight          363
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     43
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       2351
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     KaqtEmbRf5K4.~
+Title         the Lieutenant~
+Lastname ~
+AuthedBy     Arbadus~
+Prompt       &Y%h/%Hhp &C%m/%Mm &G%v/%Vmv&W %X TNL~
+FPrompt	     &Y%h/%Hhp &C%m/%Mm &G%v/%Vmv&W %X TNL %c~
+Deity	     Borrin~
+Clan         RDAF~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       764
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     19 10 12 11 16 9 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 5 44
+Site         172.154.18.92
+Skill        36 'aid'
+Skill        34 'bash'
+Skill        17 'cook'
+Skill        58 'disarm'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        19 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        90 'lunge'
+Skill        100 'parry'
+Skill        80 'pummel'
+Skill        17 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        90 'shoulder'
+Skill        95 'third attack'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Killed       24803 2
+Killed       24819 1
+Killed       24818 1
+Killed       24822 1
+Killed       24824 1
+Killed       24823 1
+Killed       24835 1
+Killed       21063 1
+Killed       100019 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         42939
+WearLoc      8
+Level        23
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1508
+WearLoc      2
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         24875
+Values       25 4 10 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         7930
+Level        50
+Values       51 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         7930
+Level        50
+Values       50 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        18
+Vnum         7930
+Level        48
+Values       50 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         7930
+Level        48
+Values       50 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         7930
+Level        48
+Values       49 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100017
+WearLoc      16
+Level        14
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Vnum         100017
+WearLoc      18
+Level        14
+Values       12 6 60 2 0 0
+End
+
+#MOBILE
+Vnum	21058
+Room	21018
+Description The black steed snorts as you examine him.  His fine black coat shines
+brightly regardless of light and the warhorse seems as though it could
+run tirelessly for days.
+A neck tag says 'I belong to Kaziganthai'.
+~
+Position 8
+Flags 262403
+EndMobile
+
+#END

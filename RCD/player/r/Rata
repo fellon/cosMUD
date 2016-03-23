@@ -1,0 +1,246 @@
+#PLAYER
+Version      3
+Name         Rata~
+Sex          2
+Class        2
+Race         16
+Languages    1 1
+Level        5
+Played       8955
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   52 47 188 188 167 152
+Gold         20517
+Exp          90784
+Height          22
+Weight          41
+Act          570426952
+AffectedBy   2
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       378
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     RauZAW8.EB7pE~
+Title         the Sneak~
+Lastname (null)~
+AuthedBy     Cyph~
+Deity	     Thirian~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       53
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 15 14 18 9 16 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 4 10
+Site         207.202.214.132
+Skill        41 'backstab'
+Skill        85 'dual wield'
+Skill        17 'hide'
+Skill        80 'kick'
+Skill        17 'pick lock'
+Skill        40 'scan'
+Skill        17 'sneak'
+Skill        29 'steal'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'armor' 311 -20  17 0
+AffectData   'bless' 1022  -6  24 0
+AffectData   'bless' 1022   6  18 0
+Killed       10397 2
+Killed       10396 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+Level        6
+Values       12 3 12 3 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#END

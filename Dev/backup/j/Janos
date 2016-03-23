@@ -1,0 +1,136 @@
+#PLAYER
+Version      3
+Name         Janos~
+Description  ~
+Sex          1
+Class        14
+Race         5
+Species      4
+Languages    1 1
+Level        6
+Played       10139
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   72 116 105 105 165 165
+Gold         9963
+Exp          114230
+Height          53
+Weight          154
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     7
+SavingThrows 0 0 0 0 0
+Alignment    -36
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     JaPnPqgszk36Y~
+Title         the Pincher~
+Lastname  Audron~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       32
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 12 14 16 13 10 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 15
+Site         212.29.117.58
+Skill        31 'backstab'
+Skill        67 'dual wield'
+Skill        68 'enhanced damage'
+Skill        61 'feed'
+Skill        17 'hide'
+Weapon       17 'bludgeons'
+Weapon       17 'pugilism'
+Weapon       33 'short blades'
+Tongue       100 'common'
+Killed       7003 1
+Killed       3501 7
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 12 13 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15137
+Level        1
+Values       10 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         15128
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

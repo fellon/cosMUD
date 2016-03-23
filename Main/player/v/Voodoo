@@ -1,0 +1,125 @@
+#PLAYER
+Version      3
+Name         Voodoo~
+Description  ~
+Sex          1
+Class        3
+Race         23
+Species      4
+Languages    1 1
+Level        22
+Played       84726
+Room         24849
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   374 374 226 226 373 373
+Gold         80509
+Exp          11355929
+Height          67
+Weight          63
+Act          -1577056678
+AffectedBy   1048576
+Position     112
+Style     2
+Practice     22
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       659
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        100
+ICEListen (null)~
+Mentalstate  0
+Password     Voz6HuHWTP5cU~
+Title         the Sergeant~
+Lastname ~
+Bio           
+ 
+~
+AuthedBy     Marten~
+Deity	     Soleran~
+Flags        98818
+PKills       3
+PDeaths      3
+MKills       245
+MDeaths      11
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 13 12 14 12 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 29 2 32
+Site         (Link-Dead)
+Skill        17 'aid'
+Skill        17 'cook'
+Skill        18 'disarm'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        95 'kick'
+Skill        17 'lunge'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        17 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        25 'shoulder'
+Weapon       81 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       17 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Killed       24841 1
+Killed       24816 1
+Killed       24817 1
+Killed       60902 1
+Killed       60901 1
+Killed       60895 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         24894
+Level        7
+Values       2 2 0 0 0 0
+End
+
+#MOBILE
+Vnum	60895
+Room	60916
+Description The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Voodoo'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

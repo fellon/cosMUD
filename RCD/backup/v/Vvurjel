@@ -1,0 +1,419 @@
+#PLAYER
+Version      3
+Name         Vvurjel~
+Description  ~
+Sex          1
+Class        15
+Race         21
+Languages    1 1
+Level        6
+Played       16579
+Room         10319
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   99 94 184 184 265 165
+Gold         46258
+Exp          150318
+Height          85
+Weight          307
+Act          570427000
+AffectedBy   512
+Position     106
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    64
+Mentalstate  0
+Password     VvI35VpfqBFaM~
+Title         the Adept~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       104
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 17 12 11 12 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 24 16
+Site         207.202.214.132
+Spell        95 'cause light'
+Spell        32 'continual light'
+Spell        53 'create food'
+Spell        19 'cure blindness'
+Spell        95 'cure light'
+Spell        36 'cure serious'
+Skill        19 'dual wield'
+Skill        95 'scan'
+Weapon       60 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 494  -3  24 0
+AffectData   'bless' 494   3  18 0
+AffectData   'armor' 205 -20  17 0
+Killed       10302 1
+Killed       10303 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         117
+WearLoc      19
+Level        1
+Values       4 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21070
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21071
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60853
+Values       12 11 7 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60881
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60880
+Level        20
+Values       20 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#ALIAS
+Name     waa~
+Commands wear all~
+End
+
+#ALIAS
+Name     gc~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     drr~
+Commands drop all ; get bag~
+End
+
+#ALIAS
+Name     ds~
+Commands drink spring~
+End
+
+#ALIAS
+Name     df~
+Commands drink fountain~
+End
+
+#ALIAS
+Name     clw~
+Commands c cure self~
+End
+
+#ALIAS
+Name     ks~
+Commands kill slug~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corpse~
+End
+
+#ALIAS
+Name     kc~
+Commands kill crawler~
+End
+
+#ALIAS
+Name     btt~
+Commands buy turkey~
+End
+
+#ALIAS
+Name     ab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     eey~
+Commands get eye ; eat eye~
+End
+
+#ALIAS
+Name     efo~
+Commands get foot ; eat foot~
+End
+
+#ALIAS
+Name     sn~
+Commands scan north~
+End
+
+#ALIAS
+Name     ett~
+Commands get turkey bag ; eat turkey~
+End
+
+#ALIAS
+Name     fs~
+Commands get skin bag ; fill skin ; put skin bag~
+End
+
+#ALIAS
+Name     ehe~
+Commands get head ; eat head~
+End
+
+#ALIAS
+Name     sce~
+Commands scan east~
+End
+
+#ALIAS
+Name     emm~
+Commands eat mush~
+End
+
+#ALIAS
+Name     food~
+Commands c create food~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin~
+End
+
+#ALIAS
+Name     ele~
+Commands get leg ; eat leg~
+End
+
+#ALIAS
+Name     ear~
+Commands get arm ; eat arm~
+End
+
+#ALIAS
+Name     csc~
+Commands c 'cause serious' crawl~
+End
+
+#ALIAS
+Name     csw~
+Commands c 'cure serious' self~
+End
+
+#END

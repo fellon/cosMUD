@@ -1,0 +1,228 @@
+#PLAYER
+Version      3
+Name         Timmeh~
+Description  ~
+Sex          2
+Class        14
+Race         17
+Species      0
+Languages    1 1
+Level        6
+Played       11211
+Room         100035
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   63 63 145 145 265 165
+Gold         20071
+Exp          114557
+Height          28
+Weight          47
+Act          570426984
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  41
+Password     TiWvVP5/uEM4U~
+Title         The Leprechaun Assassin~
+Lastname  Tazzlefoot~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       59
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 13 12 14 9 13 18
+AttrMod      0 0 0 0 0 0 0
+Condition    24 35 35 16
+Site         130.67.239.104
+Skill        47 'backstab'
+Skill        49 'dual wield'
+Skill        42 'enhanced damage'
+Skill        42 'hide'
+Skill        51 'kick'
+Skill        90 'scan'
+Skill        45 'sneak'
+Skill        17 'steal'
+Weapon       37 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'armor' 222 -20  17 0
+AffectData   'change sex' 3262   1   6 0
+Killed       10396 4
+Killed       10300 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         15134
+Level        1
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         20
+Level        1
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        3
+Values       12 2 9 3 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      18
+Level        6
+Values       12 3 11 3 0 0
+End
+
+#OBJECT
+Vnum         21009
+Values       10 1 5 0 0 0
+End
+
+#OBJECT
+Vnum         21422
+Level        35
+End
+
+#END

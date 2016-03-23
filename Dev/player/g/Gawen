@@ -1,0 +1,238 @@
+#PLAYER
+Version      3
+Name         Gawen~
+Description  ~
+Sex          1
+Class        15
+Race         1
+Languages    1 1
+Level        3
+Played       2080
+Room         21185
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   38 36 136 136 226 126
+Gold         3139
+Exp          11347
+Height          60
+Weight          118
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -7
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      7
+Damroll      0
+Armor        40
+Deaf         146833655
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     Gazz3K.wtclcg~
+Title         the Acolyte~
+Lastname (null)~
+AuthedBy     Relgar~
+Prompt       &W(&R%h:%H&zhp &R%m:%M&zhp &R%v:%V&zmv &R%a &G$&R%g &R%X&ztnl &R%k&W)~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       13
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 17 12 14 12 14 15
+AttrMod      4 0 0 0 0 0 0
+Condition    0 27 29 10
+Site         24.88.127.50
+Skill        19 'dual wield'
+Skill        20 'kick'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'kindred strength' 1022   4   1 0
+AffectData   'shield' 1023 -20  17 0
+AffectData   'bless' 964   7  18 0
+AffectData   'bless' 964  -7  24 0
+AffectData   'armor' 172 -20  17 0
+AffectData   'barkskin' 784 -20  17 0
+Killed       10344 1
+Killed       10306 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10320
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10331
+Level        1
+Values       10 176 60 229 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#END

@@ -1,0 +1,313 @@
+#PLAYER
+Version      3
+Name         Warmongor~
+Description  umm hello im new and i have no idea what im doin
+~
+Sex          1
+Class        16
+Race         0
+Languages    1 1
+Level        7
+Played       100360
+Room         21113
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   115 104 144 138 278 178
+Gold         78892
+Exp          321079
+Height          60
+Weight          152
+Act          570426952
+Position     112
+Style     2
+Practice     7
+SavingThrows 0 0 0 0 0
+Alignment    416
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     WaEZ2OP1SYN6.~
+Title         the Seer~
+Lastname ~
+AuthedBy     Arbadus~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       255
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 12 12 12 13 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 20 5 17
+Site         207.202.214.132
+Spell        86 'armor'
+Spell        85 'burning hands'
+Spell        41 'continual light'
+Spell        69 'invis'
+Skill        20 'steal'
+Weapon       95 'long blades'
+Tongue       100 'common'
+Killed       7003 1
+Killed       6102 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21009
+Values       10 10 5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        12
+Values       10 5 16 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6633
+Level        1
+Values       12 1 5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6505
+Level        18
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6504
+Level        18
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6508
+Level        7
+Values       12 2 12 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6518
+Level        23
+Cost         0
+Values       12 2 6 11 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      4
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         6505
+WearLoc      5
+Level        18
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         41802
+WearLoc      13
+Level        7
+Cost         0
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#END

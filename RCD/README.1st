@@ -1,0 +1,35 @@
+This code is based on ResortMUD 4.0 which is derived from SMAUG 1.02 and 1.4.  Most,
+major bugs and mistakes have been repaired and the IMC was upgraded.  We have also
+added a new group of features listed below (Version is Beta):
+
+1.  A character named "Admin" using the password "admin" so that new
+    MUD owners do not have to fiddle with making thier character.
+    This way you make your character and can advance them using Admin.
+    Delete or change the password for "Admin" once you are set up.
+2.  Upgraded to compressed and colorized IMC2-2.00 Gold, uses less resources.
+3.  Fixed a series of bugs that came with the SMAUG 1.4a release as well as bugs
+    which were part of the ResortMUD 4.0 Alpha release.
+4.  Added a webserver option, setable via cset and simply needs
+    to be uncommented in the Makefile and compiled to work.  We should point out
+    depending on your server settings you may get buffer overflows or have a
+    chance of a security breach and do not reccommend it for everyone if new to
+    coding or running a MUD.
+5.  Added some more code which is from ResortMUD 5.0, these include:
+    InterMUD-3			Banking			Updated Immscore
+    Updated Prompts		Updated Fprompts	Lockers
+    Updated Memorization        Simular Help Files
+
+* NOTE: All Users -
+  Do not forget before starting up that the MUD's port, main directory and owner's
+  email must be set in rmstart.
+
+* NOTE: Linux Users -
+  We should mention that after you set the Makefile, rmstart and compile the code
+  that to startup the MUD you must type "./rmstart &" in the src directory.
+
+If you want some information on the ResortMUD series of codebases, goto
+http://www.inetsolve.com/~ucmm/ResortMUD/ or simply search for ResortMUD on any major
+search engine.
+
+We do not guarentee all the bugs are gone, but we can be sure that most anyone with
+experience with code could get this MUD running rather easily.

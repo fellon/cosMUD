@@ -1,0 +1,71 @@
+#PLAYER
+Version      3
+Name         PaiSunder~
+Description  ~
+Sex          1
+Class        20
+Race         22
+Languages    1 1
+Level        5
+Played       20835
+Room         21167
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   91 91 114 114 152 152
+Gold         16332
+Exp          124083
+Height          60
+Weight          108
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     PaY0eCHoaO7jA~
+Title         the Student of the Arts~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       55
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 13 12 18 12 12 17
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 5 13
+Site         65.34.74.41
+Spell        17 'cure light'
+Spell        17 'refresh'
+Skill        17 'cook'
+Skill        17 'dual wield'
+Skill        17 'kick'
+Skill        17 'rescue'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       17 'pugilism'
+Weapon       17 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 372 -20  17 0
+AffectData   'bless' 1051   6  18 0
+AffectData   'bless' 1051  -6  24 0
+Killed       10301 2
+Killed       10397 3
+i3invis	0
+End
+
+#END

@@ -1,0 +1,65 @@
+#PLAYER
+Version      3
+Name         Salvatore~
+Description  ~
+Sex          1
+Class        1
+Race         0
+Species      2
+Languages    1 1
+Level        3
+Played       10630
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   52 52 111 111 126 126
+Gold         5393
+Exp          8128
+Height          66
+Weight          145
+Act          570426952
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Deaf         2
+ICEListen (null)~
+Mentalstate  0
+Password     Sa87Nn9wmZIf.~
+Title         the Layman Brother~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       17
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 11 17 12 12 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 14 13
+Site         (Link-Dead)
+Skill        19 'cook'
+Skill        19 'kick'
+Skill        19 'scan'
+Weapon       19 'bludgeons'
+Weapon       19 'long blades'
+Tongue       100 'common'
+AffectData   'bless' 586  -6  24 0
+AffectData   'bless' 586   6  18 0
+Killed       10344 2
+Killed       10319 4
+i3invis	0
+End
+
+#END

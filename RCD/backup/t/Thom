@@ -1,0 +1,392 @@
+#PLAYER
+Version      3
+Name         Thom~
+Description  ~
+Sex          1
+Class        14
+Race         22
+Species      5
+Languages    1 1
+Level        12
+Played       20599
+Room         21038
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   172 161 124 100 283 243
+Gold         170898
+Exp          1404368
+Height          56
+Weight          128
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1403
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        15
+ICEListen (null)~
+Mentalstate  0
+Password     Thkeeki9g5Cw2~
+Title         the Magsman~
+Lastname  Merrilin~
+AuthedBy     Cyph~
+Prompt       <&R%h&php &B%m&bm &O%X&YTNL> %k~
+FPrompt	     <&R%h&php &B%m&bm>&g%c~
+Deity	     Beshaba~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       272
+MDeaths      4
+ArenaWins    2
+ArenaKills   5
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     12 14 12 16 11 13 16
+AttrMod      1 0 0 0 0 0 0
+Condition    0 3 5 18
+Site         207.202.214.132
+Skill        95 'backstab'
+Skill        17 'cook'
+Skill        30 'disarm'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        85 'hide'
+Skill        90 'kick'
+Skill        94 'pick lock'
+Skill        90 'scan'
+Skill        22 'search'
+Skill        90 'second attack'
+Skill        95 'sneak'
+Skill        17 'steal'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       95 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'kindred strength' 332   1   1 0
+Killed       24838 1
+Killed       24842 2
+Killed       6506 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      4
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         1540
+WearLoc      13
+Level        8
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        8
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        8
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         6635
+WearLoc      12
+Level        3
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        11
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1508
+Level        15
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1509
+Level        15
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        11
+Values       11 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21065
+Level        13
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        13
+Values       10 6 15 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        11
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21066
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6631
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24876
+Values       30 18 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1508
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1535
+Level        13
+Values       12 4 12 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        13
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        6
+Values       12 4 10 11 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         24894
+WearLoc      6
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#END

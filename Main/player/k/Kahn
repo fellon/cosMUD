@@ -1,0 +1,59 @@
+#PLAYER
+Version      3
+Name         Kahn~
+Description  ~
+Sex          1
+Class        8
+Race         9
+Languages    1 1
+Level        2
+Played       4917
+Room         21194
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   37 37 105 105 110 110
+Gold         0
+Exp          1750
+Height          71
+Weight          157
+Act          570426952
+AffectedBy   512
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  -51
+Password     KaeoYzK29NkcU~
+Title         the Keeper of Purity~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 13 14 12 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 171   6  18 0
+AffectData   'bless' 171  -6  24 0
+AffectData   'armor'  20 -20  17 0
+i3invis	0
+End
+
+#END

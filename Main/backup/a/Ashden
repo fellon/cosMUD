@@ -1,0 +1,175 @@
+#PLAYER
+Version      3
+Name         Ashden~
+Description  ~
+Sex          1
+Class        23
+Race         14
+Species      7
+Languages    1 1
+Level        6
+Played       11364
+Room         10386
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   72 62 182 182 165 165
+Gold         50803
+Exp          218508
+Height          41
+Weight          120
+Act          570426952
+AffectedBy   530
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    8
+Susceptible  1
+Mentalstate  0
+Password     Asbd1Ji6e/b82~
+Title         the Mind Apprentice~
+Lastname &C Animaniax&G~
+AuthedBy     Andy~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       114
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 15 14 14 12 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 9 10
+Site         193.226.170.182
+Spell        95 'cause light'
+Spell        60 'detect invis'
+Spell        34 'infravision'
+Spell        77 'invis'
+Skill        30 'dual wield'
+Weapon       34 'short blades'
+Tongue       100 'common'
+Tongue       100 'gnome'
+AffectData   'invis' 158   0   0 2
+Killed       10396 14
+Killed       10397 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      2
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         12203
+Level        16
+Values       1 5 100 20 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 14 0 0 0 0
+End
+
+#END

@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Kurawa~
+Sex          1
+Class        20
+Race         22
+Species      5
+Languages    1 1
+Level        5
+Played       5340
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   35 80 120 120 152 152
+Gold         26381
+Exp          96396
+Height          54
+Weight          126
+Act          570426968
+AffectedBy   512
+Position     104
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -1
+Password     KuIzdY6xB4NwE~
+Title         the Student of the Arts~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       54
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 12 18 12 13 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 14
+Site         202.150.8.237
+Spell        43 'cure light'
+Skill        100 'dual wield'
+Skill        33 'kick'
+Skill        17 'rescue'
+Skill        20 'scan'
+Weapon       17 'long blades'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Killed       10300 1
+Killed       10303 6
+i3invis	0
+End
+
+#ALIAS
+Name     cl~
+Commands c cure~
+End
+
+#END

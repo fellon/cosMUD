@@ -1,0 +1,103 @@
+#PLAYER
+Version      3
+Name         Maegera~
+Sex          2
+Class        2
+Race         4
+Languages    1 1
+Level        2
+Played       841
+Room         10328
+HpManaMove   25 25 140 140 110 110
+Gold         204
+Exp          1811
+Height          22
+Weight          41
+Act          570427000
+AffectedBy   524288
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+Wimpy        5
+ICEListen ~
+Susceptible  16
+Mentalstate  0
+Password     MazHSZqkXjBzg~
+Title         the Footpad~
+Flags        33280
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+IllegalPK    0
+AttrPerm     9 12 13 17 11 18 13
+AttrMod      0 0 0 4 0 0 0
+Condition    0 37 40 10
+Site         65.15.202.112
+Skill        18 'steal'
+Weapon       17 'flexible arms'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 449   3  18 0
+AffectData   'bless' 449  -3  24 0
+AffectData   'slink' 1142   4   2 0
+AffectData   'armor' 465 -20  17 0
+Killed       10331 2
+End
+
+#OBJECT
+Vnum         10322
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       11 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#END

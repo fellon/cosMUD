@@ -1,0 +1,98 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         25537
+Room         327685
+Level        42
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         25512
+Room         327685
+Level        43
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         25512
+Room         327685
+Level        42
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         25512
+Room         327685
+Level        44
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         25513
+Room         327685
+Level        43
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25513
+Room         327685
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25518
+Room         327685
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25518
+Room         327685
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         25514
+Room         327685
+Level        42
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         25515
+Room         327685
+Level        43
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         25515
+Room         327685
+Level        43
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         46902
+Room         327685
+Level        80
+Values       12 23 68 8 0 0
+End
+
+#OBJECT
+Vnum         2317
+Room         327685
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#END

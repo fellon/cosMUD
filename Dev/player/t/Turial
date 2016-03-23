@@ -1,0 +1,110 @@
+#PLAYER
+Version      3
+Name         Turial~
+Sex          1
+Class        6
+Race         0
+Languages    1 1
+Level        2
+Played       1734
+Room         10358
+HpManaMove   36 36 103 103 110 110
+Gold         903
+Exp          2680
+Height          68
+Weight          142
+Act          570426952
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    -281
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        10
+ICEListen ~
+Mentalstate  0
+Password     TuWcfAGbbpfPI~
+Title         the Strider~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       9
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 13 13 14 14 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 25 10
+Site         207.202.214.132
+Weapon       18 'long blades'
+Weapon       18 'short blades'
+Tongue       100 'common'
+AffectData   'armor'  44 -20  17 0
+AffectData   'bless' 1000   6  18 0
+AffectData   'bless' 1000  -6  24 0
+Killed       10325 2
+Killed       10318 2
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

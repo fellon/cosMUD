@@ -1,0 +1,227 @@
+#PLAYER
+Version      3
+Name         Aikon~
+Description  ~
+Sex          1
+Class        1
+Race         5
+Species      0
+Languages    1 1
+Level        20
+Played       46855
+Room         24811
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   170 353 218 218 295 347
+Gold         539577
+Exp          6744714
+Height          55
+Weight          136
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     29
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1285
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        30
+ICEListen (null)~
+Resistant    256
+Mentalstate  -29
+Password     AiGiXHSn6I8MQ~
+Title         the Circler of Blood~
+Lastname  Pariz~
+AuthedBy     Prage~
+Prompt       &WAIKON-&Y(&P%A &G%h&Y/&G%H &R%b&Y/&R%B &B%v&Y/&B%V&Y )~
+FPrompt	     &WAIKON-(&c%A &G%h&W/&G%H &R%b&W/&R%B &B%v&W/&B%V &B%c &W)~
+Deity	     Shar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       359
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 11 17 14 14 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 20
+Site         213.118.153.53
+Spell        94 'armor'
+Spell        78 'bless'
+Spell        95 'blindness'
+Spell        29 'call lightning'
+Spell        19 'cancelation'
+Spell        33 'cause critical'
+Spell        19 'cause light'
+Spell        67 'cause serious'
+Spell        37 'continual light'
+Spell        19 'control weather'
+Spell        47 'create food'
+Spell        21 'create symbol'
+Spell        29 'create water'
+Spell        19 'cure blindness'
+Spell        95 'cure critical'
+Spell        88 'cure light'
+Spell        19 'cure poison'
+Spell        95 'cure serious'
+Spell        50 'curse'
+Spell        68 'detect evil'
+Spell        56 'detect hidden'
+Spell        63 'detect invis'
+Spell        52 'detect magic'
+Spell        19 'detect poison'
+Spell        19 'detect traps'
+Spell        19 'dispel evil'
+Spell        38 'earthquake'
+Spell        72 'faerie fire'
+Spell        21 'faerie fog'
+Spell        81 'flamestrike'
+Spell        39 'flight'
+Spell        70 'float'
+Spell        70 'fortify'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        27 'identify'
+Spell        19 'infravision'
+Spell        19 'know alignment'
+Spell        19 'lethargy'
+Spell        19 'locate object'
+Spell        39 'mass invis'
+Spell        19 'minor invocation'
+Spell        19 'poison'
+Spell        69 'protection'
+Spell        19 'refresh'
+Spell        52 'remove curse'
+Spell        19 'remove trap'
+Spell        47 'sanctuary'
+Spell        26 'summon'
+Spell        19 'word of recall'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        20 'cuff'
+Skill        95 'feed'
+Skill        22 'meditate'
+Skill        50 'second attack'
+Skill        95 'second cast'
+Weapon       95 'bludgeons'
+Weapon       95 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Killed       10302 1
+Killed       10303 1
+Killed       1514 1
+Killed       1502 2
+Killed       1538 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         6505
+WearLoc      5
+Level        19
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        5
+Values       15 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         5110
+WearLoc      17
+Level        19
+Values       10 3 3 144 0 0
+Spell 3      'lightning bolt'
+End
+
+#OBJECT
+Vnum         43
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1535
+Level        14
+Values       12 4 12 3 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        28
+Values       7 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24894
+WearLoc      6
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#END

@@ -1,0 +1,71 @@
+#PLAYER
+Version      3
+Name         WarMisteress~
+Description  ~
+Sex          2
+Class        3
+Race         6
+Species      5
+Languages    1 1
+Level        8
+Played       4497
+Room         10316
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   135 194 100 100 264 191
+Gold         6229
+Exp          547326
+Height          121
+Weight          554
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     18
+SavingThrows 0 0 0 0 0
+Alignment    -5
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    32
+Mentalstate  -7
+Password     Wa/r/4CVTmiM2~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       71
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 12 13 9 16 9 13
+AttrMod      6 6 6 6 6 -1 0
+Condition    0 0 0 10
+Site         207.202.214.132
+Skill        62 'dual wield'
+Skill        100 'enhanced damage'
+Skill        100 'parry'
+Skill        79 'second attack'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Tongue       100 'ogre'
+AffectData   'trollish vigor' 1415  -1  25 0
+AffectData   'trollish vigor' 1415   6   5 0
+AffectData   'sagacity' 1419   6   4 0
+AffectData   'slink' 1421   6   2 0
+AffectData   'kindred strength' 1422   6   1 0
+AffectData   'dragon wit' 1424   6   3 0
+Killed       2107 4
+Killed       2102 1
+i3invis	0
+End
+
+#END

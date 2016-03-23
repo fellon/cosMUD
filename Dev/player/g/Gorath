@@ -1,0 +1,117 @@
+#PLAYER
+Version      3
+Name         Gorath~
+Description  ~
+Sex          1
+Class        16
+Race         5
+Languages    1 1
+Level        2
+Played       12358
+Room         10303
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   49 44 105 105 113 113
+Gold         1219
+Exp          2000
+Height          57
+Weight          142
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     Go77utFgSg31I~
+Title         the Spell Student~
+Lastname (null)~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 12 14 16 14 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 12
+Site         207.202.214.132
+Weapon       19 'long blades'
+Tongue       100 'common'
+Killed       104 1
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         105
+WearLoc      16
+Level        12
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 5 17 3 0 0
+End
+
+#END

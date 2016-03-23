@@ -1,0 +1,124 @@
+#PLAYER
+Version      3
+Name         Grolm~
+Description  ~
+Sex          1
+Class        26
+Race         51
+Species      9
+Languages    1 1
+Level        7
+Played       6251
+Room         10411
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   45 122 100 100 178 178
+Gold         37198
+Exp          241433
+Height          61
+Weight          147
+Act          570426968
+AffectedBy   512
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       21
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Gry1Qgd9sJJIo~
+Title         the Werewolf Cub~
+Lastname ~
+AuthedBy     Marten~
+Deity	     Selune~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       80
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 13 16 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 8 8 10
+Site         207.202.214.132
+Skill        17 'discern'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        82 'hide'
+Skill        49 'howl'
+Skill        45 'kick'
+Skill        30 'nightvision'
+Skill        85 'parry'
+Skill        31 'scan'
+Skill        95 'second attack'
+Skill        41 'sneak'
+Weapon       60 'short blades'
+Tongue       100 'common'
+AffectData   'nightvision'   0   0  26 512
+Killed       10410 1
+Killed       10418 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        4
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        14
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        6
+Values       12 4 10 11 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      18
+Level        6
+Values       12 3 9 11 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+Level        4
+Values       12 3 8 3 0 0
+End
+
+#END

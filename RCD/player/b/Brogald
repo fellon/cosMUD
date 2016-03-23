@@ -1,0 +1,126 @@
+#PLAYER
+Version      3
+Name         Brogald~
+Sex          1
+Class        5
+Race         16
+Species      8
+Languages    1 1
+Level        2
+Played       2341
+Room         10326
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   33 28 126 126 113 113
+Gold         1619
+Exp          3424
+Height          24
+Weight          39
+Act          570427000
+AffectedBy   2
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       54
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     BrfKZRj1iFRfc~
+Title         the Attendant~
+Lastname  CRAZEEEEEE~
+AuthedBy     Andy~
+Deity	     Aoskar~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 15 17 17 9 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 24 38 10
+Site         64.5.68.221
+Spell        19 'armor'
+Spell        19 'continual light'
+Spell        19 'cure light'
+Skill        35 'scan'
+Weapon       19 'bludgeons'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 1164   6  18 0
+AffectData   'bless' 1164  -6  24 0
+AffectData   'armor' 509 -20  17 0
+Killed       10308 2
+Killed       10345 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         126
+WearLoc      16
+Level        1
+Values       12 3 5 7 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

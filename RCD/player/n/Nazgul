@@ -1,0 +1,83 @@
+#PLAYER
+Version      3
+Name         Nazgul~
+Sex          1
+Class        3
+Race         9
+Languages    1 1
+Level        5
+Played       28082
+Room         21069
+HpManaMove   79 79 103 103 140 140
+Gold         36858
+Exp          102832
+Height          66
+Weight          164
+Act          536872538
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    3
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        15
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     NaVGIidW38d.s~
+Title         the Soldier~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       162
+MDeaths      2
+IllegalPK    0
+AttrPerm     16 14 12 13 12 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    41 24 48 15
+Site         207.202.214.132
+Skill        17 'defensive style'
+Skill        95 'enhanced damage'
+Skill        17 'evasive style'
+Skill        85 'kick'
+Skill        85 'parry'
+Skill        17 'standard style'
+Weapon       17 'long blades'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 188 -20  17 0
+AffectData   'bless' 878   6  18 0
+AffectData   'bless' 878  -6  24 0
+Killed       6103 1
+Killed       6102 3
+Killed       6608 2
+Killed       6601 2
+End
+
+#OBJECT
+Vnum         21010
+Values       12 6 4 0 0 0
+End
+
+#OBJECT
+Vnum         21009
+Values       10 6 5 0 0 0
+End
+
+#MOBILE
+Vnum	21059
+Room	9854
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Nazgul'.
+~
+Position 12
+Flags 259
+EndMobile
+#END

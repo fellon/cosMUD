@@ -1,0 +1,336 @@
+#PLAYER
+Version      3
+Name         Finrod~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      2
+Languages    3 1
+Level        60
+Played       357693
+Room         60355
+Memorized		487 0 0 0 0 0 0 0
+HpManaMove   491 491 423 423 867 867
+Gold         238802
+Exp          262576261
+Height          71
+Weight          155
+Act          570426952&4
+Position     112
+Style     2
+Practice     30
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen (null)~
+Mentalstate  -1
+Password     FioA/30vNtCOw~
+Title         the Wizard~
+Extraname &R~
+Lastname  Felagund~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       1456
+MDeaths      67
+ArenaWins    0
+ArenaKills   5
+ArenaDeaths  7
+IllegalPK    0
+AttrPerm     13 16 13 12 10 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 0 70
+Site         210.212.228.77
+Spell        19 'acid blast'
+Spell        29 'antimagic shell'
+Spell        19 'aqua breath'
+Spell        95 'armor'
+Spell        95 'astral walk'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        19 'blindness'
+Spell        19 'blur'
+Spell        81 'burning hands'
+Spell        95 'caustic fount'
+Spell        26 'charm person'
+Spell        95 'chill touch'
+Spell        95 'continual light'
+Spell        26 'create fire'
+Spell        95 'create spring'
+Spell        19 'curse'
+Spell        95 'detect invis'
+Spell        19 'detect magic'
+Spell        64 'disruption'
+Spell        95 'eldritch sphere'
+Spell        29 'enchant weapon'
+Spell        19 'energy drain'
+Spell        19 'ethereal funnel'
+Spell        19 'ethereal shield'
+Spell        56 'extradimensional portal'
+Spell        92 'farsight'
+Spell        19 'fireball'
+Spell        80 'flight'
+Spell        26 'float'
+Spell        95 'galvanic whip'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        19 'infravision'
+Spell        33 'inner warmth'
+Spell        91 'invis'
+Spell        64 'kindred strength'
+Spell        19 'know alignment'
+Spell        92 'lightning bolt'
+Spell        83 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        58 'ogrish hide'
+Spell        55 'pass door'
+Spell        95 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'sagacity'
+Spell        78 'shadowform'
+Spell        21 'shield'
+Spell        39 'shockshield'
+Spell        32 'sleep'
+Spell        19 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        93 'stone skin'
+Spell        95 'summon'
+Spell        61 'teleport'
+Spell        40 'transport'
+Spell        34 'trollish vigor'
+Spell        35 'true sight'
+Spell        19 'valiance'
+Spell        44 'weaken'
+Spell        19 'winter mist'
+Spell        95 'word of recall'
+Skill        31 'aid'
+Skill        19 'brew'
+Skill        60 'cuff'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        28 'trance'
+Weapon       60 'flexible arms'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       48 'elvish'
+Killed       441 1
+Killed       8108 1
+Killed       8105 1
+Killed       8104 2
+Killed       8123 1
+Killed       8110 2
+Killed       8111 3
+Killed       8112 1
+Killed       444 2
+Killed       24827 1
+Killed       48025 1
+Killed       48000 1
+Killed       48020 2
+Killed       440 6
+Killed       438 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         60351
+Level        35
+Values       12 15 105 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         60355
+ExtraFlags   2097152
+Level        40
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         60354
+Values       -75 -75 0 0 0 0
+End
+
+#OBJECT
+Vnum         60354
+Level        45
+Values       -75 -75 0 0 0 0
+End
+
+#ALIAS
+Name     ee~
+Commands exits~
+End
+
+#ALIAS
+Name     pab~
+Commands put all in sack~
+End
+
+#ALIAS
+Name     hm~
+Commands help map~
+End
+
+#ALIAS
+Name     cm~
+Commands cast 'magic missile'~
+End
+
+#ALIAS
+Name     cc~
+Commands cast chill~
+End
+
+#ALIAS
+Name     cg~
+Commands cast galvanic~
+End
+
+#ALIAS
+Name     cw~
+Commands cast weaken~
+End
+
+#ALIAS
+Name     cb~
+Commands cast burning~
+End
+
+#ALIAS
+Name     pp~
+Commands panic~
+End
+
+#ALIAS
+Name     cgg~
+Commands cast gal Welmar~
+End
+
+#ALIAS
+Name     as~
+Commands c caustic~
+End
+
+#ALIAS
+Name     sd~
+Commands c 'magnetic thrust'~
+End
+
+#ALIAS
+Name     cf~
+Commands cast flight~
+End
+
+#ALIAS
+Name     cl~
+Commands cast lightn~
+End
+
+#ALIAS
+Name     pop~
+Commands put all in portal~
+End
+
+#ALIAS
+Name     cd~
+Commands cast disruption~
+End
+
+#ALIAS
+Name     ccs~
+Commands c 'create spring'~
+End
+
+#ALIAS
+Name     ddd~
+Commands ppp;ppp;ppp;ppp;ppp;ppp~
+End
+
+#ALIAS
+Name     cs~
+Commands cast 'spectral furor'~
+End
+
+#ALIAS
+Name     ccf~
+Commands c 'create fire'~
+End
+
+#ALIAS
+Name     ppp~
+Commands dri spri~
+End
+
+#ALIAS
+Name     cpd~
+Commands c 'pass door'~
+End
+
+#ALIAS
+Name     css~
+Commands c sonic~
+End
+
+#ALIAS
+Name     din~
+Commands c 'detect inv'~
+End
+
+#ALIAS
+Name     dma~
+Commands c 'detect magic'~
+End
+
+#ALIAS
+Name     aa~
+Commands c 'black lightning'~
+End
+
+#ALIAS
+Name     rew~
+Commands med;med;med;med~
+End
+
+#ALIAS
+Name     qw~
+Commands c 'true sight'~
+End
+
+#ALIAS
+Name     sss~
+Commands sheal;sheal;sheal;sheal~
+End
+
+#ALIAS
+Name     sheal~
+Commands say heal~
+End
+
+#END

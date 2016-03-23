@@ -1,0 +1,87 @@
+#PLAYER
+Version      3
+Name         Hulk~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      5
+Languages    1 1
+Level        12
+Played       10752
+Room         2101
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   264 292 122 122 243 243
+Gold         14838
+Exp          1601144
+Height          127
+Weight          541
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     11
+SavingThrows 0 0 0 0 -6
+Alignment    528
+Favor	       476
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -15
+Password     HuAbPICSQ2MSU~
+Title         the Private~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       49
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     19 13 12 11 15 8 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        41 'kick'
+Skill        100 'parry'
+Skill        17 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Weapon       17 'long blades'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless' 905   6  18 0
+AffectData   'bless' 905  -6  24 0
+AffectData   'armor' 271 -20  17 0
+Killed       2101 3
+Killed       3501 3
+Killed       2102 3
+i3invis	0
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     pp~
+Commands dri spri~
+End
+
+#END

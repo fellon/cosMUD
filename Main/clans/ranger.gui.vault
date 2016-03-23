@@ -1,0 +1,1167 @@
+#OBJECT
+Vnum         41406
+Level        15
+Values       16 4 4 102 0 0
+Spell 3      'fireball'
+End
+
+#OBJECT
+Vnum         8105
+Level        1
+End
+
+#OBJECT
+Vnum         24802
+Level        33
+Values       12 8 29 7 0 0
+End
+
+#OBJECT
+Vnum         8916
+Level        11
+Values       4 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Vnum         8914
+Level        9
+Values       16 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Vnum         8919
+Level        12
+Values       6 -1 60 165 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Count        3
+Vnum         21025
+End
+
+#OBJECT
+Vnum         41410
+Level        9
+Values       9 1 1 144 0 0
+Spell 3      'lightning bolt'
+End
+
+#OBJECT
+Vnum         48006
+Level        57
+Values       12 7 42 11 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         1521
+Level        7
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Vnum         1521
+Level        9
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Vnum         14716
+Level        45
+Values       12 13 39 8 0 0
+End
+
+#OBJECT
+Vnum         14716
+Level        46
+Values       12 13 42 8 0 0
+End
+
+#OBJECT
+Vnum         14706
+ExtraFlags   514
+Level        49
+Values       11 14 41 0 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         14757
+Level        46
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14739
+Level        49
+Values       53 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         14722
+Level        42
+Values       45 10 10 31 0 0
+Spell 3      'cause critical'
+End
+
+#OBJECT
+Vnum         14727
+Level        43
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         14706
+Level        48
+Values       12 14 40 0 0 0
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       4 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Count        2
+Vnum         60887
+End
+
+#OBJECT
+Vnum         2072
+Level        4
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         14706
+Level        48
+Values       11 16 41 0 0 0
+End
+
+#OBJECT
+Vnum         14709
+Level        53
+Values       55 11 11 88 0 0
+Spell 3      'energy drain'
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         6509
+Level        18
+Values       12 2 14 1 0 0
+End
+
+#OBJECT
+Vnum         2072
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6508
+Level        7
+Values       12 2 12 8 0 0
+End
+
+#OBJECT
+Vnum         1545
+Level        17
+Values       12 7 17 8 0 0
+End
+
+#OBJECT
+Vnum         1545
+Level        15
+Values       12 4 16 8 0 0
+End
+
+#OBJECT
+Vnum         24887
+Level        49
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         2361
+Level        16
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         5017
+Level        11
+Values       12 2 14 3 0 0
+End
+
+#OBJECT
+Vnum         14756
+Level        46
+Values       12 14 41 4 0 0
+End
+
+#OBJECT
+Vnum         15177
+Level        4
+Values       21 9 9 23 0 0
+Spell 3      'blindness'
+End
+
+#OBJECT
+Vnum         41416
+Level        3
+Values       19 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         6518
+Level        17
+Cost         0
+Values       12 2 6 11 0 0
+End
+
+#OBJECT
+Vnum         660
+Level        20
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14745
+Level        46
+Values       12 14 40 3 0 0
+End
+
+#OBJECT
+Vnum         14726
+Level        45
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14726
+Level        47
+Values       9 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14734
+Level        1
+End
+
+#OBJECT
+Vnum         15173
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         14706
+Level        48
+Values       12 14 43 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        27
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         664
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2421
+Level        9
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        30
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        30
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         1544
+Level        17
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         14710
+Level        52
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14710
+Level        52
+Values       13 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14731
+Level        49
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14731
+Level        48
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Values       10 2 5 14 0 0
+End
+
+#OBJECT
+Vnum         8100
+Level        63
+Values       61 100 100 137 0 0
+Spell 3      'invis'
+End
+
+#OBJECT
+Vnum         24510
+Level        49
+Values       11 15 40 6 0 0
+End
+
+#OBJECT
+Vnum         2322
+Level        28
+Values       29 59 59 59 0 0
+Spell 1      'cure light'
+Spell 2      'cure light'
+Spell 3      'cure light'
+End
+
+#OBJECT
+Vnum         14748
+Level        45
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14748
+Level        46
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         3506
+Level        13
+Values       10 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+Level        55
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         662
+Level        20
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Vnum         202
+Level        69
+Values       10 16 16 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Vnum         201
+Level        68
+Values       12 16 16 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Vnum         226
+Level        78
+Values       11 9 -1 -1 0 0
+Spell 1      'aqua breath'
+End
+
+#OBJECT
+Vnum         14722
+Level        42
+Values       45 9 9 31 0 0
+Spell 3      'cause critical'
+End
+
+#OBJECT
+Vnum         2815
+Level        20
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2822
+Level        20
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         48004
+Level        54
+Values       7 8 8 4 0 0
+End
+
+#OBJECT
+Vnum         2852
+Level        22
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2813
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2391
+Level        22
+Values       12 5 15 6 0 0
+End
+
+#OBJECT
+Vnum         201
+Level        69
+Values       11 15 14 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Vnum         26519
+Level        22
+Values       11 3 18 10 0 0
+End
+
+#OBJECT
+Vnum         2853
+Level        49
+End
+
+#OBJECT
+Vnum         2862
+Level        44
+Values       12 12 38 3 0 0
+End
+
+#OBJECT
+Vnum         201
+Level        68
+Values       11 15 15 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Vnum         235
+Level        93
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         42957
+Level        32
+Values       30 1 1 215 0 0
+Spell 3      'true sight'
+End
+
+#OBJECT
+Nest         1
+Vnum         42956
+Level        31
+Values       30 5 5 165 0 0
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         2
+Vnum         42955
+Level        31
+Values       30 6 6 122 0 0
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         30234
+Level        41
+Values       30 10 278 135 0 0
+Spell 1      'armor'
+Spell 2      'fly'
+Spell 3      'infravision'
+End
+
+#OBJECT
+Vnum         6110
+Level        24
+Values       31 138 206 10 0 0
+Spell 1      'kindred strength'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         41409
+Level        1
+Values       12 2 2 -1 0 0
+End
+
+#OBJECT
+Vnum         14726
+Level        42
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14727
+Level        41
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         263
+Level        89
+Values       118 120 0 0 0 0
+End
+
+#OBJECT
+Vnum         14725
+Level        53
+Values       12 17 45 11 0 0
+End
+
+#OBJECT
+Vnum         14726
+Level        54
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14727
+Level        54
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14710
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         42965
+Level        26
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         42972
+Level        28
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21422
+Level        36
+End
+
+#OBJECT
+Count        2
+Vnum         14736
+Level        48
+End
+
+#OBJECT
+Vnum         5018
+Level        9
+Values       12 2 14 3 0 0
+End
+
+#OBJECT
+Vnum         14706
+Level        48
+Values       12 14 41 0 0 0
+End
+
+#OBJECT
+Vnum         15122
+Level        28
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15170
+Level        3
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14724
+Level        54
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14724
+Level        42
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         14724
+Level        44
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         9834
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         42912
+Level        31
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         631
+Level        25
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        100
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Vnum         12596
+Level        42
+Values       11 11 37 8 0 0
+End
+
+#OBJECT
+Vnum         12600
+Level        30
+Values       12 10 27 8 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21422
+Level        1
+End
+
+#OBJECT
+Vnum         12596
+Level        42
+Values       12 14 37 8 0 0
+End
+
+#OBJECT
+Vnum         12525
+Level        46
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         46028
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         12524
+Level        40
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         12500
+Level        54
+Values       10 13 46 3 0 0
+End
+
+#OBJECT
+Vnum         12503
+Level        53
+Values       33 33 0 0 0 0
+End
+
+#OBJECT
+Vnum         12508
+Level        46
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         25046
+Level        41
+Values       32 9 9 131 0 0
+Spell 3      'identify'
+End
+
+#OBJECT
+Vnum         25572
+Values       9 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         7957
+Level        49
+Values       12 10 60 2 0 0
+End
+
+#OBJECT
+Vnum         7957
+Level        47
+Values       12 10 60 2 0 0
+End
+
+#OBJECT
+Vnum         21081
+Level        12
+Values       12 5 15 11 0 0
+End
+
+#OBJECT
+Vnum         14718
+Level        37
+Values       12 10 34 11 0 0
+End
+
+#OBJECT
+Vnum         25049
+Level        43
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         12527
+Level        49
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         2836
+Level        24
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         21422
+Level        35
+End
+
+#OBJECT
+Vnum         48212
+Level        45
+Values       12 6 36 1 0 0
+End
+
+#OBJECT
+Vnum         48211
+Level        45
+Values       46 10 10 196 0 0
+Spell 3      'slink'
+End
+
+#OBJECT
+Vnum         48214
+Level        48
+Values       12 4 40 5 0 0
+End
+
+#OBJECT
+Vnum         48244
+Level        42
+Values       11 5 40 0 0 0
+End
+
+#OBJECT
+Vnum         5232
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         5237
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         3028
+Level        1
+End
+
+#OBJECT
+Vnum         48028
+Level        47
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60965
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60960
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60959
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         5215
+Level        9
+Values       24 87 -1 -1 0 0
+Spell 1      'enchant weapon'
+End
+
+#OBJECT
+Vnum         5215
+Level        7
+Values       23 87 -1 -1 0 0
+Spell 1      'enchant weapon'
+End
+
+#OBJECT
+Vnum         5016
+Level        13
+Values       12 2 16 3 0 0
+End
+
+#OBJECT
+Vnum         48211
+Level        45
+Values       45 11 11 196 0 0
+Spell 3      'slink'
+End
+
+#OBJECT
+Vnum         5252
+Level        8
+Values       12 2 10 11 0 0
+End
+
+#OBJECT
+Vnum         14754
+Level        46
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+Level        37
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+Level        36
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+Level        36
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+Level        36
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14753
+Level        48
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8111
+Level        53
+Values       13 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8111
+Level        58
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         8111
+Level        51
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         8111
+Level        52
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         8111
+Level        52
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         12597
+Level        42
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         267
+Level        90
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         24829
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+Level        43
+Values       -50 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+Level        42
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24828
+Level        42
+Values       1 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+Level        44
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         25027
+Level        29
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         14747
+Level        48
+Values       10 14 42 8 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        74
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Vnum         12595
+Level        41
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         12597
+Level        43
+Values       18 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         263
+Level        87
+Values       120 120 0 0 0 0
+End
+
+#OBJECT
+Vnum         267
+Level        87
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Vnum         234
+Level        93
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         235
+Level        79
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         267
+Level        88
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Vnum         12530
+Level        52
+Cost         0
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         263
+Level        88
+Values       119 120 0 0 0 0
+End
+
+#OBJECT
+Vnum         45340
+Values       125 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         6512
+Level        18
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Count        7
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         238
+Level        89
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         236
+Level        89
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         239
+Level        89
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         24884
+Level        28
+Values       12 10 27 3 0 0
+End
+
+#OBJECT
+Vnum         12595
+Level        43
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         218
+Level        71
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         234
+Level        92
+Values       24 24 0 0 0 0
+End
+
+#OBJECT
+Vnum         48609
+Level        17
+End
+
+#END

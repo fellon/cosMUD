@@ -1,0 +1,49 @@
+#PLAYER
+Version      3
+Name         Jortikka~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        2
+Played       12554
+Room         21194
+HpManaMove   1 42 94 94 64 110
+Gold         12
+Exp          1168
+Height          45
+Weight          151
+Act          570426952
+AffectedBy   512
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    50
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Password     JoscHg4d4hMFs~
+Title         the Recruit~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      14
+IllegalPK    0
+AttrPerm     18 13 14 14 16 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 12
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'armor' 499 -20  17 0
+Killed       7003 1
+Killed       6103 1
+End
+
+#END

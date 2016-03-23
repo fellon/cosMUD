@@ -1,0 +1,187 @@
+#PLAYER
+Version      3
+Name         Ashden~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Species      2
+Languages    1 1
+Level        12
+Played       18815
+Room         24849
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   209 204 148 148 283 243
+Gold         90298
+Exp          1627185
+Height          70
+Weight          139
+Act          570426952&4
+Position     104
+Style     2
+Practice     17
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       890
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Asbd1Ji6e/b82~
+Title         the Strider~
+Lastname &C Animaniax&G~
+AuthedBy     Arbadus~
+Deity	     Shaundakul~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       214
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 13 13 12 13 14 13
+AttrMod      -2 0 0 0 0 0 0
+Condition    0 25 7 21
+Site         193.226.170.182
+Skill        90 'dual wield'
+Skill        90 'kick'
+Skill        23 'track'
+Weapon       18 'long blades'
+Weapon       40 'short blades'
+Tongue       100 'common'
+AffectData   'weaken' 217  -2   1 0
+Killed       24815 1
+Killed       1533 1
+Killed       1538 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      18
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1515
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1503
+Level        4
+Values       12 1 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1505
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1540
+WearLoc      13
+Level        8
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        8
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         1538
+WearLoc      12
+Level        9
+Values       2 4 0 0 0 0
+End
+
+#END

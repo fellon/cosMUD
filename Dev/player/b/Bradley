@@ -1,0 +1,244 @@
+#PLAYER
+Version      3
+Name         Bradley~
+Description  ~
+Sex          1
+Class        0
+Race         12
+Species      0
+Languages    524353 1
+Level        59
+Played       397130
+Room         21042
+Memorized		21000 7954 0 0 0 0 0 0
+HpManaMove   31 381 960 1175 933 854
+Gold         1321764
+Exp          246649855
+Height          69
+Weight          121
+Act          570426944&4
+AffectedBy   -2147483632
+Position     104
+Style     2
+Practice     41
+SavingThrows 0 0 0 0 0
+Alignment    -950
+Favor	       2267
+Balance      0
+Glory        54
+MGlory       54
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        30
+ICEListen (null)~
+Resistant    2
+Password     Br89362W9ddGI~
+Title        ~
+Lastname ~
+Bio          Hello im Bradley,
+I am a sagitarius who enjoys long walks on
+the beach and cuddling by the fire at night
+Theres nothing sexier to me than a Half-Ogre
+warrior fresh from the battle field. I am
+especially fond of Grizzlegom. Hes a little
+fiesty but hes an "animal" if you know what
+I mean...Nib High Football RULES!!!
+Electroshoker, Prince of Cyberspace **** SMITES **** you! [2040]
+~
+AuthedBy     Marten~
+Prompt       <&R%h&php &B%m&bm  &O%X&YTNL> %k~
+FPrompt	     <&R%h&php &B%m&bm>&g%c~
+Deity	     Aoskar~
+Clan         RDAF~
+Flags        360960
+PKills       5
+PDeaths      0
+MKills       1963
+MDeaths      74
+ArenaWins    4
+ArenaKills   26
+ArenaDeaths  24
+IllegalPK    2
+AttrPerm     12 16 15 15 12 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 69
+Site         66.19.161.182
+Spell        95 'acid blast'
+Spell        27 'antimagic shell'
+Spell        36 'aqua breath'
+Spell        95 'armor'
+Spell        19 'black fist'
+Spell        51 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        52 'blazeward'
+Spell        53 'blindness'
+Spell        95 'blur'
+Spell        53 'burning hands'
+Spell        88 'cancelation'
+Spell        95 'caustic fount'
+Spell        95 'charm person'
+Spell        21 'chill touch'
+Spell        19 'colour spray'
+Spell        95 'continual light'
+Spell        19 'control weather'
+Spell        29 'create fire'
+Spell        95 'create spring'
+Spell        62 'curse'
+Spell        86 'demonskin'
+Spell        95 'detect invis'
+Spell        19 'detect magic'
+Spell        29 'detect traps'
+Spell        19 'dispel magic'
+Spell        95 'disruption'
+Spell        81 'dragon wit'
+Spell        82 'dragonskin'
+Spell        65 'dream'
+Spell        40 'eldritch sphere'
+Spell        28 'elven beauty'
+Spell        59 'enchant weapon'
+Spell        69 'energy drain'
+Spell        95 'ethereal fist'
+Spell        34 'ethereal funnel'
+Spell        56 'ethereal shield'
+Spell        60 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        92 'faerie fog'
+Spell        20 'farsight'
+Spell        19 'feather fall'
+Spell        27 'fireball'
+Spell        88 'flight'
+Spell        57 'float'
+Spell        95 'galvanic whip'
+Spell        82 'hand of chaos'
+Spell        81 'iceshield'
+Spell        95 'identify'
+Spell        42 'infravision'
+Spell        46 'inner warmth'
+Spell        54 'invis'
+Spell        95 'kindred strength'
+Spell        42 'knock'
+Spell        22 'know alignment'
+Spell        95 'lightning bolt'
+Spell        61 'liquid skin'
+Spell        93 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        32 'mass invis'
+Spell        83 'ogrish hide'
+Spell        95 'pass door'
+Spell        95 'portal'
+Spell        45 'razorbait'
+Spell        22 'recharge'
+Spell        19 'refresh'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        69 'sagacity'
+Spell        39 'scry'
+Spell        95 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        95 'sleep'
+Spell        84 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        84 'stone skin'
+Spell        95 'summon'
+Spell        54 'swordbait'
+Spell        48 'teleport'
+Spell        58 'transport'
+Spell        89 'trollish vigor'
+Spell        34 'true sight'
+Spell        51 'valiance'
+Spell        95 'ventriloquate'
+Spell        60 'weaken'
+Spell        19 'winter mist'
+Spell        22 'wizard eye'
+Spell        95 'word of recall'
+Skill        24 'aid'
+Skill        19 'brew'
+Skill        19 'cook'
+Skill        24 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        54 'focus'
+Skill        95 'fourth cast'
+Skill        19 'kick'
+Skill        95 'meditate'
+Skill        57 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        19 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       32 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Tongue       99 'gith'
+Tongue       99 'trollese'
+Killed       9908 1
+Killed       24817 2
+Killed       24819 1
+Killed       6502 1
+Killed       6505 1
+Killed       6503 2
+Killed       6504 1
+Killed       6514 4
+Killed       24814 1
+Killed       21052 1
+Killed       21067 2
+Killed       24825 1
+Killed       21062 2
+Killed       21064 2
+Killed       21045 1
+i3invis	0
+End
+
+#ALIAS
+Name     gogal;~
+Commands s; s; s; s; w; n; n; give 100 coins rece; unl n; open n; n~
+End
+
+#ALIAS
+Name     sac;~
+Commands save~
+End
+
+#ALIAS
+Name     look;~
+Commands save~
+End
+
+#ALIAS
+Name     who;~
+Commands save~
+End
+
+#ALIAS
+Name     sleeep;~
+Commands save~
+End
+
+#ALIAS
+Name     sleep;~
+Commands sav~
+End
+
+#ALIAS
+Name     trance;~
+Commands save~
+End
+
+#END

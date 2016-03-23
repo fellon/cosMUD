@@ -1,0 +1,177 @@
+#PLAYER
+Version      3
+Name         Leod~
+Description  ~
+Sex          1
+Class        2
+Race         9
+Languages    1 1
+Level        5
+Played       37335
+Room         21040
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -6 80 112 112 146 152
+Gold         18032
+Exp          60900
+Height          71
+Weight          150
+Act          536872520
+AffectedBy   512
+Position     101
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+Deaf         146833655
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     LeGENCMPLe1ZU~
+Title         the Sneak~
+Lastname (null)~
+AuthedBy     Arbadus~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       41
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 14 13 18 12 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 25 10
+Site         207.202.214.132
+Skill        17 'steal'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10396 7
+Killed       10301 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+WearLoc      11
+Level        5
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        10
+Values       10 2 12 3 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21017
+Values       10 9 10 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21017
+Values       10 8 10 0 0 0
+End
+
+#END

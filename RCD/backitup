@@ -1,0 +1,9 @@
+cd src
+make clean
+cd ../area
+rm core
+cd ..
+rm ../rm.tar.gz
+rm */core
+tar -cvzf ../rm.tar.gz *
+echo "DONE"

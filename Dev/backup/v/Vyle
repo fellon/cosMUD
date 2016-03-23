@@ -1,0 +1,81 @@
+#PLAYER
+Version      3
+Name         Vyle~
+Description  ~
+Sex          1
+Class        11
+Race         29
+Languages    1 1
+Level        14
+Played       25900
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   301 285 160 139 269 269
+Gold         762494
+Exp          1916945
+Height          71
+Weight          406
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2250
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    544
+Susceptible  16
+Mentalstate  0
+Password     VyrMhTLK8AjbM~
+Title         the Young Wolf~
+Lastname  Haight~
+AuthedBy     Cyph~
+Pagerlen     30
+Deity	     Aoskar~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       233
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 11 12 16 13 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 10 15
+Site         4.35.180.6
+Skill        95 'bite'
+Skill        17 'discern'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        82 'hide'
+Skill        61 'howl'
+Skill        20 'nightvision'
+Skill        85 'parry'
+Skill        17 'rescue'
+Skill        34 'scan'
+Skill        95 'second attack'
+Skill        33 'sneak'
+Skill        85 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'long blades'
+Weapon       17 'pugilism'
+Weapon       60 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 341 -20  17 0
+Killed       24815 3
+Killed       24814 3
+Killed       2108 2
+i3invis	0
+End
+
+#END

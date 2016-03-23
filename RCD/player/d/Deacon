@@ -1,0 +1,60 @@
+#PLAYER
+Version      3
+Name         Deacon~
+Description  ~
+Sex          1
+Class        16
+Race         1
+Species      1
+Languages    1 1
+Level        2
+Played       5674
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   18 28 120 120 113 113
+Gold         544
+Exp          4666
+Height          60
+Weight          114
+Act          570426968
+AffectedBy   512
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Password     De1IAFzhKVB3o~
+Title         the Spell Student~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 12 13 17 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 12
+Site         207.202.214.136
+Skill        20 'scan'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       21055 1
+Killed       10345 1
+i3invis	0
+End
+
+#END

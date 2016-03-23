@@ -1,0 +1,340 @@
+#PLAYER
+Version      3
+Name         Zeedep~
+Description  ~
+Sex          0
+Class        12
+Race         19
+Species      1
+Languages    33 1
+Level        22
+Played       115490
+Room         100006
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   182 182 380 662 413 373
+Gold         1463
+Exp          12222364
+Height          71
+Weight          130
+Act          570426968
+Position     112
+Style     2
+Practice     27
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       2424
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen (null)~
+Mentalstate  0
+Password     Ze53MB8HTINiU~
+Title         the Novice Illusionist~
+Lastname  een~
+AuthedBy     Andy~
+Deity	     Beshaba~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       369
+MDeaths      18
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 17 17 14 10 16 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 29
+Site         64.5.68.221
+Spell        19 'aqua breath'
+Spell        95 'armor'
+Spell        95 'bless'
+Spell        70 'blindness'
+Spell        19 'call lightning'
+Spell        20 'cancelation'
+Spell        95 'cause critical'
+Spell        95 'cause light'
+Spell        95 'cause serious'
+Spell        48 'continual light'
+Spell        30 'control weather'
+Spell        19 'create fire'
+Spell        73 'create spring'
+Spell        66 'create water'
+Spell        19 'cure blindness'
+Spell        95 'cure critical'
+Spell        95 'cure light'
+Spell        21 'cure poison'
+Spell        90 'cure serious'
+Spell        35 'curse'
+Spell        95 'detect evil'
+Spell        95 'detect hidden'
+Spell        95 'detect invis'
+Spell        95 'detect magic'
+Spell        19 'detect poison'
+Spell        85 'detect traps'
+Spell        86 'dispel evil'
+Spell        19 'dream'
+Spell        95 'earthquake'
+Spell        21 'elven beauty'
+Spell        95 'faerie fire'
+Spell        43 'faerie fog'
+Spell        95 'fireball'
+Spell        95 'flamestrike'
+Spell        95 'flight'
+Spell        79 'float'
+Spell        95 'harm'
+Spell        88 'heal'
+Spell        95 'identify'
+Spell        95 'infravision'
+Spell        95 'invis'
+Spell        42 'kindred strength'
+Spell        19 'know alignment'
+Spell        95 'lightning bolt'
+Spell        19 'locate object'
+Spell        86 'magic missile'
+Spell        19 'mass invis'
+Spell        44 'poison'
+Spell        80 'protection'
+Spell        19 'refresh'
+Spell        19 'remove curse'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        75 'scry'
+Spell        95 'shocking grasp'
+Spell        49 'weaken'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        19 'disarm'
+Skill        19 'dual wield'
+Skill        80 'enhanced damage'
+Skill        20 'kick'
+Skill        19 'rescue'
+Skill        60 'scan'
+Skill        38 'search'
+Skill        95 'second attack'
+Skill        73 'sneak'
+Weapon       95 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       30 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Tongue       11 'orcish'
+Killed       42922 1
+Killed       3000000 2
+Killed       42909 8
+Killed       42926 6
+Killed       42908 10
+Killed       42924 5
+i3invis	0
+End
+
+#ALIAS
+Name     aa~
+Commands cast 'armor' ~
+End
+
+#ALIAS
+Name     xx~
+Commands cast 'cure light'~
+End
+
+#ALIAS
+Name     vv~
+Commands cast 'heal'~
+End
+
+#ALIAS
+Name     asdf~
+Commands cast 'cause light' wolf~
+End
+
+#ALIAS
+Name     gg~
+Commands cast 'cause serious'~
+End
+
+#ALIAS
+Name     a1~
+Commands cast 'armor' tibi~
+End
+
+#ALIAS
+Name     war~
+Commands nonono %1~
+End
+
+#ALIAS
+Name     ee~
+Commands cast 'earthquake'~
+End
+
+#ALIAS
+Name     din~
+Commands cast 'detect invis'~
+End
+
+#ALIAS
+Name     tt~
+Commands get r b ; put rec 2.ru~
+End
+
+#ALIAS
+Name     foo~
+Commands cast 'blindness' gn~
+End
+
+#ALIAS
+Name     dm~
+Commands cast 'detect magic' ~
+End
+
+#ALIAS
+Name     inf~
+Commands cast 'infravision'~
+End
+
+#ALIAS
+Name     wrec~
+Commands cast 'word of recall'~
+End
+
+#ALIAS
+Name     dd~
+Commands cast 'detect evil'~
+End
+
+#ALIAS
+Name     wre~
+Commands cast 'word of recall'~
+End
+
+#ALIAS
+Name     mm~
+Commands cast 'cause light'~
+End
+
+#ALIAS
+Name     dt~
+Commands cast 'detect traps'~
+End
+
+#ALIAS
+Name     jj~
+Commands cast 'lightning bolt'~
+End
+
+#ALIAS
+Name     eb~
+Commands cast 'elven beauty'~
+End
+
+#ALIAS
+Name     cc~
+Commands cast 'cure critical'~
+End
+
+#ALIAS
+Name     bb~
+Commands cast 'harm'~
+End
+
+#ALIAS
+Name     ii~
+Commands cast 'invis'~
+End
+
+#ALIAS
+Name     pp~
+Commands cast 'protection'~
+End
+
+#ALIAS
+Name     ll~
+Commands cast 'shocking grasp'~
+End
+
+#ALIAS
+Name     nn~
+Commands cast 'cause critical'~
+End
+
+#ALIAS
+Name     ss~
+Commands cast 'bless'~
+End
+
+#ALIAS
+Name     ww~
+Commands cast 'create spring'~
+End
+
+#ALIAS
+Name     kk~
+Commands cast 'fireball'~
+End
+
+#ALIAS
+Name     yy~
+Commands cast 'curse' lady~
+End
+
+#ALIAS
+Name     ppo~
+Commands cast 'poison' chief~
+End
+
+#ALIAS
+Name     hh~
+Commands cast 'flamestrike'~
+End
+
+#ALIAS
+Name     dp~
+Commands cast 'detect poison'~
+End
+
+#ALIAS
+Name     can~
+Commands cast 'cancelation'~
+End
+
+#ALIAS
+Name     dh~
+Commands cast 'detect hidden'~
+End
+
+#ALIAS
+Name     ff~
+Commands cast 'flight'~
+End
+
+#ALIAS
+Name     scry~
+Commands cast 'scry'~
+End
+
+#ALIAS
+Name     ppp~
+Commands cast 'cure poison' ky~
+End
+
+#ALIAS
+Name     uu~
+Commands cast 'dispel evil' lam~
+End
+
+#ALIAS
+Name     ks~
+Commands cast 'kindred strength'~
+End
+
+#END

@@ -1,0 +1,538 @@
+#PLAYER
+Version      3
+Name         Quicksilver~
+Description  ~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        35
+Played       123348
+Room         24853
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   702 825 110 100 657 542
+Gold         355053
+Exp          47382240
+Height          111
+Weight          332
+Act          570427000&4
+AffectedBy   512
+Position     106
+Style     2
+Practice     44
+SavingThrows 0 0 0 0 0
+Alignment    925
+Favor	       1836
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        100
+ICEListen (null)~
+Mentalstate  -1
+Password     Qu6ydaMOYDaZs~
+Title         the Lieutenant~
+Lastname ~
+AuthedBy     Rathkor~
+Deity	     Aoskar~
+Flags        98818
+PKills       1
+PDeaths      2
+MKills       352
+MDeaths      9
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 12 11 15 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 23 0 45
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        71 'bash'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        17 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        17 'lunge'
+Skill        100 'parry'
+Skill        17 'pummel'
+Skill        17 'rescue'
+Skill        17 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        89 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Killed       24819 1
+Killed       24816 1
+Killed       24818 1
+Killed       24815 1
+Killed       24817 2
+Killed       15117 2
+Killed       15110 1
+Killed       15103 1
+Killed       15101 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        32
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         7224
+WearLoc      12
+Level        5
+Cost         0
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        5
+Values       11 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         1508
+WearLoc      1
+Level        13
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        13
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        33
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7221
+WearLoc      11
+Level        4
+Cost         0
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        32
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        57
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        57
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        12
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        12
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        13
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15147
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15145
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15143
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15142
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15141
+Level        27
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15140
+Level        28
+Values       12 9 27 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15143
+Level        29
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15123
+Level        31
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15120
+Level        31
+Values       5 3 7 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15128
+Level        35
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15129
+Level        1
+Values       10 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         15128
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         15161
+Level        2
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 9 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15148
+Level        20
+Values       11 8 21 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15148
+Level        19
+Values       12 6 19 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 6 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       52 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        3
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         21014
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       62 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        18
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       12 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        10
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         15122
+WearLoc      13
+Level        32
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       12 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21007
+Level        5
+Values       5 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         60909
+Level        2
+Values       19 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         60909
+Level        2
+Values       18 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         7303
+Level        59
+Cost         0
+Values       12 6 3 187 0 0
+Spell 3      'sanctuary'
+End
+
+#ALIAS
+Name     mm~
+Commands elbow~
+End
+
+#ALIAS
+Name     ll~
+Commands headbutt~
+End
+
+#ALIAS
+Name     kk~
+Commands kick~
+End
+
+#ALIAS
+Name     pp~
+Commands shoulder~
+End
+
+#ALIAS
+Name     bb~
+Commands bash~
+End
+
+#END

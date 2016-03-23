@@ -1,0 +1,501 @@
+#PLAYER
+Version      3
+Name         Cleo~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      5
+Languages    1572885 1
+Level        58
+Played       229074
+Room         8148
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1522 1502 264 214 841 841
+Gold         74286
+Exp          221519521
+Height          114
+Weight          574
+Act          570426968&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     107
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       -1103
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     ClV/.p6iblEQA~
+Title         the Lieutenant-Commander~
+Extraname &B~
+Lastname &R Dioulle &w~
+Bio          Cleo is a MUD addict
+~
+AuthedBy     Andy~
+Prompt       < &Y%hhp &B%mmp &R%X TNL &w> &g~
+Deity	     Azuth~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       956
+MDeaths      25
+ArenaWins    2
+ArenaKills   2
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     19 13 10 11 16 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 36 16 68
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        73 'bash'
+Skill        17 'cook'
+Skill        23 'disarm'
+Skill        35 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        20 'grip'
+Skill        90 'headbutt'
+Skill        17 'hitall'
+Skill        95 'kick'
+Skill        43 'lunge'
+Skill        100 'parry'
+Skill        80 'pummel'
+Skill        34 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        25 'search'
+Skill        95 'second attack'
+Skill        69 'shoulder'
+Skill        85 'stun'
+Skill        95 'third attack'
+Skill        81 'track'
+Weapon       23 'bludgeons'
+Weapon       69 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       10 'dwarven'
+Tongue       10 'gith'
+Tongue       8 'gnome'
+Tongue       10 'ogre'
+Tongue       100 'trollese'
+Killed       8128 1
+Killed       8129 2
+Killed       8131 1
+Killed       8103 1
+Killed       8105 5
+Killed       8116 2
+Killed       8119 6
+Killed       8110 3
+Killed       8127 10
+Killed       8115 5
+Killed       24837 3
+Killed       24835 1
+Killed       24836 1
+Killed       24841 1
+Killed       24838 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         7219
+WearLoc      9
+Level        17
+Cost         0
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        60
+Values       50 20 20 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        59
+Values       50 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21140
+Level        30
+Values       30 138 -1 -1 0 0
+Spell 1      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Count        14
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         24828
+Level        43
+Values       -50 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24858
+Level        44
+Values       11 12 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 7 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 4 10 0 0 0
+End
+
+#OBJECT
+Vnum         7223
+WearLoc      10
+Level        42
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         46282
+WearLoc      14
+Level        18
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+WearLoc      16
+Level        50
+Values       12 13 43 11 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        31
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        17
+Values       4 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         7220
+WearLoc      6
+Level        42
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+WearLoc      5
+Level        31
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        44
+Values       11 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        44
+Values       11 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        32
+Values       4 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         100017
+WearLoc      18
+Level        13
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21017
+Values       10 2 10 0 0 0
+End
+
+#OBJECT
+Vnum         8112
+Level        56
+Values       11 15 48 0 0 0
+End
+
+#ALIAS
+Name     wtr~
+Commands get dra sac;drink water;put dra sac~
+End
+
+#ALIAS
+Name     eam~
+Commands get meat sac; eat meat~
+End
+
+#ALIAS
+Name     kc~
+Commands kick~
+End
+
+#ALIAS
+Name     xz~
+Commands exam carrier~
+End
+
+#ALIAS
+Name     gb~
+Commands get beef port~
+End
+
+#ALIAS
+Name     scr~
+Commands get scr; put scr port~
+End
+
+#ALIAS
+Name     pb~
+Commands get key ; put key port~
+End
+
+#ALIAS
+Name     sup~
+Commands supp uplift~
+End
+
+#ALIAS
+Name     zs~
+Commands supp uplift~
+End
+
+#ALIAS
+Name     br~
+Commands b bread ; put bread port~
+End
+
+#ALIAS
+Name     zb~
+Commands b dra ;put dra port~
+End
+
+#ALIAS
+Name     zm~
+Commands get mil port; dr mil; put mil port~
+End
+
+#ALIAS
+Name     hm~
+Commands help map~
+End
+
+#ALIAS
+Name     zp~
+Commands dr sp;dr sp;dr sp;dr sp;dr sp~
+End
+
+#ALIAS
+Name     ss~
+Commands get visor car; sell visor~
+End
+
+#ALIAS
+Name     ee~
+Commands elbo;elbo;elbo;elbo~
+End
+
+#ALIAS
+Name     zd~
+Commands disarm;disarm;disarm;disarm~
+End
+
+#ALIAS
+Name     zg~
+Commands get all corpse ; wear all~
+End
+
+#ALIAS
+Name     zr~
+Commands roundhouse~
+End
+
+#ALIAS
+Name     zl~
+Commands lunge~
+End
+
+#ALIAS
+Name     zc~
+Commands supp corpse~
+End
+
+#ALIAS
+Name     za~
+Commands sc;sc;sc;sc;sc;sc;sc;sc;sc;sc;sc;sc;sc;sc;sc;sc~
+End
+
+#ALIAS
+Name     pp~
+Commands pray;pray;pray;pray;pray;pray~
+End
+
+#ALIAS
+Name     bb~
+Commands b rec; put rec car~
+End
+
+#ALIAS
+Name     qp~
+Commands pummel;elbow;pummel;elbow;pummel;elbow;pummel;elbow~
+End
+
+#ALIAS
+Name     att~
+Commands bash;ee;bash;ee;bash;ee;bash;ee~
+End
+
+#ALIAS
+Name     hh~
+Commands headbutt;headbutt;headbutt;headbutt;headbutt~
+End
+
+#ALIAS
+Name     ww~
+Commands stun ;stun;stun;stun;stun;stun~
+End
+
+#ALIAS
+Name     nn~
+Commands stun~
+End
+
+#ALIAS
+Name     aa~
+Commands hitall;hitall;hitall;hitall~
+End
+
+#ALIAS
+Name     yy~
+Commands track cambion~
+End
+
+#ALIAS
+Name     dem~
+Commands track demer~
+End
+
+#ALIAS
+Name     tr~
+Commands track xion~
+End
+
+#ALIAS
+Name     tt~
+Commands track cambion~
+End
+
+#ALIAS
+Name     oo~
+Commands track orcus~
+End
+
+#END

@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Oppen~
+Sex          1
+Class        4
+Race         11
+Languages    1 1
+Level        2
+Played       3970
+Room         10303
+HpManaMove   30 30 112 112 110 110
+Gold         0
+Exp          2000
+Height          61
+Weight          100
+Act          570426952
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    256
+Mentalstate  0
+Password     Op0iYbZd6GzTQ~
+Title         the Blood Student~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 14 14 18 12 9 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

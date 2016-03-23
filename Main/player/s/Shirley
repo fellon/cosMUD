@@ -1,0 +1,881 @@
+#PLAYER
+Version      3
+Name         Shirley~
+Description  Crazed and unstable are the best descriptors for this girl's
+appearance. You should watch your back around her.
+~
+Sex          2
+Class        6
+Race         0
+Species      0
+Languages    1 1
+Level        37
+Played       128206
+Room         10305
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   4672 31860 1048 262 2081 581
+Gold         1019680
+Exp          52975683
+Height          61
+Weight          139
+Act          537003592&4
+Position     104
+Style     4
+Practice     63
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen ~
+Mentalstate  0
+Password     Sh.y55iRIw07E~
+Bestowments  immtalk cast quantum grasp~
+Title         the Attacker~
+Lastname ~
+Flags        360450
+PKills       3
+PDeaths      0
+MKills       872
+MDeaths      7
+ArenaWins    0
+ArenaKills   2
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 13 12 18 13 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 26 30 47
+Site         205.200.61.156
+Spell        18 'aqua breath'
+Spell        83 'armor'
+Spell        18 'barkskin'
+Spell        42 'bless'
+Spell        18 'charm person'
+Spell        20 'continual light'
+Spell        18 'control weather'
+Spell        18 'create fire'
+Spell        18 'create spring'
+Spell        71 'create water'
+Spell        18 'cure blindness'
+Spell        23 'cure critical'
+Spell        76 'cure light'
+Spell        31 'cure poison'
+Spell        21 'detect evil'
+Spell        40 'detect invis'
+Spell        18 'detect magic'
+Spell        18 'detect poison'
+Spell        18 'dream'
+Spell        30 'faerie fire'
+Spell        18 'fletch'
+Spell        75 'identify'
+Spell        31 'infravision'
+Spell        50 'invis'
+Spell        35 'kindred strength'
+Spell        85 'poison'
+Spell        44 'refresh'
+Spell        18 'remove invis'
+Spell        52 'shield'
+Spell        43 'word of recall'
+Skill        29 'aid'
+Skill        90 'climb'
+Skill        95 'cook'
+Skill        95 'cuff'
+Skill        95 'dig'
+Skill        90 'disarm'
+Skill        90 'dual wield'
+Skill        80 'elbow'
+Skill        75 'enhanced damage'
+Skill        27 'hide'
+Skill        90 'kick'
+Skill        90 'mount'
+Skill        18 'pick lock'
+Skill        34 'pigeon'
+Skill        18 'rescue'
+Skill        65 'roundhouse'
+Skill        90 'scan'
+Skill        90 'search'
+Skill        90 'second attack'
+Skill        80 'shoulder'
+Skill        49 'sneak'
+Skill        90 'third attack'
+Skill        90 'track'
+Weapon       80 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       85 'long blades'
+Weapon       32 'missile weapons'
+Weapon       90 'pugilism'
+Weapon       40 'short blades'
+Weapon       95 'talonous arms'
+Tongue       99 'common'
+Tongue       99 'dwarven'
+Tongue       99 'elvish'
+Tongue       99 'gith'
+Tongue       99 'goblin'
+Tongue       99 'halfling'
+Tongue       99 'ogre'
+Tongue       99 'orcish'
+Tongue       99 'pixie'
+Tongue       99 'trollese'
+Killed       24836 1
+Killed       24835 1
+Killed       15107 1
+Killed       15125 1
+Killed       15114 1
+Killed       15120 4
+Killed       15121 2
+Killed       15101 1
+Killed       15116 3
+Killed       15115 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        9
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         3500
+WearLoc      19
+Level        5
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+WearLoc      8
+Level        7
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2419
+WearLoc      5
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        8
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2424
+WearLoc      1
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2431
+ExtraFlags   256
+Level        1
+Values       65 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2417
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2417
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2417
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2424
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6511
+Level        18
+End
+
+#OBJECT
+Nest         1
+Vnum         2109
+Level        12
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6511
+Level        19
+End
+
+#OBJECT
+Nest         1
+Vnum         24884
+Level        28
+Values       12 11 27 3 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       1000 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2418
+Level        10
+Values       30 122 10 175 0 0
+Spell 1      'heal'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        13
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         2418
+Level        8
+Values       31 122 10 175 0 0
+Spell 1      'heal'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1542
+Level        12
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         2418
+Level        9
+Values       31 122 10 175 0 0
+Spell 1      'heal'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2417
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1542
+Level        12
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         2415
+Level        7
+Values       15 6 6 165 0 0
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Count        15
+Vnum         9845
+Level        6
+Values       2 66 67 68 0 0
+Spell 1      'detect hidden'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        10
+Values       17 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        12
+Values       14 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         6507
+Level        1
+Values       0 0 73 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         36
+End
+
+#OBJECT
+Nest         1
+Vnum         36
+Values       0 1 1 0 0 0
+ExtraDescr   _to_~ All~
+ExtraDescr   _subject_~ Hit list~
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1542
+Level        10
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Count        50
+Vnum         21004
+Level        6
+Values       23 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        10
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         2422
+Level        10
+Values       1 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        10
+Values       1 2 2 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2422
+Level        9
+Values       1 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        12
+Values       1 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        10
+Values       2 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        8
+Values       1 2 2 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        9
+Values       1 2 2 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         814
+Level        18
+Values       21 175 -1 -1 0 0
+Spell 1      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        5
+Values       15 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         7207
+Level        10
+Values       19 8 8 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         7207
+Level        10
+Values       20 7 7 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         21004
+Level        6
+Values       22 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        10
+Vnum         21000
+Level        12
+Values       24 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21000
+Level        12
+Values       25 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        5
+Values       15 2 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 2 2 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 2 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         9845
+Level        6
+Values       1 66 67 68 0 0
+Spell 1      'detect hidden'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         1
+Vnum         21068
+Values       10 2 7 14 1 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21085
+Level        1
+Values       12 2 6 14 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21085
+Level        1
+Values       12 1 6 14 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21085
+Level        1
+Values       12 3 5 14 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2435
+Level        1
+Values       2 68 109 10 0 0
+Spell 1      'detect magic'
+Spell 2      'flight'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         2462
+Level        2
+Values       15 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         2462
+Level        2
+Values       13 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Count        10
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        4
+Values       15 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         6510
+Level        16
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2862
+Level        37
+Values       12 27 81 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        31
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        24
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         2424
+WearLoc      2
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         60953
+Level        100
+Values       6 3 12 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       82 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         2462
+Level        2
+Values       15 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       82 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         2462
+Level        2
+Values       12 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2862
+Level        37
+Values       12 27 79 3 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      14
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15145
+WearLoc      9
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         15144
+WearLoc      7
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15122
+WearLoc      13
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      15
+Level        27
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         15166
+WearLoc      6
+Level        35
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24884
+Level        29
+Values       12 8 28 3 0 0
+End
+
+#OBJECT
+Vnum         46939
+WearLoc      16
+Values       12 300 300 3 0 0
+End
+
+#OBJECT
+Vnum         46939
+WearLoc      18
+Values       12 300 300 3 0 0
+End
+
+#OBJECT
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#COMMENT
+sender	Relgar~
+date  	Mon Apr 15 04:09:22 2002~
+to     	~
+subject	~
+text
+testing of the comment system
+&R this is a nice idea &w
+that is all folks
+~
+#COMMENT
+sender	Rathkor~
+date  	Fri Apr  5 21:11:05 2002~
+to     	~
+subject	PKilling~
+text
+Had complaints from Dragonshoker/Tyrael (iirc) that Shirley was
+trying to illeagally pkill them. Don't know what hapenned but said I'd write
+up a comment in case it happens again.
+~
+#COMMENT
+sender	Rathkor~
+date  	Fri Apr  5 21:17:19 2002~
+to     	~
+subject	Oops~
+text
+Oops that's Tyrael that reported it said he was with Dragon.
+~
+#COMMENT
+sender	Rathkor~
+date  	Fri Apr  5 21:35:08 2002~
+to     	~
+subject	Explaination~
+text
+~
+#COMMENT
+sender	Rathkor~
+date  	Fri Apr  5 21:44:45 2002~
+to     	~
+subject	Oops again~
+text
+Weird the text went into my note not my comment...here it is again:
+ 1> " last week I was just role playing and both him and nezuke sta
+ 2> rted swearing (at this poing I had not touched either of them) "
+ 3>
+ 4> Shriley says she was angry becaues Tyrael was swearing on a public channel
+ 5> and that is why she attacked. *shrug*
+~
+#END

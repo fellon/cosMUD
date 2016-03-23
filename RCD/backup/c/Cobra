@@ -1,0 +1,247 @@
+#PLAYER
+Version      3
+Name         Cobra~
+Description  ~
+Sex          1
+Class        17
+Race         20
+Species      8
+Languages    1 1
+Level        2
+Played       2162
+Room         21113
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -4 40 113 113 113 113
+Gold         411130
+Exp          2230
+Height          98
+Weight          834
+Act          570426968
+AffectedBy   512
+Position     102
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Susceptible  64
+Mentalstate  0
+Password     Co3CffLATi4Sk~
+Title         the Page~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        65538
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 13 15 10 16 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 27 28 10
+Site         207.202.214.132
+Tongue       100 'common'
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         36
+Level        1
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Level        1
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10316
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+WearLoc      17
+Level        1
+Values       4 2 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#END

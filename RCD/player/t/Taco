@@ -1,0 +1,256 @@
+#PLAYER
+Version      3
+Name         Taco~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      0
+Languages    1 1
+Level        30
+Played       153202
+Room         693
+Memorized		100033 0 0 0 0 0 0 0
+HpManaMove   812 707 173 158 477 477
+Gold         687494
+Exp          28619373
+Height          122
+Weight          548
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     34
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       -2333
+Balance      0
+Glory        20
+MGlory       20
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        80
+ICEListen (null)~
+Mentalstate  -1
+Password     TasUUSW42xLgo~
+Title        &c is now selling the Grilled Stuft Burrito~
+Lastname  Bell~
+Bio          You pray to the great Wedgy God, to bring his wrath down on the Executioner.
+A spectral hand descends from above and grabs ahold of the Executioner's
+underwear. Fabric tearing and loud screaming echo as
+ the hand yanks upward with unearthly strength.
+You wink suggestively at the Executioner.
+The Executioner winks suggestively at you
+ as you open your eyes again you find yourself
+naked
+~
+AuthedBy     Prage~
+Deity	     Bane~
+Clan         RDAF~
+Flags        360704
+PKills       0
+PDeaths      3
+MKills       563
+MDeaths      37
+ArenaWins    3
+ArenaKills   6
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     19 14 12 11 15 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 0 40
+Site         67.217.179.5
+Skill        17 'aid'
+Skill        17 'bash'
+Skill        17 'cook'
+Skill        24 'disarm'
+Skill        55 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        19 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        17 'lunge'
+Skill        100 'parry'
+Skill        59 'pummel'
+Skill        17 'rescue'
+Skill        26 'roundhouse'
+Skill        45 'scan'
+Skill        24 'search'
+Skill        95 'second attack'
+Skill        25 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'trollese'
+Killed       634 3
+Killed       600 1
+Killed       21064 2
+Killed       632 2
+Killed       631 1
+Killed       623 3
+Killed       603 1
+Killed       1534 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         21071
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        7
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         664
+WearLoc      5
+Level        20
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         6504
+WearLoc      16
+Level        18
+Values       10 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         635
+WearLoc      9
+Level        23
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         659
+WearLoc      10
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         638
+WearLoc      13
+Level        27
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         632
+WearLoc      6
+Level        24
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         662
+WearLoc      18
+Level        20
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        20
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         657
+WearLoc      8
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         656
+WearLoc      7
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         627
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         630
+Level        18
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         621
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#END

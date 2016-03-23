@@ -1,0 +1,363 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Count        2
+Vnum         2106
+Room         327685
+Level        5
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         5216
+Room         327685
+Level        14
+Values       14 65 67 68 0 0
+Spell 1      'detect evil'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Vnum         5215
+Room         327685
+Level        23
+Values       23 87 -1 -1 0 0
+Spell 1      'enchant weapon'
+End
+
+#OBJECT
+Count        2
+Vnum         10314
+Room         327685
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         611
+Room         327685
+Level        1
+Cost         0
+Values       20 20 10 0 0 0
+End
+
+#OBJECT
+Vnum         61007
+Room         327685
+End
+
+#OBJECT
+Vnum         60963
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60959
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60961
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         14737
+Room         327685
+Level        51
+Values       52 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         21006
+Room         327685
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Vnum         644
+Room         327685
+Level        31
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7219
+Room         327685
+Level        5
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14750
+Room         327685
+Level        51
+Values       12 13 43 3 0 0
+End
+
+#OBJECT
+Vnum         14749
+Room         327685
+Level        51
+Values       12 14 45 3 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10314
+Room         327685
+Values       15 9 0 0 0 0
+End
+
+#OBJECT
+Count        8
+Vnum         21007
+Room         327685
+Level        5
+Values       4 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Count        2
+Vnum         21007
+Room         327685
+Level        5
+Values       6 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         260
+Room         327685
+Level        72
+Values       73 22 193 -1 0 0
+Spell 1      'bless'
+Spell 2      'shockshield'
+End
+
+#OBJECT
+Vnum         106
+Room         327685
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10317
+Room         327685
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25541
+Room         327685
+Level        44
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         61010
+Room         327685
+End
+
+#OBJECT
+Vnum         100014
+Room         327685
+Level        58
+Values       12 15 49 0 0 0
+End
+
+#OBJECT
+Vnum         42937
+Room         327685
+Level        24
+Cost         0
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2447
+Room         327685
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+Room         327685
+Level        7
+Values       7 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2413
+Room         327685
+Level        10
+Values       12 5 12 1 0 0
+End
+
+#OBJECT
+Vnum         2111
+Room         327685
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         15122
+Room         327685
+Level        31
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         42920
+Room         327685
+Level        25
+Values       12 8 25 2 0 0
+End
+
+#OBJECT
+Vnum         42928
+Room         327685
+Level        36
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42978
+Room         327685
+Level        25
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21
+Room         327685
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+Room         327685
+Level        63
+Values       12 18 53 11 0 0
+End
+
+#OBJECT
+Vnum         8101
+Room         327685
+Level        55
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14749
+Room         327685
+Level        51
+Values       12 14 43 3 0 0
+End
+
+#OBJECT
+Vnum         42924
+Room         327685
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         42912
+Room         327685
+Level        29
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24819
+Room         327685
+ExtraFlags   2646
+Level        44
+Values       50 5 5 40 0 0
+Spell 3      'chill touch'
+End
+
+#OBJECT
+Vnum         42979
+Room         327685
+Level        38
+Values       12 11 34 7 0 0
+End
+
+#OBJECT
+Vnum         42957
+Room         327685
+Level        35
+Values       31 2 2 215 0 0
+Spell 3      'true sight'
+End
+
+#OBJECT
+Vnum         42956
+Room         327685
+Level        35
+Values       30 5 5 165 0 0
+Spell 3      'poison'
+End
+
+#OBJECT
+Vnum         42955
+Room         327685
+Level        35
+Values       29 5 5 122 0 0
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         662
+Room         327685
+Level        34
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         42981
+Room         327685
+Level        32
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42934
+Room         327685
+Level        21
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42921
+Room         327685
+Level        26
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+ShortDescr   7000000 gold coins~
+Vnum         3
+Room         327685
+Values       7000000 0 0 0 0 0
+End
+
+#END

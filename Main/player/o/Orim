@@ -1,0 +1,368 @@
+#PLAYER
+Version      3
+Name         Orim~
+Description  ~
+Sex          2
+Class        1
+Race         10
+Species      10
+Languages    1 1
+Level        19
+Played       41930
+Room         24811
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   361 331 360 360 374 334
+Gold         526509
+Exp          5527846
+Height          70
+Weight          147
+Act          570427000
+AffectedBy   8
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     OrH08Uoa9zsCA~
+Title        &C <&c<&C<&WSamite Healer&C>&c>&C>&w~
+Lastname ~
+AuthedBy     Rathkor~
+Prompt       <&R%h&php &B%m&bm &O%X&YTNL> %k~
+FPrompt	     <&R%h%php &B%m&bm>&g%c~
+Deity	     Tyr~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       264
+MDeaths      13
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 14 15 15 12 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 46 21 28
+Site         67.217.179.49
+Spell        64 'armor'
+Spell        32 'benediction'
+Spell        38 'bless'
+Spell        19 'blindness'
+Spell        48 'call lightning'
+Spell        19 'cancelation'
+Spell        49 'cause critical'
+Spell        69 'cause light'
+Spell        41 'cause serious'
+Spell        19 'continual light'
+Spell        62 'control weather'
+Spell        28 'create food'
+Spell        19 'create symbol'
+Spell        19 'create water'
+Spell        19 'cure blindness'
+Spell        95 'cure critical'
+Spell        95 'cure light'
+Spell        19 'cure poison'
+Spell        95 'cure serious'
+Spell        23 'curse'
+Spell        23 'detect evil'
+Spell        30 'detect hidden'
+Spell        26 'detect invis'
+Spell        21 'detect magic'
+Spell        19 'detect poison'
+Spell        19 'detect traps'
+Spell        19 'dispel evil'
+Spell        95 'earthquake'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        95 'flamestrike'
+Spell        31 'flight'
+Spell        19 'float'
+Spell        24 'fortify'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        59 'identify'
+Spell        19 'infravision'
+Spell        19 'know alignment'
+Spell        29 'lethargy'
+Spell        19 'locate object'
+Spell        19 'major invocation'
+Spell        19 'mass invis'
+Spell        27 'minor invocation'
+Spell        19 'poison'
+Spell        19 'protection'
+Spell        19 'refresh'
+Spell        19 'remove curse'
+Spell        19 'remove trap'
+Spell        28 'sanctuary'
+Spell        19 'summon'
+Spell        48 'word of recall'
+Skill        19 'aid'
+Skill        19 'cuff'
+Skill        95 'meditate'
+Skill        43 'scan'
+Skill        20 'search'
+Skill        95 'second cast'
+Weapon       95 'bludgeons'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'gith'
+AffectData   'armor'   1 -20  17 0
+Killed       10303 12
+Killed       10300 12
+Killed       10301 11
+Killed       10302 14
+i3invis	0
+End
+
+#OBJECT
+Vnum         1505
+WearLoc      11
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      3
+Level        13
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21424
+WearLoc      16
+Level        12
+Values       12 7 15 7 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21082
+Level        12
+Values       7 4 15 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         13046
+Level        15
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         13046
+Level        17
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8916
+Level        10
+Values       3 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8914
+Level        11
+Values       17 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         647
+Level        33
+Values       10 5 30 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         636
+Level        25
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         637
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         638
+Level        24
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         624
+Level        25
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         625
+Level        25
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21071
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         13036
+WearLoc      5
+Level        12
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        14
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        13
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        13
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        14
+Values       1 4 0 0 0 0
+End
+
+#END

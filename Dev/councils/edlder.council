@@ -1,0 +1,11 @@
+#COUNCIL
+Name         Elder Council~
+Filename     edlder.council~
+Description  The Members of the Elder Council are called on to Vote on large changes to the MUD.~
+Head         Fellon~
+Members      5
+Board        0
+Meeting      0
+End
+
+#END

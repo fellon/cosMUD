@@ -1,0 +1,57 @@
+#PLAYER
+Version      3
+Name         Malum~
+Description  ~
+Sex          0
+Class        0
+Race         4
+Languages    1 1
+Level        12
+Played       166617
+Room         1200
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   59 103 145 145 220 220
+Gold         449492
+Exp          1663750
+Height          26
+Weight          36
+Act          570426968
+Position     106
+Style     4
+Practice     24
+SavingThrows 0 0 0 0 0
+Alignment    4
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        3
+ICEListen ~
+Susceptible  16
+Mentalstate  -3
+Password     MaeM93cd1HUgU~
+Title         the Enchanter~
+Lastname ~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       545
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 15 13 16 11 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 22
+Site         (Link-Dead)
+Killed       1531 1
+Killed       1527 1
+i3invis	0
+End
+
+#END

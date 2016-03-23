@@ -1,0 +1,53 @@
+#PLAYER
+Version      3
+Name         Gallahad~
+Sex          1
+Class        5
+Race         13
+Languages    1 1
+Level        2
+Played       794
+Room         10306
+HpManaMove   30 33 102 102 110 110
+Gold         0
+Exp          2000
+Height          73
+Weight          202
+Act          570426952
+AffectedBy   -2147483648
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    64
+Mentalstate  0
+Password     GavSanEkNpDeo~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 12 14 15 14 10 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 40 32 10
+Site         (Link-Dead)
+Tongue       100 'common'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

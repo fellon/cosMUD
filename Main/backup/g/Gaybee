@@ -1,0 +1,75 @@
+#PLAYER
+Version      3
+Name         Gaybee~
+Description  ~
+Sex          1
+Class        17
+Race         2
+Species      0
+Languages    1 1
+Level        4
+Played       8175
+Room         10396
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   66 66 114 114 139 139
+Gold         2203
+Exp          40177
+Height          48
+Weight          141
+Act          570426968
+AffectedBy   369107592
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       169
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      16
+Damroll      10
+Armor        100
+ICEListen (null)~
+Mentalstate  -26
+Password     GapwL/2tfbdTg~
+Title         the Page~
+Lastname  turn~
+AuthedBy     Rathkor~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       8
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 13 10 13 12 14
+AttrMod      7 0 0 0 7 6 0
+Condition    0 0 28 10
+Site         66.19.165.42
+Skill        86 'dual wield'
+Weapon       18 'short blades'
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'bless'  79   6  18 0
+AffectData   'bless'  79  -6  24 0
+AffectData   'detect invis' 2106   0  26 8
+AffectData   'divine intervention'   5  10  18 128
+AffectData   'divine intervention'   5  10  19 8192
+AffectData   'fireshield' 124   0  26 33554432
+AffectData   'shockshield'  29   0  26 67108864
+AffectData   'iceshield' 126   0  26 268435456
+AffectData   'kindred strength' 2162   7   1 0
+AffectData   'trollish vigor' 2163  -1  25 0
+AffectData   'trollish vigor' 2163   7   5 0
+AffectData   'elven beauty' 2164   7  25 0
+AffectData   'change sex' 23660  -1   6 0
+Killed       10396 6
+Killed       10302 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Xanraxymal~
+Description  ~
+Sex          1
+Class        0
+Race         11
+Languages    1 1
+Level        7
+Played       12171
+Room         21168
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   78 78 232 232 178 178
+Gold         18399
+Exp          276595
+Height          60
+Weight          100
+Act          536872536
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    -147
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -44
+Password     XajN4A8jhi43Q~
+Title         the Apprentice Mage~
+Lastname (xan)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       61
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 16 11 14 14 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 0 10
+Site         65.32.124.96
+Spell        19 'armor'
+Spell        95 'black hand'
+Spell        94 'burning hands'
+Spell        19 'detect magic'
+Spell        19 'invis'
+Spell        19 'trollish vigor'
+Spell        23 'word of recall'
+Skill        45 'scan'
+Skill        23 'search'
+Weapon       93 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 365 -20  17 0
+Killed       10396 4
+Killed       10301 2
+i3invis	0
+End
+
+#END

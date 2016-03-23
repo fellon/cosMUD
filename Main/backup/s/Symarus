@@ -1,0 +1,188 @@
+#PLAYER
+Version      3
+Name         Symarus~
+Description  ~
+Sex          1
+Class        25
+Race         14
+Species      7
+Languages    1 1
+Level        6
+Played       18514
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   72 72 198 198 265 165
+Gold         38484
+Exp          154265
+Height          44
+Weight          99
+Act          570426952
+AffectedBy   528
+Position     104
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    8
+Susceptible  1
+Mentalstate  -1
+Password     Sydd1qtgUu8vI~
+Title         the Mind Apprentice~
+Lastname  is~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       85
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 15 13 14 11 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 12 10
+Site         207.202.214.132
+Spell        95 'cause light'
+Spell        19 'detect invis'
+Spell        56 'faerie fire'
+Spell        19 'invis'
+Skill        30 'dual wield'
+Skill        19 'scan'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Weapon       48 'short blades'
+Tongue       100 'common'
+Tongue       100 'gnome'
+Killed       10301 1
+Killed       10396 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        3
+Values       102 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        10
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        10
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 6 10 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      18
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#END

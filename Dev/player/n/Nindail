@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Nindail~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        4
+Played       8893
+Room         21101
+HpManaMove   64 67 94 94 124 130
+Gold         17567
+Exp          39682
+Height          55
+Weight          127
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -63
+Password     Nibt4xUiKKKcY~
+Title         the Fighter~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       73
+MDeaths      1
+IllegalPK    0
+AttrPerm     18 14 15 11 15 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Skill        17 'aggressive style'
+Skill        17 'defensive style'
+Skill        95 'enhanced damage'
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'bless' 408   6  18 0
+AffectData   'bless' 408  -6  24 0
+Killed       10396 5
+Killed       10301 2
+Killed       10300 2
+End
+
+#END

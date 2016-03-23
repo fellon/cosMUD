@@ -1,0 +1,516 @@
+#AREA   Generic Mobs and Objects~
+
+
+
+#VERSION 1
+#AUTHOR ResortMUD~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 31250000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#29000
+chain mail~
+some %s chain mail~
+A suit of chain mail lies on the ground.~
+~
+9 524288&4 9 2
+0 0 0 0
+8 5000 500
+A
+27 32
+A
+17 -5
+#29001
+plate mail~
+some %s plate mail~
+A suit of plate mail lays on the ground.~
+~
+9 524288&4 9 4
+0 0 0 0
+10 10000 1000
+A
+27 16
+A
+17 -10
+#29002
+ring mail~
+some %s ring mail~
+A suit of ring mail is lying here.~
+~
+9 524288 9 6
+0 0 0 0
+5 3000 300
+A
+27 64
+#29003
+vest~
+%s vest~
+A %s vest lies crumpled on the ground.~
+~
+9 262144 9 1
+0 0 0 0
+1 200 20
+#29004
+helm~
+%s helm~
+A %s helm sits on the ground.~
+~
+9 524288 17
+0 0 0 0
+1 1000 100
+#29005
+greathelm helm~
+%s greathelm~
+A %s greathelm sits here.~
+~
+9 524288 17
+0 0 0 0
+3 2000 200
+A
+17 -5
+#29006
+bracer~
+%s bracer~
+A %s bracer lies on the ground.~
+~
+9 0 4097
+0 0 0 0
+1 500 50
+#29007
+belt~
+%s belt~
+A %s belt is laying on the ground.~
+~
+9 262144 2049 2
+0 0 0 0
+1 1000 100
+#29008
+boots~
+pair of %s boots~
+A pair of %s boots is sitting here.~
+~
+9 262144 65 2
+0 0 0 0
+1 500 50
+#29009
+shod boots~
+pair of %s-shod boots~
+A pair of %s-shod boots is sitting here.~
+~
+9 557056 65 2
+0 0 0 0
+1 2500 250
+#29010
+girth~
+%s girth~
+A girth is laying on the ground.~
+~
+9 524288 2049 4
+0 0 0 0
+1 2000 200
+#29011
+gloves~
+pair of %s gloves~
+A pair of gloves is laying here.~
+~
+9 262144 129 1
+0 0 0 0
+1 500 50
+#29012
+gauntlets~
+pair of %s gauntlets~
+A pair of gauntlets is laying here.~
+~
+9 557056 129 2
+0 0 0 0
+1 2000 200
+#29013
+robes~
+some %s robes~
+Robes are laying in a pile on the ground.~
+~
+9 262144 1025 1
+0 0 0 0
+1 500 50
+#29014
+cloak~
+%s cloak~
+A %s cloak has been left on the ground.~
+~
+9 262144 1025 2
+0 0 0 0
+1 1000 100
+#29015
+briefs~
+pair of %s briefs~
+A set of briefs has been discarded here.~
+~
+9 262144 33 1
+0 0 0 0
+1 500 50
+#29016
+leggings~
+pair of %s leggings~
+A pair of leggings is lying here.~
+~
+9 262144 33 2
+0 0 0 0
+1 1000 100
+#29017
+socks~
+pair of %s socks~
+A pair of socks lays on the ground.~
+~
+9 262144 65 1
+0 0 0 0
+1 200 20
+#29018
+greaves~
+set of %s greaves~
+A set of greaves has been left here.~
+~
+9 524288 33 4
+0 0 0 0
+1 3000 300
+#29019
+collar~
+%s collar~
+A %s collar has been left here.~
+~
+9 0 5
+0 0 0 0
+1 100 10
+#29020
+ring~
+%s ring~
+A %s ring has been dropped here.~
+~
+9 524288 3
+0 0 0 0
+1 1000 100
+#29021
+anklet~
+%s anklet~
+An anklet has been dropped here.~
+~
+9 0 2097153
+0 0 0 0
+1 1000 100
+#29022
+sleeves~
+pair of %s sleeves~
+A pair of sleeves is crumpled on the ground.~
+~
+9 262144 257 1
+0 0 0 0
+1 500 50
+#29023
+vambraces~
+set of %s vambraces~
+A set of vambraces has been left here.~
+~
+9 524288 257 2
+0 0 0 0
+1 2000 200
+#29024
+mask~
+%s mask~
+A %s mask has been left here.~
+~
+9 0 1048577
+0 0 0 0
+1 2000 200
+#29025
+visor~
+%s visor~
+A %s visor has been dropped here.~
+~
+9 524288 131073
+0 0 0 0
+1 1000 100
+#29026
+buckler~
+%s buckler~
+A %s buckler is laying on the ground.~
+~
+9 524288 513
+0 0 0 0
+1 500 50
+#29027
+small shield~
+small %s shield~
+A small %s shield has been left here.~
+~
+9 524288 513
+0 0 0 0
+3 1000 100
+A
+17 -5
+#29028
+large shield~
+large %s shield~
+A large %s shield has been left here.~
+~
+9 524288 513
+0 0 0 0
+5 2000 200
+A
+17 -10
+#29029
+knife~
+%s knife~
+A %s knife has been dropped here.~
+~
+5 524288 8193
+0 3 3 2
+1 500 50
+#29030
+dagger~
+%s dagger~
+A %s dagger has been dropped here.~
+~
+5 524288 8193
+0 4 4 11
+2 1000 100
+#29031
+dirk~
+%s dirk~
+A %s dirk has been dropped here.~
+~
+5 524288 8193
+0 5 5 11
+3 1500 150
+#29032
+short sword~
+%s short sword~
+A %s short sword has been dropped here.~
+~
+5 524288 8193
+0 6 6 1
+9 2000 200
+#29033
+long sword~
+%s long sword~
+A %s long sword has been dropped here.~
+~
+5 524288 8193
+0 7 7 3
+12 3000 300
+#29034
+bastard sword~
+%s bastard sword~
+A %s bastard sword has been dropped here.~
+~
+5 524288 8193
+0 8 8 3
+15 4000 400
+#29035
+great sword~
+%s great sword~
+A %s great sword has been dropped here.~
+~
+5 524288 8193
+0 9 9 0
+18 5000 500
+#29036
+mace~
+%s mace~
+A %s mace is laying here.~
+~
+5 524288 8193
+0 6 5 7
+8 1000 100
+#29037
+great mace~
+%s great mace~
+A %s great mace has been dropped here.~
+~
+5 524288 8193
+0 7 7 8
+15 5000 500
+#29038
+hand axe~
+%s hand axe~
+A %s hand axe has been dropped here.~
+~
+5 524288 8193
+0 3 9 1
+5 1000 100
+#29039
+battle axe~
+%s battle axe~
+A %s battle axe has been dropped here.~
+~
+5 524288 8193
+0 6 10 0
+16 2000 200
+#29040
+great axe~
+%s great axe~
+A %s great axe has been dropped here.~
+~
+5 0 0
+0 0 0 0
+1 0 0
+#29041
+spear~
+%s spear~
+A %s spear is laying on the ground.~
+~
+5 557056 8193
+0 5 10 11
+14 1000 100
+#29042
+halberd~
+%s halberd~
+A %s halberd is laying here.~
+~
+5 524288 8193
+0 10 10 1
+23 10000 1000
+#29043
+whip~
+%s whip~
+A whip lies coiled on the ground.~
+~
+5 262144 8193
+0 10 4 4
+5 1500 150
+#29044
+hook~
+%s hook~
+A %s hook is laying on the ground.~
+~
+5 524288 8193
+0 12 3 5
+5 1000 100
+#29045
+crossbow bow~
+%s crossbow~
+A %s crossbow has been left here.~
+~
+56 0 262145
+0 0 0 13
+10 20000 2000
+#29046
+bolt~
+%s crossbow bolt~
+A %s bolt for a crossbow is laying here.~
+~
+57 524288 1
+0 0 0 13
+1 100 10
+#29047
+long bow~
+%s long bow~
+A %s long bow has been left here.~
+~
+56 0 262145
+0 0 0 14
+1 9000 900
+#29048
+arrow~
+%s arrow~
+A %s arrow for a bow is laying here.~
+~
+57 524288 1
+0 0 0 14
+1 50 5
+#29049
+pistol~
+%s pistol~
+A pistol is lying on the ground.~
+~
+56 524288 262145
+0 0 0 6
+1 15000 1500
+#29050
+bullet~
+%s bullet~
+A %s bullet was left here.~
+~
+57 524288 1
+0 0 0 6
+1 200 20
+#29051
+hammer~
+%s hammer~
+A %s hammer is laying here.~
+~
+5 524288 8193
+0 7 6 8
+12 5000 500
+#29052
+cape~
+%s cape~
+A %s cape has been left here.~
+~
+9 262144 1025 4
+0 0 0 0
+1 1000 100
+#29053
+cap~
+%s cap~
+A %s cap is laying here.~
+~
+9 0 17
+0 0 0 0
+1 300 30
+#29054
+bracelet~
+%s bracelet~
+%s bracelet is laying here.~
+~
+9 524288 4097
+0 0 0 0
+1 0 0
+#29099
+raw %s material ore~
+a lump of iron ore~
+A small black lump of iron ore lies in the corner here.~
+~
+13 524288 1
+10 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#29000
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

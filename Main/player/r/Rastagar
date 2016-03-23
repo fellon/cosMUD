@@ -1,0 +1,128 @@
+#PLAYER
+Version      3
+Name         Rastagar~
+Sex          1
+Class        9
+Race         32
+Species      3
+Languages    1 1
+Level        2
+Played       678
+Room         10314
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   37 35 116 116 113 113
+Gold         1501
+Exp          2000
+Height          355
+Weight          2059
+Act          570426968
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    128
+Susceptible  4
+Mentalstate  0
+Password     RaujR6.I.Ci7.~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 13 13 12 15 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 46 46 10
+Site         66.72.232.78
+Spell        100 'dragon wit'
+Tongue       100 'common'
+Killed       104 2
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

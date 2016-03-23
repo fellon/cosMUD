@@ -1,0 +1,307 @@
+#PLAYER
+Version      3
+Name         Hejmar~
+Description  ~
+Sex          1
+Class        3
+Race         1
+Species      0
+Languages    1 1
+Level        33
+Played       82863
+Room         24853
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   571 425 577 516 616 516
+Gold         733173
+Exp          39726144
+Height          61
+Weight          110
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     39
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -1
+Password     HeTO4mHfykkpQ~
+Title         the Lieutenant~
+Lastname &g Chronom1 &g^~
+Bio          Hello, My Name is hejmar. My freeshell screenname is chronom1
+.s
+~
+AuthedBy     Arbadus~
+Clan         Guild of Warriors~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       532
+MDeaths      20
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     14 15 13 13 12 16 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 29 13 41
+Site         207.202.214.132
+Skill        34 'aid'
+Skill        42 'bash'
+Skill        17 'cook'
+Skill        35 'disarm'
+Skill        18 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        17 'grip'
+Skill        90 'headbutt'
+Skill        81 'kick'
+Skill        47 'lunge'
+Skill        100 'parry'
+Skill        20 'pummel'
+Skill        17 'rescue'
+Skill        23 'roundhouse'
+Skill        45 'scan'
+Skill        21 'search'
+Skill        95 'second attack'
+Skill        64 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       24816 4
+Killed       24820 2
+Killed       24819 8
+Killed       24818 5
+Killed       24837 6
+Killed       10303 1
+Killed       21064 1
+Killed       21066 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         271
+Level        69
+Values       600 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60953
+Level        100
+Values       6 1 12 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        14
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         654
+WearLoc      5
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         3507
+WearLoc      20
+Level        15
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         41429
+WearLoc      16
+Level        28
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        37
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         24818
+ExtraFlags   64
+Level        34
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14750
+Level        50
+Values       12 13 44 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21069
+Level        14
+Values       10 4 15 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         24803
+Level        37
+Values       10 9 32 1 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21055
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21072
+Level        15
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14749
+Level        51
+Values       11 14 45 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         6504
+Level        18
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5105
+Level        22
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15166
+WearLoc      6
+Level        32
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         127
+WearLoc      18
+Level        1
+Values       12 2 6 3 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         636
+WearLoc      10
+Level        23
+Values       8 8 0 0 0 0
+End
+
+#MOBILE
+Vnum	21058
+Room	21193
+Description The black steed snorts as you examine him.  His fine black coat shines
+brightly regardless of light and the warhorse seems as though it could
+run tirelessly for days.
+A neck tag says 'I belong to Hejmar'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

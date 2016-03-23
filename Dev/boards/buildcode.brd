@@ -1,0 +1,95 @@
+Sender  Prage~
+Date    Thu Jun 27 20:54:43 2002~
+To      All~
+Subject Town planning~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+As may be noticed, darkhaven is getting a face lift.
+Input is appreciated, which is why this board has been added here,
+so if anyone would like to see changes to darkhaven post the idea here.
+~
+
+Sender  Aella~
+Date    Tue Jul  2 18:33:04 2002~
+To      All~
+Subject City~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+-Keep existing VNUMS with similar functions so we don't break areas that
+depend on them for invoking std mobs or trasferring to certain spots.
+- Put in a room with a locker flag.
+- Leave the general street layout the same (newbies get lost enough already)
+- Keep it simple
+~
+
+Sender  Trespin~
+Date    Fri Jul 26 12:03:50 2002~
+To      Prage~
+Subject Re-levelling areas~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Hi,
+ 
+I happened to notice that we have some areas that
+look like they where designed for smaug with
+the 1-50 level range. (eg: Hochenyana)
+ 
+Might it be a good idea to modify some of
+these areas to the Resort Mud equivilant
+eg: Hochenyana would be level 80-100
+ 
+Some of the boss mobs in these areas
+(eg: Kerpatis and the World Eater) would seem
+to suit higher level chars.
+ 
+Just a thought.
+ 
+Trespin
+~
+
+Sender  Prage~
+Date    Mon Jul 29 12:41:22 2002~
+To      Trespin~
+Subject Re:Re-levelling areas~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+That might be an idea, some areas are more suited for higher (or lower)
+than suggested. However when it comes to complete upgrade of the area
+including mob and objects that will be a bit much, it would nearly need
+to be rebuilt, and would probably be better building it from scratch.
+Methods for building things from scratch are being looked at.
+~
+
+Sender  Trespin~
+Date    Mon Jul 29 17:24:03 2002~
+To      Prage~
+Subject re: relevelling areas~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I think it should be fairly easy to relevel areas.
+ 
+Most of it could be handled by multiplying levels by two.  I'd
+have to see some ResortMUD areas to see what the typical
+damage/hp differences are for mobs compared to the Smaug level system.
+ 
+If/When the ResortMud code is available again for download, I'll
+take a look and see if I can come up with a convertor.
+ 
+Trespin
+~
+

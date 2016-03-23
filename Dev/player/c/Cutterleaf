@@ -1,0 +1,215 @@
+#PLAYER
+Version      3
+Name         Cutterleaf~
+Description  ~
+Sex          1
+Class        6
+Race         41
+Languages    1 1
+Level        6
+Played       7710
+Room         10386
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   64 82 190 190 200 165
+Gold         25730
+Exp          159400
+Height          57
+Weight          115
+Act          536872536
+AffectedBy   16
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       129
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    2
+Mentalstate  -28
+Password     CutlH3Nr9NCUg~
+Title         the Tracker~
+Lastname (null)~
+AuthedBy     Arbadus~
+Deity	     Shaundakul~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       78
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 14 13 17 13 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Skill        90 'dual wield'
+Skill        55 'kick'
+Skill        32 'scan'
+Skill        18 'search'
+Skill        18 'track'
+Weapon       18 'long blades'
+Weapon       40 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       1520 2
+Killed       1513 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        14
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         5114
+Level        22
+Values       5 5 0 0 0 0
+End
+
+#END

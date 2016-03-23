@@ -1,0 +1,81 @@
+#PLAYER
+Version      3
+Name         Anakgor~
+Description  ~
+Sex          1
+Class        9
+Race         35
+Species      3
+Languages    1 1
+Level        2
+Played       12231
+Room         7911
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   39 39 106 106 113 113
+Gold         3503
+Exp          4936
+Height          358
+Weight          1965
+Act          570426968
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1
+Susceptible  2
+Mentalstate  -100
+Password     AnqIUEin1jvTM~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Rathkor~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 12 13 13 15 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Spell        100 'dragon wit'
+Skill        19 'kick'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Killed       10301 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+Level        6
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6013
+Level        1
+Cost         0
+Values       50 49 0 0 0 0
+End
+
+#END

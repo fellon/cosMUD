@@ -1,0 +1,18 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         10333
+Room         327685
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+Room         327685
+Values       0 0 -1 0 0 0
+End
+
+#END

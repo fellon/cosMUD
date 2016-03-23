@@ -1,0 +1,236 @@
+#PLAYER
+Version      3
+Name         Kitana~
+Description  ~
+Sex          2
+Class        14
+Race         5
+Species      4
+Languages    1 1
+Level        29
+Played       84288
+Room         3553
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   608 651 129 129 477 377
+Gold         1263416
+Exp          19829859
+Height          57
+Weight          137
+Act          570427208&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     117
+SavingThrows 0 0 0 0 0
+Alignment    561
+Favor	       2
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -5
+Password     KiZ/OVkqb7e26~
+Title         is ok now~
+Lastname  the Avengeress~
+AuthedBy     Andy~
+Deity	     Tyr~
+Clan         RDAF~
+Flags        360976
+PKills       0
+PDeaths      0
+MKills       385
+MDeaths      11
+ArenaWins    0
+ArenaKills   2
+ArenaDeaths  6
+IllegalPK    0
+AttrPerm     15 11 15 15 14 10 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 31 22 38
+Site         207.202.214.132
+Skill        95 'backstab'
+Skill        45 'circle'
+Skill        33 'discern'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        95 'feed'
+Skill        95 'gouge'
+Skill        60 'headbutt'
+Skill        64 'kick'
+Skill        70 'knee'
+Skill        90 'second attack'
+Skill        90 'spinkick'
+Weapon       40 'bludgeons'
+Weapon       80 'long blades'
+Weapon       85 'pugilism'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Killed       3501 3
+Killed       3506 5
+Killed       10397 1
+Killed       10396 3
+Killed       10300 1
+Killed       10303 1
+Killed       10344 1
+Killed       10314 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         126
+WearLoc      16
+Level        1
+Values       12 2 5 7 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6630
+WearLoc      6
+Level        5
+Values       3 3 0 1 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        37
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        6
+Values       12 4 8 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        7
+Values       12 3 12 3 0 0
+End
+
+#END

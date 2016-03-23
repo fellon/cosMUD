@@ -1,0 +1,8 @@
+This code is made to recover your MUD from a recent crash.  What you need
+to do to activate crashsafe is simply place a recent copy of your rmexe
+(executable file) in this directory and activate the program crashsafe via
+cset on the MUD.
+
+This should be all, we also recommend you place copies of your Makefile
+and rmstart files in this directory incase you accidently purge them and
+need a copy.

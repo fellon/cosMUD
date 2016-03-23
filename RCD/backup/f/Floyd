@@ -1,0 +1,104 @@
+#PLAYER
+Version      3
+Name         Floyd~
+Description  ~
+Sex          1
+Class        12
+Race         17
+Languages    1 8
+Level        2
+Played       1465
+Room         10383
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   2 28 115 115 110 113
+Gold         1001
+Exp          3012
+Height          30
+Weight          45
+Act          570426968
+AffectedBy   65536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Flox6X6miwkbM~
+Title         the Apprentice Illusionist~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 18 13 15 11 12 19
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 45 10
+Site         64.169.158.195
+Spell        19 'cure light'
+Skill        19 'kick'
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

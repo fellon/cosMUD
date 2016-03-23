@@ -1,0 +1,519 @@
+#PLAYER
+Version      3
+Name         Glorfindel~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      1
+Languages    1179717 1
+Level        52
+Played       243287
+Room         21058
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   447 423 1071 1021 863 763
+Gold         660850
+Exp          171874666
+Height          59
+Weight          99
+Act          570426952
+AffectedBy   512
+Position     104
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2250
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     GlHxC.BSzhKjM~
+Title         the Magus~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp  &R%X TNL&w>~
+FPrompt	     &w<%Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1217
+MDeaths      55
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     12 18 13 13 13 12 14
+AttrMod      4 0 0 0 0 0 0
+Condition    0 6 6 55
+Site         210.212.228.77
+Spell        19 'aqua breath'
+Spell        95 'armor'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        19 'blazeward'
+Spell        19 'blindness'
+Spell        24 'blur'
+Spell        95 'burning hands'
+Spell        95 'caustic fount'
+Spell        19 'charm person'
+Spell        95 'chill touch'
+Spell        19 'colour spray'
+Spell        95 'continual light'
+Spell        19 'control weather'
+Spell        19 'create fire'
+Spell        95 'create spring'
+Spell        19 'curse'
+Spell        43 'demonskin'
+Spell        19 'detect invis'
+Spell        95 'detect magic'
+Spell        19 'detect traps'
+Spell        19 'dispel magic'
+Spell        95 'disruption'
+Spell        19 'dragon wit'
+Spell        25 'dragonskin'
+Spell        19 'dream'
+Spell        34 'eldritch sphere'
+Spell        19 'enchant weapon'
+Spell        65 'energy drain'
+Spell        19 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        23 'ethereal shield'
+Spell        46 'extradimensional portal'
+Spell        80 'faerie fire'
+Spell        19 'faerie fog'
+Spell        33 'farsight'
+Spell        19 'feather fall'
+Spell        95 'fireball'
+Spell        95 'flight'
+Spell        95 'float'
+Spell        95 'galvanic whip'
+Spell        19 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        95 'infravision'
+Spell        19 'inner warmth'
+Spell        95 'invis'
+Spell        78 'kindred strength'
+Spell        19 'know alignment'
+Spell        95 'lightning bolt'
+Spell        19 'liquid skin'
+Spell        19 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        19 'mass invis'
+Spell        19 'pass door'
+Spell        95 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        62 'sagacity'
+Spell        35 'scry'
+Spell        19 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        74 'shockshield'
+Spell        29 'sleep'
+Spell        19 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        91 'stone skin'
+Spell        95 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        19 'transport'
+Spell        21 'trollish vigor'
+Spell        35 'true sight'
+Spell        19 'valiance'
+Spell        19 'ventriloquate'
+Spell        95 'weaken'
+Spell        19 'winter mist'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        19 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        41 'trance'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       70 'talonous arms'
+Tongue       100 'common'
+Tongue       10 'dwarven'
+Tongue       100 'elvish'
+Tongue       10 'gnome'
+Tongue       10 'halfling'
+Tongue       9 'trollese'
+AffectData   'kindred strength' 1207   4   1 0
+Killed       263 1
+Killed       6102 4
+Killed       260 3
+Killed       262 4
+Killed       14710 8
+Killed       14722 4
+Killed       14746 1
+Killed       14736 3
+Killed       14741 12
+Killed       14730 1
+Killed       14729 5
+Killed       14742 12
+Killed       14732 12
+i3invis	0
+End
+
+#OBJECT
+Vnum         100008
+WearLoc      16
+Level        43
+Values       12 12 37 2 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2392
+WearLoc      4
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         48608
+WearLoc      15
+Level        16
+Values       6 6 6 2 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2344
+WearLoc      6
+Level        32
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         662
+WearLoc      18
+Level        35
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        35
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         25009
+WearLoc      10
+Level        45
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        15
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24878
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        57
+Values       49 20 20 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         664
+Level        18
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         12503
+Level        53
+Values       33 33 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       32 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        10
+Vnum         24855
+Values       90 0 0 0 0 0
+End
+
+#ALIAS
+Name     cfl~
+Commands cast flight~
+End
+
+#ALIAS
+Name     ccs~
+Commands cast 'create spring'~
+End
+
+#ALIAS
+Name     cs~
+Commands cast shield~
+End
+
+#ALIAS
+Name     sf~
+Commands cast 'spectral furor'~
+End
+
+#ALIAS
+Name     cl~
+Commands cast 'continual light'~
+End
+
+#ALIAS
+Name     s~
+Commands cast 'colour spray'~
+End
+
+#ALIAS
+Name     fb~
+Commands c fireball~
+End
+
+#ALIAS
+Name     ed~
+Commands c 'energy drain'~
+End
+
+#ALIAS
+Name     ccl~
+Commands c 'continual light'~
+End
+
+#ALIAS
+Name     ss~
+Commands c 'stone skin'~
+End
+
+#ALIAS
+Name     sr~
+Commands c 'sonic resonance'~
+End
+
+#ALIAS
+Name     dm~
+Commands c demonskin~
+End
+
+#ALIAS
+Name     edp~
+Commands c 'extradimensional portal'~
+End
+
+#ALIAS
+Name     ic~
+Commands is~
+End
+
+#ALIAS
+Name     pd~
+Commands c 'pass door'~
+End
+
+#ALIAS
+Name     sg~
+Commands c sagacity~
+End
+
+#ALIAS
+Name     sl~
+Commands c sleep~
+End
+
+#ALIAS
+Name     sm~
+Commands c summon~
+End
+
+#ALIAS
+Name     cp~
+Commands c portal~
+End
+
+#ALIAS
+Name     is~
+Commands id~
+End
+
+#ALIAS
+Name     id~
+Commands ice~
+End
+
+#ALIAS
+Name     ice~
+Commands c iceshield~
+End
+
+#ALIAS
+Name     dr~
+Commands dr spr~
+End
+
+#ALIAS
+Name     c~
+Commands c 'colour spray'~
+End
+
+#ALIAS
+Name     mt~
+Commands c 'magnetic thrust'~
+End
+
+#ALIAS
+Name     cf~
+Commands c 'caustic fount'~
+End
+
+#ALIAS
+Name     aa~
+Commands c 'black lightning'~
+End
+
+#ALIAS
+Name     qq~
+Commands c shockshield~
+End
+
+#ALIAS
+Name     ts~
+Commands c 'true sight'~
+End
+
+#ALIAS
+Name     es~
+Commands c 'eldritch sphere'~
+End
+
+#ALIAS
+Name     zz~
+Commands ruminate~
+End
+
+#MOBILE
+Vnum	21058
+Room	21339
+Description The black steed snorts as you examine him.  His fine black coat shines
+brightly regardless of light and the warhorse seems as though it could
+run tirelessly for days.
+A neck tag says 'I belong to Glorfindel'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

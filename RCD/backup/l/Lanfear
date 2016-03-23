@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Lanfear~
+Sex          1
+Class        1
+Race         23
+Species      4
+Languages    1 1
+Level        2
+Played       799
+Room         10364
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   16 34 18 110 113 113
+Gold         500
+Exp          5413
+Height          61
+Weight          65
+Act          570426968
+AffectedBy   1048576
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -5
+Password     LaHAfGDSw5bvQ~
+Title         the Layman Brother~
+Lastname (null)~
+AuthedBy     Marten~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 15 13 15 13 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 10
+Site         66.19.165.185
+Spell        41 'cause light'
+Spell        100 'spiritual wrath'
+Skill        19 'dual wield'
+Tongue       100 'common'
+Killed       10301 1
+Killed       103 1
+i3invis	0
+End
+
+#END

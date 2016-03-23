@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         BLG~
+Description  As fine a specimen of a Vampire as you have ever seen!
+~
+Sex          1
+Class        4
+Race         0
+Languages    1 1
+Level        2
+Played       7045
+Room         21194
+HpManaMove   34 34 100 100 110 110
+Gold         5446
+Exp          3249
+Height          63
+Weight          157
+Act          570426968
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     BLEOcAMLwOZas~
+Title         the Blood Student~
+AuthedBy     Bronwen~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       16
+MDeaths      1
+IllegalPK    0
+AttrPerm     12 13 13 16 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 5 1
+Site         12.64.73.77
+Spell        20 'float'
+Skill        19 'standard style'
+Tongue       100 'common'
+AffectData   'bless' 977   6  18 0
+AffectData   'bless' 977  -6  24 0
+AffectData   'armor' 341 -20  17 0
+Killed       10344 3
+Killed       10330 2
+End
+
+#END

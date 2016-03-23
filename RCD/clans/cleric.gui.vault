@@ -1,0 +1,101 @@
+#OBJECT
+Vnum         9864
+Level        5
+Values       12 3 7 11 0 0
+End
+
+#OBJECT
+Vnum         6512
+Level        18
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         7218
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7217
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         9835
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         41414
+Level        13
+Values       18 58 175 -1 0 0
+Spell 1      'cure critical'
+Spell 2      'refresh'
+End
+
+#OBJECT
+Vnum         41408
+Level        12
+Values       7 3 3 81 0 0
+Spell 3      'earthquake'
+End
+
+#OBJECT
+Vnum         41410
+Level        3
+Values       10 2 2 144 0 0
+Spell 3      'lightning bolt'
+End
+
+#OBJECT
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42978
+Level        26
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         3000111
+Values       125 87 0 0 0 0
+End
+
+#OBJECT
+Vnum         42903
+Level        27
+Values       12 9 26 4 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         42921
+Level        26
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         12634
+Level        46
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         42904
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#END

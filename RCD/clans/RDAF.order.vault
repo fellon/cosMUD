@@ -1,0 +1,381 @@
+#OBJECT
+Count        2
+Vnum         48003
+Level        56
+Values       12 5 40 0 0 0
+End
+
+#OBJECT
+Vnum         48024
+Level        58
+Values       5 6 6 8 0 0
+End
+
+#OBJECT
+Vnum         48025
+Level        58
+Values       9 10 4 3 0 0
+End
+
+#OBJECT
+Vnum         34
+Level        1
+Cost         0
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Vnum         14737
+Level        49
+Values       53 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         46923
+Level        53
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         21422
+Level        35
+End
+
+#OBJECT
+Vnum         46923
+Level        52
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        32
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        37
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         7224
+Level        43
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         7224
+Level        44
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Values       10 2 4 14 0 0
+End
+
+#OBJECT
+Vnum         7222
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         48001
+Level        57
+Values       12 7 42 6 0 0
+End
+
+#OBJECT
+Vnum         48502
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         7220
+Level        43
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         221
+Level        77
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        49
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         36
+End
+
+#OBJECT
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         24540
+Level        79
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         48005
+Level        54
+Values       30 3 3 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         14702
+Level        63
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14700
+Level        63
+Values       13 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         9836
+Level        12
+Cost         0
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100022
+Level        59
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         826
+Level        12
+Cost         0
+Values       45 161 182 182 0 0
+Spell 1      'pass door'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         14707
+Level        57
+Values       12 17 48 4 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         2072
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2431
+Level        1
+Values       65 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         2422
+Level        11
+Values       1 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         660
+Level        17
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         627
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         627
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2423
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2440
+Level        10
+Values       15 3 3 86 0 0
+Spell 3      'elven beauty'
+End
+
+#OBJECT
+Vnum         662
+Level        17
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         1539
+Level        4
+Values       15 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Vnum         621
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         621
+Level        16
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         6505
+Level        20
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         7220
+Level        42
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14708
+Level        58
+End
+
+#OBJECT
+Count        2
+Vnum         7221
+Level        42
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+Level        64
+Values       14 18 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+Level        63
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+Level        13
+Values       4 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        30
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21070
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         7218
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7220
+Level        44
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         7218
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7223
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         7223
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7217
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7219
+Level        9
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14703
+Level        62
+Values       15 17 0 0 0 0
+End
+
+#END

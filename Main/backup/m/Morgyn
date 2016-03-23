@@ -1,0 +1,63 @@
+#PLAYER
+Version      3
+Name         Morgyn~
+Description  ~
+Sex          1
+Class        15
+Race         24
+Species      0
+Languages    1 1
+Level        4
+Played       4651
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   65 65 109 109 139 139
+Gold         7754
+Exp          24515
+Height          38
+Weight          60
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -2
+Password     MoJVFRpC4h2jM~
+Title         the Novice~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       18
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 15 11 16 13 9 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 1 10
+Site         63.169.107.252
+Spell        30 'armor'
+Spell        51 'cause light'
+Spell        19 'create food'
+Spell        19 'cure light'
+Spell        19 'faerie fire'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Killed       10302 1
+Killed       10301 3
+i3invis	0
+End
+
+#END

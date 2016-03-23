@@ -1,0 +1,54 @@
+#DEITY
+Filename		../deity/huath~
+Name		Huath~
+Description	Huath, Lord Tyrant of the Marsh
+ 
+Domains  Trechery, War, Fear         Alignment  Evil
+ 
+Huath is the patron deity for the leaders of the Lizardman race. He
+is known for his ability to set ambushes and his continual war against
+the sylvan races. He hates all pixies and elves.
+ 
+Favored Race  Lizardman             Hated Race  Elf
+ 
+~
+Alignment		-700
+Worshippers	0
+Flee		-50
+Flee_npcrace	-25
+Flee_npcfoe	-50
+Kill		5
+Kill_npcrace	-25
+Kill_npcfoe	50
+Kill_magic	0
+Sac		5
+Bury_corpse	0
+Aid_spell		0
+Aid		0
+Steal		0
+Backstab		0
+Die		-200
+Die_npcrace	-25
+Die_npcfoe	-150
+Spell_aid		0
+Dig_corpse	0
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Race		13
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		13
+Npcfoe		1
+Suscept		0
+Race2		-1
+Susceptnum	0
+Elementnum	0
+Affectednum	0
+Objstat		0
+End
+
+#END

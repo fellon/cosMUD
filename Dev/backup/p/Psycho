@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Psycho~
+Sex          1
+Class        17
+Race         0
+Languages    1 1
+Level        2
+Played       1711
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   38 38 105 105 113 113
+Gold         501
+Exp          1725
+Height          62
+Weight          164
+Act          570426968
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     PsRerCyp.E1c6~
+Title         the Page~
+Lastname (null)~
+AuthedBy     Rathkor~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 15 14 13 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 8 8 10
+Site         132.216.66.113
+Tongue       100 'common'
+AffectData   'armor' 457 -20  17 0
+Killed       103 1
+i3invis	0
+End
+
+#END

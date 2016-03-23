@@ -1,0 +1,58 @@
+#PLAYER
+Version      3
+Name         Fairburn~
+Description  ~
+Sex          1
+Class        17
+Race         0
+Languages    1 1
+Level        5
+Played       5547
+Room         21044
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -10 83 118 118 144 152
+Gold         20666
+Exp          93105
+Height          64
+Weight          159
+Act          570426968
+Position     101
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -3
+Password     FagIURBDSoPzw~
+Title         the Alter~
+Lastname (null)~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       50
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 13 14 14 10 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 8 8 10
+Site         202.169.37.130
+Weapon       18 'long blades'
+Weapon       18 'short blades'
+Tongue       100 'common'
+Killed       21045 1
+Killed       10303 1
+i3invis	0
+End
+
+#END

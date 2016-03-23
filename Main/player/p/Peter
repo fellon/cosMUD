@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Peter~
+Sex          1
+Class        3
+Race         0
+Languages    1 1
+Level        6
+Played       24486
+Room         2126
+HpManaMove   86 95 134 100 70 150
+Gold         48755
+Exp          180882
+Height          70
+Weight          143
+Act          570426952
+Position     112
+Style     1
+Practice     1
+SavingThrows 0 0 0 0 -6
+Alignment    3
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        7
+ICEListen ~
+Mentalstate  -15
+Password     PeR/Z9zuOg8EI~
+Title         the Warrior~
+Prompt       <&Y%A &C%h/%Hhp &O%m/%Mman &G%v/%Vmv &w %a &p %X TNL &w%S&w>~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       132
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 12 13 13 14 13 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 33 15
+Site         207.202.214.132
+Skill        19 'aggressive style'
+Skill        17 'climb'
+Skill        17 'dig'
+Skill        95 'enhanced damage'
+Skill        85 'kick'
+Skill        17 'mount'
+Skill        85 'parry'
+Skill        18 'search'
+Skill        47 'second attack'
+Skill        17 'standard style'
+Weapon       17 'flexible arms'
+Weapon       95 'long blades'
+Weapon       17 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 653   6  18 0
+AffectData   'bless' 653  -6  24 0
+Killed       2113 2
+Killed       2410 1
+Killed       2411 1
+Killed       2409 1
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#END

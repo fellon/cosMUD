@@ -1,0 +1,90 @@
+#PLAYER
+Version      3
+Name         Maymer~
+Description  ~
+Sex          1
+Class        3
+Race         6
+Species      5
+Languages    1 1
+Level        11
+Played       33148
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   26 259 100 100 318 230
+Gold         189282
+Exp          1333473
+Height          112
+Weight          586
+Act          570427000
+AffectedBy   512
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    -3
+Favor	       -1363
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Password     Ma42m9VIBUqvU~
+Title         the Private~
+Lastname  the shakirt~
+AuthedBy     Arbadus~
+Deity	     Soleran~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       430
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     18 10 12 10 18 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 17
+Site         144.122.171.68
+Skill        47 'doorbash'
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        95 'kick'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        45 'scan'
+Skill        24 'search'
+Skill        95 'second attack'
+Weapon       17 'bludgeons'
+Weapon       42 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'ogre'
+Killed       8904 2
+Killed       8908 5
+Killed       8907 4
+i3invis	0
+End
+
+#ALIAS
+Name     1~
+Commands kick~
+End
+
+#ALIAS
+Name     2~
+Commands scan %1~
+End
+
+#ALIAS
+Name     sc~
+Commands scan %0~
+End
+
+#END

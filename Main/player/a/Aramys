@@ -1,0 +1,424 @@
+#PLAYER
+Version      3
+Name         Aramys~
+Description  d
+d
+~
+Sex          1
+Class        0
+Race         5
+Species      4
+Languages    655367 1
+Level        67
+Played       921366
+Room         279
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   1521 1083 979 599 1052 958
+Gold         3257829
+Exp          366777688
+Height          59
+Weight          153
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     93
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       2469
+Balance      0
+Glory        5
+MGlory       5
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    322
+Mentalstate  0
+Password     Ar1x8wzOgzYFQ~
+Title         the Wizard~
+Extraname &R Sir&B ~
+Lastname &R the Vampire~
+Bio          Your Black Lightning MASSACRES Tomb Raider! [955]
+Your Black Lightning MUTILATES Welmar's Mouth! [955]
+Your slash ***ANNIHILATES*** the guard! [2560]
+~
+AuthedBy     Rathkor~
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        98304
+PKills       0
+PDeaths      4
+MKills       3990
+MDeaths      58
+ArenaWins    5
+ArenaKills   18
+ArenaDeaths  27
+IllegalPK    0
+AttrPerm     15 14 14 17 14 10 11
+AttrMod      4 0 0 4 4 3 0
+Condition    0 12 0 56
+Site         193.226.170.181
+Spell        95 'acid blast'
+Spell        26 'antimagic shell'
+Spell        27 'aqua breath'
+Spell        95 'armor'
+Spell        40 'astral walk'
+Spell        95 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        19 'blazeward'
+Spell        42 'blindness'
+Spell        19 'blur'
+Spell        95 'burning hands'
+Spell        50 'cancelation'
+Spell        95 'caustic fount'
+Spell        19 'charm person'
+Spell        74 'chill touch'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        36 'control weather'
+Spell        43 'create fire'
+Spell        19 'create spring'
+Spell        19 'curse'
+Spell        37 'demonskin'
+Spell        95 'detect invis'
+Spell        19 'detect magic'
+Spell        24 'detect traps'
+Spell        19 'dispel magic'
+Spell        72 'disruption'
+Spell        95 'dragon wit'
+Spell        46 'dragonskin'
+Spell        20 'dream'
+Spell        95 'eldritch sphere'
+Spell        84 'elven beauty'
+Spell        39 'enchant weapon'
+Spell        34 'energy drain'
+Spell        56 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        95 'ethereal shield'
+Spell        69 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        19 'farsight'
+Spell        19 'feather fall'
+Spell        19 'fireball'
+Spell        95 'flight'
+Spell        24 'float'
+Spell        95 'galvanic whip'
+Spell        19 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        19 'infravision'
+Spell        19 'inner warmth'
+Spell        95 'invis'
+Spell        82 'kindred strength'
+Spell        82 'knock'
+Spell        29 'know alignment'
+Spell        95 'lightning bolt'
+Spell        19 'liquid skin'
+Spell        47 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        19 'mass invis'
+Spell        19 'ogrish hide'
+Spell        27 'pass door'
+Spell        95 'portal'
+Spell        95 'quantum spike'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'refresh'
+Spell        34 'remove invis'
+Spell        19 'remove trap'
+Spell        41 'sagacity'
+Spell        22 'scry'
+Spell        44 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        94 'sleep'
+Spell        71 'slink'
+Spell        95 'sonic resonance'
+Spell        19 'spectral furor'
+Spell        89 'stone skin'
+Spell        95 'summon'
+Spell        19 'swordbait'
+Spell        82 'teleport'
+Spell        25 'transport'
+Spell        89 'trollish vigor'
+Spell        22 'true sight'
+Spell        19 'valiance'
+Spell        19 'ventriloquate'
+Spell        19 'weaken'
+Spell        19 'winter mist'
+Spell        19 'wizard eye'
+Spell        95 'word of recall'
+Skill        54 'aid'
+Skill        24 'brew'
+Skill        19 'cook'
+Skill        19 'cuff'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'feed'
+Skill        95 'fifth cast'
+Skill        26 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        19 'levitate'
+Skill        19 'meditate'
+Skill        19 'pinch'
+Skill        37 'ruminate'
+Skill        95 'scan'
+Skill        19 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        19 'trance'
+Weapon       80 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       9 'dwarven'
+Tongue       9 'elvish'
+Tongue       9 'gith'
+Tongue       9 'halfling'
+AffectData   'shield' 459 -20  17 0
+AffectData   'bless' 408   6  18 0
+AffectData   'bless' 408  -6  24 0
+AffectData   'inner warmth' 408   2  27 0
+AffectData   'kindred strength' 856   4   1 0
+AffectData   'slink' 1174   4   2 0
+AffectData   'trollish vigor' 1175  -1  25 0
+AffectData   'trollish vigor' 1175   4   5 0
+AffectData   'demonskin' 1116  64  27 0
+AffectData   'elven beauty' 1358   4  25 0
+Killed       21062 2
+Killed       24815 1
+Killed       24839 1
+Killed       24840 1
+Killed       24841 1
+Killed       24842 1
+Killed       24838 1
+Killed       263 3
+Killed       262 1
+Killed       21037 1
+Killed       14711 1
+Killed       14700 1
+Killed       14706 4
+Killed       14710 2
+Killed       14732 2
+Killed       260 9
+Killed       6115 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         44
+Level        62
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41430
+Level        28
+Values       9 9 9 4 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24516
+Level        99
+Values       13 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2111
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41429
+Level        28
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         647
+Level        32
+Values       11 5 30 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25549
+Level        46
+Values       12 14 41 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21017
+Values       10 2 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        35
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        42
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 6 10 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+WearLoc      3
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         12570
+WearLoc      6
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+WearLoc      9
+Level        56
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         15164
+WearLoc      4
+Level        41
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        51
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         46925
+WearLoc      1
+Level        49
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         12504
+WearLoc      16
+Level        55
+Values       12 14 47 3 0 0
+End
+
+#OBJECT
+Vnum         25548
+WearLoc      20
+Level        46
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         46926
+WearLoc      2
+Level        49
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+WearLoc      18
+Level        63
+Values       12 18 53 11 0 0
+End
+
+#OBJECT
+Vnum         25534
+WearLoc      5
+Level        40
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#COMMENT
+sender	Rathkor~
+date  	Wed Jul 31 23:18:35 2002~
+to     	~
+subject	Locker Bug~
+text
+Reimbursed his Benediction after he lost a bunch of stuff (including this)
+when he was disconnected while in his locker.
+~
+#END

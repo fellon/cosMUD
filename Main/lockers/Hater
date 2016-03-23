@@ -1,0 +1,118 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         21017
+Room         458759
+Values       10 7 10 0 0 0
+End
+
+#OBJECT
+Vnum         14745
+Room         458759
+Level        49
+Values       12 13 42 3 0 0
+End
+
+#OBJECT
+Vnum         60897
+Room         458759
+Level        2
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+Room         458759
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2109
+Room         458759
+Level        11
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+Room         458759
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         642
+Room         458759
+Level        31
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         645
+Room         458759
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         42924
+Room         458759
+Level        25
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         643
+Room         458759
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         25517
+Room         458759
+Level        43
+Values       12 13 40 8 0 0
+End
+
+#OBJECT
+Vnum         14736
+Room         458759
+Level        47
+End
+
+#OBJECT
+Vnum         25554
+Room         458759
+Level        45
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14724
+Room         458759
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14726
+Room         458759
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14727
+Room         458759
+Level        42
+Values       12 13 0 0 0 0
+End
+
+#END

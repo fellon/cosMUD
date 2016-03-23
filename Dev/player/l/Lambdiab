@@ -1,0 +1,372 @@
+#PLAYER
+Version      3
+Name         Lambdiab~
+Description  ~
+Sex          1
+Class        5
+Race         0
+Languages    1 1
+Level        7
+Played       77181
+Room         21147
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   95 95 132 132 278 178
+Gold         49782
+Exp          440883
+Height          64
+Weight          148
+Act          570427000&4
+Position     104
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -3
+Alignment    3
+Favor	       -992
+Balance      50000
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+Wimpy        20
+ICEListen (null)~
+Mentalstate  0
+Password     LaVAcbLEqCnfU~
+Title         the Deacon~
+Lastname ~
+AuthedBy     Rathkor~
+Deity	     Shaundakul~
+Flags        33296
+PKills       0
+PDeaths      0
+MKills       304
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 11 17 12 13 13 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 17
+Site         207.202.214.132
+Spell        82 'armor'
+Spell        63 'bless'
+Spell        95 'blindness'
+Spell        68 'cause light'
+Spell        43 'cause serious'
+Spell        23 'continual light'
+Spell        46 'create fire'
+Spell        92 'create food'
+Spell        23 'create water'
+Spell        31 'cure blindness'
+Spell        63 'cure light'
+Spell        31 'detect evil'
+Spell        29 'detect invis'
+Spell        23 'detect magic'
+Spell        37 'faerie fire'
+Spell        52 'float'
+Spell        23 'infravision'
+Spell        19 'refresh'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        50 'dual wield'
+Skill        80 'enhanced damage'
+Skill        95 'kick'
+Skill        60 'scan'
+Skill        44 'search'
+Weapon       19 'long blades'
+Tongue       100 'common'
+AffectData   'shield' 289 -20  17 0
+AffectData   'bless' 262   3  18 0
+AffectData   'bless' 262  -3  24 0
+Killed       10409 1
+Killed       10411 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24801
+Level        36
+Values       12 11 34 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21009
+Values       10 10 5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        10
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8907
+Level        19
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6507
+Level        1
+Values       0 0 99 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8916
+Level        11
+Values       5 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8902
+Level        1
+Cost         0
+Values       5 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         8903
+Level        2
+Values       -2 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         8904
+Level        1
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60961
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60959
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flask potion heal~
+ShortDescr   a heal potion~
+Description  A strange potion labelled 'heal' sizzles in a glass flask.~
+Vnum         35
+Level        3
+Values       45 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         60960
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24875
+Values       25 18 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      2
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         15171
+WearLoc      5
+Level        3
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         60930
+WearLoc      7
+Level        6
+Values       5 4 5 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      18
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#ALIAS
+Name     1~
+Commands cast 'cause light'~
+End
+
+#ALIAS
+Name     2~
+Commands cast 'cause serious'~
+End
+
+#ALIAS
+Name     3~
+Commands cast 'faerie fire'~
+End
+
+#ALIAS
+Name     4~
+Commands cast blind~
+End
+
+#ALIAS
+Name     0~
+Commands kick~
+End
+
+#MOBILE
+Vnum	21059
+Room	100000
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Lambdiab'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

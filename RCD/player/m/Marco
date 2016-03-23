@@ -1,0 +1,181 @@
+#PLAYER
+Version      3
+Name         Marco~
+Description  I am a young Elven Mage who prefers to side of good.
+I am also a mercenary glad to lend a hand.
+~
+Sex          1
+Class        0
+Race         1
+Languages    1 1
+Level        3
+Played       37227
+Room         10319
+Memorized		10300 0 60501 0 0 0 0 0
+HpManaMove   32 32 131 131 126 126
+Gold         3634
+Exp          24123
+Height          63
+Weight          105
+Act          570426968
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       -172
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+Wimpy        6
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     MaXCihN8evxcw~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Arbadus~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       31
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 18 14 14 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 35 29 13
+Site         207.202.214.132
+Spell        19 'black hand'
+Spell        19 'detect magic'
+Skill        19 'search'
+Weapon       19 'flexible arms'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 391  -3  24 0
+AffectData   'bless' 391   3  18 0
+AffectData   'armor' 133 -20  17 0
+Killed       10302 1
+Killed       10301 7
+i3invis	0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#ALIAS
+Name     nl~
+Commands note list~
+End
+
+#ALIAS
+Name     ex~
+Commands exits~
+End
+
+#ALIAS
+Name     dr~
+Commands drink~
+End
+
+#ALIAS
+Name     wk~
+Commands wake~
+End
+
+#END

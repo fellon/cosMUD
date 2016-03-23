@@ -1,0 +1,51 @@
+#PLAYER
+Version      3
+Name         Whoami~
+Sex          0
+Class        5
+Race         1
+Languages    1 1
+Level        2
+Played       5925
+Room         21194
+HpManaMove   32 32 112 112 110 110
+Gold         200
+Exp          1493
+Height          65
+Weight          114
+Act          536872520
+AffectedBy   16
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -42
+Password     Wh/IyynARms0w~
+Title         the Attendant~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      1
+IllegalPK    0
+AttrPerm     11 15 17 17 12 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Spell        19 'armor'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 545   6  18 0
+AffectData   'bless' 545  -6  24 0
+Killed       10315 2
+End
+
+#END

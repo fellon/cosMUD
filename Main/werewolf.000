@@ -1,0 +1,551 @@
+#AREA   Werewolve's Guild~
+
+#AUTHOR Vicomaster~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG ~
+
+#FLAGS
+2 15
+
+#ECONOMY 300 0
+
+#MOBILES
+#18
+al'Lan~
+Lan~
+Lan Mandragoran
+~
+He is all muscle.  You wouldn't think to attack him 
+because you couldn't possibly beat him in a fight.~
+132673 314573500 500 C
+116 20 -900 100d20+500 20d12+40
+0 999999999
+8 7 1
+50 20 25 30 45 40 35
+10 10 10 10 10
+47 3 6 250 98305 1 4
+2 15 2047 14336 6144 0 560 6824963
+#19
+Demandred~
+Demandred~
+Demandred
+~
+He is small and lithe. His small size, however, tricks 
+you into thinking he is easy prey.~
+68288577 0 1000 C
+116 0 0 5d80+0 0d0+0
+0 0
+8 8 1
+1 20 60 2 60 50 30
+0 0 0 0 0
+0 1 4 120 98305 1 0
+0 0 0 0 0 0 0 0
+#20
+Goblin Toady~
+Goblin~
+Goblin Toady
+~
+~
+33 0 -400 C
+2 4 5 1d10+1 1d4+0
+0 40
+8 8 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+39 3 0 0 1 1 0
+5 2 0 0 0 0 0 0
+#21
+Minotaur Slave~
+Minotaur~
+Minotaur Slave
+~
+~
+32771 0 0 C
+7 7 0 4d10+20 4d4+5
+0 1000
+8 7 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#22
+Vaevictus Asmadi~
+Dragon~
+Vaevictus Asmadi-Elder Dragon Legend
+~
+This large gold dragon is cunning and would like nothing 
+more than to be left in peace. If you don't, he'll leave 
+you in pieces.~
+135233 71303168 300 C
+50 0 -40 50d20+0 5d20+100
+-727379968 100000000
+5 7 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#23
+Secretary~
+Secretary~
+Secretary
+~
+She is 100 year old, sweet little grandmother.~
+67240001 4194304 0 C
+1 0 0 1d50+9000 0d0+0
+0 0
+8 8 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1048575 1 0
+0 0 0 0 0 0 0 0
+#24
+Deathbringer~
+Death~
+Deathbringer the Holy Avenger of Al'Thor
+~
+As you stumble into what seems to be a large tree you find 
+that it isn't quite so.  To your dismay you have just 
+descovered what seems to be one of the largest reptiles that
+you have ever seen in your entire life.  Normally you would 
+take an evasive aproach to such a large animal but you notice 
+something.  He seems to have a certain wit in his eyes that 
+lets you know he is no roaring beast.  He seems to be more 
+of a placid and intelegent animal and has a glow about him.
+One thingis for sure though, he would bring swift death to 
+any who decided to try his patience...~
+3145857 -1745343812&1 0 C
+45 25 -187 10d20+100 30d4+250
+99999999 9999999
+5 6 1
+36 20 20 2 25 24 14
+20 20 20 30 20
+45 0 9 57 524289 524288 4
+254 75 98310 10240 3072 2097170 537477188 5248261
+#0
+
+
+#OBJECTS
+#23
+A solid white block of marble, with crescent moons etched into the surface~
+Altar of selune~
+This holy artifact soothes you as you near it.  The 
+divine presence surrounding it heals your wounds and 
+restores your mental state.~
+The altar comforts you.~
+41 536875331 0
+0 0 0 0
+0 0 0
+A
+68 28
+#0
+
+
+#ROOMS
+#1
+Path~
+From here you can see a great building in disrepair to 
+your west.  The grand, iron-bound gates standing in front 
+of you seem almost too big for reality and are warded 
+against tresspassers.  You almost think you can see a 
+flickering light in the broken windows of the manor 
+house, as if someone were beckoning you closer.
+~
+0 0 1
+D3
+~
+west~
+67502080 0 2
+S
+#2
+Inside the Gates~
+The lawn is unkept and the trees are dying.  Windows are 
+smashed or missing and the doors are hanging off of their 
+hinges on the once-magnificent mansion standing before 
+you to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 1
+D3
+~
+~
+0 0 3
+D0
+~
+~
+0 0 5
+D2
+~
+~
+0 0 4
+S
+#3
+At the Manor Door~
+The doors themselves lean ascant, but you may enter if 
+you dare.  Through the opening all you can see is a large 
+hall, dusty and neglected.
+~
+0 0 2
+D1
+~
+~
+0 0 2
+D3
+~
+~
+0 0 13
+S
+#4
+South of the Manor, by the Gates~
+There is a small training yard of sorts here, with all 
+the tools a werepup could need.  The Guild's trainer, 
+al'Lan Mandragoran, stalks here, waiting to aid the new 
+recruits.
+~
+0 0 0
+D0
+~
+~
+0 0 2
+D3
+~
+~
+0 0 6
+S
+#5
+North of the Manor, by the Gates~
+The first thing you notice as you walk toward this corner 
+of the grounds is a small figure in the corner.  The 
+Guild cleric doesn't stand very tall, but his presence 
+fills the area.  This is a woody space with a 
+distinct feel of safety about it.
+~
+0 0 3
+D2
+~
+~
+0 0 2
+D3
+~
+~
+0 0 7
+S
+#6
+South of the Manor~
+As you round the manor you notice a sign posted on the 
+wall.  It is suggested that you read, and heed, 
+this warning.
+~
+0 0 2
+D1
+~
+~
+0 0 4
+D7
+~
+~
+0 0 8
+S
+#7
+North of the Manor~
+As you round the manor you notice a sign posted on the 
+wall.  It is suggested that you read, and heed, 
+this warning.
+~
+0 0 2
+D1
+~
+~
+0 0 5
+D9
+~
+~
+0 0 8
+S
+#8
+Behind the Manor~
+This is a long, oblong pit, with a cage around it.  If 
+you'd like to enter the Mob Pit, you have to get the key 
+from the guild trainer.
+~
+0 0 2
+D8
+~
+~
+0 0 6
+D6
+~
+~
+0 0 7
+D5
+~
+~
+0 0 9
+S
+#9
+In the Pit~
+This dank pit is the home of all things deadly.  To the 
+south are the lowest level Mobs, and as you turn 
+clockwise, the rooms become more difficult.
+~
+0 0 13
+D9
+~
+~
+0 0 11
+D3
+OMG!~
+~
+0 0 12
+D2
+Sigh...~
+~
+0 0 10
+D4
+~
+~
+0 0 8
+D7
+~
+~
+0 0 18
+D0
+~
+~
+0 0 19
+D6
+~
+~
+0 0 20
+D1
+~
+~
+0 0 21
+D8
+~
+~
+0 0 22
+S
+#10
+1-10 Dungeon~
+A small cubicle, sized for small monsters.
+~
+0 0 13
+D0
+~
+~
+0 0 9
+S
+#11
+11-20 Dungeon~
+In this cell , a novice werewolf can find an 
+interesting fight.
+~
+0 0 13
+D6
+~
+~
+0 0 9
+S
+#12
+20-35 Dungeon~
+For the mid level werewolf, this is the 
+place to level.  This smelly hole is just the place 
+for you.
+~
+0 0 13
+D1
+~
+~
+0 0 9
+S
+#13
+Foyer~
+This decaying room was once a meeting place for lords and 
+ladies, but now it could fit right into a drug slum in 
+any major city.
+~
+0 0 0
+D1
+~
+~
+0 0 3
+D3
+~
+~
+0 0 14
+S
+#14
+Main Hall of the Werewolves Guild~
+High in the rafters you can here the rustling of many 
+wings and you gasp as you realize how much this mansion 
+would be worth if it were in good condition.  The 
+shredded tapestries hanging on the dirty, dusty walls. To 
+the west are the Guild Leader's quarters; stop in here if 
+you'd like to leave a message with the secretary or talk 
+to the man himself.  To the north is the arms and armor 
+donation room.  And to the south is the 
+miscellaneous donation room.
+~
+0 0 0
+D1
+~
+~
+0 0 13
+D3
+~
+~
+0 0 23
+D0
+~
+~
+0 0 16
+D2
+~
+~
+0 0 17
+S
+#15
+Guildmastar's Study~
+An ornate, gilded throne stands in the middle of this 
+grand hall.  One of the few rooms in the building that's 
+been restored to its original majesty, this room holds 
+all of the power and malice that comes with the fear of 
+the unknown, fear of the dark.
+~
+0 0 0
+D1
+~
+~
+0 0 23
+S
+#16
+Arms and Armor Donation Room~
+Various weapons and pieces of armor litter the floor.
+~
+0 0 0
+D2
+~
+~
+0 0 14
+S
+#17
+Miscellaneous Donation Room~
+With all the Random things lying on the floor, you'd be 
+surprised if anyone could walk through here unencumbered.
+~
+0 0 0
+D0
+~
+~
+0 0 14
+S
+#18
+35-55 Dungeon~
+A werewolf in his upper middle levels would enjoy 
+training here.
+~
+0 0 13
+D8
+~
+~
+0 0 9
+S
+#19
+55-70 Dungeon~
+The new avatar werewolf has just the place for leveling.
+~
+0 0 13
+D2
+~
+~
+0 0 9
+S
+#20
+70-85 Dungeon~
+As an aspiring werewolf, where else would you go to level?
+~
+0 0 13
+D9
+~
+~
+0 0 9
+S
+#21
+85-100 Dungeon~
+The higher level werewolf can seldom find a challenge, 
+but this room should hopefully present just that.
+~
+0 0 13
+D3
+~
+~
+0 0 9
+S
+#22
+100+ Dungeon~
+As a demigod, where can you find things that don't run 
+away in fright? Here.
+~
+0 0 13
+D7
+~
+~
+0 0 9
+S
+#23
+Second's Office~
+this large and ornate room is filled with papers and 
+files that needed reviewing yesterday.  But the second of 
+the guild has too many things to do, and not enough time.
+~
+0 0 0
+D1
+~
+~
+0 0 14
+D3
+~
+~
+0 0 15
+S
+#0
+
+
+#RESETS
+M 0 18 1 4
+M 0 19 1 5
+O 0 23 0 5
+M 0 20 5 10
+M 0 20 5 10
+M 0 21 3 10
+M 0 21 3 10
+M 0 23 1 15
+M 0 22 1 18
+M 0 24 1 18
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  18 spec_executioner
+M  21 spec_guard
+M  22 spec_breath_any
+M  24 spec_cast_mage
+S
+
+
+#$

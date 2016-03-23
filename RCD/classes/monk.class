@@ -1,0 +1,442 @@
+Name        Monk~
+Class       20
+Attrprime   2
+Alignment   0
+Weapon      10313
+Guild       3022
+Skilladept  85
+Thac0       18
+Thac32      6
+Hpmin       9
+Hpmax       16
+Mana        1
+Expbase     1150
+Skill 'barkskin' 55 95
+Skill 'bless' 14 95
+Skill 'blindness' 22 95
+Skill 'cure blindness' 9 95
+Skill 'cure critical' 34 95
+Skill 'cure light' 5 95
+Skill 'cure poison' 12 95
+Skill 'cure serious' 16 95
+Skill 'curse' 26 95
+Skill 'divine intervention' 50 95
+Skill 'protection' 18 95
+Skill 'refresh' 3 95
+Skill 'remove curse' 17 95
+Skill 'sanctuary' 36 95
+Skill 'true sight' 38 95
+Skill 'aid' 6 80
+Skill 'bash' 65 70
+Skill 'climb' 2 85
+Skill 'clover' 2 95
+Skill 'cook' 1 95
+Skill 'dig' 2 95
+Skill 'disarm' 20 85
+Skill 'dkick' 40 95
+Skill 'dodge' 2 70
+Skill 'doorbash' 8 85
+Skill 'drowfire' 2 95
+Skill 'dual wield' 2 100
+Skill 'dust' 2 95
+Skill 'enhanced damage' 15 95
+Skill 'fifth attack' 60 85
+Skill 'fly' 2 95
+Skill 'forestwalk' 2 95
+Skill 'fourth attack' 45 90
+Skill 'gouge' 63 95
+Skill 'grip' 55 90
+Skill 'jump' 2 95
+Skill 'kick' 2 95
+Skill 'levitate' 37 95
+Skill 'limber' 30 95
+Skill 'lore' 2 40
+Skill 'meditate' 10 95
+Skill 'mount' 2 85
+Skill 'parry' 50 85
+Skill 'peek' 2 75
+Skill 'pinch' 15 95
+Skill 'poison weapon' 77 95
+Skill 'pummel' 35 80
+Skill 'punch' 2 90
+Skill 'rescue' 4 80
+Skill 'roundhouse' 28 70
+Skill 'scan' 2 45
+Skill 'search' 2 85
+Skill 'second attack' 10 95
+Skill 'spinkick' 13 95
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 30 95
+Skill 'track' 44 95
+Skill 'trance' 40 95
+Skill 'vision' 50 95
+Skill 'bludgeons' 1 95
+Skill 'flexible arms' 1 40
+Skill 'long blades' 1 50
+Skill 'pugilism' 1 95
+Skill 'short blades' 1 60
+Skill 'talonous arms' 1 50
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Skill 'orcish' 1 99
+Skill 'pixie' 1 99
+Skill 'trollese' 1 99
+Title
+Man~
+Woman~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Student of the Arts~
+Student of the Arts~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Novice Monk~
+Novice Monk~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Martial Artist~
+Martial Artist~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Student of the Four Winds~
+Student of the Four Winds~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the North Wind~
+Mistress of the North Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the West Wind~
+Mistress of the West Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the South Wind~
+Mistress of the South Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the East Wind~
+Mistress of the East Wind~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Master of the Four Winds~
+Mistress of the Four Winds~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Grand Master~
+Grand Mistress~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

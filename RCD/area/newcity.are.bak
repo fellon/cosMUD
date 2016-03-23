@@ -1,0 +1,3108 @@
+#AREA   Taldon~
+
+
+
+#VERSION 1
+#AUTHOR SDF Mud~
+
+#RANGES
+0 100 101 116
+$
+
+#RESETMSG The faint scent of the sea can be felt in the air.~
+
+#FLAGS
+1 15
+
+#ECONOMY 0 125000000
+
+#CLIMATE 2 2 1
+
+#MOBILES
+#4000000
+Fellon's Scribe~
+A young man with ink stained Hands~
+A man named Jimbo the Scribe stands here.
+~
+A emploee of Fellon~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#4000100
+Parrot bird~
+The parrot~
+A parrot is here on its owners shoulder.
+~
+~
+257 35651712 -1000 C
+5 0 -50 1000d0+0 0d0+0
+0 0
+112 112 2
+18 13 13 13 13 13 13
+0 0 0 0 0
+5 12 0 0 1 0 0
+0 0 0 0 0 0 0 0
+#4000101
+Snake~
+A snake~
+A snake is coiled up on the ground.
+~
+~
+262401 128 1000 C
+15 0 -100 2000d0+0 0d0+0
+0 0
+112 112 1
+20 13 13 13 13 13 13
+0 0 0 0 0
+13 14 0 0 1 1 0
+15 0 0 0 0 0 0 0
+#4000102
+Dog~
+A dog~
+A small little dog is here wandering arround its master.
+~
+~
+262401 272629888 -500 C
+20 0 -150 0d0+0 0d0+0
+0 0
+112 112 2
+20 13 13 13 13 13 13
+0 0 0 0 0
+7 2 0 0 33 32 0
+20 0 0 0 0 0 0 0
+#4000103
+Crazy Monkey~
+The crazy monkey~
+A crazy monkey is here bouncing running arround all over the place.
+~
+~
+262401 301998208 0 C
+30 0 -300 1800d0+0 0d0+0
+0 0
+112 112 0
+20 13 13 13 13 13 13
+0 0 0 0 0
+20 1 0 0 1 1 5
+20 0 0 0 0 0 0 0
+#4000104
+Death wraith~
+The death wraith~
+A mighty death wraith is here, and he dosnt look happy.
+~
+~
+262401 373358722 -1000 C
+100 0 -300 20000d100+0 20d20+20
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+80 0 0 27 1048576 0 0 0
+#4000105
+Small lizard~
+A small yet buff lizard~
+A small but verry buff looking lizard is here.
+~
+~
+262401 2105472 1000 C
+45 0 0 30d20+4500 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+29 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#4000106
+Chicken~
+The Chicken~
+A chicken is here scratching arround in the dirt.
+~
+~
+262401 33554560 500 C
+50 0 -300 5000d0+0 0d0+0
+0 0
+112 112 0
+10 13 13 13 13 13 13
+0 0 0 0 0
+17 0 0 0 9 8 0
+0 0 0 0 0 0 0 0
+#4000107
+Pony~
+A pony~
+A pony is here following its master.
+~
+~
+262401 339738624 0 C
+57 0 -300 5900d0+0 0d0+0
+0 0
+112 112 0
+25 13 13 13 13 13 13
+0 0 0 0 0
+6 6 0 0 17 16 15
+50 0 0 0 0 0 0 0
+#4000108
+gold fish goldfish~
+A goldfish~
+A fish is here in a fish bowl.
+~
+~
+257 -1879048192 0 C
+70 0 -300 9000d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+85 0 0 0 0 0 0 0
+#4000999
+geldon bird~
+Geldon the awk-awk~
+A large ornge Bird with red wings and tail is here.
+~
+~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#4000000
+Fellon's Inkwell~
+A small vial of Green Ink~
+A small vial of Green Ink labled Fellon's Special Squid Ink.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#4000100
+Sleeping Bag~
+a warm sleeping bag~
+A cozy looking sleeping bag sits rolled up in a tight bundle~
+~
+12 0 1
+1 0 2432 0
+1 0 0
+#4000101
+snare~
+a rabbit snare~
+A wire loop attacked to a small spike is impalled in the ground~
+~
+13 0 0
+0 0 0 0
+1 0 0
+> drop_prog 10~
+mpe A small rabbit comes hurtling towards you and straight into the snare.
+mpoload 4000102
+~
+|
+#4000102
+snared rabbit~
+snared rabbit~
+A recently snared rabbit lies here twitching in the grass~
+~
+61 0 1
+0 0 0 0
+2 0 0
+#4000103
+canoe~
+a canoe~
+A canoe has been left here.~
+~
+22 0 1
+0 0 0 0
+320 900 90
+E
+canoe~
+The canoe is fairly light.
+~
+#4000104
+divining rod~
+a divining rod~
+A tool for finding water sits twitching on the grass~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+> wear_prog 100~
+if rand(15) 
+ mpe The rod twitches down and reveals a small spring.
+ mpoload 4000106
+ mpforce $n remove divining
+ mpforce $n drink spring
+ mppurge divining
+else
+ mea $n After alot of patient divining you find nothing, you give up for now.
+ mer $n walks round in circles looking at the ground.
+ mpforce $n remove divining 
+ mpforce $n sigh
+endif
+~
+|
+#4000106
+crytal spring pool~
+A crystal clear spring~
+A small pool of water forms around a crystal clear spring here.~
+~
+25 0 0
+0 0 0 0
+1002 0 0
+#4000999
+Fellon's Quill~
+a newly created Fellon's Quill~
+Some god dropped a newly created Fellon's Quill here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#4000000
+East Taldon Avenue Joins Park Street~
+East Taldon Avenue arrives in this intersection from the east; here it
+splits off to go around The Park to the south-west; the avenue itself
+continues west, while Park Street heads south. Just north of here, the trees
+of Executioner Park enshroud the figure of a looming statue.
+~
+0 1073750016 1
+D1
+~
+~
+0 -1 4000016
+D2
+~
+~
+0 -1 4000015
+D3
+~
+~
+0 -1 4000001
+S
+#4000001
+East Taldon Avenue North of The Park~
+The cobblestone avenue runs straight east to west along the tree-shaded
+northern edge of The Park. The well-established blacksmith's forge lies to
+the north of the road from which occasional metallic sounds eminate. In the
+forest to the south-west, a thin dirt path barely squeezes out of the trees.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000103
+D1
+~
+~
+0 -1 4000000
+D3
+~
+~
+0 -1 4000002
+D9
+~
+~
+0 -1 4000300
+S
+#4000002
+East Taldon Avenue North of The Park~
+This part of the park road has a small stream flowing underneath it.
+Flowing water is vital to the metal workers located along this section
+of the road.  The Armorer can be found in his well equipped workshop to 
+the north. East Taldon road continues along the parkside east and west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000104
+D1
+~
+~
+0 -1 4000001
+D3
+~
+~
+0 -1 4000003
+S
+#4000003
+East Taldon Avenue North of The Park~
+The cobbled park road is well shaded here on account of the large oak
+trees that overhang the path. The clang of metal on metal can be heard
+from the Weaponsmith's store situated north.  The northwest corner of
+the park can be found a short walk to the west, a small stream and the
+continuing stretch of East Taldon Avenue to the east.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000105
+D1
+~
+~
+0 -1 4000002
+D3
+~
+~
+0 -1 4000004
+S
+#4000004
+The Corner of East Taldon Avenue and Commerce Street~
+The north west corner of the park offers the best views, a small wall 
+restricts access to the centre of the park, looking further afield 
+you can make out a stone circle deep within the oaks.  To the east are 
+the metal shops, the south the dealers in magic.  A shortcut to Acadamy 
+road is to the north-west.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000003
+D2
+~
+~
+0 -1 4000005
+D7
+~
+~
+0 -1 4000037
+S
+#4000005
+Commerce Street~
+Suspended from the overhanging branches of ancient trees, lanterns illuminate
+Commerce Street to discourage pickpockets from targeting customers of the
+reputable merchants located around the park. This section is particularly
+quiet as the scribe's library lies open to the west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000004
+D2
+~
+~
+0 -1 4000006
+D3
+~
+~
+0 -1 4000106
+S
+#4000006
+Commerce Street~
+Looking west the stone constructed buildings stand in contrast to the natural
+beauty of the park to the east.  The entrance west would appear to be the home 
+and store of the towns resident mage, who caters to those who work within the 
+magical arts.  Commerce street continues north and south.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000005
+D2
+~
+~
+0 -1 4000007
+D3
+~
+~
+0 -1 4000107
+S
+#4000007
+Commerce Street~
+A fresh sea breeze gusts up the street swirling leaves around and dumping them
+against the large wooden gate on the building to the east.  A smell wafts 
+through an open window and makes your stomach gag, looking through the window 
+you can make out some beakers bubbling away, this must be the Alchemist's Lab. 
+Gazing south you see the junction of Commerce Street and West Taldon Avenue, to
+the north Commerce Street continues.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000006
+D2
+~
+~
+0 -1 4000008
+D3
+~
+~
+0 -1 4000108
+S
+#4000008
+Intersection of West Taldon Avenue and Commerce Street~
+The bright lights of commercial street spill out onto this busy intersection,
+to the east and west, Taldon Avenue and the sea wall stretch as far as the eye 
+can sea.  The soft golden sands of the beach lay to the south.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000007
+D1
+~
+~
+0 -1 4000009
+D3
+~
+~
+0 -1 4000034
+S
+#4000009
+West Taldon Avenue by the Ocean~
+Free of the obstructions of the fish market and docks to the east, the iron
+railing that runs along the seawall provides a good place to stop and
+take in the long stretch of sands down below the seawall.  Out to sea gulls 
+swoop over the fishing boats that are dragging in their nets.  A small 
+dirt trail leads north east through the park, the meeting of West Taldon
+Avenue and commercial street is a short walk west.  East leads to the piers.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000010
+D3
+~
+~
+0 -1 4000008
+D6
+~
+~
+0 -1 4000303
+S
+#4000010
+West Taldon Avenue by the Fish Market~
+The strong smell of fresh fish wafts from the docks and the pier, you have to
+weave around the large crates dumped around the sea wall road.  Carrying on
+south will take you through the fish market and to the end of the pier.  The
+sea wall and West Talron avenue continue to the east and west.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000011
+D2
+~
+~
+0 -1 4000135
+D3
+~
+~
+0 -1 4000009
+S
+#4000011
+West Taldon Avenue by the Docks~
+The cobbled stone street meets with a small wooden jetty that leads to the
+marina and passenger port, oaks from the park provide some shelter from the hot
+sun during the day, the proximity to the port and commerce street make this an
+area of oppurtunity for street entertainers and beggars.  West Taldon Avenue
+continues to the east and west.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000012
+D2
+~
+~
+0 -1 4000045
+D3
+~
+~
+0 -1 4000010
+S
+#4000012
+The Corner of West Taldon Avenue and Park Street~
+Park Street comes to an abrupt end at the stone seawall to the south, past
+which many small boats lie along a maze of docks. West Taldon Road runs west
+from here between the docks and The Park to the north-west. In the distance on
+the ocean, traces of the ruins of New Darkhaven barely extend from the surface.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000013
+D3
+~
+~
+0 -1 4000011
+S
+#4000013
+Park Street~
+The crisp sea air gusts up from the pier below, to the west the view of the 
+park is obscured by many tall trees, that tower overhead, casting the 
+stationary shop to the east into darkness.  Park Road continues uphill north 
+and meets with West Taldon Avenue to the south.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000014
+D1
+~
+~
+0 -1 4000102
+D2
+~
+~
+0 -1 4000012
+S
+#4000014
+Park Street~
+The street runs between impressive city buildings on the east, here an
+entrance to the post office, and the beauty of The Park on the west where
+a small lake can be seen. The blue of the ocean can be made out in the
+distance as the street gently slopes down southwards towards it.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000015
+D1
+~
+~
+0 -1 4000101
+D2
+~
+~
+0 -1 4000013
+S
+#4000015
+Park Street~
+From its meeting with East Taldon Road to the north, Park Street slopes
+southwards along the forested edge of The Park to the west. On the east side
+of the street, an eloboritely stoned entry leads into the town hall.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000000
+D1
+~
+~
+0 -1 4000100
+D2
+~
+~
+0 -1 4000014
+S
+#4000016
+East Taldon Avenue~
+The cobblestone surface of East Taldon Avenue extends to the east, towards
+the eastern gate and the academy, and west towards The Park. An arched stone
+entryway opens into the town hall to the south. Above the road, an archway
+crosses from the roof of the building to the north to the town hall.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000017
+D2
+~
+~
+0 -1 4000100
+D3
+~
+~
+0 -1 4000000
+S
+#4000017
+East Taldon Avenue~
+north is the bank
+south is the medical centre
+east leads to the intersection of academy road and eastern gate
+west to the archway of the town hall and park road
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000110
+D1
+~
+~
+0 -1 4000018
+D2
+~
+~
+0 -1 4000109
+D3
+~
+~
+0 -1 4000016
+S
+#4000018
+East Taldon Avenue Meets Academy Road~
+The intersection of East Taldon Avenue and Academy Road.
+To the south is the Academy.
+To the east is the eastern gate.
+Following the road north will lead to more shops.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000019
+D1
+~
+~
+0 -1 4000038
+D2
+~
+~
+0 -1 4000036
+D3
+~
+~
+0 -1 4000017
+S
+#4000019
+Academy Road Along the East Side of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000020
+D2
+~
+~
+0 -1 4000018
+S
+#4000020
+North-East Side of Academy Road~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000019
+D3
+~
+~
+0 -1 4000021
+S
+#4000021
+Academy Road Through the North Side of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000111
+D1
+~
+~
+0 -1 4000020
+D2
+~
+~
+0 -1 4000112
+D3
+~
+~
+0 -1 4000022
+S
+#4000022
+Academy Road Through the North Side of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000113
+D1
+~
+~
+0 -1 4000021
+D2
+~
+~
+0 -1 4000114
+D7
+~
+~
+0 -1 4000023
+S
+#4000023
+Academy Road Jogs Around Executioner Park~
+~
+0 1073741824 1
+D8
+~
+~
+0 -1 4000022
+D9
+~
+~
+0 -1 4000024
+S
+#4000024
+Academy Road Through the North Side of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000144
+D2
+~
+~
+0 -1 4000120
+D3
+~
+~
+0 -1 4000025
+D6
+~
+~
+0 -1 4000023
+S
+#4000025
+Academy Road Through the North Side of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000121
+D1
+~
+~
+0 -1 4000024
+D2
+~
+~
+0 -1 4000122
+D3
+~
+~
+0 -1 4000026
+S
+#4000026
+Academy Road Through the North Side of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000123
+D1
+~
+~
+0 -1 4000025
+D2
+~
+~
+0 -1 4000124
+D3
+~
+~
+0 -1 4000027
+S
+#4000027
+North-West Bend in Academy Road~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000125
+D1
+~
+~
+0 -1 4000026
+D2
+~
+~
+0 -1 4000126
+D9
+~
+~
+0 -1 4000028
+S
+#4000028
+North-West Bend in Academy Road~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 4000027
+D8
+~
+~
+0 -1 4000037
+D9
+~
+~
+0 -1 4000029
+S
+#4000029
+North-West Bend in Academy Road~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000030
+D6
+~
+~
+0 -1 4000028
+D7
+~
+~
+0 -1 4000128
+S
+#4000030
+Academy Road Along the West End of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000029
+D1
+~
+~
+0 -1 4000130
+D2
+~
+~
+0 -1 4000031
+D3
+~
+~
+0 -1 4000129
+S
+#4000031
+Academy Road Along the West End of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000030
+D1
+~
+~
+0 -1 4000132
+D2
+~
+~
+0 -1 4000032
+D3
+~
+~
+0 -1 4000131
+S
+#4000032
+Academy Road Along the West End of Town~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000031
+D1
+~
+~
+0 -1 4000134
+D2
+~
+~
+0 -1 4000033
+D3
+~
+~
+0 -1 4000133
+S
+#4000033
+Meeting of West Taldon Avenue and Academy Road~
+Your at the intersection of the two largest streets in town.  Namely Acadamy
+road that terminates at the acadamy with many buildings of interest on route.
+West Taldon avenue sits atop of the seawall and makes its way east to the
+piers and commercial district.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000032
+D1
+~
+~
+0 -1 4000034
+D3
+~
+~
+0 -1 4000035
+S
+#4000034
+West Taldon Avenue by the Beach~
+The waves roll on to the sandy beach, stones swept up by the spring lay 
+untouched in the gutters that run either side of the road.  Gulls swoop 
+overhead scavenging for food left at this popular recreation point. Looking 
+past the surf and across the clear blue sea you can spot some vessels 
+travelling to the port to the east.  West Taldon Avenue continues to the east
+and west.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000008
+D3
+~
+~
+0 -1 4000033
+S
+#4000035
+West Taldon Avenue at then End of the Beach~
+The sea wall ends here and meets with the main city defences to provide 
+coverage from raiders.  Looking west you can see the Western Gate and a guard
+post, high above the western gate a long walkway sits atop the city wall and
+across the north completely encompassing the city.  West Taldon Avenue 
+follows the shoreline east and will take you into the heart of the city.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000033
+D3
+~
+~
+0 -1 4000040
+S
+#4000036
+Academy Road Enters the Academy~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000018
+S
+#4000037
+A Thin Alleyway~
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 4000028
+D8
+~
+~
+0 -1 4000004
+S
+#4000038
+Before the Eastern Gates~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000039
+D3
+~
+~
+0 -1 4000018
+D4
+~
+~
+0 -1 4000206
+S
+#4000039
+Outside the Eastern Gates~
+The eastern gates of Taldron, a massive portcullis, cast slitted shadows
+over this busy intersection. The path outside the gates splits, following the
+city walls. The south-eastern branch leads to the shoreline, while the path to
+the north leads past the outer city and farther to the great northern plains.
+the outer city and farther on through the great northern plains.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000315
+D3
+~
+~
+0 -1 4000038
+D8
+~
+~
+0 -1 4000309
+S
+#4000040
+Before the Western Gates~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000035
+D2
+~
+~
+0 -1 4000137
+D3
+~
+~
+0 -1 4000041
+S
+#4000041
+Outside the Western Gates~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000040
+D3
+~
+~
+0 -1 4000304
+S
+#4000042
+Empty Room~
+~
+0 1075838976 1
+D0
+~
+~
+0 -1 4000043
+S
+#4000043
+Empty Room~
+~
+0 1075838976 1
+D2
+~
+~
+0 -1 4000042
+S
+#4000044
+At the End of a Pier~
+A single mooring is provided for the fisherman to offload their stock on to the
+fish market.  A steel railing looks to be a popular leaning post for the 
+fishmongers to take a break, relax and enjoy a pipe.  Looking east you can see 
+a few fishing boats moored to the dock pier.  Unless you fancy a swim in the 
+deep murky waters your only way off the pier is north.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000135
+S
+#4000045
+Out on the Docks~
+Looking south you can see a small kiosk selling tickets for passage overseas To
+the east a small jetty provides a mooring place for the toys of the rich 
+merchants.  The boats moored here float up and down in time to the waves, the 
+sounds of the sea are a pleasant change to the hussle and bustle of the city 
+streets.  The jetty meets dry land to the north.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000011
+D1
+~
+~
+0 -1 4000046
+D2
+~
+~
+0 -1 4000136
+S
+#4000046
+Walking Through the Marina~
+The expensive playthings of the city officials and rich merchants are tied 
+securely to the wooden jetty.  Looking north you can see fisherman relaxing on
+the rocky cliff edge that envelopes the east side of the docks.  Looking south
+you have an unrestricted view straight out to sea, through the mist a glimpse
+of a far off city can be seen.  West leads back on to the main jetty.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000045
+S
+#4000100
+Taldon Town Hall~
+You feet tap loudly on the solid marble floor of this magnificent building.  No
+expense has been spared to make sure that the city officals work under the best
+possible conditions.  A large picture window above the western door gives an 
+astounding view of the park.  A marble stair case leads up to the public issues
+office, and two heavy doors lead back out onto the streets.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000016
+D3
+~
+~
+0 -1 4000015
+D4
+~
+~
+0 -1 4000116
+S
+#4000101
+The Post Office~
+A large wooden counter splits the room into two sections.  In front of the 
+counter is a large waiting area, for those wishing to conduct and prepare their
+mail.  Behind the counter rows of small pigeon holes contain the residents mail
+ready for collection.  A sign is on the wall and demands your attention, the 
+sturdy iron door leads west back on to Park Street.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000014
+E
+sign~
+Welcome to the Taldron Post Office
+ 
+To access your mail, use the mail command.
+ 
+eg: mail list, mail read, mail write and mail post.
+ 
+Please ensure your message is addressed correctly.
+ 
+The Taldron PO will not accept any responsibility
+for misaddressed mail.
+ 
+THE TALDRON POSTMASTER
+~
+S
+#4000102
+Stationary Shop~
+The smell of new parchment fills this small kiosk, pilled high on the small
+counter lay new parchment milled from the forests of the north.  Quills and
+inkpots stand neatly packaged ready for sale.  A stone archway leads west back
+onto Park Street.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000013
+S
+#4000103
+The Blacksmith's Forge~
+A large furnace eminates heat and light making the forge feel very pleasant and
+homeley, a tin chimney runs from the furnace up through the roof.  A large 
+wrought iron anvil sits in the centre of the forge, a  selection of tools 
+essential to the craft hang overhead from the wooden beams that support the 
+building.  A sturdy workbench displays some of the smithys completed work.  A 
+traditional stable door leads south back to the street.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000001
+S
+#4000104
+The Armoury~
+The wooden floor looks bowed under the weight of the equipment and
+the huge glass display cabinets that contain the armor masters
+finest works.  A window to the back reveals a distant view of 
+executioners park.  Looking south you can see East Taldon Avenue
+through the open door.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000002
+S
+#4000105
+The Weaponsmith's Shop~
+The solid wooden floors and the high ceilings adds a touch of class
+to this otherwise sparse room.  At centre place stands a wrought 
+iron weapon rack, with the Weaponsmiths's finest works on display.
+A simple oak door leads south back to East Taldon Avenue.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000003
+S
+#4000106
+The Scribe's Library~
+The first thing that hits you when you enter the scribes library is the dusky
+scent of old parchment.  As your eyes adjust to the candle lit room you marvel 
+at the wide range of scrolls and parchments all meticulously organised for ease
+of access.  Towards the back of the library is a small seated area for you to 
+sit and study the works on offer.  The stone archway east leads back on to 
+commerce street.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000005
+S
+#4000107
+Wizard's Store~
+The walls of the Wizard's store are covered in rare artifacts that the Wizard
+has located on his far reaching exploration of the lands.  Trinkets and Charms
+recieved as gifts from far away tribes sit at pride of place on the simple 
+wooden counter on which the Wizard conducts his trade.  A heavy door leads east
+back to the street.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000006
+S
+#4000108
+The Alcemist's Lab~
+Your feet squelch through this grotty laboratory, the glamarous street outside
+seems a distant memory as your eyes dart around the chaotic squalor that 
+houses the cities live-in alcemist.  Mounds of parchment cover all the 
+available workspace, leaving little room for the alchemist to conduct his 
+experiments, steam rises from the puddles of spilt chemicals on the stone floor
+rising to form ugly puce rings on the ceiling. The exit east back on to the 
+street looks like a good option.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000007
+S
+#4000109
+Taldon Medical Centre~
+warm, dry, bright
+wood, stone
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000017
+D4
+~
+~
+0 -1 4000117
+D5
+~
+~
+0 -1 4000140
+S
+#4000110
+Local Bank Office~
+The stone walls of the bank are neatly fitted together so that not
+even a mouse could squeese through the cracks. In the center of the
+room is a large caged booth where the attendant waits for customers. 
+Just infront of the both is a silver circle embedded in the granite
+floor. To the west is a door with a bronze plaque that reads,
+"Donations". A closer look will reveal the fine print.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000017
+D3
+~
+~
+0 -1 4000118
+D5
+~
+~
+0 -1 4000141
+E
+plaque~
+The fine print on the bronze plaque reads: This bank and its employees
+are not responsible for any injury that may occur from entering this
+room or injury from the use of any of the equipment found inside.
+~
+S
+#4000111
+The Tailor's Clothes Store~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000021
+S
+#4000112
+The Jewellers Shop~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000021
+S
+#4000113
+The Dairy Tent~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000022
+S
+#4000114
+The Bakery~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000022
+D4
+~
+~
+0 -1 4000115
+S
+#4000115
+Upper Food Court~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000224
+D5
+~
+~
+0 -1 4000114
+S
+#4000116
+Public Issues Office~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000223
+D5
+~
+~
+0 -1 4000100
+S
+#4000117
+The Psychiatric Health Office~
+warm, bright
+wood
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 4000109
+S
+#4000118
+The Benevolent Supply Donation Room~
+This room is made with the same stone as the bank. The only light
+source is a brazer with what appears to be a magical fire burning
+inside. The smoke and shadows created by the fire makes it hard to
+look through the piles of equipment which rests upon the floor around
+the walls.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000110
+E
+brazer~
+The fire appears to be burning without a source of fuel. It must
+be magic. The brazer looks to be made of gold and is bolted firmly
+to the floor of the room.
+~
+S
+#4000119
+Pet Shop Stables~
+~
+0 1073741828 1
+S
+#4000120
+Inside the Chapel~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000024
+S
+#4000121
+The Butcher's Stand~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000025
+S
+#4000122
+Unassigned Room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000025
+S
+#4000123
+Unassigned Room~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000026
+S
+#4000124
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000026
+S
+#4000125
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000027
+S
+#4000126
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000027
+S
+#4000127
+Floating in a void.~
+~
+0 1073741828 1
+S
+#4000128
+Floating in a void~
+~
+0 1073741824 1
+D8
+~
+~
+0 -1 4000029
+S
+#4000129
+hippy shop/pillows/throws/incence/alternative potions~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000030
+S
+#4000130
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000030
+S
+#4000131
+Adventurers Supplies~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000031
+S
+#4000132
+Traveller Information/Autoquest?~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 3000051
+D3
+~
+~
+0 -1 4000031
+S
+#4000133
+Entrance to the Fighting Pit~
+This distraught looking room, provides fun for the townsfolk keen on 
+bloodsports and betting.  Blood and spitly whiskey soaks the floor, a small
+blackboard is used to tally up bets and wins.  A small door obstructed door
+leads to the fighting pit.  Those squeamish or chicken should leave east onto 
+Acadamy Road.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000032
+E
+sign plaque rules blackboard board~
+You at the PKILL cage entrance room.   The rules are obvious, you play clean 
+and you don't try to wimp out (you'll fail).
+ 
+The only way out of the cage, is to say "I want out!", which will work 
+only if you are not fighting.
+
+To enter the cage, say "Send me to the PKILL Cage!"
+
+THE PKILL RULES STILL APPLY IN THE CAGE!
+~
+S
+#4000134
+The "Fish and Gavel" Inn~
+A cosy log fire fills the inn with heat and light.  A solid oak bar holds up
+the drunken souls that frequent this busy establishment.  Behind the counter
+two doors lead to the boarding rooms.  A plaque with a price list sits on the
+bar.  The door west leads back out onto the cold streets of Taldon.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000032
+E
+plaque sign~
+Fish and Gavel, Boarding Prices
+-------------------------------
+The cost per night is 100 coins.
+You will be provided with a safe resting place.
+You need to supply your own sheets and other nicities.
+We are a reputable business, so seperate rooms for men and women.
+No Guests.
+Well behaved pets allowed.
+~
+S
+#4000135
+The Fish Market~
+This section of the pier holds the cities fish market.  The fresh catches from 
+the local fishing fleet are piled high in battered wooden crates.  The strong
+smell of the catches and shell fish hang heavy in the air.  A makeshift grill
+stands in the corner so that you can take away the goods pre-cooked.  The
+pier continues to an observation point to the south, the sweeter smelling 
+West Taldon avenue is north.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000010
+D2
+~
+~
+0 -1 4000044
+S
+#4000136
+The Public Port Terminal~
+The ferry terminal provides passage to distant lands, as well as fishing and 
+sightseeing tours of the coast line surrounding Taldron.  A small wooden
+ticket kiosk sits next to the roped queueing area to board the ferry.  Looking
+west you can see the fish market on the pier, looking further across the bay
+the white sands lead on to a rocky cliff edge.  Looking south the jetty
+leads back to the city.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000045
+S
+#4000137
+Inside the Western Guard Tower~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000040
+D4
+~
+~
+0 -1 4000222
+S
+#4000138
+Bottom of the Lighthouse~
+The large space at the base of the lighthouse is heavily shielded against
+the weather and attack and braced to hold the tower firm. This isn't
+surprising since the place also serves as an important guard post. A thick
+metal-reenfoced door opens to the path outside in the eastern wall.
+~
+0 1073741824 1
+D1
+~
+~
+1 -1 4000314
+D4
+~
+~
+0 -1 4000139
+S
+#4000139
+Within the Lighthouse~
+A slight stone stairway spirals upwards into the thinning cylinder of the
+lighthouse. In the darkness of the interior, the light of a small opening
+leading northwards to the top of the city walls stands out clearly. Below,
+the stairs head down to the bottom of the lighthouse.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000201
+D4
+~
+~
+0 -1 4000200
+D5
+~
+~
+0 -1 4000138
+S
+#4000140
+The Morgue~
+cold, dark, dry, quiet
+metal, stone
+~
+0 1073741824 1
+D4
+~
+~
+0 -1 4000109
+S
+#4000141
+In the Locker Vault~
+Metal chests line the walls of this small chamber. There appears to
+be no exit. The light source is not apparent and no shadows seem to
+be cast.
+~
+0 1073741824 1
+D4
+~
+~
+0 -1 4000110
+E
+chest chests metal~
+The chests appear to be magically locked and protected. Further more
+arcane runes are inscribed on the front of each and everyone of them.
+~
+S
+#4000142
+Mens Boarding Room at the "Fish and Gavel"~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000134
+S
+#4000143
+Female Boarding Room at the "Fish and Gavel"~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000134
+S
+#4000144
+Petshop Stables~
+4000145 is petshop store room
+~
+0 1073745920 1
+D2
+~
+~
+0 -1 4000024
+S
+#4000145
+pet store room~
+This room must stay right after the pet shop in taldon or it wont work
+ 
+-Andy
+~
+0 1244660740 1
+S
+#4000200
+Outside on Top of the Lighthouse~
+The wind forms a constant howling as it shears through the large fresnel
+lenses. A metal platform running around the lighthouse affords an
+expansive view of the ocean inlet to the south and the plains to the
+north, making it a valuable lookout post.
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 4000139
+S
+#4000201
+On the Bulwarks Near the Lighthouse~
+The high wall extends straight to the end of the peninsula, the path on
+its outer side following it out into the ocean. To the south, the wall
+abutts the lighthouse at the southern tip of land.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000202
+D2
+~
+~
+0 -1 4000139
+S
+#4000202
+On the Bulwarks Stretching Out on the Peninsula~
+This section of the bulwarks serves to give defenders a high point from
+which to fire down on naval attackers to the south-west. Huge ballistas,
+harpoon-launchers, and fireball-throwers line the top of the wall.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000201
+D7
+~
+~
+0 -1 4000203
+S
+#4000203
+The Bulwarks by the South-Eastern Shore~
+As the wall extends southwards past the shore and out into the peninsula, its
+purpose changes from enclosing the city to protecting the harbour to the south-
+west. On the outside of the wall to the east, a busy path follows the wall.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 4000204
+D8
+~
+~
+0 -1 4000202
+S
+#4000204
+Atop the South-Eastern Rampart~
+Below the wall to the west, inside the city, the academy grounds can be seen
+below. To the south-east, the ramparts lose their sheer vertical sides as
+they change to a high bulwark that extends past the shoreline.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 4000205
+D8
+~
+~
+0 -1 4000203
+S
+#4000205
+Atop the Eastern Rampart~
+This section of the thick wall around Taldron lies just south of the eastern
+gates, where a catwalk serves to allow passage across. To the south-east, the
+heavy wall continues.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000206
+D8
+~
+~
+0 -1 4000204
+S
+#4000206
+On Top of the Eastern Gates~
+The catwalk that leads across the top of the eastern gate is a massively
+thick metal affair, housing several large clusters of heavy, hand-operated
+machinery that serves to control the thick portcullis that forms the gates. A
+ladder heads down to street level.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000207
+D2
+~
+~
+0 -1 4000205
+D5
+~
+~
+0 -1 4000038
+S
+#4000207
+Atop the Eastern Rampart~
+The thick top of the defensive wall around town heads north from here. To
+the south, it ends above the eastern gate where a high catwalk leads over
+to the continuation of the wall father on.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000208
+D2
+~
+~
+0 -1 4000206
+S
+#4000208
+Atop the North-Eastern Rampart~
+Curving around the buildings of the city, the wall heads south and north-
+west. To the south-west, the buildings and streets of Taldon stretch out
+below.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000207
+D7
+~
+~
+0 -1 4000209
+S
+#4000209
+Atop the North-Eastern Rampart~
+The walls curve around town, heading south-east and west from here. Looking
+northwards, paths head through the vast northern plains.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000210
+D8
+~
+~
+0 -1 4000208
+S
+#4000210
+On the North-Eastern Bastion~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000209
+D3
+~
+~
+0 -1 4000211
+S
+#4000211
+Atop the Northern Rampart~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000210
+D3
+~
+~
+0 -1 4000212
+S
+#4000212
+Atop the Northern Rampart~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000211
+D3
+~
+~
+0 -1 4000213
+S
+#4000213
+Atop the Northern Rampart~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000212
+D3
+~
+~
+0 -1 4000214
+S
+#4000214
+Atop the Northern Rampart~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000213
+D3
+~
+~
+0 -1 4000215
+S
+#4000215
+On the North-Western Bastion~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000214
+D9
+~
+~
+0 -1 4000216
+S
+#4000216
+Atop the North-Western Rampart~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 4000215
+D9
+~
+~
+0 -1 4000217
+S
+#4000217
+Atop the North-Western Rampart~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 4000216
+D9
+~
+~
+0 -1 4000218
+S
+#4000218
+Atop the Western Rampart~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000219
+D6
+~
+~
+0 -1 4000217
+S
+#4000219
+Atop the Western Rampart~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000218
+D2
+~
+~
+0 -1 4000220
+S
+#4000220
+Atop the Western Rampart~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000219
+D2
+~
+~
+0 -1 4000221
+S
+#4000221
+On Top of the Western Gates~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000220
+D2
+~
+~
+0 -1 4000222
+S
+#4000222
+A Turret Atop the Western Guard Tower~
+This turret sharply cuts off the beach to the east by extending slightly
+into the ocean, making it impossible to get around Taldon's walls. The
+western path can be seen streching into the pixie forest, well covered by
+sharpshooting positions behind balistraria that line the embattled parapet
+around the turret. A large ballista faces southwards, covering the harbour.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000221
+D5
+~
+~
+0 -1 4000137
+S
+#4000223
+An Archway Above East Taldon Avenue~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000224
+D2
+~
+~
+0 -1 4000116
+S
+#4000224
+The Rooftop Patio Lounge~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000115
+D2
+~
+~
+0 -1 4000223
+S
+#4000300
+Dark Dirt Trail Through the Trees~
+Through the trees to the north east you can see civilisation in the
+form of East Taldon Avenue.  The dirt trail delves deeper into the
+park to the west.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000301
+D6
+~
+~
+0 -1 4000001
+S
+#4000301
+Dirt Path Through The Park~
+The small path continues southwards through the trees. The air feels
+fresher here, as if you where near water. The path east leads back
+to the trees.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000300
+D2
+~
+~
+0 -1 4000302
+S
+#4000302
+A Dirt Path by a Small Lake~
+The path leads by a small lake. A calm breeze runs past you and you
+feel calmer walking by. A group of swans take off, disturbed by your
+presence there.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000301
+D2
+~
+~
+0 -1 4000303
+S
+#4000303
+A Dark Path Through The Park~
+You leave the clearing north of you as you walk on the path through
+the trees again. A stronger wind passes by you, announcing something
+bigger than a mear lake.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000302
+D9
+~
+~
+0 -1 4000009
+S
+#4000304
+Western Path by the Ocean~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000041
+D9
+~
+~
+0 -1 4000305
+S
+#4000305
+Western Path by the Ocean~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 4000304
+D9
+~
+~
+0 -1 4000306
+S
+#4000306
+The Western Path Approaching the Forest~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 4000305
+D9
+~
+~
+0 -1 4000307
+S
+#4000307
+A Path Through the Light Forest~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 4000306
+D9
+~
+~
+0 -1 4000308
+S
+#4000308
+Passing Through an Open Forest~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 2098
+D6
+~
+~
+0 -1 4000307
+S
+#4000309
+A Path Outside the Eastern Wall~
+Just south of the eastern gate of Taldron, the path follows the defensive
+rampart that protects the eastern side of town. The path heads for the
+gates to the north-west, and follows the wall to the south-east.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 4000039
+D8
+~
+~
+0 -1 4000310
+S
+#4000310
+A Path Outside the Eastern Wall~
+The eastern wall overshadows the path here, looming to the west. The path
+heads along the wall's base, north-west and south-east. Opposite the wall,
+plains quickly become rolling hills to the east, before a range of mountains.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 4000309
+D8
+~
+~
+0 -1 4000311
+S
+#4000311
+A Path Outside the Eastern Wall~
+The road hugs the high walls of taldron, heading north-west towards the eastern
+gate and south-east towards an intersection.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 4000310
+D8
+~
+~
+0 -1 4000312
+S
+#4000312
+An Intersection Outside the Eastern Wall~
+The road splits here, heading north-west along the wall to Taldron's eastern
+gate. To the south, a path continues to follow the wall out to the tip of
+a peninsula where a lighthouse is visible. The road heads east along the shore.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 21101
+D2
+~
+~
+0 -1 4000313
+D7
+~
+~
+0 -1 4000311
+S
+#4000313
+Heading Out on the Peninsula~
+The path heads south to the end of the peninsula, and north back to shore.
+The waters of the inlet are visible to the east, but on the other side the
+view is blocked off by the huge bulwarks that parallel this road to the end
+of the land.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000312
+D2
+~
+~
+0 -1 4000314
+S
+#4000314
+At the End of the Peninsula~
+This path curves around the lighthouse at the end of the peninsula, heading
+northwards towards the land along the base of Taldron's city wall. To the
+south, the way continues out into the ocean along a floating causeway. A
+well-defended door opens to the west on the side of the lighthouse.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000313
+D2
+~
+~
+0 -1 21099
+D3
+~
+~
+1 -1 4000138
+S
+#4000315
+A Path Outside the Eastern Wall~
+The path just north of the eastern gates heads north and south, bordered
+on the west by the city wall and on the east by farmlands leading into
+foothills and mountains.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000316
+D2
+~
+~
+0 -1 4000039
+S
+#4000316
+A Path Outside the Eastern Wall~
+The path continues south towards the city gates and north to the outer
+city and into the plains. On the ramparts above, patrolling guards observe
+the path for signs of trouble.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000317
+D2
+~
+~
+0 -1 4000315
+S
+#4000317
+An Intersection North-East of the Town Walls~
+The eastern wall breaks off here, curving to the west. The northern path
+continues out into the vast northern plains, while another road follows
+the curve of the wall to the north-west into the more dangerous part of
+town that lies without the city walls.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 28000
+D2
+~
+~
+0 -1 4000316
+D7
+~
+~
+0 -1 4000800
+S
+#4000400
+&COrder of Sarmizegetusa~
+~
+0 1076887564 0
+S
+#4000800
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000801
+D8
+~
+~
+0 -1 4000317
+S
+#4000801
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000802
+D2
+~
+~
+0 -1 4000800
+S
+#4000802
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000803
+D2
+~
+~
+0 -1 4000801
+S
+#4000803
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000804
+D1
+~
+~
+0 -1 4000811
+D2
+~
+~
+0 -1 4000802
+D3
+~
+~
+0 -1 4000810
+S
+#4000804
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000805
+D2
+~
+~
+0 -1 4000803
+S
+#4000805
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000806
+D1
+~
+~
+0 -1 4000813
+D2
+~
+~
+0 -1 4000804
+D3
+~
+~
+0 -1 4000812
+S
+#4000806
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000807
+D2
+~
+~
+0 -1 4000805
+S
+#4000807
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4000808
+D1
+~
+~
+0 -1 4000815
+D2
+~
+~
+0 -1 4000806
+D3
+~
+~
+0 -1 4000814
+S
+#4000808
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4000807
+S
+#4000809
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000810
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000803
+S
+#4000811
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000803
+S
+#4000812
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000805
+S
+#4000813
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000805
+S
+#4000814
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4000807
+S
+#4000815
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 4000807
+S
+#4000816
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000817
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000818
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000819
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000820
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000821
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000822
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000823
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000824
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000825
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000826
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000827
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000828
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000829
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000830
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000831
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000832
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000833
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000834
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000835
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000836
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000837
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000838
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000839
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000840
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000841
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000842
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000843
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000844
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000845
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000846
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000847
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000848
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000849
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000850
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000851
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000852
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000853
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000854
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000855
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000856
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000857
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000858
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000859
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000860
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000861
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000862
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000863
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000864
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000865
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000866
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000867
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000868
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000869
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000870
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000871
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000872
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000873
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000874
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000875
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000876
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000877
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000878
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000879
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000880
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000881
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000882
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000883
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000884
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000885
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000886
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000887
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000888
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000889
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000890
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000891
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000892
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000893
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000894
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000895
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000896
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000897
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000898
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000899
+Floating in a void~
+~
+0 1073741828 1
+S
+#4000999
+Taldron Final Room~
+We don't really want to have 1000000 vnums lagging this area, so I've cut it
+to 700, which is more than DH even had originally and fits in
+nicely with the following room sceme that makes it easy to set sectors
+and flags with rat:
+4000000 - 4000099 = city sector; streets around town
+4000100 - 4000199 = indoors; standard town buildings
+4000200 - 4000299 = outdoors on the city walls, building rooves / archways
+4000300 - 4000399 = parks, paths out of town (mostly in roads.are), misc.
+4000400 - 4000799 = currently empty, could be assigned for future uses
+4000800 - 4000899 = marten's slum area outside of town
+4000900 - 4000998 = quest stuff, temp rooms, extra rooms, etc.
+4000999           = final room
+I've created a map of this area as a rough guilde to building. See help map3.
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+M 1 4000000 1 4000999
+O 1 4000000 1 4000999
+O 1 4000999 1 4000999
+O 1 21042 1 4000100
+O 1 10429 1 4000116
+O 1 21048 1 4000101
+O 1 3000052 1 4000132
+M 0 4000100 1 4000145
+M 0 4000101 1 4000145
+M 0 4000102 1 4000145
+M 0 4000103 1 4000145
+M 0 4000104 1 4000145
+M 0 4000105 1 4000145
+O 1 4000102 1 4000131
+O 1 4000100 1 4000131
+O 1 4000101 1 4000131
+O 1 4000103 1 4000131
+O 1 4000104 1 4000131
+M 0 4000108 1 4000145
+M 0 4000107 1 4000145
+M 0 4000106 1 4000145
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  4000104 spec_breath_any
+S
+
+
+#$

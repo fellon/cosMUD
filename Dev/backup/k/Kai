@@ -1,0 +1,98 @@
+#PLAYER
+Version      3
+Name         Kai~
+Description  ~
+Sex          1
+Class        14
+Race         5
+Languages    1 1
+Level        2
+Played       611
+Room         10316
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   8 38 101 101 113 113
+Gold         0
+Exp          2736
+Height          50
+Weight          136
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -3
+Password     KaeG18n06Mto2~
+Title         the Footpad~
+Lastname (null)~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 11 14 14 14 10 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         130.156.8.86
+Skill        17 'backstab'
+Skill        17 'hide'
+Skill        17 'steal'
+Tongue       100 'common'
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         50152
+WearLoc      16
+Level        2
+Values       5 1 3 0 0 0
+End
+
+#END

@@ -1,0 +1,241 @@
+#PLAYER
+Version      3
+Name         Diablo~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      5
+Languages    1 1
+Level        38
+Played       53679
+Room         8124
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   701 941 174 174 581 581
+Gold         273035
+Exp          59432756
+Height          120
+Weight          597
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     49
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       -199
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Wao9J41yLBXAc~
+Title         the Lieutenant~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Deity	     Tyr~
+Flags        98306
+PKills       5
+PDeaths      6
+MKills       270
+MDeaths      5
+ArenaWins    0
+ArenaKills   2
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 15 11 11 16 9 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 20 8 34
+Site         210.212.228.77
+Skill        17 'aid'
+Skill        17 'bash'
+Skill        25 'disarm'
+Skill        18 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        17 'grip'
+Skill        90 'headbutt'
+Skill        20 'kick'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        47 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        77 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       27 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'trollese'
+Killed       8132 3
+Killed       8101 5
+Killed       8108 3
+Killed       8112 11
+Killed       8100 1
+Killed       8118 10
+Killed       8104 2
+Killed       8130 1
+Killed       8106 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         1521
+WearLoc      16
+Level        8
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Vnum         15171
+WearLoc      5
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      18
+Level        3
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        53
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7220
+Level        44
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7223
+Level        45
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8103
+Level        49
+Values       12 13 43 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7217
+Level        44
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7219
+Level        44
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7218
+WearLoc      7
+Level        6
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       77 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       47 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        11
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Vnum         21017
+Values       10 1 10 0 0 0
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     pp~
+Commands dri spri~
+End
+
+#ALIAS
+Name     as~
+Commands elbow~
+End
+
+#ALIAS
+Name     df~
+Commands roundhouse~
+End
+
+#ALIAS
+Name     sd~
+Commands headbutt~
+End
+
+#ALIAS
+Name     xc~
+Commands get pur bag;qu purple~
+End
+
+#END

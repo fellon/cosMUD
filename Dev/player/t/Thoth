@@ -1,0 +1,49 @@
+#PLAYER
+Version      3
+Name         Thoth~
+Sex          0
+Class        5
+Race         1
+Languages    1 1
+Level        2
+Played       1818
+Room         21194
+HpManaMove   20 31 113 113 110 110
+Gold         0
+Exp          1643
+Height          63
+Weight          105
+Act          570426952
+AffectedBy   16
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Password     Th1tf5rKeneEk~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 13 16 16 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 1109   6  18 0
+AffectData   'bless' 1109  -6  24 0
+AffectData   'armor' 479 -20  17 0
+End
+
+#END

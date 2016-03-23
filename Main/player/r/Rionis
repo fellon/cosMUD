@@ -1,0 +1,558 @@
+#PLAYER
+Version      3
+Name         Rionis~
+Description  ~
+Sex          1
+Class        0
+Race         10
+Species      10
+Languages    131101 1
+Level        61
+Played       183658
+Room         60351
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   520 776 947 952 1080 880
+Gold         3411024
+Exp          277089948
+Height          63
+Weight          149
+Act          570427000
+AffectedBy   8
+Position     104
+Style     2
+Practice     13
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2250
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  0
+Password     RilbSWleVlrRI~
+Title         the Wizard~
+Lastname  Iceveins~
+AuthedBy     Prage~
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        98304
+PKills       1
+PDeaths      0
+MKills       1508
+MDeaths      20
+ArenaWins    2
+ArenaKills   2
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     13 17 12 14 11 8 13
+AttrMod      4 0 0 0 0 0 0
+Condition    0 6 6 71
+Site         207.202.214.132
+Spell        95 'acid blast'
+Spell        19 'antimagic shell'
+Spell        56 'aqua breath'
+Spell        95 'armor'
+Spell        19 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        83 'blazeward'
+Spell        19 'blindness'
+Spell        95 'blur'
+Spell        95 'burning hands'
+Spell        70 'cancelation'
+Spell        95 'caustic fount'
+Spell        19 'charm person'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        42 'continual light'
+Spell        19 'control weather'
+Spell        19 'create fire'
+Spell        70 'create spring'
+Spell        19 'curse'
+Spell        95 'demonskin'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'detect traps'
+Spell        19 'dispel magic'
+Spell        19 'disruption'
+Spell        95 'dragon wit'
+Spell        95 'dragonskin'
+Spell        19 'dream'
+Spell        95 'eldritch sphere'
+Spell        19 'elven beauty'
+Spell        89 'enchant weapon'
+Spell        19 'energy drain'
+Spell        95 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        81 'ethereal shield'
+Spell        27 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        65 'farsight'
+Spell        87 'feather fall'
+Spell        95 'fireball'
+Spell        46 'flight'
+Spell        19 'float'
+Spell        95 'galvanic whip'
+Spell        95 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        19 'infravision'
+Spell        62 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        57 'knock'
+Spell        19 'know alignment'
+Spell        95 'lightning bolt'
+Spell        90 'liquid skin'
+Spell        30 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        95 'mass invis'
+Spell        65 'ogrish hide'
+Spell        95 'pass door'
+Spell        43 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'refresh'
+Spell        24 'remove invis'
+Spell        19 'remove trap'
+Spell        95 'sagacity'
+Spell        31 'scry'
+Spell        91 'shadowform'
+Spell        88 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        19 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        94 'stone skin'
+Spell        21 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        21 'transport'
+Spell        95 'trollish vigor'
+Spell        24 'true sight'
+Spell        94 'valiance'
+Spell        88 'ventriloquate'
+Spell        19 'weaken'
+Spell        19 'winter mist'
+Spell        19 'wizard eye'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        19 'brew'
+Skill        19 'cook'
+Skill        60 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        32 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        19 'levitate'
+Skill        95 'meditate'
+Skill        95 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        31 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+Tongue       100 'gith'
+Tongue       99 'halfling'
+Tongue       99 'ogre'
+Tongue       99 'pixie'
+AffectData   'kindred strength' 1461   4   1 0
+Killed       6005 1
+Killed       441 3
+Killed       444 1
+Killed       440 1
+Killed       438 1
+Killed       437 2
+Killed       445 2
+Killed       26542 2
+Killed       7202 2
+Killed       7201 1
+Killed       5201 4
+Killed       26539 1
+Killed       3507 1
+Killed       3505 1
+Killed       7041 2
+Killed       24825 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14726
+WearLoc      9
+Level        51
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         44706
+WearLoc      1
+Level        12
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        45
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        44
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        44
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        44
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        37
+Values       10 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         12597
+WearLoc      6
+Level        41
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         46274
+WearLoc      15
+Level        23
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2828
+WearLoc      20
+Level        17
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         46029
+WearLoc      2
+Level        47
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         46028
+WearLoc      3
+Level        46
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         15164
+WearLoc      4
+Level        40
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         2802
+WearLoc      11
+Level        38
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         2804
+WearLoc      0
+Level        39
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         7930
+Level        51
+Values       50 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21001
+Level        6
+Values       25 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2859
+Level        45
+Values       12 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41422
+Level        1
+Values       15 137 -1 -1 0 0
+Spell 1      'invis'
+End
+
+#OBJECT
+Nest         1
+Vnum         263
+Level        88
+Values       118 120 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         267
+Level        87
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3512
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        12
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        45
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        17
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7204
+Level        17
+Cost         0
+Values       14 122 137 229 0 0
+Spell 1      'heal'
+Spell 2      'invis'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         14746
+Level        48
+Values       50 10 22 191 0 0
+Spell 1      'armor'
+Spell 2      'bless'
+Spell 3      'shield'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         260
+Level        72
+Values       73 22 193 -1 0 0
+Spell 1      'bless'
+Spell 2      'shockshield'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21001
+Level        6
+Values       24 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         21001
+Level        6
+Values       26 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        4
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        15
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14746
+Level        47
+Values       49 10 22 191 0 0
+Spell 1      'armor'
+Spell 2      'bless'
+Spell 3      'shield'
+End
+
+#OBJECT
+Nest         1
+Vnum         8307
+Level        14
+Values       44 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         8307
+Level        13
+Values       41 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         8307
+Level        12
+Values       43 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         14746
+Level        49
+Values       49 10 22 191 0 0
+Spell 1      'armor'
+Spell 2      'bless'
+Spell 3      'shield'
+End
+
+#OBJECT
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42933
+WearLoc      16
+Level        34
+Values       12 9 31 0 0 0
+End
+
+#END

@@ -1,0 +1,134 @@
+#PLAYER
+Version      3
+Name         Jurg~
+Description  ~
+Sex          1
+Class        10
+Race         5
+Languages    16391 1
+Level        40
+Played       1142
+Room         10306
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   34 1024 114 294 145 665
+Gold         1500
+Exp          53387100
+Height          59
+Weight          161
+Act          570426968&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     200
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     JuUCsN69z6VbQ~
+Title         the Greater Devil~
+Lastname ~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 14 16 14 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 6
+Site         172.138.52.147
+Spell        95 'alertness'
+Spell        70 'armor'
+Spell        95 'blazeward'
+Spell        75 'blindness'
+Spell        95 'burning hands'
+Spell        95 'cancelation'
+Spell        90 'curse'
+Spell        100 'demonskin'
+Spell        95 'detect magic'
+Spell        95 'devils might'
+Spell        90 'dispel magic'
+Spell        80 'enchant weapon'
+Spell        95 'energy drain'
+Spell        95 'faerie fire'
+Spell        95 'farsight'
+Spell        95 'fireball'
+Spell        95 'fireshield'
+Spell        95 'hand of chaos'
+Spell        95 'harm'
+Spell        95 'invis'
+Spell        95 'locate object'
+Spell        90 'magic missile'
+Spell        95 'pass door'
+Spell        90 'poison'
+Spell        95 'scry'
+Spell        95 'shield'
+Spell        70 'sleep'
+Spell        95 'stone skin'
+Spell        85 'transport'
+Spell        95 'true sight'
+Spell        95 'weaken'
+Spell        95 'word of recall'
+Skill        95 'bloodlet'
+Skill        95 'climb'
+Skill        95 'clover'
+Skill        80 'dig'
+Skill        80 'disarm'
+Skill        45 'dodge'
+Skill        95 'drowfire'
+Skill        90 'dual wield'
+Skill        95 'dust'
+Skill        100 'enhanced damage'
+Skill        100 'feed'
+Skill        95 'fly'
+Skill        95 'forestwalk'
+Skill        95 'fourth attack'
+Skill        80 'grip'
+Skill        95 'hide'
+Skill        95 'jump'
+Skill        50 'kick'
+Skill        25 'lore'
+Skill        95 'mount'
+Skill        70 'parry'
+Skill        90 'peek'
+Skill        60 'punch'
+Skill        95 'scan'
+Skill        95 'search'
+Skill        95 'second attack'
+Skill        95 'sneak'
+Skill        95 'talonslash'
+Skill        95 'taunt'
+Skill        90 'third attack'
+Skill        100 'track'
+Weapon       80 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       60 'long blades'
+Weapon       95 'pugilism'
+Weapon       90 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'dwarven'
+Tongue       100 'elvish'
+Tongue       100 'gith'
+Tongue       99 'gnome'
+Tongue       100 'goblin'
+Tongue       100 'halfling'
+Tongue       100 'ogre'
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#END

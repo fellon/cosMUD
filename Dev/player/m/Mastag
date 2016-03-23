@@ -1,0 +1,108 @@
+#PLAYER
+Version      3
+Name         MastaG~
+Description  ~
+Sex          1
+Class        3
+Race         3
+Species      0
+Languages    1 1
+Level        3
+Played       22084
+Room         10325
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   40 40 110 110 120 120
+Gold         8611
+Exp          23896
+Height          34
+Weight          61
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     MaPEu8okseUJI~
+Title         the Sentry~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       25
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 14 13 14 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 2 13
+Site         (Link-Dead)
+Skill        17 'cook'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'halfling'
+AffectData   'bless' 606  -6  24 0
+AffectData   'bless' 606   6  18 0
+Killed       10302 1
+Killed       10303 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

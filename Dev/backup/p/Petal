@@ -1,0 +1,66 @@
+#PLAYER
+Version      3
+Name         Petal~
+Description  ~
+Sex          2
+Class        5
+Race         16
+Species      8
+Languages    1 1
+Level        2
+Played       1842
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   31 31 127 127 199 113
+Gold         3180
+Exp          7322
+Height          26
+Weight          38
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     PeMNnYUYBTGQk~
+Title         the Attendant~
+Lastname (null)~
+AuthedBy     Relgar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       12
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 14 17 17 9 17 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 28 28 10
+Site         63.169.107.252
+Spell        19 'armor'
+Spell        20 'cause light'
+Spell        19 'cure light'
+Skill        19 'kick'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'shield' 268 -20  17 0
+AffectData   'bless' 821   6  18 0
+AffectData   'bless' 821  -6  24 0
+Killed       10344 1
+Killed       10329 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,75 @@
+#PLAYER
+Version      3
+Name         Martin~
+Description  ~
+Sex          1
+Class        10
+Race         5
+Languages    1 1
+Level        6
+Played       103265
+Room         1520
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -10 150 128 128 156 165
+Gold         20372
+Exp          153908
+Height          51
+Weight          155
+Act          570426968
+AffectedBy   512
+Position     101
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    42
+Favor	       657
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -5
+Password     MaV/9xXaqMIgI~
+Title         the Imp~
+Lastname  the Destroyer~
+AuthedBy     Relgar~
+Deity	     Shaundakul~
+Flags        65536
+PKills       0
+PDeaths      0
+MKills       82
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 14 14 13 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 0
+Site         207.202.214.132
+Spell        24 'armor'
+Spell        19 'burning hands'
+Spell        42 'demonskin'
+Spell        19 'devils might'
+Spell        19 'faerie fire'
+Spell        23 'locate object'
+Spell        53 'poison'
+Spell        53 'weaken'
+Skill        100 'feed'
+Skill        50 'kick'
+Skill        21 'scan'
+Skill        20 'search'
+Weapon       24 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 294   6  18 0
+AffectData   'bless' 294  -6  24 0
+Killed       2110 1
+Killed       21045 1
+i3invis	0
+End
+
+#END

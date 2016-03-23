@@ -1,0 +1,39 @@
+#CLAN
+Name         Guild of Vampires~
+Filename     vampire.gui~
+Motto        ~
+Description  ~
+Deity        ~
+Leader       Solidus~
+NumberOne    Draga~
+NumberTwo    Quade~
+Badge        ~
+Leadrank     ~
+Onerank      ~
+Tworank      ~
+PKillRangeNew   0 0 0 0 0 2 0
+PDeathRangeNew  0 1 0 0 0 2 1
+MKills       11439
+MDeaths      64
+IllegalPK    1
+Score        0
+Type         14
+Class        4
+Favour       0
+Strikes      0
+Members      8
+MemLimit     0
+Alignment    0
+Board        21136
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       60212
+Storeroom    60223
+GuardOne     0
+GuardTwo     0
+End
+
+#END

@@ -1,0 +1,300 @@
+#AREA   Mages Guild~
+
+#AUTHOR Unknown~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG ~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#1
+Anteri~
+A Beautiful Magestry of All Magical Abilities~
+~
+Anteri is beautiful, flowing with white light and beautiful cloth is 
+just a glimpse of her pure beauty for you are far too mediocre to 
+view her fully.~
+134349825 0 0 C
+75 400 10 0d0+0 0d0+0
+0 29800000
+8 8 2
+40 30 75 50 20 75 56
+0 0 0 0 0
+85 0 5 0 1 1 122
+75 0 0 0 0 0 0 0
+#2
+Anteri~
+Darious~
+~
+As you view Darious you notice he is quite noble for he wears 
+all white in its purest aspect. you also notice that just like
+ the mighty sage above you Darious is giving off the rooms olny
+ source of light.~
+134217793 0 0 C
+75 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+75 75 90 60 46 76 90
+0 0 0 0 0
+85 0 6 135 1 1 0
+0 0 0 0 0 0 0 0
+#3
+Jerek~
+Jerek~
+~
+Jerek, by apearence you can see is quite experienced. standing tall jerek apears to have a haze around him that of which could be considered an aura.  having a mastory of many skills and apearing to be well over level 50 it is suggested you not attack unless you are atleast withing 5 of his level~
+16908353 0 0 C
+60 2 8 12d2+14 1d11+14
+123000 60000000
+8 8 1
+24 24 24 24 24 24 4
+0 0 0 0 1
+85 0 6 175 0 0 10
+12 11 1 0 0 0 1476427809 1048581
+#4
+Flaxseed~
+Flaxseed~
+~
+Flax is jereks smaller brother, trailing him by a little over 7 years flax has followed in his brothers footsteps and has seemed to attempt all the skills but yet to master them.  he appears to be at a level 40 and is quite strong.~
+16908353 0 0 C
+45 0 4 1d21+1 1d1+11
+12000 30000000
+8 8 0
+14 14 14 14 14 14 14
+0 0 0 0 1
+85 0 5 135 0 0 11
+12 7 0 0 0 128 2013298688 2
+#5
+Jaks~
+jaks~
+~
+jakes is low but tough. you can sense at least lev 30 he is tough 
+it is suggest you keep your distance for the time being.~
+16908353 0 0 C
+35 0 2 1d2+2 2d2+0
+1200 10000000
+8 8 1
+8 8 8 8 8 8 8
+0 0 0 0 0
+85 0 5 110 0 0 12
+12 11 0 0 0 0 32768 4097
+#6
+scruff ~
+scruff mcgruff ~
+~
+living in chicago illinois made this dog tough it knows it all...its abot a lev 20 so beware~
+16908609 0 0 C
+25 0 5 2d2+2 1d1+1
+1255 120000
+8 8 1
+4 4 4 4 4 4 4
+0 0 0 1 0
+87 4 4 75 0 0 24
+1 2 524288 0 0 0 199 4
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#1
+Mages Arch~
+As you walk upon the legendary &CGuild of Mages &Yyou notice you 
+are standing under a massive archway. Dimly lit by the light 
+of candles you can make out images of of tapestries and scrolls 
+flowing down the wall.to the east you can see the Great Sage 
+Anteri. more to the west see the massive meeting room 
+in which all information is posted and discussed. North of the 
+arch more tapestries seem to flow along the walls, you can hear 
+screams in the distance.
+&GA Plaque to your left catches your eye and you feel an urge to look left
+~
+0 0 0
+D1
+~
+~
+0 0 2
+D3
+~
+~
+0 0 3
+D0
+~
+~
+0 0 4
+E
+left~
+Guild of Mages Code Of Conduct
+1.Promise to uphold and promote the Guild of Mages
+2.Promise to abide by the rules of Mud
+3.Promise to respect other guilds regardless of their race
+4.Promise to respect all Immortals and fellow guild members
+5.Promise to play fair and well to the best of your ability
+6.Promise to have a never ending urge to succeed and a goal to level to your best.~
+S
+#2
+Sage~
+Before you stands the great sage Anteri.  as you look at her you eyes begin to way heavily. everytime you open your eyes to view her her bueaty seems to astound every aspect of you. 
+draped slightly over her is a light blue sash concealing a flowing white robe.  as you inspect closer Anteri seems to be floating.  as you look around you also realise there are no acutal lights in this 
+room but Anteri herself seems to be radiating some sort of bright iredecent blue aura.  as you stand before her you can feel the wisdom that she spreads through the room, readily to teach you at the 
+simple aspect of a request.
+~
+0 0 0
+D3
+~
+~
+0 0 1
+S
+#3
+Board Room~
+as you step in you can hear the walls talk, as if you 
+are in the mind of each of the Mages that are in the 
+guild.  to your left you see the wall is glwing and under
+ closer inspection you see that the fellow Mages thoughts 
+are scrolling along.  looking further more into the room 
+you can see various combats of magical feats depicted on the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 1
+S
+#4
+HalllWay~
+When you walk in the first thing you notice is the faint smell 
+of death.  to your left you see a spiral staircase encased with
+ marble.  seeing no other exit you are compelled to go down the 
+stairs.
+~
+0 0 0
+D2
+~
+~
+0 0 1
+D5
+~
+~
+0 0 5
+S
+#5
+stairs~
+as you wind the stairs you see murals and paintings on the walls.
+  you start to gag as the smell of death consumes you.looking up
+ you are amazed at the lenght of the stair case. under closer
+ inspection of the stars it apears the marble base is wearing low.
+~
+0 0 0
+D4
+~
+~
+0 0 4
+D5
+~
+~
+0 0 6
+S
+#6
+Below The Guild~
+Infront of you stands Darious the guild healer.  just like you 
+can tell the age of a tree by its rings you can see Darious is 
+quite an aged man by the length of his white flowing beard.  
+lookign more closely Darious seems to be in a trance. while you 
+scope out the area you notice that there are no more scrolls or 
+paintings, no markings and for soem reason the smell of death has 
+completly vanished. to your left and right there are Cell doors 
+with the sounds of evil behind them. 
+&r you feel compelled to look either left or right
+~
+0 0 0
+D4
+~
+~
+0 0 5
+D3
+~
+~
+2 0 7
+D1
+~
+~
+2 0 8
+E
+Left~
+Looking to the left you see a door with a plague below it stating:
+Beware for in here lies a beast for Experienced Mages. (50-75)~
+E
+Right~
+Looking at the cell door you see a small plague with the inscription:
+Beware For in here lies a beast for the less powerful mages.(10-35)
+~
+S
+#7
+Experienced Mages Pit~
+As you look around you notice boes scatterd in some places while 
+neatly arranged in others. it is expected this is the living 
+quarters of a nast two. you also noticve the smell of blood here 
+is the strongest then in any other room in the entire guild.
+ while you are looking around you neglect to realise your shoes 
+are wet with blood. to your suprise there is about an ince of blood 
+filling the room!as your eyes gleem darker you see the red eyes of 
+two beasts
+~
+0 0 0
+D1
+~
+~
+0 0 6
+E
+bones~
+you notice some bones are really neatly placed in patterns while
+ others have blood and meat hanging off them....~
+S
+#8
+Young Mages~
+As you walk upon the room you notice that this is fairly clean
+ with small blood lines across the floor. your views quickly 
+change as you see a swarm of maggots devour a corpse.
+~
+0 0 0
+D3
+~
+~
+0 0 6
+S
+#0
+
+
+#RESETS
+M 0 1 1 2
+M 0 2 1 6
+M 0 3 3 7
+M 0 4 3 7
+M 0 5 1 8
+M 0 6 1 8
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  1 spec_cast_mage
+S
+
+
+#$

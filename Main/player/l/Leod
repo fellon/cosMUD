@@ -1,0 +1,94 @@
+#PLAYER
+Version      3
+Name         Leod~
+Description  ~
+Sex          1
+Class        2
+Race         9
+Species      0
+Languages    1 1
+Level        15
+Played       154053
+Room         612
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   100 224 142 142 280 282
+Gold         897687
+Exp          2727996
+Height          69
+Weight          135
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     7
+SavingThrows 0 0 0 0 0
+Alignment    -598
+Favor	       0
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        50
+Deaf         146833655
+ICEListen (null)~
+Mentalstate  -6
+Password     LeGENCMPLe1ZU~
+Title         the Thief~
+Lastname ~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       549
+MDeaths      26
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 13 12 17 11 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 25
+Site         207.202.214.132
+Skill        95 'backstab'
+Skill        17 'cook'
+Skill        24 'disarm'
+Skill        74 'discern'
+Skill        85 'dual wield'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        70 'knee'
+Skill        95 'pick lock'
+Skill        58 'scan'
+Skill        65 'search'
+Skill        90 'second attack'
+Skill        41 'sneak'
+Skill        95 'steal'
+Skill        23 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       42 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       618 1
+Killed       60881 1
+Killed       60878 2
+Killed       60890 1
+i3invis	0
+End
+
+#MOBILE
+Vnum	21060
+Room	21134
+Description The hunting dog constantly sniffs the ground, searching for its prey.
+A neck tag says 'I belong to Leod'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

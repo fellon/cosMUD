@@ -1,0 +1,156 @@
+#PLAYER
+Version      3
+Name         Banquo~
+Sex          1
+Class        6
+Race         9
+Languages    1 1
+Level        2
+Played       1834
+Room         10319
+HpManaMove   35 35 105 105 210 110
+Gold         3047
+Exp          3673
+Height          65
+Weight          156
+Act          570426968
+AffectedBy   524800
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -3
+Alignment    -532
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        60
+Wimpy        7
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     BaiZBwLlNopMw~
+Title         the Strider~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       13
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 13 12 14 14 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 42 36 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'shield' 257 -20  17 0
+AffectData   'fly' 262   0  26 524288
+AffectData   'bless' 244   3  18 0
+AffectData   'bless' 244  -3  24 0
+AffectData   'armor' 238 -20  17 0
+Killed       104 1
+Killed       10344 1
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         10316
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#END

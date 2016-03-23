@@ -1,0 +1,84 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         21017
+Room         327685
+Values       10 7 10 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+Room         327685
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+Room         327685
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         5105
+Room         327685
+Level        21
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         5105
+Room         327685
+Level        22
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         21025
+Room         327685
+End
+
+#OBJECT
+Vnum         5020
+Room         327685
+Level        17
+Values       30 9 9 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         2347
+Room         327685
+Level        23
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2346
+Room         327685
+Level        22
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         42924
+Room         327685
+Level        24
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         42922
+Room         327685
+ExtraFlags   525824
+Level        24
+Values       12 9 25 1 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#END

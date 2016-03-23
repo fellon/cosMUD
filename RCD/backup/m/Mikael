@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Mikael~
+Description  ~
+Sex          1
+Class        22
+Race         44
+Species      0
+Languages    1 1
+Level        5
+Played       9984
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   106 106 120 120 152 152
+Gold         18986
+Exp          98520
+Height          70
+Weight          162
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       -26
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -8
+Password     Migku.iNrk1Mo~
+Title         the Divine~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       40
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 13 15 13 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 35 14
+Site         63.169.107.252
+Spell        27 'armor'
+Spell        22 'bless'
+Spell        19 'create food'
+Spell        19 'create water'
+Spell        94 'cure light'
+Spell        45 'cure serious'
+Spell        19 'faerie fire'
+Spell        22 'know alignment'
+Skill        19 'aid'
+Skill        19 'scan'
+Weapon       19 'bludgeons'
+Weapon       19 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 383  -3  24 0
+AffectData   'bless' 383   3  18 0
+Killed       10302 2
+Killed       3506 1
+i3invis	0
+End
+
+#END

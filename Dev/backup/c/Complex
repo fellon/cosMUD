@@ -1,0 +1,84 @@
+#PLAYER
+Version      3
+Name         Complex~
+Description  ~
+Sex          1
+Class        2
+Race         14
+Languages    1 1
+Level        4
+Played       5804
+Room         21001
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   42 59 100 100 140 140
+Gold         19494
+Exp          20250
+Height          39
+Weight          105
+Act          570427000
+AffectedBy   528
+Position     112
+Style     4
+Practice     12
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    8
+Susceptible  1
+Mentalstate  -5
+Password     CosaiQ4ihdo6.~
+Title         the Pick-Pocket~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       46
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 16 14 15 11 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 40 0 14
+Site         64.169.158.195
+Skill        90 'backstab'
+Skill        90 'climb'
+Skill        90 'cook'
+Skill        90 'dig'
+Skill        90 'dodge'
+Skill        90 'hide'
+Skill        90 'peek'
+Skill        90 'pick lock'
+Skill        90 'search'
+Skill        90 'sneak'
+Skill        90 'steal'
+Weapon       90 'bludgeons'
+Weapon       90 'flexible arms'
+Weapon       90 'long blades'
+Weapon       90 'pugilism'
+Weapon       90 'short blades'
+Weapon       90 'talonous arms'
+Tongue       90 'common'
+Tongue       90 'dwarven'
+Tongue       90 'elvish'
+Tongue       90 'gith'
+Tongue       90 'goblin'
+Tongue       90 'halfling'
+Tongue       90 'ogre'
+Tongue       90 'orcish'
+Tongue       90 'pixie'
+Tongue       90 'trollese'
+Killed       10303 2
+Killed       10302 1
+i3invis	0
+End
+
+#END

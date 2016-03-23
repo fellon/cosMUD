@@ -1,0 +1,110 @@
+#PLAYER
+Version      3
+Name         Grisslegom~
+Description  ~
+Sex          1
+Class        3
+Race         6
+Species      5
+Languages    524289 1
+Level        33
+Played       84842
+Room         24819
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   346 811 100 100 512 516
+Gold         239824
+Exp          40059199
+Height          111
+Weight          602
+Act          570426968
+AffectedBy   512
+Position     104
+Style     2
+Practice     17
+SavingThrows 0 0 0 0 -6
+Alignment    -972
+Favor	       169
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    32
+Mentalstate  -2
+Password     GrfL2gneEbMjo~
+Title         the Lieutenant~
+Lastname  Luhgleburzz~
+Bio          &RAlign: &zfiendish       &R(&z-&R1&z0&R0&z0&R)
+~
+AuthedBy     Andy~
+Prompt       <&R%h&php &B%m&bm &O%X&YTNL> %k~
+FPrompt	     <&R%h&php &B&m&bm>&g%c~
+Deity	     Shar~
+Flags        98570
+PKills       1
+PDeaths      1
+MKills       505
+MDeaths      10
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     15 10 12 10 18 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 1 1 43
+Site         66.19.165.185
+Skill        24 'aid'
+Skill        17 'bash'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        17 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        90 'lunge'
+Skill        100 'parry'
+Skill        80 'pummel'
+Skill        17 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        90 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       93 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'gith'
+Tongue       100 'ogre'
+AffectData   'bless' 874   6  18 0
+AffectData   'bless' 874  -6  24 0
+AffectData   'armor' 252 -20  17 0
+Killed       24837 2
+Killed       24816 1
+Killed       24814 1
+Killed       21037 3
+Killed       21067 1
+Killed       60878 3
+Killed       24819 1
+Killed       24818 2
+Killed       24820 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         24892
+Level        30
+Values       9 10 0 0 0 0
+End
+
+#END

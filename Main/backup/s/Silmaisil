@@ -1,0 +1,66 @@
+#PLAYER
+Version      3
+Name         Silmaisil~
+Description  ~
+Sex          1
+Class        6
+Race         1
+Species      0
+Languages    1 1
+Level        5
+Played       19260
+Room         21182
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   88 88 171 171 229 152
+Gold         22140
+Exp          96574
+Height          60
+Weight          120
+Act          570426968&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     9
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        7
+Deaf         2
+ICEListen (null)~
+Mentalstate  0
+Password     SiCLLHzXPs0Rc~
+Title         the Courser~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       62
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 17 13 13 11 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 9 10
+Site         200.66.130.194
+Skill        18 'dual wield'
+Skill        33 'search'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 1057   6  18 0
+AffectData   'bless' 1057  -6  24 0
+AffectData   'armor' 451 -20  17 0
+Killed       10300 6
+Killed       10396 22
+i3invis	0
+End
+
+#END

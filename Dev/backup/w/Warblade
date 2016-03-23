@@ -1,0 +1,106 @@
+#PLAYER
+Version      3
+Name         Warblade~
+Description  ~
+Sex          1
+Class        11
+Race         51
+Species      9
+Languages    1 1
+Level        2
+Played       1054
+Room         10319
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   24 41 100 100 113 113
+Gold         2503
+Exp          3450
+Height          59
+Weight          148
+Act          570427000
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Wa/r/4CVTmiM2~
+Title         the Werewolf Cub~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 13 13 17 13 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 45 10
+Site         207.202.214.132
+Skill        17 'dual wield'
+Skill        29 'enhanced damage'
+Tongue       100 'common'
+Killed       104 2
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

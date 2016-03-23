@@ -1,0 +1,155 @@
+#PLAYER
+Version      3
+Name         Nestor~
+Description  ~
+Sex          1
+Class        6
+Race         9
+Languages    1 1
+Level        4
+Played       27357
+Room         10319
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   63 63 115 115 230 130
+Gold         71689
+Exp          41744
+Height          63
+Weight          152
+Act          570426952
+AffectedBy   524800
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -3
+Alignment    -503
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+Wimpy        6
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     NeAAYyqY1o8J6~
+Title         the Scout Master~
+Lastname ~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       95
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 15 13 13 13 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 12 14
+Site         208.186.244.207
+Skill        18 'climb'
+Skill        18 'mount'
+Skill        18 'search'
+Weapon       18 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'fly' 158   0  26 524288
+AffectData   'bless' 134   3  18 0
+AffectData   'bless' 134  -3  24 0
+AffectData   'armor' 212 -20  17 0
+Killed       10325 3
+Killed       10332 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#END

@@ -1,0 +1,100 @@
+#PLAYER
+Version      3
+Name         Hagbard~
+Description  ~
+Sex          1
+Class        16
+Race         9
+Species      0
+Languages    1 1
+Level        24
+Played       73129
+Room         3579
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   46 422 266 303 399 399
+Gold         1313755
+Exp          15129404
+Height          65
+Weight          140
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     15
+SavingThrows 0 0 0 0 0
+Alignment    903
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        187
+ICEListen (null)~
+Resistant    2
+Mentalstate  -8
+Password     HaFOk51xs.Z3s~
+Title         the Golem Maker~
+Lastname ~
+AuthedBy     Prage~
+Prompt       < %hhp(%H) %mman(%M) %vmv(%V) %Aspc >~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       81
+MDeaths      18
+ArenaWins    1
+ArenaKills   1
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 15 12 15 11 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 34
+Site         24.96.17.166
+Spell        33 'aqua breath'
+Spell        39 'armor'
+Spell        95 'burning hands'
+Spell        24 'cancelation'
+Spell        23 'continual light'
+Spell        19 'detect magic'
+Spell        95 'fireball'
+Spell        38 'identify'
+Spell        57 'invis'
+Spell        44 'knock'
+Spell        23 'remove curse'
+Spell        41 'teleport'
+Spell        49 'word of recall'
+Skill        19 'aid'
+Skill        25 'disarm'
+Skill        90 'dual wield'
+Skill        85 'enhanced damage'
+Skill        85 'hide'
+Skill        95 'kick'
+Skill        53 'lunge'
+Skill        83 'meditate'
+Skill        95 'parry'
+Skill        19 'rescue'
+Skill        90 'scan'
+Skill        22 'search'
+Skill        95 'second attack'
+Skill        19 'steal'
+Skill        85 'third attack'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       67 'long blades'
+Weapon       19 'pugilism'
+Weapon       75 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       21068 1
+Killed       60878 2
+Killed       24837 1
+Killed       24820 2
+Killed       24819 1
+Killed       24817 3
+i3invis	0
+End
+
+#END

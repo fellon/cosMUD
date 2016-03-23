@@ -1,0 +1,70 @@
+#PLAYER
+Version      3
+Name         Ellord~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      0
+Languages    1 2
+Level        2
+Played       10514
+Room         10303
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   26 26 113 113 110 110
+Gold         0
+Exp          2720
+Height          64
+Weight          110
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -7
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      7
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    1026
+Mentalstate  -1
+Password     Elnba//8dzqXI~
+Title         the Spell Student~
+Lastname ~
+Prompt       0~
+Flags        229376
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 14 15 11 13 14
+AttrMod      4 0 0 0 0 0 0
+Condition    0 0 7 10
+Site         (Link-Dead)
+Spell        19 'black hand'
+Spell        50 'detect magic'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'kindred strength'  67   4   1 0
+AffectData   'bless'   8   7  18 0
+AffectData   'bless'   8  -7  24 0
+AffectData   'shield'  72 -20  17 0
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

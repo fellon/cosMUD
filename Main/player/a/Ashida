@@ -1,0 +1,178 @@
+#PLAYER
+Version      3
+Name         Ashida~
+Description  ~
+Sex          1
+Class        9
+Race         35
+Species      3
+Languages    262145 1
+Level        51
+Played       168029
+Room         21000
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   1011 1011 492 454 850 750
+Gold         407943
+Exp          149402221
+Height          367
+Weight          2147
+Act          570426952
+Position     112
+Style     2
+Practice     182
+SavingThrows 0 0 0 0 0
+Alignment    -497
+Favor	       1608
+Balance      0
+Glory        19
+MGlory       19
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        220
+ICEListen (null)~
+Resistant    1
+Susceptible  2
+Mentalstate  0
+Password     Asmg0YbudKI0A~
+Title         Will Stab Your Bitch Face~
+Lastname ~
+Bio          save
+/save
+l
+
+~
+AuthedBy     Andy~
+Deity	     Soleran~
+Clan         Order of Chaos~
+Flags        98306
+PKills       2
+PDeaths      1
+MKills       1595
+MDeaths      10
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  4
+IllegalPK    0
+AttrPerm     16 15 15 11 16 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 6 58
+Site         66.73.183.37
+Spell        97 'armor'
+Spell        64 'cancelation'
+Spell        95 'create fire'
+Spell        19 'detect magic'
+Spell        19 'dispel magic'
+Spell        100 'dragon wit'
+Spell        77 'dragonskin'
+Spell        28 'extradimensional portal'
+Spell        92 'faerie fire'
+Spell        27 'float'
+Spell        30 'locate object'
+Spell        27 'poison'
+Spell        85 'shield'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        95 'bite'
+Skill        95 'dlick'
+Skill        40 'dodge'
+Skill        56 'doorbash'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        87 'fan'
+Skill        62 'fifth attack'
+Skill        82 'fourth attack'
+Skill        40 'kick'
+Skill        50 'parry'
+Skill        95 'scan'
+Skill        31 'search'
+Skill        100 'second attack'
+Skill        95 'third attack'
+Skill        64 'track'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       80 'pugilism'
+Weapon       50 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Killed       14743 1
+Killed       18 3
+Killed       14703 1
+Killed       14719 1
+Killed       14710 1
+Killed       14722 1
+Killed       14746 1
+Killed       14741 1
+Killed       14729 1
+Killed       14742 2
+Killed       14732 4
+Killed       633 1
+Killed       628 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         24824
+WearLoc      5
+Level        42
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24858
+WearLoc      16
+Level        43
+Values       12 13 38 11 0 0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        43
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        43
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+WearLoc      6
+Level        41
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        43
+Values       15 15 0 0 0 0
+End
+
+#END

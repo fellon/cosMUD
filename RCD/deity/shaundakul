@@ -1,0 +1,53 @@
+#DEITY
+Filename		../deity/shaundakul~
+Name		Shaundakul~
+Detitle	The Rider of the Winds~
+Domains	Travel, Exploration, Searching~
+Description	Shaundakul the rider of the winds, is the god of travel and exploration.
+His presence has been around for many years. Where ever people go serching
+for what is lost, and for that whitch is hidden, Shaundakul is there.
+Shaundakul has no natural Enemies but does have a dislike of Vampires
+Paladins are also not allowed to join the ranks of his followers.
+~
+Alignment		0
+Worshippers	23
+Flee		-5
+Flee_npcrace	-35
+Flee_npcfoe	-35
+Kill		5
+Kill_npcrace	10
+Kill_npcfoe	50
+Kill_magic	7
+Sac		5
+Bury_corpse	0
+Aid_spell		5
+Aid		7
+Steal		-7
+Backstab		-7
+Die		-50
+Die_npcrace	-50
+Die_npcfoe	-35
+Spell_aid		5
+Dig_corpse	0
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Sdtrap		0
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		5
+Npcfoe		67
+Suscept		0
+Race2		-1
+Susceptnum	500
+Elementnum	500
+Affectednum	750
+Objstat		3
+End
+
+#END

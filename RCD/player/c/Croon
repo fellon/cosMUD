@@ -1,0 +1,91 @@
+#PLAYER
+Version      3
+Name         Croon~
+Sex          2
+Class        2
+Race         10
+Languages    1 1
+Level        2
+Played       1033
+Room         10307
+HpManaMove   32 32 120 120 110 110
+Gold         0
+Exp          2000
+Height          73
+Weight          130
+Act          536872520
+AffectedBy   8
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     CrKFcKgVeSv2M~
+Title         the Footpad~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 15 14 18 10 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 35 35 10
+Site         207.202.214.132
+Skill        17 'dodge'
+Skill        17 'evasive style'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'gith'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

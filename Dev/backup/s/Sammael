@@ -1,0 +1,152 @@
+#PLAYER
+Version      3
+Name         Sammael~
+Description  ~
+Sex          1
+Class        30
+Race         52
+Species      10
+Languages    1 1
+Level        3
+Played       3570
+Room         10379
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   66 61 116 116 126 126
+Gold         4209
+Exp          22376
+Height          61
+Weight          146
+Act          570427000
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Sar7/k6d5nNcg~
+Title         the Toepicker~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 15 14 15 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 6 12
+Site         207.202.214.132
+Weapon       19 'pugilism'
+Tongue       100 'common'
+AffectData   'bless' 246  -3  24 0
+AffectData   'bless' 246   3  18 0
+Killed       10300 1
+Killed       10345 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        6
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        4
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#END

@@ -1,0 +1,47 @@
+#PLAYER
+Version      3
+Name         Neozor~
+Sex          1
+Class        7
+Race         9
+Languages    1 1
+Level        2
+Played       1462
+Room         21194
+HpManaMove   32 32 109 109 110 110
+Gold         0
+Exp          1675
+Height          67
+Weight          141
+Act          570426952
+AffectedBy   512
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Password     NeQJ.LYTY6d/.~
+Title         the Understudy of Magic~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 15 16 14 13 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 488 -20  17 0
+End
+
+#END

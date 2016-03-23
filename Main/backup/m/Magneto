@@ -1,0 +1,77 @@
+#PLAYER
+Version      3
+Name         Magneto~
+Description  ~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        9
+Played       39402
+Room         21088
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -5 199 100 100 200 204
+Gold         127014
+Exp          650461
+Height          115
+Weight          325
+Act          570427000
+AffectedBy   512
+Position     102
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       133
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     MaZ30S3yLJjAk~
+Title         the Private~
+Lastname ~
+AuthedBy     Andy~
+Deity	     Aoskar~
+Flags        360450
+PKills       0
+PDeaths      0
+MKills       328
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     19 10 10 12 13 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 35 16
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        79 'kick'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       58 'pugilism'
+Weapon       17 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 371 -20  17 0
+Killed       10397 2
+Killed       10396 8
+Killed       21045 1
+i3invis	0
+End
+
+#END

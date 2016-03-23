@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Lodin~
+Description  ~
+Sex          1
+Class        9
+Race         35
+Languages    1 1
+Level        4
+Played       11606
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   93 93 120 120 139 139
+Gold         14347
+Exp          60059
+Height          316
+Weight          2092
+Act          536872536
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -24
+Password     LogBTv8OHYIxQ~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Rathkor~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       36
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 12 14 15 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Spell        100 'dragon wit'
+Spell        19 'dragonskin'
+Skill        19 'search'
+Tongue       100 'common'
+AffectData   'bless' 656   6  18 0
+AffectData   'bless' 656  -6  24 0
+Killed       10396 2
+Killed       10301 1
+i3invis	0
+End
+
+#END

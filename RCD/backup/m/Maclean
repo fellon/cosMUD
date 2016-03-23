@@ -1,0 +1,101 @@
+#PLAYER
+Version      3
+Name         MacLean~
+Description  ~
+Sex          1
+Class        18
+Race         11
+Languages    1 1
+Level        6
+Played       43208
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   90 90 208 208 165 165
+Gold         46083
+Exp          211649
+Height          67
+Weight          120
+Act          570426952
+AffectedBy   16777728
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    -7
+Favor	       222
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        2
+ICEListen (null)~
+Resistant    256
+Mentalstate  -54
+Password     Max45RQUhwpt6~
+Title         the Surveyor~
+Lastname ~
+AuthedBy     Arbadus~
+Deity	     Shar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       70
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 14 14 14 11 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 0 16
+Site         207.202.214.132
+Spell        40 'chill touch'
+Spell        95 'create food'
+Spell        19 'create water'
+Skill        80 'dual wield'
+Skill        85 'scan'
+Weapon       19 'bludgeons'
+Weapon       95 'flexible arms'
+Weapon       19 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 402 -20  17 0
+Killed       2407 1
+Killed       2073 2
+i3invis	0
+End
+
+#ALIAS
+Name     ks~
+Commands kill slug~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corp~
+End
+
+#ALIAS
+Name     kc~
+Commands kill crawl~
+End
+
+#ALIAS
+Name     ert~
+Commands c create food ; eat mushroom~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin ; put skin bag~
+End
+
+#ALIAS
+Name     ccc~
+Commands c chill dwarf~
+End
+
+#END

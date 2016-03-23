@@ -1,0 +1,413 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         2106
+Room         327685
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         3051
+Room         327685
+Level        79
+Values       49 6 6 193 0 0
+Spell 3      'shockshield'
+End
+
+#OBJECT
+Vnum         70034
+Room         327685
+Level        72
+Values       12 30 90 3 0 0
+End
+
+#OBJECT
+Vnum         60959
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         46924
+Room         327685
+Level        48
+Values       12 14 43 1 0 0
+End
+
+#OBJECT
+Count        29
+Vnum         7931
+Room         327685
+Level        46
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         3051
+Room         327685
+Level        79
+Values       51 5 5 193 0 0
+Spell 3      'shockshield'
+End
+
+#OBJECT
+Vnum         234
+Room         327685
+Level        93
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         70055
+Room         327685
+Level        99
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25547
+Room         327685
+Level        47
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Vnum         24530
+Room         327685
+Level        56
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+Room         327685
+Level        78
+Values       21 21 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+Room         327685
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         70008
+Room         327685
+Level        79
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         70096
+Room         327685
+Level        81
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Count        4
+Vnum         21
+Room         327685
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         7931
+Room         327685
+Level        52
+Values       49 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         7931
+Room         327685
+Level        52
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         10314
+Room         327685
+Values       15 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+Room         327685
+Level        45
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         42902
+Room         327685
+Level        27
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         42901
+Room         327685
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7962
+Room         327685
+Level        73
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Room         327685
+Values       15 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14713
+Room         327685
+Level        53
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         46943
+Room         327685
+Level        46
+Values       12 13 41 3 0 0
+End
+
+#OBJECT
+Vnum         42970
+Room         327685
+Level        48
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         70071
+Room         327685
+Level        84
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         7957
+Room         327685
+Level        49
+Values       12 10 60 2 0 0
+End
+
+#OBJECT
+Vnum         14712
+Room         327685
+Level        54
+Values       12 15 45 11 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         70040
+Room         327685
+Level        73
+Values       12 40 80 11 0 0
+End
+
+#OBJECT
+Vnum         12582
+Room         327685
+Level        45
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         12584
+Room         327685
+Level        45
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         12586
+Room         327685
+Level        47
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         12587
+Room         327685
+Level        45
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         12583
+Room         327685
+Level        45
+Values       12 13 40 6 0 0
+End
+
+#OBJECT
+Vnum         46921
+Room         327685
+Level        54
+Values       31 32 0 0 0 0
+End
+
+#OBJECT
+Vnum         7927
+Room         327685
+Level        55
+Cost         0
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         212
+Room         327685
+Level        77
+Values       25 5 5 60 0 0
+End
+
+#OBJECT
+Vnum         233
+Room         327685
+Level        96
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         46923
+Room         327685
+Level        53
+Values       12 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         25501
+Room         327685
+Level        53
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         25545
+Room         327685
+Level        47
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         70008
+Room         327685
+Level        78
+Values       21 21 0 0 0 0
+End
+
+#OBJECT
+Vnum         70008
+Room         327685
+Level        48
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         46942
+Room         327685
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         46942
+Room         327685
+Level        45
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         46902
+Room         327685
+Level        80
+Values       12 23 68 8 0 0
+End
+
+#OBJECT
+Vnum         70058
+Room         327685
+ExtraFlags   524800
+Level        72
+Values       12 49 98 3 0 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Vnum         219
+Room         327685
+Level        79
+Values       12 10 100 3 0 0
+End
+
+#OBJECT
+Vnum         46923
+Room         327685
+Level        53
+Values       13 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         25547
+Room         327685
+Level        46
+Values       29 30 0 0 0 0
+End
+
+#OBJECT
+Vnum         25544
+Room         327685
+Level        44
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         25546
+Room         327685
+Level        45
+Values       11 14 39 11 0 0
+End
+
+#OBJECT
+Vnum         25545
+Room         327685
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         36
+Room         327685
+Level        1
+End
+
+#END

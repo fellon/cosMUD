@@ -1,0 +1,220 @@
+#PLAYER
+Version      3
+Name         Wolverine~
+Description  ~
+Sex          1
+Class        1
+Race         1
+Species      1
+Languages    1 1
+Level        6
+Played       6383
+Room         10373
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   86 86 37 199 165 165
+Gold         18007
+Exp          132815
+Height          60
+Weight          112
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       171
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        25
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     WoZeUjN7GKIaY~
+Title         the Layman Brother~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       41
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 14 17 13 11 14 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 36 7 10
+Site         207.202.214.132
+Spell        33 'armor'
+Spell        19 'cause light'
+Spell        36 'cause serious'
+Spell        19 'continual light'
+Spell        66 'create food'
+Spell        19 'create water'
+Spell        19 'cure blindness'
+Spell        95 'cure light'
+Spell        90 'cure serious'
+Spell        19 'detect evil'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'detect poison'
+Spell        19 'protection'
+Spell        19 'refresh'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        30 'dual wield'
+Skill        19 'kick'
+Skill        48 'scan'
+Skill        19 'search'
+Weapon       71 'bludgeons'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10300 3
+Killed       10302 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         126
+WearLoc      16
+Level        1
+Values       12 1 7 7 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      18
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        7
+Values       12 4 11 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        4
+Values       12 4 8 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 6 0 0 0 0
+End
+
+#ALIAS
+Name     arm~
+Commands c arm~
+End
+
+#ALIAS
+Name     as~
+Commands c 'cure serious'~
+End
+
+#ALIAS
+Name     sd~
+Commands c 'create food'~
+End
+
+#ALIAS
+Name     df~
+Commands c 'cause serious'~
+End
+
+#END

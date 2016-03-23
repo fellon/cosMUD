@@ -1,0 +1,507 @@
+Name        PsiWarrior~
+Class       25
+Attrprime   3
+Alignment   0
+Weapon      10312
+Guild       3018
+Skilladept  95
+Thac0       18
+Thac32      10
+Hpmin       9
+Hpmax       12
+Mana        1
+Expbase     1150
+Skill 'antimagic shell' 17 95
+Skill 'armor' 5 95
+Skill 'astral walk' 80 95
+Skill 'blazebane' 30 95
+Skill 'blazeward' 27 95
+Skill 'blindness' 8 95
+Skill 'blur' 40 95
+Skill 'cancelation' 11 95
+Skill 'cause critical' 20 95
+Skill 'cause light' 2 95
+Skill 'cause serious' 10 95
+Skill 'caustic fount' 34 95
+Skill 'charm person' 14 95
+Skill 'claustrophobia' 12 95
+Skill 'confusion' 26 95
+Skill 'continual light' 4 95
+Skill 'create fire' 6 95
+Skill 'create spring' 10 95
+Skill 'cure light' 10 95
+Skill 'curse' 12 75
+Skill 'demonskin' 20 95
+Skill 'detect invis' 2 95
+Skill 'detect magic' 2 95
+Skill 'detect traps' 11 85
+Skill 'dispel magic' 26 95
+Skill 'disruption' 8 95
+Skill 'dragon wit' 9 95
+Skill 'dragonskin' 16 95
+Skill 'dream' 13 95
+Skill 'eldritch sphere' 50 95
+Skill 'elven beauty' 3 95
+Skill 'enchant weapon' 12 95
+Skill 'energy drain' 13 95
+Skill 'ethereal funnel' 45 95
+Skill 'ethereal shield' 40 95
+Skill 'exhaustion' 65 95
+Skill 'extradimensional portal' 13 95
+Skill 'faerie fire' 4 95
+Skill 'faerie fog' 10 95
+Skill 'feather fall' 30 95
+Skill 'fireshield' 35 95
+Skill 'flight' 27 95
+Skill 'float' 5 95
+Skill 'forcefield' 45 95
+Skill 'hallucination' 41 95
+Skill 'hand of chaos' 37 95
+Skill 'harm' 30 95
+Skill 'haste' 75 95
+Skill 'hyperactivity' 24 95
+Skill 'iceshield' 22 95
+Skill 'identify' 10 95
+Skill 'infravision' 6 95
+Skill 'inner warmth' 24 95
+Skill 'invis' 4 95
+Skill 'knock' 32 95
+Skill 'know alignment' 8 95
+Skill 'locate object' 6 95
+Skill 'mass invis' 15 95
+Skill 'mental block' 10 95
+Skill 'midas touch' 13 95
+Skill 'pass door' 18 95
+Skill 'portal' 25 95
+Skill 'quantum spike' 89 95
+Skill 'razorbait' 18 95
+Skill 'recharge' 33 80
+Skill 'refresh' 5 75
+Skill 'remove invis' 6 95
+Skill 'remove trap' 20 80
+Skill 'sagacity' 12 95
+Skill 'scry' 12 95
+Skill 'shadowform' 47 95
+Skill 'shield' 36 95
+Skill 'shockwave' 70 95
+Skill 'sleep' 14 95
+Skill 'slink' 9 95
+Skill 'sonic resonance' 25 95
+Skill 'spectral furor' 14 95
+Skill 'stone skin' 17 95
+Skill 'summon' 20 95
+Skill 'swordbait' 23 95
+Skill 'teleport' 50 95
+Skill 'transmutation' 84 95
+Skill 'transport' 17 95
+Skill 'true sight' 43 35
+Skill 'valiance' 14 95
+Skill 'ventriloquate' 1 95
+Skill 'vitalize' 74 95
+Skill 'weaken' 2 95
+Skill 'winter mist' 26 95
+Skill 'witherfist' 68 95
+Skill 'wizard eye' 58 95
+Skill 'word of recall' 15 95
+Skill 'aid' 10 95
+Skill 'clairvoyance' 2 95
+Skill 'climb' 2 95
+Skill 'cook' 1 95
+Skill 'cuff' 20 60
+Skill 'dig' 2 80
+Skill 'dodge' 2 30
+Skill 'dual wield' 5 30
+Skill 'enhanced damage' 44 30
+Skill 'fly' 2 95
+Skill 'focus' 43 95
+Skill 'fourth attack' 75 40
+Skill 'jump' 2 95
+Skill 'kick' 2 20
+Skill 'levitate' 60 95
+Skill 'lore' 2 35
+Skill 'meditate' 16 95
+Skill 'mindflay' 50 95
+Skill 'mount' 2 95
+Skill 'peek' 2 65
+Skill 'pinch' 10 95
+Skill 'punch' 2 20
+Skill 'ruminate' 40 95
+Skill 'scan' 2 95
+Skill 'scribe' 30 100
+Skill 'search' 2 95
+Skill 'second attack' 10 45
+Skill 'second cast' 10 95
+Skill 'talonslash' 6 95
+Skill 'taunt' 2 95
+Skill 'third attack' 30 30
+Skill 'trance' 32 95
+Skill 'vision' 80 95
+Skill 'bludgeons' 1 50
+Skill 'flexible arms' 1 60
+Skill 'long blades' 1 50
+Skill 'pugilism' 1 50
+Skill 'short blades' 1 95
+Skill 'talonous arms' 1 70
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Skill 'orcish' 1 99
+Skill 'pixie' 1 99
+Skill 'trollese' 1 99
+Title
+Man~
+Woman~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Mind Apprentice~
+Mind Apprentice~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Psi Student~
+Psi Student~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Reader~
+Mind Reader~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Bender~
+Mind Bender~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Warper~
+Mind Warper~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Flayer~
+Mind Flayer~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Slaver~
+Mind Slaver~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Mind Master~
+Mind Master~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Adept~
+Psi Adept~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Psi Lord~
+Psi Lady~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

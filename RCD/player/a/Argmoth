@@ -1,0 +1,66 @@
+#PLAYER
+Version      3
+Name         Argmoth~
+Description  ~
+Sex          1
+Class        3
+Race         5
+Languages    1 1
+Level        7
+Played       25167
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   55 167 106 106 177 178
+Gold         4163
+Exp          289137
+Height          51
+Weight          149
+Act          570426968
+AffectedBy   512
+Position     104
+Style     2
+Practice     10
+SavingThrows 0 0 0 0 -6
+Alignment    -3
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -5
+Password     Arq9/s.kyLsPs~
+Title         the Private~
+Lastname  Kindrid~
+AuthedBy     Fairburn~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       170
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 11 14 15 15 9 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 3
+Site         209.86.10.173
+Skill        17 'cook'
+Skill        100 'enhanced damage'
+Skill        60 'feed'
+Skill        99 'parry'
+Skill        95 'second attack'
+Weapon       100 'long blades'
+Weapon       17 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 1065  -6  24 0
+AffectData   'bless' 1065   6  18 0
+Killed       8908 1
+Killed       8907 4
+i3invis	0
+End
+
+#END

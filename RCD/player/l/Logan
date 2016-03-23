@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Logan~
+Sex          1
+Class        4
+Race         1
+Languages    1 1
+Level        2
+Played       61
+Room         10300
+HpManaMove   18 32 110 110 100 110
+Gold         0
+Exp          2000
+Height          58
+Weight          114
+Act          637535816
+AffectedBy   16
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  -7
+Password     LoVS3pyVg8JKU~
+Title         the Blood Student~
+Flags        0
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 14 15 18 12 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 47 47 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

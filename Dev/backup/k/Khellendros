@@ -1,0 +1,135 @@
+#PLAYER
+Version      3
+Name         Khellendros~
+Description  ~
+Sex          1
+Class        9
+Race         34
+Species      3
+Languages    1 1
+Level        6
+Played       4005
+Room         10339
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   61 100 133 133 237 165
+Gold         33187
+Exp          174796
+Height          361
+Weight          1831
+Act          570426952&4
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -503
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    4
+Susceptible  384
+Mentalstate  -6
+Password     KhideS/QFO8Y2~
+Title         the Dragon Hatchling~
+Lastname (null)~
+Bio          i feel so happy, because today i found my friends in my head
+~
+AuthedBy     Fellon~
+Prompt       &Y%h/%Hhp &C%m/%Mm &G%v/%Vmv &W%X TNL~
+FPrompt	     &Y%h/%Hhp &C%m/%Mm &G%v/%Vmv &W%X TNL %c~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       80
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 18 15 13 12 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 10
+Site         172.133.206.159
+Spell        42 'armor'
+Spell        19 'cancelation'
+Spell        19 'create fire'
+Spell        19 'detect magic'
+Spell        100 'dragon wit'
+Spell        22 'dragonskin'
+Spell        24 'float'
+Spell        28 'shield'
+Skill        19 'bite'
+Skill        100 'dual wield'
+Skill        65 'enhanced damage'
+Skill        35 'fan'
+Skill        40 'kick'
+Skill        95 'scan'
+Skill        19 'search'
+Weapon       50 'short blades'
+Tongue       100 'common'
+Killed       10307 1
+Killed       10328 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#END

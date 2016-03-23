@@ -1,0 +1,119 @@
+#PLAYER
+Version      3
+Name         Hasjman~
+Description  ~
+Sex          1
+Class        5
+Race         14
+Species      0
+Languages    1 1
+Level        15
+Played       339631
+Room         21166
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   159 161 325 315 267 267
+Gold         272106
+Exp          3353863
+Height          44
+Weight          117
+Act          637535816
+AffectedBy   528
+Position     112
+Style     2
+Practice     24
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       1674
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    8
+Susceptible  1
+Mentalstate  -1
+Password     HaUC4fgNr/np6~
+Title         the Healer~
+Lastname ~
+Prompt       -=}{ Hp:%h/%H }{ Mana:%m/%M }{ Mv:%v/%V }{ In:%A }{ Gold:%g }{ Exp:%x/%X }{=-~
+FPrompt	     -}{ Hp:%h/%H }{ Mana:%m/%M }{ Mv:%v/%V }{ %e }{=-~
+Deity	     Tyr~
+Clan         Guild of Druids~
+Flags        98304
+PKills       1
+PDeaths      1
+MKills       1465
+MDeaths      51
+ArenaWins    0
+ArenaKills   2
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     12 15 18 14 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 0 24
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        60 'bless'
+Spell        95 'blindness'
+Spell        73 'call lightning'
+Spell        24 'cancelation'
+Spell        19 'cause critical'
+Spell        19 'cause light'
+Spell        95 'cause serious'
+Spell        21 'continual light'
+Spell        49 'control weather'
+Spell        95 'create fire'
+Spell        95 'create food'
+Spell        90 'create spring'
+Spell        27 'create water'
+Spell        19 'cure blindness'
+Spell        19 'cure critical'
+Spell        49 'cure light'
+Spell        34 'cure poison'
+Spell        33 'cure serious'
+Spell        19 'curse'
+Spell        61 'detect evil'
+Spell        95 'detect hidden'
+Spell        95 'detect invis'
+Spell        29 'detect magic'
+Spell        19 'detect poison'
+Spell        19 'detect traps'
+Spell        19 'dispel evil'
+Spell        95 'earthquake'
+Spell        43 'faerie fire'
+Spell        19 'faerie fog'
+Spell        51 'fireball'
+Spell        68 'flight'
+Spell        76 'float'
+Spell        65 'identify'
+Spell        44 'infravision'
+Spell        95 'invis'
+Spell        46 'know alignment'
+Spell        19 'lightning bolt'
+Spell        25 'locate object'
+Spell        24 'magic missile'
+Spell        38 'poison'
+Spell        27 'protection'
+Spell        58 'refresh'
+Spell        29 'remove invis'
+Spell        19 'weaken'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        19 'dual wield'
+Skill        80 'enhanced damage'
+Skill        95 'kick'
+Skill        94 'pigeon'
+Skill        21 'search'
+Weapon       50 'long blades'
+Weapon       30 'short blades'
+Tongue       100 'common'
+Killed       10418 1
+Killed       10302 1
+Killed       9805 2
+Killed       9809 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Max~
+Sex          0
+Class        5
+Race         4
+Languages    1 1
+Level        2
+Played       2394
+Room         10304
+HpManaMove   28 28 144 144 110 110
+Gold         0
+Exp          2000
+Height          24
+Weight          40
+Act          536872520
+AffectedBy   524288
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Susceptible  16
+Mentalstate  0
+Password     ManQPjdUdFdRc~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     10 11 16 16 11 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 18 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'pixie'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

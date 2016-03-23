@@ -1,0 +1,147 @@
+#PLAYER
+Version      3
+Name         Elienar~
+Sex          1
+Class        5
+Race         4
+Languages    1 1
+Level        2
+Played       4700
+Room         10326
+HpManaMove   26 26 125 145 110 110
+Gold         500
+Exp          2990
+Height          25
+Weight          36
+Act          570426952
+AffectedBy   524288
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen ~
+Susceptible  16
+Mentalstate  0
+Password     EllVnzY97LTsA~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+IllegalPK    0
+AttrPerm     9 12 16 15 11 16 13
+AttrMod      0 0 3 0 0 0 0
+Condition    0 5 35 10
+Site         24.58.48.61
+Spell        21 'cause light'
+Spell        19 'create water'
+Spell        19 'cure light'
+Skill        19 'standard style'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 307   3  18 0
+AffectData   'bless' 307  -3  24 0
+AffectData   'shield' 341 -20  17 0
+AffectData   'sagacity' 1012   3   4 0
+Killed       10322 4
+Killed       10345 1
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10333
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10325
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       20 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

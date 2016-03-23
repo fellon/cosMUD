@@ -1,0 +1,123 @@
+#PLAYER
+Version      3
+Name         Reign~
+Description  ~
+Sex          0
+Class        30
+Race         53
+Species      0
+Languages    1 1
+Level        2
+Played       1721
+Room         21051
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   50 45 107 107 113 113
+Gold         0
+Exp          2000
+Height          60
+Weight          159
+Act          570426968
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Ref2OYaUCK1to~
+Title         the Footpad~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 10 9 21 18 9 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 29 29 10
+Site         207.202.214.132
+Tongue       100 'common'
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2301
+Level        29
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12571
+Level        43
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12576
+Level        45
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#END

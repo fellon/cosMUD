@@ -1,0 +1,282 @@
+#PLAYER
+Version      3
+Name         Nymondes~
+Description  ~
+Sex          2
+Class        0
+Race         16
+Species      8
+Languages    1 1
+Level        8
+Played       21941
+Room         21012
+Memorized		21000 21001 21000 0 0 0 0 0
+HpManaMove   53 43 314 309 191 191
+Gold         34026
+Exp          501633
+Height          22
+Weight          41
+Act          570426952
+AffectedBy   2
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    -3
+Favor	       1821
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -1
+Password     Ny8vZ.3UQavis~
+Title        ~
+Lastname ~
+AuthedBy     Andy~
+Pagerlen     60
+Deity	     Aoskar~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       89
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 16 15 16 9 16 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 10 16
+Site         64.5.68.221
+Spell        35 'armor'
+Spell        62 'black hand'
+Spell        34 'chill touch'
+Spell        24 'continual light'
+Spell        69 'detect invis'
+Spell        28 'detect magic'
+Spell        19 'faerie fire'
+Spell        19 'flight'
+Spell        25 'float'
+Spell        95 'galvanic whip'
+Spell        21 'invis'
+Spell        19 'kindred strength'
+Spell        19 'locate object'
+Spell        26 'teleport'
+Spell        31 'trollish vigor'
+Spell        19 'weaken'
+Spell        61 'word of recall'
+Skill        20 'kick'
+Skill        24 'scan'
+Skill        44 'second cast'
+Weapon       91 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 116   3  18 0
+AffectData   'bless' 116  -3  24 0
+AffectData   'shield' 170 -20  17 0
+Killed       44713 1
+Killed       44705 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2427
+WearLoc      4
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2104
+WearLoc      11
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2436
+WearLoc      17
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2101
+WearLoc      5
+Level        2
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2431
+Level        2
+Values       65 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2440
+Level        15
+Values       13 4 4 86 0 0
+Spell 3      'elven beauty'
+End
+
+#OBJECT
+Nest         1
+Vnum         2465
+Level        1
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2437
+Level        1
+Values       0 0 49 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2448
+Level        11
+Cost         0
+Values       10 2 2 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Count        13
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      2
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+WearLoc      8
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         44703
+WearLoc      3
+Level        3
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   525316
+WearLoc      16
+Level        6
+Values       12 7 14 11 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 15 0 0 0 0
+End
+
+#ALIAS
+Name     kl~
+Commands ca gal~
+End
+
+#END

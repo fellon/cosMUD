@@ -1,0 +1,177 @@
+#PLAYER
+Version      3
+Name         Ydna~
+Description  ~
+Sex          1
+Class        14
+Race         0
+Species      2
+Languages    1 1
+Level        8
+Played       13594
+Room         2483
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   96 110 100 100 130 191
+Gold         70374
+Exp          298907
+Height          65
+Weight          137
+Act          570426952
+Position     112
+Style     2
+Practice     9
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -61
+Password     Yd5TI7nJYpYFA~
+Title         the Snatcher~
+Lastname ~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       81
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 13 12 13 13 16
+AttrMod      7 0 0 0 0 0 0
+Condition    0 0 0 16
+Site         207.202.214.132
+Skill        73 'backstab'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        90 'kick'
+Skill        24 'scan'
+Tongue       100 'common'
+AffectData   'kindred strength' 1502   7   1 0
+AffectData   'armor' 234 -20  17 0
+Killed       2411 1
+Killed       2410 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      18
+Level        5
+Values       12 4 8 3 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         2427
+WearLoc      4
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        6
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2432
+WearLoc      20
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       102 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        17
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#END

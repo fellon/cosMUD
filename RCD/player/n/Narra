@@ -1,0 +1,141 @@
+#PLAYER
+Version      3
+Name         Narra~
+Sex          1
+Class        2
+Race         11
+Species      1
+Languages    1 1
+Level        2
+Played       2454
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   27 34 104 115 113 113
+Gold         6502
+Exp          2000
+Height          65
+Weight          121
+Act          536872536
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    -250
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     Nahan0emTmDqQ~
+Title         the Footpad~
+Lastname (null)~
+AuthedBy     Fellon~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 14 14 18 13 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 39 38 11
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+WearLoc      17
+Level        1
+Values       3 3 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

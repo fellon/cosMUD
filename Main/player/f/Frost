@@ -1,0 +1,404 @@
+#PLAYER
+Version      3
+Name         Frost~
+Description  ~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        40
+Played       39081
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   664 838 100 100 607 607
+Gold         118897
+Exp          70736843
+Height          125
+Weight          334
+Act          570426952&4
+AffectedBy   268435976
+Position     112
+Style     2
+Practice     56
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       1405
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        30
+ICEListen (null)~
+Mentalstate  -8
+Password     FrG0l1NlovA5s~
+Title         the Ultimate Warrior~
+Lastname ~
+AuthedBy     Arbadus~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       210
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 10 10 14 14 8 14
+AttrMod      4 0 0 0 0 0 0
+Condition    0 2 9 10
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        21 'disarm'
+Skill        19 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        20 'grip'
+Skill        90 'headbutt'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        20 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        95 'third attack'
+Skill        85 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'kindred strength' 1091   4   1 0
+AffectData   'detect invis' 1133   0  26 8
+AffectData   'armor' 366 -20  17 0
+AffectData   'iceshield'  46   0  26 268435456
+Killed       24817 1
+Killed       8120 1
+Killed       8125 3
+Killed       8124 2
+Killed       8122 1
+Killed       8108 1
+Killed       8101 6
+Killed       8112 1
+Killed       8118 3
+Killed       8132 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        6
+Values       4 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        12
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       2 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        5
+Values       11 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        3
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        55
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100096
+Values       1 0 144 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 4 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1535
+Level        12
+Values       11 4 12 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 2 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 5 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21017
+Values       10 7 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100017
+Level        10
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       47 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        13
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        16
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+WearLoc      5
+Level        19
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         812
+WearLoc      16
+Level        31
+Values       10 10 30 3 0 0
+End
+
+#OBJECT
+Vnum         48023
+Level        57
+Values       11 4 44 3 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       77 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       32 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        10
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Vnum         21017
+Values       10 6 10 0 0 0
+End
+
+#OBJECT
+Vnum         812
+WearLoc      18
+Level        32
+Values       11 10 30 3 0 0
+End
+
+#OBJECT
+Vnum         24516
+Level        97
+Values       12 17 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     pp~
+Commands dri spri~
+End
+
+#ALIAS
+Name     as~
+Commands elbow~
+End
+
+#ALIAS
+Name     ot~
+Commands ordertalk %0~
+End
+
+#ALIAS
+Name     sd~
+Commands headbutt~
+End
+
+#ALIAS
+Name     df~
+Commands disarm~
+End
+
+#ALIAS
+Name     yy~
+Commands track cambion~
+End
+
+#ALIAS
+Name     opal~
+Commands open n;open s;open e;open w;open u;open d~
+End
+
+#END

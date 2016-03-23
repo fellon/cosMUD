@@ -1,0 +1,443 @@
+#PLAYER
+Version      3
+Name         Jurgdrei~
+Description  ~
+Sex          1
+Class        11
+Race         28
+Languages    1 1
+Level        35
+Played       74543
+Room         21141
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   82 843 125 100 629 542
+Gold         1435316
+Exp          33416453
+Height          75
+Weight          245
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     36
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1339
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        60
+ICEListen (null)~
+Mentalstate  -1
+Password     JuUCsN69z6VbQ~
+Title         the Moon Dancer~
+Lastname  Nachtjager~
+AuthedBy     Rathkor~
+Prompt       &Y%h/%Hhp &B%m/%Mm &G%v/%Vmv &W%X TNL %A~
+FPrompt	     &Y%h/%Hhp &B%m/%Mm &G%v/%Vmv &W%c %X TNL~
+Deity	     Shaundakul~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       776
+MDeaths      2
+ArenaWins    1
+ArenaKills   6
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     14 11 11 17 14 11 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 45
+Site         172.170.169.123
+Spell        48 'plant pass'
+Skill        19 'aid'
+Skill        25 'bash'
+Skill        95 'bite'
+Skill        17 'cook'
+Skill        74 'disarm'
+Skill        88 'discern'
+Skill        85 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        95 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        95 'frenzy'
+Skill        19 'grip'
+Skill        90 'headbutt'
+Skill        38 'hide'
+Skill        95 'howl'
+Skill        45 'kick'
+Skill        90 'lunge'
+Skill        95 'nightvision'
+Skill        85 'parry'
+Skill        17 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        49 'serenity'
+Skill        61 'sneak'
+Skill        95 'third attack'
+Skill        83 'track'
+Weapon       60 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       95 'long blades'
+Weapon       17 'pugilism'
+Weapon       60 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Killed       24814 1
+Killed       24837 3
+Killed       24801 1
+Killed       24836 1
+Killed       24835 1
+Killed       24819 1
+Killed       24818 1
+Killed       24820 1
+Killed       24816 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         206
+ExtraFlags   512
+WearLoc      16
+Level        23
+Values       12 5 50 1 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         2836
+WearLoc      7
+Level        24
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        10
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         45341
+Values       300 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        12
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6511
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        4
+Values       14 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24838
+Values       60 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3042
+Level        34
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24875
+Values       25 22 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24875
+Values       25 19 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24808
+Level        38
+Values       12 10 34 2 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         24878
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2812
+Level        20
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60986
+Level        28
+Values       12 4 24 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24875
+Values       25 8 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8916
+Level        11
+Values       4 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8914
+Level        11
+Values       13 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         1
+Vnum         8916
+Level        9
+Values       7 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8918
+Level        8
+Values       4 -1 -1 59 0 0
+Spell 3      'cure light'
+End
+
+#OBJECT
+Vnum         1509
+WearLoc      3
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1511
+WearLoc      17
+Level        9
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         24876
+Values       30 30 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41424
+Level        29
+Values       9 10 10 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24539
+Level        40
+Values       60 2 2 87 0 0
+Spell 3      'enchant weapon'
+End
+
+#OBJECT
+Vnum         42923
+WearLoc      9
+Level        26
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         60910
+Level        12
+Values       18 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Vnum         60881
+WearLoc      2
+Level        11
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42924
+WearLoc      5
+Level        27
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         41401
+WearLoc      4
+Level        29
+Values       9 9 9 2 0 0
+End
+
+#OBJECT
+Vnum         41400
+WearLoc      13
+Level        28
+Values       9 10 10 3 0 0
+End
+
+#OBJECT
+Vnum         41427
+WearLoc      8
+Level        27
+Values       7 8 8 2 0 0
+End
+
+#OBJECT
+Vnum         41428
+WearLoc      6
+Level        27
+Values       9 9 9 3 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      14
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21071
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24875
+Values       25 15 10 0 0 0
+End
+
+#OBJECT
+Vnum         21070
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         24875
+Values       25 21 10 0 0 0
+End
+
+#OBJECT
+Vnum         24858
+Level        44
+Values       11 14 40 11 0 0
+End
+
+#MOBILE
+Vnum	60895
+Room	60882
+Description The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Jurgdrei'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

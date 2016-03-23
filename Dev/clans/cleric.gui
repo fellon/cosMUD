@@ -1,0 +1,31 @@
+#CLAN
+Name         Guild of Clerics~
+Filename     cleric.gui~
+Motto        We are all unitied under the expansion of faith throughout the realm.~
+Leader       Dragonshoker~
+PKillRangeNew   0 0 0 0 0 0 0
+PDeathRangeNew  0 0 0 0 0 0 0
+MKills       1207
+MDeaths      25
+IllegalPK    0
+Score        0
+Type         14
+Class        1
+Favour       0
+Strikes      0
+Members      4
+MemLimit     0
+Alignment    0
+Board        3000101
+ClanObjOne   3000100
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       3000100
+Storeroom    3000101
+GuardOne     0
+GuardTwo     0
+End
+
+#END

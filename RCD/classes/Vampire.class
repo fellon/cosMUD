@@ -1,0 +1,457 @@
+Name        Vampire~
+Class       4
+Attrprime   2
+Alignment   0
+Weapon      10312
+Guild       3036
+Skilladept  95
+Thac0       18
+Thac32      7
+Hpmin       9
+Hpmax       15
+Mana        0
+Expbase     1500
+Skill 'cancelation' 25 95
+Skill 'chill touch' 3 95
+Skill 'control weather' 18 95
+Skill 'cover of darkness' 64 95
+Skill 'curse' 57 95
+Skill 'detect magic' 20 85
+Skill 'detect traps' 20 90
+Skill 'devils might' 63 95
+Skill 'dispel magic' 58 95
+Skill 'enchant weapon' 40 85
+Skill 'energy drain' 35 95
+Skill 'festering wounds' 50 95
+Skill 'fireball' 28 95
+Skill 'flash' 87 95
+Skill 'flight' 10 95
+Skill 'float' 1 95
+Skill 'harm' 13 95
+Skill 'identify' 15 95
+Skill 'infravision' 2 95
+Skill 'invis' 10 95
+Skill 'kindred strength' 15 95
+Skill 'locate object' 20 95
+Skill 'poison' 6 95
+Skill 'power word kill' 99 70
+Skill 'scry' 29 95
+Skill 'shield' 27 95
+Skill 'sleep' 12 95
+Skill 'teleport' 11 95
+Skill 'transport' 45 40
+Skill 'ventriloquate' 9 95
+Skill 'weaken' 6 95
+Skill 'word of recall' 18 95
+Skill 'aid' 21 60
+Skill 'bite' 11 95
+Skill 'bloodlet' 11 95
+Skill 'broach' 41 60
+Skill 'climb' 2 95
+Skill 'dig' 2 95
+Skill 'disarm' 25 95
+Skill 'dodge' 2 75
+Skill 'dominate' 34 95
+Skill 'dual wield' 2 95
+Skill 'enhanced damage' 50 60
+Skill 'fade' 52 95
+Skill 'feed' 1 95
+Skill 'fly' 2 95
+Skill 'fourth attack' 38 85
+Skill 'frenzy' 30 95
+Skill 'grasp suspiria' 50 95
+Skill 'hide' 32 95
+Skill 'jump' 2 50
+Skill 'kick' 2 55
+Skill 'limber' 80 95
+Skill 'lore' 2 35
+Skill 'mistform' 15 95
+Skill 'mistwalk' 74 90
+Skill 'mount' 2 95
+Skill 'occulutus visum' 12 95
+Skill 'parry' 11 95
+Skill 'peek' 2 100
+Skill 'punch' 2 40
+Skill 'scan' 2 85
+Skill 'search' 2 95
+Skill 'second attack' 11 90
+Skill 'second cast' 30 95
+Skill 'serenity' 35 95
+Skill 'slit' 84 95
+Skill 'sneak' 3 95
+Skill 'spy' 80 40
+Skill 'steal' 6 95
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 23 95
+Skill 'vision' 50 95
+Skill 'vomica pravus' 13 45
+Skill 'bludgeons' 1 50
+Skill 'flexible arms' 1 80
+Skill 'long blades' 1 85
+Skill 'pugilism' 1 95
+Skill 'short blades' 1 95
+Skill 'talonous arms' 1 95
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Skill 'orcish' 1 99
+Skill 'pixie' 1 99
+Skill 'trollese' 1 99
+Title
+Vampire~
+Vampiress~
+Title
+Fledgling Vampire~
+Fledgling Vampire~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Childe~
+Childe~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Ancilla~
+Ancilla~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Elder Vampire~
+Elder Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Ancient Vampire~
+Ancient Vampiress~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Vampire Lord~
+Vampire Lady~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Methuselah~
+Methuselah~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Antidiluvian~
+Antidiluvian~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Sire of all Kindred~
+Sire of all Kindred~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

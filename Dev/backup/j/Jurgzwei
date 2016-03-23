@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Jurgzwei~
+Description  ~
+Sex          1
+Class        9
+Race         32
+Languages    1 1
+Level        11
+Played       14415
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   43 285 225 225 230 230
+Gold         69737
+Exp          1358954
+Height          366
+Weight          1895
+Act          570426952
+Position     106
+Style     2
+Practice     16
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       802
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Password     JuUCsN69z6VbQ~
+Title         the Young Dragon~
+Lastname  Saureratem~
+AuthedBy     Fellon~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       208
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 13 14 11 16 15 10
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         172.154.185.30
+Spell        19 'armor'
+Spell        74 'cancelation'
+Spell        26 'create fire'
+Spell        19 'detect magic'
+Spell        100 'dragon wit'
+Spell        24 'dragonskin'
+Spell        35 'float'
+Spell        19 'locate object'
+Spell        19 'poison'
+Spell        85 'shield'
+Skill        43 'bite'
+Skill        95 'enhanced damage'
+Skill        50 'fan'
+Skill        78 'second attack'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Killed       10300 1
+Killed       1504 1
+Killed       1531 1
+i3invis	0
+End
+
+#END

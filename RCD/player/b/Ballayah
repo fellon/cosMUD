@@ -1,0 +1,306 @@
+#PLAYER
+Version      3
+Name         Ballayah~
+Sex          2
+Class        8
+Race         0
+Languages    1 1
+Level        10
+Played       47387
+Room         10319
+HpManaMove   167 151 85 133 190 190
+Gold         255511
+Exp          1297266
+Height          68
+Weight          139
+Act          570427000
+Position     104
+Style     1
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    1000
+Favor	       2500
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     BapAQraYmIYu.~
+Title         the Protector of Loyalty~
+Deity	     Mystra~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       555
+MDeaths      2
+IllegalPK    0
+AttrPerm     18 13 13 13 13 13 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 37 20
+Site         64.169.158.196
+Spell        71 'armor'
+Spell        18 'bethsaidean touch'
+Spell        39 'bless'
+Spell        18 'continual light'
+Spell        78 'create food'
+Spell        48 'create water'
+Spell        90 'cure light'
+Spell        19 'detect evil'
+Spell        19 'detect hidden'
+Spell        18 'detect poison'
+Spell        80 'refresh'
+Spell        26 'solomonic invocation'
+Skill        95 'aggressive style'
+Skill        20 'climb'
+Skill        18 'cook'
+Skill        36 'dig'
+Skill        90 'enhanced damage'
+Skill        18 'mount'
+Skill        90 'parry'
+Skill        75 'second attack'
+Skill        18 'spurn'
+Skill        95 'standard style'
+Weapon       95 'bludgeons'
+Weapon       95 'long blades'
+Weapon       60 'pugilism'
+Weapon       60 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 115 -20  17 0
+AffectData   'bless' 431   3  18 0
+AffectData   'bless' 431  -3  24 0
+Killed       2002020 1
+Killed       6116 1
+Killed       6101 1
+Killed       6102 1
+Killed       3501 2
+Killed       7002 1
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10323
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         6632
+Level        1
+Values       29 43 139 126 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         1597
+Level        4
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+WearLoc      11
+Level        5
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2000
+Level        2
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        5
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+WearLoc      8
+Level        6
+Values       7 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        9
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000016
+WearLoc      22
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000014
+WearLoc      23
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000015
+WearLoc      24
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000015
+WearLoc      25
+Level        1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000013
+Level        1
+Values       0 1 5 7 0 0
+End
+
+#OBJECT
+Vnum         3606
+Level        1
+Values       5 40 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         6155
+WearLoc      16
+Level        10
+Values       12 2 16 8 0 0
+End
+
+#OBJECT
+Vnum         2000011
+Level        1
+Values       11 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000012
+Level        1
+Values       0 3 0 0 0 0
+End
+
+#END

@@ -1,0 +1,90 @@
+#PLAYER
+Version      3
+Name         Draos~
+Sex          1
+Class        1
+Race         1
+Languages    1 1
+Level        2
+Played       1783
+Room         10303
+HpManaMove   29 29 113 113 110 110
+Gold         0
+Exp          2000
+Height          69
+Weight          110
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     DrIfZkbBq7T9g~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 15 17 16 12 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 25 10
+Site         207.202.214.132
+Spell        19 'armor'
+Spell        19 'cause light'
+Spell        19 'continual light'
+Spell        19 'create water'
+Spell        19 'cure light'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

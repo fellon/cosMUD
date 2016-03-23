@@ -1,0 +1,141 @@
+#PLAYER
+Version      3
+Name         Clarion~
+Sex          1
+Class        10
+Race         23
+Languages    1 1
+Level        4
+Played       2109
+Room         10303
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   35 74 134 134 139 139
+Gold         6301
+Exp          29162
+Height          66
+Weight          74
+Act          570426968
+AffectedBy   1048576
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    64
+Mentalstate  0
+Password     ClYbh85ydZWhU~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       14
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 15 12 15 13 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 42 42 4
+Site         207.202.214.132
+Spell        21 'burning hands'
+Spell        35 'demonskin'
+Spell        19 'faerie fire'
+Spell        100 'spiritual wrath'
+Spell        19 'weaken'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+AffectData   'demonskin'  56  64  27 0
+Killed       10303 3
+Killed       10302 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+WearLoc      17
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         105
+WearLoc      16
+Level        15
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#END

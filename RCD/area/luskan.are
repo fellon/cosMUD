@@ -1,0 +1,2019 @@
+#AREA   City of Sails~
+
+
+
+#VERSION 1
+#AUTHOR Puba~
+
+#RANGES
+45 100 45 115
+$
+
+#RESETMSG A great ship's horn echos thru the air.~
+
+#FLAGS
+0
+
+#ECONOMY 0 21472174
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#7921
+dendybar mage wizard archmage man~
+Dendybar the Mottled~
+The Archmage of the hosttower is hovering here.
+~
+Though he appears weak from a distance, closer scrutiny reveals a power
+in this man mightier than bulging muscles. And his well earned
+reputation for valuing life far less than the pursuit of 
+knowledge intimidates most who come before him.
+~
+67 71835836 0 C
+50 0 -250 7000d0+1000 2d5+4
+1500000 0
+112 100 1
+17 13 13 16 13 13 0
+0 0 0 0 0
+3 0 0 0 131072 131072 5
+0 0 4686762 12 3161227 1 4160 525331
+> greet_prog 100~
+speak common
+sa How Dare You Disturb My Meditation!
+~
+> all_greet_prog 100~
+war You will not leave this tower alive $n! This I promise you!
+~
+|
+#7922
+bok flesh golem~
+Bok~
+A gigantic golem made of flesh stands here looking down upon you.
+~
+Standing eight feet tall and 3 wide at the shoulders, this thing that
+appears to be a man is actually different pieces of human bodies 
+assembled by Dendybar. Magically empowered with strength
+beyond the measures of the natural world, Bok is a deadly
+force to be reckoned with.
+~
+3 8320 0 C
+48 0 -300 5000d0+1 3d4+15
+200000 0
+112 112 0
+20 13 13 13 20 13 0
+0 0 0 0 0
+89 3 0 0 1818648421 1818648420 0
+25 40 167 8 35 0 448 0
+> greet_prog 100~
+growl
+~
+> rand_prog 10~
+slobber
+~
+> rand_prog 10~
+growl
+~
+|
+#7923
+morkai spectre mage wizard~
+Morkai~
+The spectre of Morkai the Red floats here.
+~
+A fitting image of the mighty wizard he had once been this spirit
+stands resolute and proud. After being murdered by Dendybar and
+his cronies and then summoned by Dendybar to serve his evil
+purposes, Morkai now haunts the Hosttower in revenge.
+~
+3 4202664 -200 C
+50 17 -300 1d1+10000 10d5+10
+350000 400
+112 112 1
+13 13 13 16 13 13 13
+0 0 0 0 0
+36 0 0 0 1919904115 1919904114 3
+0 0 955 515 11320 0 603980369 418
+> greet_prog 100~
+bow
+~
+> speech_prog sa shorty~
+sa As you wish $n!
+c heal $n
+~
+|
+#7924
+guard man luskan~
+the guard~
+A guard is here protecting the gates.
+~
+~
+3 8192 0 C
+45 0 -150 0d0+0 0d0+0
+20000 0
+112 112 1
+20 13 10 10 19 12 13
+-10 -10 -10 -10 -10
+0 3 0 0 1 1 3
+30 30 0 1056768 3072 0 112 3
+> greet_prog 100~
+if isimmort($n)
+worship $n
+say I grovel before your greatness, $n!
+else
+yell HALT!
+endif
+~
+|
+#7925
+nightkeeper guard man~
+the Nightkeeper~
+The Nightkeeper stands here commanding you to halt.
+~
+~
+3 8320 0 C
+48 0 -200 0d0+0 0d0+0
+30000 0
+112 112 1
+20 13 13 15 18 13 15
+-20 -20 -20 -20 -20
+0 3 0 0 1 1 2
+50 50 0 1057024 7168 0 150995312 524323
+> greet_prog 100~
+sa Be gone! No outsiders are permitted to enter this city.
+~
+|
+#7926
+melvin blacksmith~
+Melvin~
+A blacksmith stands here smiling at you.
+~
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 1d1+1000
+200000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+2 22 0 0 5 4 1
+0 0 2047 0 3156992 0 32 3
+> greet_prog 100~
+sa I don't work for free so you'd best had brought some gold with ya!
+speak common
+~
+> speech_prog sa shorty~
+sa Yes sir! Right away!
+c sanc buckshot
+c sanc puba
+~
+> speech_prog sa fartknock~
+sa sa Yes sir! Right away!
+c sanc piglet
+~
+> greet_prog 100~
+close east
+lock east
+~
+> speech_prog sa filth~
+nod $n
+un east
+~
+|
+#7927
+woman local luskan~
+the local~
+A local of Luskan is here staring at you suspiciously.
+~
+~
+1 8192 850 C
+40 0 -100 0d0+0 0d0+0
+50000 0
+112 112 2
+10 13 10 10 13 13 10
+-10 -10 -10 -10 -10
+0 2 0 0 1 1 2
+30 30 0 0 6144 0 624 2
+#7928
+Jimbob shopkeeper man~
+Jimbob~
+A shopkeeper is here counting some gold.
+~
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 1d1+1000
+200000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+2 22 0 0 5 4 1
+0 0 2047 0 3156992 0 32 3
+> speech_prog say light~
+sa Anything for Clan Scumbag!
+c contin
+dro ball
+~
+> greet_prog 100~
+speak common
+sa Greetings traveller! Might you be needing some supplies?
+~
+|
+#7929
+soldier jierdan man captain~
+Jierdan~
+The Captain of Luskan's army stands here.
+~
+A respected figure throughout Luskan, Jierdan's sole purpose is
+to serve the Hosttower and carry out all commands given by 
+the Archmage. Stockier than most men, and an expert 
+swordsman, a highly skilled warrior he is indeed.
+~
+67 128 0 C
+50 0 -300 5500d0+500 0d0+0
+500000 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 5
+0 0 0 1057315 7168 0 240 524291
+> greet_prog 100~
+say Who are you and what are you doing here?
+~
+> greet_prog 100~
+glare $n
+~
+|
+#7930
+whisper assassin lady woman~
+Whisper~
+A mysterious looking lady is here hiding in the shadows.
+~
+It is now apparent that the cloaked figure is indeed a woman,
+a dark and mysterious figure with long black hair and deeply
+set, darting eyes that show experience and a profound
+understanding of life on the street.
+~
+67 73856 0 C
+50 0 -300 5000d0+1 3d4+15
+500000 0
+112 112 2
+13 13 13 20 13 13 0
+0 0 0 0 0
+0 2 0 0 1 1 3
+5 3 0 1056780 3 0 1568 524288
+> greet_prog 100~
+sa I've been expecting you $n...
+grin $n
+~
+> rand_prog 10~
+sa I bet you're wondering how to get into the Hosttower...
+~
+|
+#7931
+soldier luskan man~
+a soldier of Luskan~
+A soldier stands here, trying to maintain order in the streets.
+~
+~
+3 128 0 C
+48 0 -200 0d0+0 0d0+0
+30000 0
+112 112 1
+20 15 13 14 18 14 14
+-20 -20 -20 -20 -20
+0 3 0 0 1 1 2
+50 50 0 8456 2304 0 134218176 0
+#7932
+drunk fat big man~
+the big drunk man~
+A big drunk man is here bragging about his past feats.
+~
+~
+67 4202536 0 C
+50 0 -200 5500d0+500 0d0+0
+100000 0
+112 112 1
+20 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 2
+0 0 0 1057391 7168 0 32 524288
+> greet_prog 100~
+say GeT ouTTa mE BaR ya scOUndrEL!
+burp
+~
+> greet_prog 100~
+speak common
+~
+|
+#7933
+bartender man Toohey~
+Toohey~
+A bartender is here pouring an ice-cold mug of ale.
+~
+~
+67108867 4194344 0 C
+90 0 -300 1d1+30000 1d1+1000
+200000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+2 22 0 0 5 4 1
+0 0 2047 0 3156992 0 32 3
+> greet_prog 100~
+sa What can I getcha?
+~
+> greet_prog ~
+speak common
+~
+> greet_prog 100~
+speak common
+~
+|
+#7934
+jane druid~
+Jane~
+A druid friend of the clan is here giving out free heals.
+~
+~
+1073741827 4194472 0 C
+50 0 0 25d500+300 0d0+0
+0 0
+112 112 2
+18 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 2047 0 3156992 0 0 263
+> greet_prog 60~
+say Hello $n, please come and rest for a while.
+~
+> rand_prog 5~
+sing
+~
+> act_prog p kneels~
+say You look like you could use a blessing, $n.
+cast sanc .$n
+cast bless .$n
+cast flight .$n
+sa There you are..
+smile
+~
+> act_prog p appears~
+poke $n
+say Welcome home $n. How were your travels?
+smile $n
+~
+|
+#7936
+Afu shopkeeper clan shadows~
+Afu~
+The archmage is here selling some of his famous home remedies.
+~
+~
+1074791425 128 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+> speech_prog tab~
+mpoload 21006
+mpecho Afu utters a few phrases and a magical tablet appears in his hands!
+give tablet $n
+~
+> speech_prog recall~
+mpoload 10331
+mpecho Afu utters a few phrases and a recall scroll appears in his hands!
+give recall $n
+~
+> greet_prog 60~
+say Whats up $n? You need'n some of the good stuff?
+grin
+~
+> rand_prog 6~
+say You need to study a new skill or spell? Learn a new language perhaps?
+ 
+~
+|
+#7940
+nada~
+nada~
+Some god abandoned a newly created Whisper here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7945
+merchant ~
+the merchant~
+A merchant is here glaring at you in disgust.
+~
+~
+1 8192 0 C
+45 0 -150 0d0+0 0d0+0
+40000 0
+112 112 1
+15 18 14 20 15 14 15
+-10 -10 -10 -10 -10
+0 4 0 0 1 1 3
+40 40 0 1048576 7168 0 624 524290
+#7948
+nada~
+nada~
+Some god abandoned a newly created Shopkeeper here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7950
+nada~
+nada~
+Some god abandoned a newly created Blacksmith here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7954
+nada~
+nada~
+Some god abandoned a newly created Bartender here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7955
+nada~
+nada~
+Some god abandoned a newly created Drunk here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7956
+nada~
+nada~
+Some god abandoned a newly created Chili here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7957
+nada~
+nada~
+Some god abandoned a newly created Derachi here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7958
+nada~
+nada~
+Some god abandoned a newly created Galt here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7960
+citizen Luskan~
+a citizen of Luskan~
+A citizen of Luskan is here waiting for a ride.
+~
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+10 10 0 0 1024 0 0 0
+#7961
+nada~
+nada~
+Nada
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7962
+sydney woman mage wizard master~
+Sydney~
+Sydney, Master of the North Spire is here.
+~
+Not a pretty woman, Sydney cares little for her physical
+apprearances, instead devoting her energies to her relenting
+pursuit of power.
+~
+3 128 -850 C
+50 0 -120 0d0+0 0d0+0
+1000000 0
+112 112 2
+18 20 15 20 15 14 13
+10 0 -10 0 0
+0 0 0 0 1 1 8
+85 50 0 13451 3149320 0 19153472 11266
+> greet_prog 100~
+sa You've got a lot of nerve comming in here uninvited $n!
+slap $n
+~
+|
+#7963
+nada~
+nada~
+Nada
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7964
+nada~
+nada~
+Some god abandoned a newly created Jierdan here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7965
+nada~
+nada~
+Some god abandoned a newly created Morkai here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#7969
+king giant crab~
+A giant king crab~
+A giant king crab steps out of the water and attacks!
+~
+~
+35 0 0 C
+50 0 -125 0d0+0 0d0+0
+0 0
+112 112 0
+13 5 5 14 7 5 10
+-10 -10 -10 -10 -10
+89 24 0 0 1818648421 1818648420 3
+50 50 32 1056768 7170 0 131139 2
+#0
+
+
+#OBJECTS
+#7921
+shield globe darkness~
+&wA Globe of &BDarkness&g~
+It appears there is a dark hole in the ground here.~
+~
+9 524887 131073
+10 4 10 10
+3 200000 20000
+A
+17 -50
+A
+13 20
+A
+12 30
+#7925
+key hosttower~
+A Secret Key~
+An old rusty key lies on the ground here with the initials HF carved on it.~
+~
+18 0 8193
+0 0 0 0
+7 1000000 100000
+#7926
+key Luskan~
+The key to Luskan~
+A shiney black key lies here.~
+~
+18 0 8193
+0 0 0 0
+5 100000 10000
+#7927
+black bodysuit~
+&BA Black Bodysuit&G~
+A sexy black bodysuit lies on the floor here.~
+~
+9 197189 8201
+0 0 0 0
+3 80000 8000
+A
+17 -50
+A
+12 80
+A
+25 3
+A
+19 3
+#7928
+vial potion clear crystal~
+&C a crystal clear potion&G~
+Someone left a vial of clear liquid on the ground here.~
+~
+10 524352 8193
+0 -1 182 182
+1 50000 5000
+'restore mana' 'restore mana' 'restore mana'
+#7929
+defender luskan sword~
+&wThe&Y Defender&w of &YLuskan&G~
+An exceptionally well-crafted sword lies here emitting a bright glow.~
+~
+5 524353 8193
+0 10 5 3
+5 300000 30000
+A
+13 50
+A
+18 8
+A
+19 8
+A
+12 25
+#7930
+shot undead spirits~
+a shot of undead spirits~
+A shot glass filled with black liquid lies here.~
+~
+10 8262 1
+50 -1 122 122
+2 300000 1
+'heal' 'heal' 'heal'
+#7931
+arcane ale~
+arcane ale~
+A beer bottle lies here with the words "Arcane Ale" written on it.~
+~
+10 8259 1
+50 -1 182 182
+2 3000 1
+'restore mana' 'restore mana' 'restore mana'
+#7932
+recall scroll~
+&B a recall scroll&G~
+A scroll lies here.~
+~
+2 8260 8193
+10 -1 229 -1
+1 200 20
+'NONE' 'word of recall' 'NONE'
+#7933
+veil shadows clan~
+&w&zVeil of Shadows&w~
+A dark veil of shadows was lost here.~
+~
+9 2097161 1048577
+0 500 2 2
+10 2000 1000000
+A
+18 4
+A
+19 5
+A
+13 30
+A
+17 -10
+A
+2 3
+#7934
+grits food~
+some grits~
+A loaf of bread has been dropped here.~
+~
+19 8256 1
+0 0 0 0
+3 200 20
+#7935
+wormhole clan shadows~
+a wormhole~
+A small hole is in the ground.~
+~
+15 2105408 1
+999 0 0 0
+1 200 20
+#7936
+shifting potion blue~
+a shifting blue potion~
+A blue potion is here, shifting in the light.~
+~
+10 2097216 1
+30 -1 182 -1
+2 2000 20
+'restore mana' 'restore mana' 'NONE'
+#7939
+cloak velvet~
+&PA Dark Velvet Cloak&G~
+A pile of dark velvet lies here glowing.~
+~
+9 69 1025 2
+0 0 0 0
+5 450000 45000
+A
+17 -20
+A
+1 1
+A
+4 2
+A
+18 5
+A
+19 3
+A
+13 20
+#7940
+pill small purple~
+a small &Ppurple&G pill~
+Some god dropped a newly created pill here.~
+~
+26 0 1
+50 -1 170 137
+1 0 0
+'sanctuary' 'protection' 'invis'
+#7941
+noteboard note board~
+a noteboard~
+&W&wThe chronicles of war rest upon an &zonyx&w pedistal here.~
+~
+12 1073741824 0
+0 0 0 0
+9999 10 1
+#7942
+fountain~
+fountain~
+A fountain of fresh water sits in the center of the floor.~
+~
+25 0 0
+0 0 0 0
+1 0 0
+#7943
+shade ring clan shadows~
+&w&zShade Ring&w~
+A ring lies here collecting dust.~
+~
+9 2097238 8195
+0 0 0 0
+1 0 0
+A
+18 5
+A
+19 5
+A
+13 20
+A
+17 -20
+A
+31 2
+#7944
+vial shadows~
+a vial of shadows~
+A shadowy vial lies here.~
+~
+10 2097216 1
+1 -1 -1 -1
+1 2000 200
+'heal' 'NONE' 'NONE'
+#7957
+dagger obsidian~
+&wAn &BObsidian&w Dagger&G~
+A pitch black dagger lies here.~
+~
+5 69 8193
+0 10 6 2
+3 100000 30000
+A
+17 -20
+A
+2 4
+A
+12 50
+#7960
+sign~
+a sign~
+A sign has been posted here.~
+~
+12 0 0
+0 0 0 0
+9999 1000 1
+E
+sign~
+North - To Luskan "The City of Sails"
+South - Road around New Darkhaven
+~
+#7961
+helm nephandi~
+&w The&B Helm &wof &BNephandi&G~
+An onyx helm lies here~
+~
+9 66116 8209
+10 0 0 0
+6 670000 67000
+A
+13 10
+A
+12 90
+A
+3 2
+A
+17 -100
+#7962
+ring swirling energy~
+&BA Ring of &YSwirling Energy&G~
+A circle of pure energy pulsates on the ground.~
+~
+9 583 8195
+0 0 0 0
+3 140000 14000
+A
+12 100
+A
+3 1
+A
+17 -3
+A
+31 2
+#7963
+gauntlets golem might~
+&wGauntlets of &BGolem Might&G~
+Some god dropped a newly created gauntlets here.~
+~
+9 1074266693 129
+0 0 0 0
+8 120000 12000
+A
+3 -2
+A
+4 -1
+A
+25 -1
+A
+17 -5
+A
+1 8
+#7965
+light orb ball~
+an &Yorb &wof &Bever&p-&Cs&Yh&Ci&Yf&Ct&Yi&Cn&Yg &Rc&Po&Rl&Po&Ru&Pr&w~
+An orb of ever-shifting colour lies here in the dust.~
+~
+1 524355 8193
+0 0 0 0
+1 300000 30000
+A
+4 3
+A
+18 5
+A
+19 5
+A
+13 10
+A
+12 15
+#7967
+axe blood-stained~
+&wA &RBlood-stained&w Axe&G ~
+An axe is on the ground here covered in blood.~
+~
+5 573524 8193
+0 12 5 1
+8 100000 10000
+A
+1 1
+A
+13 20
+A
+19 10
+#7968
+staff black~
+&BA Black Staff&G~
+A black staff lies here glowing.~
+~
+5 622661 8193
+2 20 3 6
+10 30000 3000
+A
+12 10
+A
+13 5
+#7969
+pill oyster~
+&wan oyster&G~
+An old oyster lies here.~
+~
+26 5 8217
+48 -1 22 122
+1 50000 5000
+'cure poison' 'bless' 'heal'
+#0
+
+
+#ROOMS
+#7921
+The Road to Luskan~
+You've found the path to Luskan! This well traveled path
+reveals that the city is just over the hills, about a mile
+north. Many stories have been spread across the realm about
+the "City of Sails", as Luskan is dubbed. Anticipation courses
+through your veins as you start your journey along the road.
+
+~
+0 4 1
+D0
+~
+~
+0 -1 7922
+D2
+~
+~
+0 -1 28039
+E
+sign~
+North - Luskan 'The City of Sails'
+South - Northern New Darkhaven
+East  - Northern Midgard
+~
+S
+#7922
+Still on the Road~
+You brake camp and set out on a leisurely pace
+only to discover later that you had misjudged 
+the distance to the city. Luskan is still a few
+miles to the north.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 7923
+D2
+~
+~
+0 -1 7921
+S
+#7923
+Village Path~
+The city is finally in your site...
+A wall encompasses Luskan, with guards strategically 
+spaced at varying intervals. Even from this distance
+you can make out the dark forms of many soldiers pacing
+the parapets, their spear tips shining in the new light
+of the day.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 7924
+D2
+~
+~
+0 -1 7922
+S
+#7924
+Before the Gates~
+A rather small seaport compared to the huge
+cities in the south, Luskan houses just over
+fifteen thousand citizens. The gates are well 
+guarded, and they do not readily welcome 
+visitors. Better think up a plan quick.
+
+~
+0 0 3
+D0
+~
+gate~
+1 7924 7925
+D2
+~
+~
+0 -1 7923
+S
+#7925
+Entrance to the City of Sails~
+This structure is as unwelcoming as Luskan's
+reputation: A single bound door set into the
+stone wall between two short, squared towers
+is tightly shut before you.
+
+~
+0 0 0
+D0
+~
+gate~
+1063 7926 7926
+D2
+~
+gate~
+1 -1 7924
+S
+#7926
+The Streets of Luskan~
+Luskan's streets are tightly packed with two
+and three story buildings, a reflection of the
+desperation of the people here to huddle within
+the safety of the city's high walls, away from the 
+ever-present dangers of the savage wilderness.
+Main Street is to the north, and a small lane
+expands east to an alleyway and west to the piers.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7927
+D1
+~
+~
+0 -1 7934
+D2
+~
+gate~
+7 7926 7925
+S
+#7927
+Main Street~
+You are now walking on what appears to be the main street
+of the city. Merchants, locals, and Luskan soldiers are all 
+about.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7928
+D2
+~
+~
+0 -1 7926
+S
+#7928
+Main Street~
+You are now walking on what appears to be the main street
+of the city. Merchants, locals, and Luskan soldiers are all
+about.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7929
+D2
+~
+~
+0 -1 7927
+S
+#7929
+Entrance to the Hosttower of the Arcane~
+A landmark of wonder marks the very center of the 
+City of Sails, a strange building that emanates 
+a powerful aura of magic. Unlike any other
+structure seen, the Hosttower seems literally
+a tree of stone, boasting five tall spires
+the largest being the central, and the 
+other four, equally high, growing out
+of the main trunk with the graceful 
+curving arc of an oak.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7930
+D1
+~
+~
+0 -1 7953
+D2
+~
+~
+0 -1 7928
+D3
+~
+~
+0 -1 7952
+D4
+~
+entrance~
+39 7925 7960
+S
+#7930
+Main Street~
+You are now walking on the main street of Luskan.
+Merchants, locals, and guards create
+traffic in your passage along this crowded road.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7931
+D2
+~
+~
+0 -1 7929
+S
+#7931
+Main Street~
+You are now walking on the main street of Luskan.
+Merchants, locals , and guards create 
+traffic in your passage along this crowded road.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7951
+D2
+~
+~
+0 -1 7930
+D3
+~
+~
+0 -1 7949
+S
+#7932
+A Dimunitive Laboratory~
+&zThe archmage sits at a huge and ancient stone table, so large
+that a minotaur could lay down upon it, strech out his full height,
+and still have room to spare. Runes and spidery writing upon the books
+lining the walls glow through the dust gathered on thier spines. Glass
+bottles and jars of twisted design stand on tables around the sides of
+the chamber, their bright colored contents bubbling and boiling with
+hidden power. A &wnote&z of importance is posted at the entrance.
+
+~
+0 3146752 1
+D2
+~
+~
+0 -1 7933
+D3
+~
+~
+7 7926 7950
+E
+note~
+&GRecall scrolls and magical tablets are free to all clan members.
+ 
+Afu will create one for anyone who asks for a recall or tablet.
+~
+S
+#7933
+An Underground Quadrant~
+&zThis shadowy underground antichamber seems much larger than
+it can possibly be. Its hard to determine whether it is the chamber
+itself that seems larger or yourself that seems smaller whenever you
+enter it. The walls are decorated with woven pictures of fanciful
+beasts and hideous demons, each of them rare and beautiful-or rare
+and ghastly. To either side of the central aisle are mighty columns,
+with entrances at the base of each. Great gargoyles with thier wings
+spread arch over every doorway. The statues' leering gazes seem to be
+following your every move. A large stone spiral staircase leads up to
+the ground level.
+
+~
+0 3145740 0
+D0
+~
+~
+0 -1 7932
+D1
+~
+~
+0 -1 7958
+D2
+~
+~
+0 -1 7956
+D3
+~
+~
+1056 -1 7959
+D4
+~
+~
+0 -1 7957
+E
+up~
+~
+S
+#7934
+A Lane~
+You are on a small lane between the main road
+and a dark alley.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7935
+D3
+~
+~
+0 -1 7926
+S
+#7935
+Rat Alley~
+This dark alley, which runs parallel to the sea
+is seemingly impassible through the thick fog.
+Broken crates and boxes clutter the alleyway
+reducing the already narrow passage in many 
+places to single-file breadth.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7936
+D3
+~
+~
+0 -1 7934
+S
+#7936
+Rat Alley~
+This dark alley, which runs parallel to the sea
+is seemingly impassible through the thick fog.
+Broken crates and boxes clutter the alleyway
+reducing the already narrow passage in many
+places to single-file breadth.
+
+~
+0 0 1 0 0 2
+D0
+~
+~
+0 -1 7937
+D2
+~
+~
+0 -1 7935
+S
+#7937
+Rat Alley~
+This dark alley, which runs parallel to the sea
+is seemingly impassible through the thick fog.
+Broken crates and boxes clutter the alleyway
+reducing the already narrow passage in many
+places to single-file breadth.
+
+~
+0 0 1 0 0 2
+D0
+~
+~
+0 -1 7938
+D2
+~
+~
+0 -1 7936
+S
+#7938
+Rat Alley~
+This dark alley, which runs parallel to the sea
+is seemingly impassible through the thick fog.
+Broken crates and boxes clutter the alleyway
+reducing the already narrow passage in many
+places to single-file breadth.
+
+~
+0 0 1 0 0 2
+D0
+~
+~
+0 -1 7939
+D2
+~
+~
+0 -1 7937
+D3
+~
+~
+0 -1 7953
+S
+#7939
+Rat Alley~
+A shuffle in the warehouse above you alerts 
+your feelings that eyes are upon you. You cant 
+help but to believe someone has a crossbow
+aimed at your head. While rounding a mound 
+of broken planks, you see a slender figure
+leaning against on of the alleyway's walls
+with their cloak pulled tightly against 
+the chill of the evening mist. They might
+prove to hold valuable information.
+
+~
+0 0 1 0 0 5
+D0
+~
+~
+0 -1 7966
+D1
+~
+~
+0 -1 7940
+D2
+~
+~
+0 -1 7938
+S
+#7940
+A Dark Corner in the Alley~
+This dark eerie corner is infested with rats and reaks of maggot-infested
+rubbish. It seems that eyes are upon you from every angle. This isnt
+the most comfortable of places.
+
+~
+0 0 1
+D3
+~
+~
+0 -1 7939
+S
+#7941
+A Lane~
+You are on a small lane between the piers 
+and the main road.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7926
+D3
+~
+~
+0 -1 7942
+S
+#7942
+Half-Moon Street~
+The docks harbor the roughest section of the city,
+where thieves, outlaws, and beggars abound in their
+shadowed crannies. A perpetual ground fog wafts from
+the sea, blurring the already dim avenue.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7943
+D1
+~
+~
+0 -1 7941
+S
+#7943
+Half-Moon Street~
+The docks harbor the roughest section of the city,
+where thieves, outlaws, and beggars abound in their
+shadowed crannies. A perpetual ground fog wafts from
+the sea, blurring the already dim avenue.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7944
+D2
+~
+~
+0 -1 7942
+D3
+~
+~
+0 -1 7968
+S
+#7944
+Outside a Tavern~
+You notice a small group, probably thieves, congregating
+before the doorway of a tavern. The weatherbeaten sign
+above the door names the place "The Cutlass".
+A haze of smoke from exotic pipeweeds
+comming from the door blends in with 
+the mist outside, blurring the harsh
+reality of the images into softer
+dreamlike sensations.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7945
+D1
+~
+~
+0 -1 7954
+D2
+~
+~
+0 -1 7943
+S
+#7945
+Half-Moon Street~
+The docks harbor the roughest section of the city,
+where thieves, outlaws, and beggars abound in their
+shadowed crannies. A perpetual ground fog wafts from
+the sea, blurring the already dim avenue.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7946
+D1
+~
+~
+0 -1 7952
+D2
+~
+~
+0 -1 7944
+S
+#7946
+Half-Moon Street~
+The docks harbor the roughest section of the city,
+where thieves, outlaws, and beggars abound in their
+shadowed crannies. A perpetual ground fog wafts from
+the sea, blurring the already dim avenue.
+
+~
+0 0 1
+D0
+~
+~
+0 -1 7947
+D2
+~
+~
+0 -1 7945
+D3
+~
+~
+0 -1 7967
+S
+#7947
+Half-Moon Street~
+The docks harbor the roughest section of the city,
+where thieves, outlaws, and beggars abound in their
+shadowed crannies. A perpetual ground fog wafts from
+the sea, blurring the already dim avenue.
+
+~
+0 0 1
+D0
+~
+~
+1 -1 7948
+D1
+~
+~
+0 -1 7949
+D2
+~
+~
+0 -1 7946
+S
+#7948
+Corner Store~
+You are inside a small corner store next to the piers.
+A shopkeeper is here willing to sell you supplies
+if you have enough gold. To the east 
+is a repair shop.
+
+~
+0 8 0
+D1
+~
+~
+0 -1 7950
+D2
+~
+~
+1 -1 7947
+S
+#7949
+A Lane~
+You are on a small lane between the piers 
+and the main road.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7931
+D3
+~
+~
+0 -1 7947
+S
+#7950
+Repair Shop~
+This is the towns only weapon and armor repair
+shop. A huge blacksmith is standing behind the
+counter, happily offering you his services
+for a small fee.
+
+~
+0 1024 0
+D1
+~
+~
+7 7926 7932
+D3
+~
+~
+0 -1 7948
+S
+#7951
+A Lane~
+You are on a small lane between the main road
+and a dark alley.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7966
+D3
+~
+~
+1 -1 7931
+S
+#7952
+A Lane~
+You are on a small lane between the piers 
+and the main road.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7929
+D3
+~
+~
+0 -1 7945
+S
+#7953
+A Lane~
+You are on a small lane between the main road
+and a dark alley.
+
+~
+0 0 1
+D1
+~
+~
+0 -1 7938
+D3
+~
+~
+0 -1 7929
+S
+#7954
+Inside the Cutlass~
+The atmosphere inside the Cutlass is in accord
+with the decay and rabble that marked the place
+outside. The tavern portion of the building is 
+a single open room with a long bar defensively
+positioned on the rear wall
+across from the door.
+
+~
+0 0 0
+D0
+~
+~
+0 -1 7955
+D3
+~
+~
+0 -1 7944
+S
+#7955
+The End of the Bar~
+This end of the tavern is crowded with merchant
+sailors and local drunks. More than anything else,
+though, this place is a room of the senses, with 
+myriad sounds and sights and smells. The aroma of
+the alcohol, from strong ale to cheap wine to 
+rarer and more powerful beverages
+permeates every corner.
+
+~
+0 0 0
+D2
+~
+~
+0 -1 7954
+S
+#7956
+Weapon and Armor Depository~
+&zThis is a large chamber used for preparing for battle and storing
+equipment. Various weapons and armor lie about, some with fresh blood
+still dripping from them.
+
+~
+0 3671048 0
+D0
+~
+~
+0 -1 7933
+S
+#7957
+A Mezzanine of Portals~
+&zThis room seems boundless. It is hard to tell which way is up and which
+way is down.  Clouds abound and have formed into recognizable but ever
+shifting shapes and sizes. There is an all permeating light comming from above,
+but its source cannot be determined with the nakked eye. There is
+a large &psign&z on the eastern wall.
+
+~
+0 3146761 0
+D4
+~
+~
+0 -1 21000
+D5
+~
+~
+0 -1 7933
+E
+sign~
+&BEach portal will transport you to a different part of the realm.
+ 
+Just say the name of the area and you shall be transferred immediatly.
+ 
+ 
+&W&wWyvern's Tower
+Solace
+Olympus
+ 
+&BThe portal above is always accessible and leads directly to Darkhaven Square.
+~
+> speech_prog solace~
+mpechoat $n Step into one of the swirling clouds...
+mpforce $n faint
+mpechoat $n ...You are now in Solace...
+mpechoaround $n $n slowly dematerializes...
+mptransfer $n 45302
+~
+> speech_prog olympus~
+mpechoat $n Step into one of the swirling clouds...
+mpforce $n faint
+mpechoat $n ...You awaken in the city of the Gods...
+mpechoaround $n $n slowly dematerializes...
+mptransfer $n 48002
+~
+> speech_prog p Wyvern's Tower~
+mpechoat $n Step into one of the swirling clouds...
+mpforce $n faint
+mpechoat $n ...You awaken in the tower...
+mpechoaround $n $n slowly dematerializes...
+mptransfer $n 48602
+mpat 48602 mpforce 0.$n look
+~
+|
+S
+#7958
+A Comfortable Lounge~
+&zThis is a cozy little lounge where clan members
+come to relax after a hard days work. A large couch
+sits against the southern wall facing a warm fireplace.
+Against the eastern wall there is a small bar for anyone
+who might need a stiff drink to rid themselves of any stress.
+There is also a card table here with a few gold coins and dice
+resting upon it.
+
+~
+0 3145736 0
+D3
+~
+~
+0 -1 7933
+S
+#7959
+The Athenaeum~
+&zThere is a large desk of mohagany stacked with parchements here. The
+western wall is taken up by a bookshelf with quaint and curious volumes
+of forgotten lore. Rising up from the center of the marble floor is
+an onyx pedistal, which upon lies the noteboard for the clan.
+
+~
+0 3146760 0
+D1
+~
+~
+0 -1 7933
+S
+#7960
+Inside the Hosttower~
+Nowhere can any sign of the mason be seen among this beautiful
+stronghold. It is obvious to any knowlegable viewer that magic
+not physical labor, had constructed it. The Archmage, 
+undisputed Master of the Hosttower, resides in the 
+central tower, while the other four house the
+wizards closest in the line of succession.
+Each of these lesser towers, representing 
+the four compass directions, dominates 
+a different side of the trunk.
+
+~
+0 2097156 0
+D0
+~
+~
+0 -1 7962
+D1
+~
+~
+0 -1 7964
+D2
+~
+~
+0 -1 7963
+D3
+~
+~
+0 -1 7965
+D4
+~
+~
+0 -1 7961
+D5
+~
+~
+0 -1 7929
+S
+#7961
+Central Spire~
+You have entered the spire belonging the the Archmage
+of the hosttower. It seems you have disturbed his meditation
+and he doesn't seem too thrilled about you being here.
+
+~
+0 0 0
+D5
+~
+~
+0 -1 7960
+S
+#7962
+Northern Spire~
+This is the tower of the mage next in command to 
+the Archmage. Your intrusion has startled her. Better get out quick...
+
+~
+0 0 0
+D2
+~
+~
+0 -1 7960
+S
+#7963
+Southern Spire~
+This is the tower of the mage in charge of controlling the south.
+The wizard appears to be away on business, but someone...err something
+stands here before you and it doesnt look too friendly...
+
+~
+0 2097152 0
+D0
+~
+~
+0 -1 7960
+S
+#7964
+Eastern Spire~
+The wizard in charge of the east resides in this tower.
+He doesn't seem to be present, but a soldier stands here with
+his hand on his sheath ready to draw his sword.
+
+~
+0 2097152 0
+D3
+~
+~
+0 -1 7960
+S
+#7965
+Western Spire~
+This is the tower of the wizard in charge of overseeing the
+the happenings along the bay area of the seaport.
+
+~
+0 2097152 0
+D1
+~
+~
+0 -1 7960
+S
+#7966
+Rat Alley~
+This dark alley, which runs parallel to the sea
+is seemingly impassible through the thick fog.
+Broken crates and boxes clutter the alleyway
+reducing the already narrow passage in many
+places to single-file breadth.
+
+~
+0 0 1 0 0 2
+D2
+~
+~
+0 -1 7939
+D3
+~
+~
+0 -1 7951
+S
+#7967
+Upon a Pier~
+You are on a pier upon the shore. Merchant ships and
+local charter and fishing boats 
+are parked along the docks.
+
+~
+0 4 1
+D1
+~
+~
+0 -1 7946
+D2
+~
+~
+0 -1 7968
+D5
+~
+~
+0 -1 7969
+S
+#7968
+Upon a Pier~
+You are on a pier upon the shore. Merchant ships and
+local charter and fishing boats
+are parked along the docks.
+
+~
+0 4 1
+D0
+~
+~
+0 -1 7967
+D1
+~
+~
+0 -1 7943
+S
+#7969
+Along the Shore~
+As you walk along the beach you here something in the shallow water
+next to you...
+
+~
+0 4 1
+D0
+~
+~
+0 -1 7969
+D2
+~
+~
+0 -1 7969
+D4
+~
+~
+0 -1 7967
+S
+#0
+
+
+#RESETS
+O 1 7960 1 7921
+M 1 7924 1 7924
+D 0 7924 0 0
+M 1 7925 1 7925
+G 1 7926 1
+D 0 7925 0 2
+D 0 7925 2 0
+D 0 7926 2 2
+M 1 7960 5 7927
+M 1 7927 6 7927
+M 1 7931 5 7928
+D 0 7929 4 2
+M 1 7931 5 7931
+M 1 7960 5 7931
+O 1 7942 1 7933
+M 1 7931 5 7934
+M 1 7945 6 7934
+M 1 7927 6 7935
+M 1 7945 6 7936
+M 1 7945 6 7939
+M 1 7930 1 7940
+E 1 7957 1 16
+G 1 7940 1
+E 1 7939 1 3
+G 1 7925 1
+M 1 7927 6 7940
+M 1 7927 6 7940
+M 1 7945 6 7943
+M 1 7927 6 7944
+M 1 7931 5 7947
+D 0 7947 0 0
+M 1 7928 1 7948
+G 1 7932 1
+G 1 7934 1
+M 1 7960 5 7948
+D 0 7948 2 0
+M 1 7960 5 7949
+M 1 7945 6 7951
+M 1 7945 6 7951
+D 0 7951 3 0
+M 1 7931 5 7952
+M 1 7933 1 7954
+G 1 7931 1
+G 1 7930 1
+M 1 7932 1 7955
+E 1 7967 1 16
+M 1 7921 1 7960
+O 1 7308 1 7961
+O 1 7921 1 7961
+M 1 7962 1 7962
+O 1 7927 1 7962
+M 1 7922 1 7963
+O 1 7963 1 7963
+M 1 7929 1 7964
+O 1 7303 1 7964
+M 1 7923 1 7965
+M 1 7960 5 7966
+M 1 7969 1 7969
+G 1 7969 1
+M 1 7926 1 7950
+E 1 7926 1 16
+M 1 7945 6 7950
+D 0 7950 1 2
+D 0 7932 3 2
+S
+
+
+#SHOPS
+ 7928   19 16  9  0  0   120  90         0 23    ; Jimbob
+ 7933   17  0  0  0  0   120  10         0 23    ; Toohey
+ 7936    5 15 10  9  1   120  25         0 23    ; Afu
+0
+
+
+#REPAIRS
+ 7926    5  9 15         100   1         0 23    ; Melvin
+0
+
+
+#SPECIALS
+M  7921 spec_breath_any
+M  7923 spec_breath_any
+M  7924 spec_guard
+M  7925 spec_guard
+M  7927 spec_janitor
+M  7934 spec_cast_adept
+M  7962 spec_breath_any
+M  7969 spec_breath_frost
+S
+
+
+#$

@@ -1,0 +1,66 @@
+#PLAYER
+Version      3
+Name         Grear~
+Description  ~
+Sex          1
+Class        14
+Race         23
+Languages    1 1
+Level        3
+Played       2828
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   17 47 112 112 172 126
+Gold         5118
+Exp          12088
+Height          66
+Weight          65
+Act          570427000
+AffectedBy   1048576
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Password     Grm6L0YARDPp6~
+Title         the Filcher~
+Lastname (null)~
+AuthedBy     Marten~
+Prompt       <%h/%Hhp %m/%Mma %v/%Vmv> <%X> ~
+FPrompt	     <%h/%Hhp %m/%Mma %v/%Vmv> <%X> <%c>~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       17
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 15 12 15 12 10 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         63.161.21.90
+Skill        17 'backstab'
+Skill        17 'sneak'
+Tongue       100 'common'
+AffectData   'armor' 498 -20  17 0
+Killed       10303 1
+Killed       10344 1
+i3invis	0
+End
+
+#ALIAS
+Name     1~
+Commands back~
+End
+
+#END

@@ -1,0 +1,227 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         6630
+Room         327685
+Level        2
+Values       3 3 0 1 0 0
+End
+
+#OBJECT
+Vnum         21071
+Room         327685
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+Room         327685
+Level        41
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         30309
+Room         327685
+Level        34
+Values       50 3 3 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Vnum         5028
+Room         327685
+Level        1
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         5031
+Room         327685
+Level        1
+End
+
+#OBJECT
+Vnum         21011
+Room         327685
+Level        97
+Values       12 5 40 0 0 0
+End
+
+#OBJECT
+Vnum         21025
+Room         327685
+End
+
+#OBJECT
+Vnum         14740
+Room         327685
+Level        44
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         2110
+Room         327685
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         14738
+Room         327685
+Level        50
+Values       54 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         14723
+Room         327685
+Level        43
+Values       45 165 224 4 0 0
+Spell 1      'poison'
+Spell 2      'weaken'
+Spell 3      'acid blast'
+End
+
+#OBJECT
+Vnum         14728
+Room         327685
+Level        51
+Values       53 2 2 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         14734
+Room         327685
+Level        1
+End
+
+#OBJECT
+Vnum         14713
+Room         327685
+Level        52
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14719
+Room         327685
+Level        36
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        58
+Values       49 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         2345
+Room         327685
+Level        32
+Values       11 5 25 3 0 0
+End
+
+#OBJECT
+Vnum         2340
+Room         327685
+Level        30
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8121
+Room         327685
+Level        58
+Values       51 165 224 62 0 0
+Spell 1      'poison'
+Spell 2      'weaken'
+Spell 3      'curse'
+End
+
+#OBJECT
+Vnum         8302
+Room         327685
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         8306
+Room         327685
+Level        19
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         813
+Room         327685
+Level        49
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         267
+Room         327685
+Level        87
+Values       87 88 0 0 0 0
+End
+
+#OBJECT
+Vnum         12552
+Room         327685
+Level        49
+Values       12 14 44 2 0 0
+End
+
+#OBJECT
+Vnum         24516
+Room         327685
+Level        98
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         46273
+Room         327685
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         48002
+Room         327685
+Level        54
+Values       9 10 10 5 0 0
+End
+
+#OBJECT
+Vnum         12501
+Room         327685
+Level        53
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Name         maelstrom~
+ShortDescr   The Maelstrom~
+Description  The Maelstrom has fallen here.~
+Vnum         12505
+Room         327685
+Values       12 1 6 11 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#END

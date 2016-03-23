@@ -1,0 +1,372 @@
+#PLAYER
+Version      3
+Name         Garbo~
+Description  ~
+Sex          1
+Class        30
+Race         53
+Species      0
+Languages    1 1
+Level        6
+Played       20371
+Room         24808
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   135 123 135 123 265 165
+Gold         161928
+Exp          187838
+Height          66
+Weight          162
+Act          536872536
+Position     112
+Style     2
+Practice     9
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       1745
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -1
+Password     GaaCSx0Foj5L2~
+Title         the Bitch~
+Lastname ~
+AuthedBy     Fellon~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       135
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 8 9 17 18 8 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 1 14 12
+Site         63.169.107.252
+Weapon       15 'pugilism'
+Tongue       100 'common'
+AffectData   'bless'  79  -3  24 0
+AffectData   'bless'  79   3  18 0
+Killed       10396 10
+Killed       10302 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Level        3
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        8
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6631
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2070
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2410
+Level        6
+Values       12 4 4 95 0 0
+Spell 3      'faerie fire'
+End
+
+#OBJECT
+Nest         1
+Vnum         2409
+Level        5
+Values       6 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2436
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2410
+Level        7
+Values       11 3 3 95 0 0
+Spell 3      'faerie fire'
+End
+
+#OBJECT
+Nest         1
+Vnum         2409
+Level        6
+Values       6 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2405
+Level        3
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2441
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2433
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2432
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        6
+Values       15 3 3 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2440
+Level        15
+Values       14 2 2 86 0 0
+Spell 3      'elven beauty'
+End
+
+#OBJECT
+Nest         1
+Vnum         2431
+Level        1
+Values       65 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2433
+Level        3
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2432
+Level        4
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2429
+WearLoc      5
+Level        6
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2436
+WearLoc      17
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       12 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2437
+Level        1
+Values       0 0 65 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2439
+Level        5
+Values       9 5 5 42 0 0
+Spell 3      'colour spray'
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21070
+Level        15
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         60897
+Level        3
+Values       3 3 3 0 0 0
+End
+
+#END

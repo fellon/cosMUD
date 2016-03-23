@@ -1,0 +1,68 @@
+#PLAYER
+Version      3
+Name         Rhys~
+Description  ~
+Sex          2
+Class        0
+Race         4
+Species      0
+Languages    1 1
+Level        5
+Played       8983
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   33 33 190 193 249 152
+Gold         22543
+Exp          105826
+Height          22
+Weight          41
+Act          536872536
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Susceptible  16
+Password     RhZ6beDY9T15E~
+Title         the Apprentice Mage~
+Lastname  Ffernfael~
+AuthedBy     Relgar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       47
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 15 13 15 9 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 15
+Site         63.169.107.252
+Spell        36 'armor'
+Spell        54 'burning hands'
+Spell        48 'chill touch'
+Spell        32 'detect invis'
+Spell        36 'elven beauty'
+Spell        21 'faerie fire'
+Spell        35 'invis'
+Spell        95 'magic missile'
+Spell        19 'word of recall'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       10396 7
+Killed       10303 2
+i3invis	0
+End
+
+#END

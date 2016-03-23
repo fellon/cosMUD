@@ -1,0 +1,67 @@
+#PLAYER
+Version      3
+Name         Kaspari~
+Description  ~
+Sex          1
+Class        10
+Race         5
+Languages    1 1
+Level        4
+Played       14553
+Room         2074
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   71 103 114 114 139 139
+Gold         16325
+Exp          42419
+Height          60
+Weight          144
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       -2337
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        5
+Deaf         2
+ICEListen (null)~
+Mentalstate  -8
+Password     KaRttVc.UF54E~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Rathkor~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       40
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 10 14 15 15 10 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 3 2
+Site         207.202.214.132
+Spell        24 'burning hands'
+Spell        17 'demonskin'
+Spell        56 'weaken'
+Skill        93 'feed'
+Skill        18 'search'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+AffectData   'armor' 455 -20  17 0
+Killed       10301 7
+Killed       10300 5
+i3invis	0
+End
+
+#END

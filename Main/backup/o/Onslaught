@@ -1,0 +1,114 @@
+#PLAYER
+Version      3
+Name         Onslaught~
+Description  ~
+Sex          1
+Class        17
+Race         2
+Species      0
+Languages    1 1
+Level        7
+Played       8007
+Room         24810
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   116 134 126 126 178 178
+Gold         85004
+Exp          254094
+Height          50
+Weight          137
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     12
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       721
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        30
+ICEListen (null)~
+Mentalstate  -9
+Password     OnZ/lqr//IH/E~
+Title         the Page~
+Lastname ~
+AuthedBy     Marten~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       52
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 12 15 13 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         207.202.214.132
+Skill        90 'dual wield'
+Skill        18 'kick'
+Skill        18 'scan'
+Skill        18 'search'
+Weapon       18 'long blades'
+Weapon       40 'short blades'
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'shield'  75 -20  17 0
+Killed       24842 1
+Killed       24841 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       52 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   525316
+WearLoc      16
+Level        5
+Values       12 7 14 11 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   525316
+WearLoc      18
+Level        5
+Values       12 7 14 11 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     pp~
+Commands dri spring~
+End
+
+#END

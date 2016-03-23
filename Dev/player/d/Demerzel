@@ -1,0 +1,491 @@
+#PLAYER
+Version      3
+Name         Demerzel~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      5
+Languages    1 1
+Level        59
+Played       167568
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   939 1520 255 216 854 854
+Gold         1168833
+Exp          229393482
+Height          124
+Weight          568
+Act          570426968&4
+AffectedBy   512
+Position     104
+Style     2
+Practice     85
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        22
+MGlory       22
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  0
+Password     DeOGilGR8PrHM~
+Title         the Commander~
+Extraname  R. Hummin~
+Lastname ~
+AuthedBy     Andy~
+Prompt       <&g%hhp %X TNL&y>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Clan         Guild of Warriors~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       669
+MDeaths      22
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     19 14 11 13 16 8 14
+AttrMod      4 0 0 0 0 0 0
+Condition    0 29 6 61
+Site         207.202.214.132
+Skill        22 'aid'
+Skill        17 'bash'
+Skill        17 'disarm'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        47 'grip'
+Skill        90 'headbutt'
+Skill        17 'hitall'
+Skill        95 'kick'
+Skill        24 'lunge'
+Skill        100 'parry'
+Skill        17 'pummel'
+Skill        17 'rescue'
+Skill        17 'roundhouse'
+Skill        45 'scan'
+Skill        18 'search'
+Skill        95 'second attack'
+Skill        17 'shoulder'
+Skill        38 'stun'
+Skill        95 'third attack'
+Skill        46 'track'
+Weapon       100 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'kindred strength' 1042   4   1 0
+Killed       8134 4
+Killed       8104 8
+Killed       8123 9
+Killed       8119 8
+Killed       8105 8
+Killed       8110 7
+Killed       8129 7
+Killed       8111 7
+Killed       8112 2
+Killed       8118 1
+Killed       8116 9
+Killed       8109 8
+Killed       8122 2
+Killed       8121 4
+Killed       8125 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        43
+Values       1 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        42
+Values       4 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+WearLoc      6
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        43
+Values       1 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        49
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24858
+Level        42
+Values       9 11 36 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        58
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        58
+Values       8 18 48 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        58
+Values       13 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100008
+Level        43
+Values       11 14 36 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        55
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        58
+Values       12 17 50 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        57
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        50
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        53
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        55
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        58
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        57
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        58
+Values       12 15 51 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        58
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        58
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        57
+Values       50 20 20 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        56
+Values       12 16 49 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        56
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44702
+Level        2
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        59
+Values       11 14 51 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        58
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        58
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        27
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        55
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        57
+Values       9 14 47 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        58
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        58
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        57
+Values       11 15 48 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8107
+Level        58
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        53
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8111
+Level        59
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        54
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        58
+Values       12 16 49 8 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Values       4 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+ExtraFlags   1026
+WearLoc      18
+Level        46
+Values       12 15 42 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         8103
+WearLoc      16
+Level        47
+Values       12 13 41 11 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       102 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#ALIAS
+Name     ddd~
+Commands dr sp~
+End
+
+#ALIAS
+Name     hm~
+Commands help map~
+End
+
+#ALIAS
+Name     as~
+Commands stun %0~
+End
+
+#ALIAS
+Name     ff~
+Commands say heal~
+End
+
+#ALIAS
+Name     sd~
+Commands headbutt~
+End
+
+#ALIAS
+Name     ttt~
+Commands take keris~
+End
+
+#ALIAS
+Name     www~
+Commands wear keris~
+End
+
+#ALIAS
+Name     rrr~
+Commands ttt~
+End
+
+#ALIAS
+Name     pop~
+Commands put all in extra~
+End
+
+#END

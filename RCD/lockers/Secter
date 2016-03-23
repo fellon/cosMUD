@@ -1,0 +1,217 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         10331
+Room         327685
+Level        1
+Values       9 176 60 229 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         8916
+Room         327685
+Level        10
+Values       7 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Vnum         8914
+Room         327685
+Level        9
+Values       15 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Vnum         2463
+Room         327685
+Level        1
+Values       20 11 2 0 0 0
+End
+
+#OBJECT
+Vnum         1532
+Room         327685
+Level        24
+Values       24 74 22 170 0 0
+Spell 1      'dispel magic'
+Spell 2      'bless'
+Spell 3      'protection'
+End
+
+#OBJECT
+Vnum         48610
+Room         327685
+Level        17
+Values       7 57 58 -1 0 0
+Spell 1      'cure blindness'
+Spell 2      'cure critical'
+End
+
+#OBJECT
+Vnum         2074
+Room         327685
+Level        2
+Values       9 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2074
+Room         327685
+Level        2
+Values       11 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2074
+Room         327685
+Level        1
+Values       10 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2074
+Room         327685
+Level        1
+Values       11 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         46253
+Room         327685
+Level        23
+Values       35 87 -1 -1 0 0
+Spell 1      'enchant weapon'
+End
+
+#OBJECT
+Vnum         4102
+Room         327685
+Level        13
+Values       2 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Vnum         46253
+Room         327685
+Level        21
+Values       34 87 -1 -1 0 0
+Spell 1      'enchant weapon'
+End
+
+#OBJECT
+Vnum         46252
+Room         327685
+Level        15
+Values       9 49 -1 -1 0 0
+Spell 1      'create food'
+End
+
+#OBJECT
+Vnum         48610
+Room         327685
+Level        16
+Values       9 57 58 -1 0 0
+Spell 1      'cure blindness'
+Spell 2      'cure critical'
+End
+
+#OBJECT
+Vnum         22
+Room         327685
+Timer        9
+Values       100000 100000 0 0 0 0
+End
+
+#OBJECT
+Vnum         22
+Room         327685
+Timer        25
+Values       100000 100000 0 0 0 0
+End
+
+#OBJECT
+Vnum         22
+Room         327685
+Timer        32
+Values       100000 100000 0 0 0 0
+End
+
+#OBJECT
+Vnum         46288
+Room         327685
+Level        49
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         46287
+Room         327685
+Level        49
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+Room         327685
+Level        63
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         46289
+Room         327685
+Level        47
+Values       12 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14700
+Room         327685
+Level        61
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14725
+Room         327685
+Level        57
+Values       12 16 48 11 0 0
+End
+
+#OBJECT
+Vnum         14725
+Room         327685
+Level        52
+Values       11 15 46 11 0 0
+End
+
+#OBJECT
+Vnum         14725
+Room         327685
+Level        53
+Values       12 14 47 11 0 0
+End
+
+#END

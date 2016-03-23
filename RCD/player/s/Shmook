@@ -1,0 +1,87 @@
+#PLAYER
+Version      3
+Name         Shmook~
+Description  ~
+Sex          1
+Class        14
+Race         5
+Species      0
+Languages    1 1
+Level        6
+Played       43541
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   120 120 105 105 165 165
+Gold         828966
+Exp          111651
+Height          60
+Weight          144
+Act          570427002
+AffectedBy   512
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -6
+Alignment    178
+Favor	       603
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        26
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     Shqe1yjSs35RM~
+Title         is suicidal~
+Lastname  Liadon~
+AuthedBy     Marten~
+Deity	     Shar~
+Flags        98818
+PKills       0
+PDeaths      0
+MKills       104
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     15 11 15 16 15 9 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 4 16
+Site         207.202.214.132
+Skill        17 'backstab'
+Skill        17 'cook'
+Skill        90 'enhanced damage'
+Skill        62 'feed'
+Skill        17 'hide'
+Skill        17 'pick lock'
+Skill        17 'sneak'
+Skill        17 'steal'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       57 'long blades'
+Weapon       17 'pugilism'
+Weapon       17 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 423 -20  17 0
+AffectData   'bless' 1118   6  18 0
+AffectData   'bless' 1118  -6  24 0
+Killed       21045 1
+Killed       7006 1
+i3invis	0
+End
+
+#MOBILE
+Vnum	21059
+Room	7918
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Shmook'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

@@ -1,0 +1,719 @@
+#PLAYER
+Version      3
+Name         Tyrin~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      0
+Languages    524357 1
+Level        58
+Played       559634
+Room         21000
+Memorized		21000 21000 21042 21042 0 46317 0 0
+HpManaMove   178 531 1404 1270 941 841
+Gold         1486922
+Exp          232302626
+Height          59
+Weight          114
+Act          570426968&4
+AffectedBy   17826304
+Position     112
+Style     2
+Practice     119
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      170997
+Glory        32
+MGlory       32
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        60
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -1
+Password     Ty/3CW2MjmnuE~
+Title         The &RDREADNOUGHT~
+Lastname  Is~
+Bio          Your Black Lightning **** SMITES **** the robed priest! [812]
+Your Black Lightning _demolishes_ A bushy tailed squirrel! [847]
+Your Black Lightning * OBLITERATES * A tiny chipmunk! [861]
+Your Black Lightning **** SMITES **** an undead monster! [890]
+~
+AuthedBy     Fellon~
+Prompt       &R%h/%H &B%m/%M &w%v > :%c: %k~
+Pagerlen     30
+Deity	     Mystra~
+Clan         RDAF~
+Flags        361232
+PKills       0
+PDeaths      0
+MKills       2621
+MDeaths      55
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    1
+AttrPerm     11 16 13 15 12 14 13
+AttrMod      4 0 0 0 4 -1 0
+Condition    0 30 1 66
+Site         67.232.172.78
+Spell        19 'acid blast'
+Spell        19 'antimagic shell'
+Spell        19 'aqua breath'
+Spell        95 'armor'
+Spell        85 'astral walk'
+Spell        95 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        19 'blazeward'
+Spell        95 'blindness'
+Spell        58 'blur'
+Spell        95 'burning hands'
+Spell        54 'cancelation'
+Spell        95 'caustic fount'
+Spell        95 'charm person'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        75 'continual light'
+Spell        95 'control weather'
+Spell        19 'create fire'
+Spell        95 'create spring'
+Spell        43 'curse'
+Spell        91 'demonskin'
+Spell        95 'detect invis'
+Spell        25 'detect magic'
+Spell        19 'detect traps'
+Spell        19 'dispel magic'
+Spell        95 'disruption'
+Spell        95 'dragon wit'
+Spell        95 'dragonskin'
+Spell        48 'dream'
+Spell        89 'eldritch sphere'
+Spell        65 'elven beauty'
+Spell        35 'enchant weapon'
+Spell        32 'energy drain'
+Spell        95 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        67 'ethereal shield'
+Spell        53 'extradimensional portal'
+Spell        46 'faerie fire'
+Spell        95 'faerie fog'
+Spell        95 'farsight'
+Spell        33 'feather fall'
+Spell        95 'fireball'
+Spell        84 'flight'
+Spell        43 'float'
+Spell        95 'galvanic whip'
+Spell        85 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        34 'infravision'
+Spell        19 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        46 'knock'
+Spell        27 'know alignment'
+Spell        95 'lightning bolt'
+Spell        89 'liquid skin'
+Spell        88 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        23 'mass invis'
+Spell        19 'ogrish hide'
+Spell        95 'pass door'
+Spell        95 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'refresh'
+Spell        95 'remove invis'
+Spell        19 'remove trap'
+Spell        95 'sagacity'
+Spell        92 'scry'
+Spell        62 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        66 'shockshield'
+Spell        63 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        95 'stone skin'
+Spell        91 'summon'
+Spell        19 'swordbait'
+Spell        38 'teleport'
+Spell        76 'transport'
+Spell        95 'trollish vigor'
+Spell        35 'true sight'
+Spell        19 'valiance'
+Spell        42 'ventriloquate'
+Spell        95 'weaken'
+Spell        19 'winter mist'
+Spell        95 'word of recall'
+Skill        31 'aid'
+Skill        19 'brew'
+Skill        19 'cook'
+Skill        58 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        48 'focus'
+Skill        95 'fourth cast'
+Skill        19 'kick'
+Skill        95 'meditate'
+Skill        34 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        32 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+Tongue       100 'elvish'
+Tongue       99 'gith'
+Tongue       99 'trollese'
+AffectData   'trollish vigor' 443  -1  25 0
+AffectData   'trollish vigor' 443   4   5 0
+AffectData   'kindred strength' 444   4   1 0
+AffectData   'pass door' 304   0   0 1048576
+AffectData   'scry' 1275   0  26 16777216
+Killed       14701 2
+Killed       14725 1
+Killed       14743 1
+Killed       14719 1
+Killed       14703 1
+Killed       14702 1
+Killed       14707 4
+Killed       14710 8
+Killed       14736 2
+Killed       14741 4
+Killed       14732 3
+Killed       14729 4
+Killed       14742 5
+Killed       21052 2
+Killed       45315 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         46274
+WearLoc      14
+Level        22
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         46274
+WearLoc      15
+Level        22
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         5112
+WearLoc      1
+Level        23
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         14720
+WearLoc      23
+Level        38
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         46921
+WearLoc      12
+Level        54
+Values       32 32 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        32
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+WearLoc      5
+Level        45
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        45
+Values       8 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        43
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        44
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        44
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        32
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46254
+Level        22
+Values       300 0 0 4 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21009
+Values       10 10 5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100096
+Values       1 0 144 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100017
+Level        6
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100001
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25548
+WearLoc      20
+Level        44
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         25559
+WearLoc      6
+Level        46
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         9939
+ExtraFlags   525387
+WearLoc      16
+Level        32
+Values       13 60 5400 3 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         14715
+Level        46
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14716
+Level        48
+Values       12 14 43 8 0 0
+End
+
+#OBJECT
+Vnum         14717
+Level        46
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14716
+Level        46
+Values       12 13 42 8 0 0
+End
+
+#OBJECT
+Vnum         14717
+Level        46
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14706
+Level        50
+Values       12 15 42 0 0 0
+End
+
+#OBJECT
+Vnum         14707
+Level        58
+Values       12 15 48 4 0 0
+End
+
+#OBJECT
+Vnum         14708
+Level        60
+End
+
+#OBJECT
+Vnum         14731
+Level        50
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14732
+Level        49
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         14736
+Level        48
+End
+
+#OBJECT
+Vnum         14736
+Level        47
+End
+
+#OBJECT
+Vnum         14704
+Level        55
+Values       11 14 46 8 0 0
+End
+
+#OBJECT
+Vnum         14705
+Level        54
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14704
+Level        54
+Values       12 13 45 8 0 0
+End
+
+#OBJECT
+Vnum         14705
+Level        55
+Values       15 15 0 0 0 0
+End
+
+#ALIAS
+Name     1~
+Commands c 'magic missile'~
+End
+
+#ALIAS
+Name     2~
+Commands c 'black hand'~
+End
+
+#ALIAS
+Name     3~
+Commands c 'galvanic whip'~
+End
+
+#ALIAS
+Name     4~
+Commands c 'burning hands'~
+End
+
+#ALIAS
+Name     5~
+Commands c 'shocking grasp'~
+End
+
+#ALIAS
+Name     6~
+Commands c 'lightning bolt'~
+End
+
+#ALIAS
+Name     `~
+Commands visible~
+End
+
+#ALIAS
+Name     7~
+Commands c 'colour spray'~
+End
+
+#ALIAS
+Name     8~
+Commands c disruption~
+End
+
+#ALIAS
+Name     9~
+Commands c 'spectral furor~
+End
+
+#ALIAS
+Name     0~
+Commands c fireball~
+End
+
+#ALIAS
+Name     11~
+Commands c 'black fist'~
+End
+
+#ALIAS
+Name     10~
+Commands c sonic~
+End
+
+#ALIAS
+Name     -~
+Commands cast 'faerie fog'~
+End
+
+#ALIAS
+Name     =~
+Commands c 'faerie fire'~
+End
+
+#ALIAS
+Name     wat~
+Commands c 'create spring'~
+End
+
+#ALIAS
+Name     q1~
+Commands c troll~
+End
+
+#ALIAS
+Name     q2~
+Commands c kind~
+End
+
+#ALIAS
+Name     q3~
+Commands c invis~
+End
+
+#ALIAS
+Name     q4~
+Commands c armor~
+End
+
+#ALIAS
+Name     q5~
+Commands c shi~
+End
+
+#ALIAS
+Name     q6~
+Commands c slink~
+End
+
+#ALIAS
+Name     q7~
+Commands c drag~
+End
+
+#ALIAS
+Name     q8~
+Commands c saga~
+End
+
+#ALIAS
+Name     q9~
+Commands c 'true sight'~
+End
+
+#ALIAS
+Name     q0~
+Commands c dragonskin~
+End
+
+#ALIAS
+Name     wet~
+Commands c control wetter~
+End
+
+#ALIAS
+Name     q10~
+Commands c 'stone skin'~
+End
+
+#ALIAS
+Name     12~
+Commands c 'magnetic thrust'~
+End
+
+#ALIAS
+Name     /~
+Commands q1;q2;q3;q4;q5~
+End
+
+#ALIAS
+Name     q/~
+Commands q6;q7;q8;q9;q0;q10;q11;q12~
+End
+
+#ALIAS
+Name     q11~
+Commands c demonskin~
+End
+
+#ALIAS
+Name     q12~
+Commands c 'iceshield~
+End
+
+#ALIAS
+Name     q13~
+Commands c liquid~
+End
+
+#ALIAS
+Name     oq~
+Commands rum~
+End
+
+#ALIAS
+Name     13~
+Commands c 'ethereal fist'~
+End
+
+#ALIAS
+Name     q14~
+Commands c 'eldritch sphere'~
+End
+
+#ALIAS
+Name     14~
+Commands c 'caustic fount'~
+End
+
+#ALIAS
+Name     15~
+Commands c 'hand of chaos'~
+End
+
+#ALIAS
+Name     q15~
+Commands c 'ethereal shield'~
+End
+
+#ALIAS
+Name     16~
+Commands c 'black lightning'~
+End
+
+#ALIAS
+Name     q16~
+Commands c 'shockshield~
+End
+
+#ALIAS
+Name     det~
+Commands c 'detect invis'~
+End
+
+#ALIAS
+Name     os~
+Commands sac c~
+End
+
+#ALIAS
+Name     q17~
+Commands c shadowform~
+End
+
+#ALIAS
+Name     q18~
+Commands c blur~
+End
+
+#ALIAS
+Name     q19~
+Commands c 'ogrish hide'~
+End
+
+#ALIAS
+Name     #~
+Commands k apoc~
+End
+
+#END

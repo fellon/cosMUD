@@ -1,0 +1,109 @@
+#PLAYER
+Version      3
+Name         Runeblade~
+Sex          2
+Class        22
+Race         44
+Species      10
+Languages    1 1
+Level        2
+Played       2331
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   24 35 104 105 113 113
+Gold         4006
+Exp          2000
+Height          67
+Weight          159
+Act          570427256
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Rul1Sb1DtNPyo~
+Title         the Heavenly~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       6
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 13 16 15 13 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 48 10
+Site         207.202.214.132
+Tongue       100 'common'
+Killed       104 4
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#END

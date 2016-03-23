@@ -1,0 +1,94 @@
+#PLAYER
+Version      3
+Name         Temujin~
+Description  ~
+Sex          1
+Class        0
+Race         20
+Languages    1 1
+Level        2
+Played       4167
+Room         21113
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   34 34 114 114 113 113
+Gold         1442
+Exp          1320
+Height          95
+Weight          806
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Susceptible  64
+Mentalstate  -1
+Password     Pr8QHwTdXgEHQ~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Fairburn~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 17 14 10 15 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 27 10
+Site         65.34.74.41
+Tongue       100 'common'
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10333
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#END

@@ -1,0 +1,71 @@
+#PLAYER
+Version      3
+Name         Zalpth~
+Description  ~
+Sex          2
+Class        10
+Race         52
+Species      10
+Languages    1 1
+Level        5
+Played       20052
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   95 95 125 125 152 152
+Gold         15860
+Exp          83058
+Height          70
+Weight          142
+Act          570427000
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -6
+Alignment    -500
+Favor	       74
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        20
+Deaf         134217730
+ICEListen (null)~
+Mentalstate  0
+Password     ZamQFLn8vAq5k~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Andy~
+Pagerlen     60
+Deity	     Soleran~
+Flags        98848
+PKills       0
+PDeaths      0
+MKills       40
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 11 13 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 10 15
+Site         64.5.68.221
+Spell        26 'demonskin'
+Spell        19 'weaken'
+Skill        19 'kick'
+Skill        28 'scan'
+Skill        19 'search'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+AffectData   'armor' 474 -20  17 0
+AffectData   'bless' 1126  -6  24 0
+AffectData   'bless' 1126   6  18 0
+Killed       10396 2
+Killed       10301 1
+i3invis	0
+End
+
+#END

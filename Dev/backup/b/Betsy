@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         Betsy~
+Sex          2
+Class        10
+Race         28
+Languages    1 1
+Level        3
+Played       1735
+Room         10364
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   24 73 101 101 121 126
+Gold         2100
+Exp          9491
+Height          80
+Weight          280
+Act          570427224
+AffectedBy   512
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     Be1oyLhR5.2Nw~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 11 11 14 15 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 36 36 12
+Site         216.27.147.121
+Tongue       100 'common'
+Killed       10302 1
+Killed       10301 1
+i3invis	0
+End
+
+#END

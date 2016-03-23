@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Night~
+Description  ~
+Sex          1
+Class        13
+Race         1
+Languages    1 2
+Level        6
+Played       7827
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   74 74 189 189 165 165
+Gold         30645
+Exp          169755
+Height          60
+Weight          108
+Act          570426968
+AffectedBy   16
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       -410
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  -4
+Password     NiSymDOyEjgUI~
+Title         the Surveyor~
+Lastname  Shade~
+AuthedBy     Prage~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       75
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 11 15 13 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 10
+Site         207.202.214.132
+Spell        57 'armor'
+Spell        73 'chill touch'
+Spell        29 'continual light'
+Spell        46 'create food'
+Spell        19 'create spring'
+Spell        19 'create water'
+Weapon       22 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 1137  -6  24 0
+AffectData   'bless' 1137   6  18 0
+Killed       10396 3
+Killed       10303 2
+i3invis	0
+End
+
+#END

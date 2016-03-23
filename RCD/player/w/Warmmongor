@@ -1,0 +1,443 @@
+#PLAYER
+Version      3
+Name         Warmmongor~
+Description  hello
+~
+Sex          1
+Class        8
+Race         5
+Species      0
+Languages    16407 1
+Level        62
+Played       511491
+Room         21002
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1632 1465 741 526 1068 893
+Gold         275816
+Exp          273895426
+Height          60
+Weight          156
+Act          570427208
+AffectedBy   544
+Position     112
+Style     2
+Practice     165
+SavingThrows 0 0 0 0 0
+Alignment    -506
+Favor	       2493
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     WaEZ2OP1SYN6.~
+Title         the Avatar~
+Lastname  Bloodspill~
+AuthedBy     Prage~
+Deity	     Soleran~
+Clan         Vampire~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3429
+MDeaths      17
+ArenaWins    2
+ArenaKills   13
+ArenaDeaths  7
+IllegalPK    0
+AttrPerm     16 10 16 16 14 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 37
+Site         207.202.214.132
+Spell        31 'aqua breath'
+Spell        90 'armor'
+Spell        21 'benefic aura'
+Spell        46 'bethsaidean touch'
+Spell        90 'bless'
+Spell        85 'continual light'
+Spell        80 'create food'
+Spell        18 'create water'
+Spell        90 'cure light'
+Spell        43 'detect evil'
+Spell        65 'detect hidden'
+Spell        60 'detect poison'
+Spell        18 'dispel evil'
+Spell        22 'expurgation'
+Spell        75 'float'
+Spell        26 'fortify'
+Spell        23 'hezekiahs cure'
+Spell        48 'holy armor'
+Spell        47 'holy strength'
+Spell        75 'identify'
+Spell        18 'know alignment'
+Spell        38 'refresh'
+Spell        47 'remove curse'
+Spell        28 'resilience'
+Spell        79 'shield'
+Spell        33 'solomonic invocation'
+Spell        71 'stone skin'
+Spell        95 'word of recall'
+Skill        29 'aid'
+Skill        90 'bandage'
+Skill        90 'dual wield'
+Skill        90 'enhanced damage'
+Skill        95 'feed'
+Skill        49 'fifth attack'
+Skill        75 'fourth attack'
+Skill        44 'kick'
+Skill        47 'lunge'
+Skill        90 'parry'
+Skill        18 'rescue'
+Skill        95 'scan'
+Skill        18 'search'
+Skill        90 'second attack'
+Skill        90 'third attack'
+Weapon       95 'bludgeons'
+Weapon       35 'flexible arms'
+Weapon       95 'long blades'
+Weapon       18 'pugilism'
+Weapon       60 'short blades'
+Weapon       50 'talonous arms'
+Tongue       100 'common'
+Tongue       87 'dwarven'
+Tongue       90 'elvish'
+Tongue       82 'goblin'
+Tongue       99 'ogre'
+AffectData   'detect hidden' 258   0  26 32
+Killed       7003 1
+Killed       3506 1
+Killed       3501 4
+Killed       601 1
+Killed       60914 1
+Killed       10397 1
+Killed       10396 5
+Killed       21068 1
+Killed       21063 1
+Killed       21066 1
+Killed       21067 1
+Killed       21007 1
+Killed       21065 1
+Killed       21064 3
+Killed       21052 50
+Killed       14741 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         629
+WearLoc      14
+Level        15
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Description  A holy symbol lies here, shining.~
+Vnum         43
+Values       2 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21007
+Level        5
+Values       5 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Nest         1
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42953
+Level        34
+Cost         0
+Values       33 191 206 161 0 0
+Spell 1      'shield'
+Spell 2      'stone skin'
+Spell 3      'pass door'
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         109
+Level        1
+Values       2 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         2
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         14728
+Level        50
+Values       53 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         15152
+WearLoc      6
+Level        20
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+WearLoc      8
+Level        38
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         15164
+WearLoc      3
+Level        40
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         271
+Level        69
+Values       600 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flask potion demonskin~
+ShortDescr   a demonskin potion~
+Description  A strange potion labelled 'demonskin' sizzles in a glass flask.~
+Vnum         35
+Level        1
+Values       25 64 -1 -1 0 0
+Spell 1      'demonskin'
+End
+
+#OBJECT
+Nest         1
+Name         flask potion scry~
+ShortDescr   a scry potion~
+Description  A strange potion labelled 'scry' sizzles in a glass flask.~
+Vnum         35
+Level        1
+Values       25 189 -1 -1 0 0
+Spell 1      'scry'
+End
+
+#OBJECT
+Nest         1
+Vnum         42957
+Level        26
+Values       30 1 1 215 0 0
+Spell 3      'true sight'
+End
+
+#OBJECT
+Nest         2
+Vnum         42956
+Level        27
+Values       30 5 5 165 0 0
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         3
+Vnum         42955
+Level        25
+Values       29 5 5 122 0 0
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         7927
+Level        57
+Cost         0
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14701
+Level        63
+Values       11 19 55 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8112
+Level        58
+Values       12 18 47 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flask potion pass door~
+ShortDescr   a pass door potion~
+Description  A strange potion labelled 'pass door' sizzles in a glass flask.~
+Vnum         35
+Level        1
+Values       25 161 -1 -1 0 0
+Spell 1      'pass door'
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        42
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         15164
+WearLoc      4
+Level        40
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+WearLoc      9
+Level        54
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         21025
+End
+
+#OBJECT
+Vnum         21009
+Values       10 9 5 0 0 0
+End
+
+#OBJECT
+Vnum         21009
+Values       10 3 5 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25538
+WearLoc      15
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         42947
+ExtraFlags   596
+WearLoc      20
+Level        28
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         25512
+WearLoc      5
+Level        42
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         42978
+WearLoc      19
+Level        26
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         14704
+WearLoc      16
+Level        55
+Values       12 16 48 8 0 0
+End
+
+#OBJECT
+Vnum         14704
+WearLoc      18
+Level        52
+Values       12 15 45 8 0 0
+End
+
+#OBJECT
+Vnum         3510
+Level        6
+Values       8 8 0 0 0 0
+End
+
+#END

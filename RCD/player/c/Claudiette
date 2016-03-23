@@ -1,0 +1,98 @@
+#PLAYER
+Version      3
+Name         Claudiette~
+Description  a woman of beauty, but hidden in lust ...
+~
+Sex          2
+Class        18
+Race         0
+Species      0
+Languages    1 1
+Level        13
+Played       37698
+Room         100035
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   177 177 162 162 327 256
+Gold         173306
+Exp          2574416
+Height          70
+Weight          164
+Act          570427000&4
+Position     112
+Style     2
+Practice     21
+SavingThrows 0 0 0 0 0
+Alignment    -81
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Clj1Iu6ZTD..o~
+Title        ~
+Lastname  Virginielle~
+Bio          she is a victim of a broken family
+she is now in a quest of revenge
+she is a lusty demon in motion,
+she is Claudiette Virginielle ...
+~
+AuthedBy     Marten~
+Deity	     Shar~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       524
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     13 13 16 10 13 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 3 23
+Site         202.169.37.158
+Spell        80 'armor'
+Spell        19 'cause serious'
+Spell        92 'chill touch'
+Spell        19 'continual light'
+Spell        22 'create food'
+Spell        19 'create spring'
+Spell        19 'create water'
+Spell        19 'cure light'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'dispel magic'
+Spell        31 'earthquake'
+Spell        19 'float'
+Spell        21 'invis'
+Spell        63 'lightning bolt'
+Spell        19 'refresh'
+Spell        20 'remove invis'
+Spell        90 'shocking grasp'
+Spell        54 'weaken'
+Skill        19 'cook'
+Skill        19 'cuff'
+Skill        19 'dual wield'
+Skill        30 'kick'
+Skill        19 'meditate'
+Skill        19 'scan'
+Skill        19 'search'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       95 'long blades'
+Weapon       19 'pugilism'
+Weapon       85 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Killed       24838 1
+Killed       24841 1
+Killed       24839 2
+Killed       24840 2
+i3invis	0
+End
+
+#END

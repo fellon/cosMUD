@@ -1,0 +1,99 @@
+#PLAYER
+Version      3
+Name         Mpampis~
+Description  ~
+Sex          1
+Class        4
+Race         0
+Languages    1 1
+Level        2
+Played       5500
+Room         10304
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   21 30 100 100 110 110
+Gold         0
+Exp          2000
+Height          67
+Weight          160
+Act          570426952
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -14
+Password     MpWPN4wceBnsk~
+Title         the Blood Student~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 12 18 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         207.202.214.136
+Spell        19 'float'
+Spell        19 'infravision'
+Tongue       100 'common'
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

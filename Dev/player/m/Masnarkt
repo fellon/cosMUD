@@ -1,0 +1,65 @@
+#PLAYER
+Version      3
+Name         Masnarkt~
+Description  ~
+Sex          1
+Class        10
+Race         21
+Languages    1 1
+Level        3
+Played       6543
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   66 66 125 125 126 126
+Gold         106862
+Exp          16483
+Height          76
+Weight          324
+Act          570426968
+AffectedBy   512
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        5
+Deaf         146833655
+ICEListen (null)~
+Mentalstate  -15
+Password     Ma.rHkH4VNP.o~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Arbadus~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       13
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 13 12 12 13 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 1
+Site         (Link-Dead)
+Spell        28 'burning hands'
+Spell        19 'demonskin'
+Skill        19 'kick'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+AffectData   'bless' 729   6  18 0
+AffectData   'bless' 729  -6  24 0
+Killed       10303 1
+Killed       10302 2
+i3invis	0
+End
+
+#END

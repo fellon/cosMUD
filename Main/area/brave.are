@@ -1,0 +1,4003 @@
+#AREA   Brave Land~
+
+
+
+#VERSION 1
+#AUTHOR Fairburn~
+
+#RANGES
+40 100 40 100
+$
+
+#RESETMSG myriad of strange feelings echoing inside your head ...~
+
+#FLAGS
+4 15
+
+#ECONOMY 0 54534000
+
+#CLIMATE 0 0 0
+
+#MOBILES
+#70000
+First Mob~
+mob~
+Mob
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70003
+frog frogman man~
+Frogman~
+A Frogman is here, lurking ..
+~
+A man + a frog = a frogman, he likes to fight, but he's not evil.
+just a plain hobbyist in combating ... and listening to jazz music.
+~
+35 2 -300 C
+60 0 -100 1d1+900 1d1+45
+150000 0
+112 112 0
+18 16 14 14 16 13 18
+0 0 0 0 0
+0 23 0 0 1 1 4
+45 45 0 135 11264 0 169869808 524291
+#70008
+oldman old man teller story storyteller strange~
+a strange old man~
+An old man who tells story is here, in his solitude
+~
+An old man of experience indeed he is ...
+you don't know why, but you feel something strange about him.
+better beware ..
+~
+3 0 -100 C
+80 0 -150 1d1+1499 1d1+50
+0 0
+112 112 0
+18 20 20 15 16 20 17
+0 0 0 0 0
+0 19 0 0 1 1 4
+50 50 0 1048576 11264 0 372244640 524331
+> act_prog p looks at you.~
+say you shouldn't have come here ... this i tell you ..
+~
+|
+#70010
+gate keeper ishitori~
+Ishitori~
+The Gate Keeper stands here firmly
+~
+A solemn being, he is a source of mystery.
+a respectable being, he is a source of honour.
+an Ishitori ...
+~
+3 4194984 1000 C
+85 0 -125 1d1+2499 1d1+50
+250000 0
+112 112 1
+20 18 13 15 15 13 15
+0 0 0 0 0
+0 3 0 0 1 1 4
+50 50 0 7 3072 0 1073742320 524299
+> greet_prog 100~
+say who is the one who will wake the temple of Rahxephon ?
+~
+> speech_prog orin~
+if ispc($n)
+  say You are right ...
+  mpoload 70010
+  give key $n
+  say here's your key to freedom ..
+endif
+~
+> greet_prog 100~
+if ispc($n)
+  say ...
+  say if you can answer my question, i shall let you pass ..
+endif
+~
+|
+#70015
+ryuga traveller man traveling travel~
+Ryuga~
+A traveller is here, looking confused.
+~
+A confused traveller. You may wonder how he got here on the first place.
+But looking at his eye, you can see an aura of bravery and valor.
+A true adventurer he is, no less than that.
+~
+3 4194856 0 C
+75 0 -120 1d1+1499 1d1+45
+0 0
+112 112 1
+18 16 13 15 15 13 15
+0 0 0 0 0
+0 6 0 0 1 1 3
+49 45 0 256 3075 0 268435824 526339
+> rand_prog 25~
+say I am Ryuga, and i am confused ...
+~
+|
+#70020
+Ramune flow guardian man cool cold~
+Ramune~
+A cool looking man is here, guarding the flow down.
+~
+A cool man, as cold as ice, but he is a responsible being. You can 
+see it through his eyes.
+~
+3 -1874329048 0 C
+73 0 -110 1d1+1699 0d0+0
+0 0
+112 112 1
+18 16 13 16 15 13 15
+0 0 0 0 0
+0 3 0 0 1 1 3
+50 45 0 0 3074 0 16688 524291
+> greet_prog 100~
+say i must warn you that this flow is dangerous ...
+smile $n
+~
+|
+#70022
+Ghidorah liquid creature~
+Ghidorah~
+A liquid creature is here, attacking you
+~
+A liquid creature, fierce and beasty! Ruuuuunnn!!
+~
+35 -1874329048 -1000 C
+70 0 -150 1d1+1999 1d1+49
+0 0
+112 112 0
+20 16 13 17 17 13 15
+0 0 0 0 0
+12 3 0 0 1 1 3
+45 45 0 2 3074 0 79 11
+> fight_prog 25~
+say Die!! you Die!! you scum!!
+~
+|
+#70024
+man strange village oldstyle~
+a village man~
+A strange village man is here, waiting for someone
+~
+A man of trouble we can say it like that.
+he's not evil, but he is sensitive.
+~
+3 0 1000 C
+80 0 -125 1d1+1999 1d1+40
+0 0
+112 112 0
+18 17 13 13 15 13 14
+0 0 0 0 0
+0 3 0 0 1 1 2
+40 40 0 0 3072 0 134218160 524291
+> act_prog p looks at you.~
+say What are you looking at ?!?!???!!
+mpkill $n
+say now i'll kill you!
+~
+|
+#70027
+rahxephon priest low class~
+A Rahxephon Temple Low Priest~
+A priest is here, standing solemnly
+~
+He is a young man, but chose Rahxephon temple as his devotion.
+Truly a man of sanctuity.
+~
+3 4194440 1000 C
+80 0 -100 1d1+999 1d1+39
+250000 0
+112 112 1
+18 13 13 15 16 13 15
+0 0 0 0 0
+0 3 0 0 1 1 3
+35 40 1 0 3072 0 432 524295
+> greet_prog 100~
+say what the soul is, the soul itself knows not ...
+say ...
+if isevil($n)
+  say please sir, return to your holy path as a creature of the One.
+else
+ if isneutral($n)
+   say you still have some time to change sir, beware of Karma.
+else
+  say you are a true and straight being. may glory be with you ...
+endif
+endif
+~
+|
+#70034
+bush monster mandra~
+Mandra~
+A Bush Monster is here, glaring arround.
+~
+He is a creature of bush. He was born as a result of nature imbalance.
+He is an evilic being and no less than that. EVIL.
+~
+35 272630312 -1000 C
+75 0 -100 1d1+1349 1d1+44
+500000 0
+112 112 1
+18 13 13 15 13 13 15
+0 0 0 0 0
+26 3 0 0 1 1 2
+45 45 65545 0 3073 0 135266415 524291
+> rand_prog 50~
+say GRRRR HHH ... GRRHHHH .... GRHHHH!!!
+grin
+~
+|
+#70040
+joko weapon seller~
+Joko~
+Joko, The weapon seller is here, standing firmly.
+~
+A happy fella who sells weapon from heaven.
+You may wonder where did he get these godly stuff.
+rumors said that he has a secret channel that linked him to the gods
+house of arsenal.
+~
+67108867 4194984 1000 C
+90 0 -100 0d0+0 0d0+0
+0 0
+112 112 1
+18 17 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+30 40 0 0 1060359 0 0 0
+> greet_prog 100~
+say Welcome to my small weapon shop! The one and only in Brave Land!
+say I will surely serve your needs noble master.
+~
+|
+#70041
+Frutelia seller girl~
+Frutelia~
+A Seller girl is here selling foods
+~
+A beautiful girl, pitty she lives in such a rural way.
+She has the fairest cheek and chin in all realms. Silky long black hair
+beckoning you to reach.
+~
+67108867 4194984 0 C
+90 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> greet_prog 100~
+say welcome to my nature product shop sir,
+say take a look at my collection.
+~
+|
+#70058
+rantaro guardian guard man~
+Rantaro~
+A man is guarding this western square.
+~
+A big man with firm grip of his whole body systems. A real man.
+~
+1 37749288 0 C
+75 0 -110 0d0+0 0d0+0
+0 0
+112 112 1
+19 16 13 15 14 13 13
+0 0 0 0 0
+0 3 0 0 1 1 3
+48 45 0 0 3073 0 268435824 524299
+> greet_prog 100~
+say welcome to the western square of the temple.
+smile $n
+~
+|
+#70061
+mutsu young priest~
+Mutsu~
+A young priest is here, standing solemnly.
+~
+A young priest, well built body, and apparently has a great combat skill.
+A considerable fighter to take.
+~
+3 4194856 1000 C
+65 0 -100 0d0+0 0d0+0
+0 0
+112 112 1
+18 16 13 16 15 13 14
+0 0 0 0 0
+0 20 0 0 1 1 2
+40 45 0 512 3072 0 496 524291
+> rand_prog 20~
+say what the soul is, the soul itself knows not ...
+~
+|
+#70063
+raiga eastern guardian guard man~
+Raiga~
+A man guarding the eastern entrance is here.
+~
+A man of good form, but he seems to look like a bird.
+~
+3 272630312 0 C
+75 0 -110 1d1+1499 1d1+49
+0 0
+112 112 1
+19 16 13 16 15 13 15
+0 0 0 0 0
+0 3 0 0 1 1 3
+45 45 0 0 3585 0 2097584 524291
+> greet_prog 100~
+say welcome to the eastern square of the temple.
+~
+|
+#70064
+Fierce Cat thief~
+A fierce cat~
+A fierce cat is here, glaring around.
+~
+A fierce cat, no less than that.
+~
+35 33554472 -500 C
+70 0 -100 1d1+999 1d1+34
+75000 0
+112 112 0
+15 18 13 13 15 13 13
+0 0 0 0 0
+18 2 0 0 512 512 3
+30 30 65545 1048579 3072 0 135266565 7
+> rand_prog 50~
+say GRHHHH GRHHH ..... GRHHH ...
+glare
+~
+|
+#70065
+sishimaru lion man central guardian guard man~
+Sishimaru~
+A lion man guards the central entrance.
+~
+~
+3 71303720 1000 C
+75 0 -150 1d1+1999 1d1+54
+100000 0
+112 112 1
+19 16 13 15 16 13 14
+0 0 0 0 0
+0 3 0 0 513 1 4
+49 49 65549 0 3587 0 67109119 524295
+#70066
+Mpu Tantular repair man old man oldman~
+Mpu Tantular~
+An old man who can repair things is here, smiling.
+~
+An old man who can repair many things, no less than that.
+~
+67108867 4194984 1000 C
+90 0 -300 1d1+4999 1d1+29
+500000 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+30 30 0 0 3072 0 0 0
+#70070
+garuda winged beast~
+Garuda~
+A winged beast is here, standing firmly.
+~
+A winged beast with iron claws and sharp feathers ...
+It's eyes are full with aura of rage and desctruction.
+This is one creature, we must avoid ..
+~
+3 4194856 -1000 C
+85 0 -150 1d1+1999 1d1+54
+0 0
+112 112 0
+19 15 13 17 16 13 15
+0 0 0 0 0
+29 3 0 0 1 1 4
+50 50 327681 1048576 3072 0 1049487 2059
+> greet_prog 100~
+say grrrr ... grrrhhhh ....
+glare $n
+~
+|
+#70075
+Genzo Flaming Beast~
+Genzo~
+A flaming beast is here, snorting!!
+~
+A fierce creature of fire ... indeed it is, no less than that.
+~
+35 37749288 -1000 C
+85 0 -175 1d1+1999 1d1+50
+2000000 0
+112 112 1
+19 14 13 17 16 13 15
+0 0 0 0 0
+29 3 0 0 1 1 4
+50 50 9 0 0 0 532751 524819
+#70080
+Pagoda Elite Guard guardian man~
+A Pagoda Guardian~
+A pagoda guardian is here, vigilant.
+~
+A man trained for real close quarter battle, equipped with high combat
+skills. A maestro in barehand combat! a killing machine!!
+~
+3 4194984 1000 C
+85 0 -130 1d1+1999 1d1+54
+0 0
+112 112 1
+19 18 13 15 15 15 15
+0 0 0 0 0
+0 20 0 0 1 1 4
+50 50 1 0 0 0 1073742323 7
+> greet_prog 100~
+say Welcome to the top level of the pagoda ...
+smile $n
+~
+|
+#70081
+reika head warmonk war monk~
+Reika~
+The Head of the Rahxephon Temple's war monk is here, standing solemnly.
+~
+A beautiful woman chosen to lead the war monk squad of the temple.
+Don't you dare to underestimate the feminine touch ...
+~
+3 12583596 1000 C
+90 0 -200 1d1+2499 1d1+59
+0 0
+112 112 2
+19 18 13 17 16 18 15
+0 0 0 0 0
+0 20 0 0 1 1 5
+60 55 1 2097926 3073 0 67133872 526375
+> act_prog p looks at you.~
+say I am here noble one ...
+smile $n
+mpecho You can not deny Reika's beauty through that smile ...
+~
+|
+#70082
+Hatori High Monk War~
+Hatori~
+A cool high war-monk is here, standing firmly.
+~
+A cool man, as if he has eaten all the ice cubes on the realm.
+You swear, he is so cool ...
+
+~
+3 4195112 0 C
+75 0 -110 1d1+1449 1d1+44
+100000 0
+112 112 1
+19 15 13 15 16 13 15
+0 0 0 0 0
+0 20 0 0 1 1 3
+45 45 0 2 3585 0 368 524299
+> greet_prog 100~
+smile $n
+~
+|
+#70086
+jizo altar guard guardian man~
+Jizo~
+An altar guardian is here, standing firmly.
+~
+Jizo is a man who guards the eastern altar. His main job is to secure
+Lady Rahxephia's chamber, not because she is in danger, but because she
+can put others in danger.
+~
+3 20972076 0 C
+80 0 -150 1d1+1799 1d1+46
+150000 0
+112 112 1
+18 16 13 17 17 13 16
+0 0 0 0 0
+0 20 0 0 1 1 4
+48 45 0 1 2100224 0 66032 524299
+> greet_prog 100~
+if isevil($n)
+  say please go away from here, it is not your place ...
+  mpkill $n
+else
+  smile $n
+endif
+~
+|
+#70089
+rahxeru~
+Rahxeru~
+Rahxeru is here, standing firmly.
+~
+A young master in close quarter battles, Rahxeru! Fear Him!!
+~
+3 81789608 1000 C
+96 0 -250 1d1+3999 1d1+55
+300000 0
+112 112 1
+18 16 15 16 15 15 15
+0 0 0 0 0
+0 20 0 0 1 1 5
+50 55 1 1049092 3075 0 373 526343
+> greet_prog 100~
+smile $n
+~
+|
+#70090
+Rahxeno~
+Rahxeno~
+Rahxeno is here, studying solemnly.
+~
+A young master of true knowledge, Rahxeno! Fear him!!
+~
+1 71303720 1000 C
+96 0 -200 0d0+0 0d0+0
+0 0
+112 112 1
+18 16 16 16 17 17 19
+0 0 0 0 0
+0 3 0 0 1 1 5
+60 60 1 772 3075 0 67110384 526359
+> greet_prog 100~
+say hello noble one, care to join me in my study?
+smile $n
+~
+|
+#70091
+Rahxephim~
+Rahxephim~
+Rahxephim is here, standing solemnly.
+~
+A young master of wizardry, Rahxephim! Fear Him!!
+~
+1 8389288 1000 C
+96 0 -200 1d1+3999 1d1+56
+0 0
+112 112 1
+17 16 13 16 16 13 16
+0 0 0 0 0
+0 0 0 0 1 1 5
+55 60 1 8960 3075 0 338301376 524323
+> greet_prog 100~
+smile $n
+say You have come this far, I do admire you sire ...
+bow $n
+~
+|
+#70093
+Rahxephia~
+Rahxephia~
+A lady with a lustfull aura is here.
+~
+~
+1 100663336 -1000 C
+97 0 -100 0d0+0 0d0+0
+0 0
+112 112 2
+18 13 13 16 16 18 13
+0 0 0 0 0
+0 3 0 0 1 1 5
+60 60 9 770 3073 0 1075319113 524311
+> greet_prog 100~
+if isgood($n)
+  say Your holy blood is mine!!
+  mpkill $n
+else
+  say come, ... have some warmth here ...
+  wink $n
+endif
+~
+|
+#70096
+Isman Cheresian Dungeon Guard Man~
+Isman Cheresian~
+A dungeon guard is here, standing firmly.
+~
+A man whose life has been devoted to guard a dungeon.
+truly, a man of honour.
+~
+3 71303852 -1000 C
+85 0 -175 1d1+2199 1d1+50
+1000000 0
+112 112 1
+20 15 13 15 15 13 16
+0 0 0 0 0
+0 3 0 0 1 1 4
+55 50 0 768 3075 0 2097648 524307
+> greet_prog 100~
+if isevil($n)
+  say Your soul is mine!!
+  mea $n Cheresian's Excell Divider shines brightly!!
+  mea $n Cheresian rushes towards you!!
+  mpecho Cheresian rushes towards $n
+mpkill $n
+else
+  smile $n
+endif
+~
+|
+#70098
+Rahxephon evil~
+Rahxephon~
+An evil being sits here
+~
+An evil prodigy of the realm, born in the island of tornadoes, and 
+raised by the cult of chaos. Rahxephon, once a prince now a prisoner.
+A charismatic evil being.
+~
+3 104858152 -1000 C
+100 0 -225 1d1+4999 0d0+0
+3000000 0
+112 112 1
+19 17 13 18 18 19 18
+0 0 0 0 0
+29 20 0 0 1 1 5
+80 65 1 8454 2100737 0 1952973170 532519
+> greet_prog 100~
+say ... leave me be ...
+~
+> fight_prog 50~
+say How dare you!! disturbing my solitude ?!!!!
+glare $n
+~
+|
+#70100
+Last Mob~
+mob~
+Mob
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#70000
+First Object~
+object~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#70001
+bright lightning sword~
+Bright Lightning~
+A sword with blade that resembles the clear sky shines solemnly.~
+~
+5 3080 8193
+12 50 10 0
+1 1000000 100000
+A
+13 200
+A
+12 200
+A
+18 30
+A
+19 30
+A
+3 5
+A
+4 3
+A
+1 2
+A
+31 3
+A
+2 3
+A
+5 2
+A
+25 3
+A
+26 8
+A
+26 32
+A
+28 3072
+A
+27 7
+A
+53 100
+A
+21 100
+A
+22 100
+A
+14 100
+> wear_prog 100~
+mea $n _lbl You feel some gentle vibes when you wield the sword ...
+mea $n _whi You feel much stronger !
+ 
+say Yes, take me, take me against all evil in this world !!
+mpforce $n grip
+mpforce $n hair
+ 
+mer $n Bright Lights surrounds $n as he wield the Bright Lightning.
+~
+> get_prog 100~
+if isgood($n)
+say You have the right to take me as your arms ...
+else
+say To be able to hold me, you have to be righteous ..
+endif
+~
+|
+#70002
+mask war warmonk monk~
+A War Monk's Mask~
+A war monk's mask is here, lying solely.~
+~
+9 525312 1048577
+12 0 0 0
+1 0 0
+E
+mask war monk warmonk~
+A metal mask used by the warmonks of the rahxephon temple.
+This mask is the symbol of graduation from the temple.
+~
+A
+25 4
+A
+5 1
+A
+3 1
+A
+26 8388612
+A
+17 -75
+#70003
+frog pole~
+a Frog Pole~
+A unique pole is here, lying solely~
+~
+5 524352 8193
+12 20 5 0
+1 0 0
+E
+pole frog~
+a pole of a frogman
+~
+> wear_prog 100~
+say be a great being !! be a frog !! FROOGGG !!
+mea $n you hold the Frog Pole steadily ..
+~
+|
+#70008
+robe ivory storyteller story teller~
+a Story Teller's Ivory Robe~
+An ivory robe lies here solely~
+~
+9 66624 1025
+0 0 0 0
+1 0 0
+A
+17 -125
+A
+2 1
+A
+5 1
+A
+25 2
+> wear_prog 100~
+mea $n you feel much comfortable in this ivory robe ...
+mea $n you feel a sudden armor formed throughout your veins ..
+~
+|
+#70010
+key freedom~
+a Key to Freedom~
+A unique key lies here, solely.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#70011
+stone floating magic~
+a flying stone~
+A stone strangely floats here ...~
+~
+13 72 0
+0 0 0 0
+5000 0 0
+E
+stone fly flying magic~
+the stone is floating, as if it has an antigravity force that controls
+it. looking at it, you feel terribly sick ..
+~
+> exa_prog 100~
+if ispc($n)
+  mpdamage $n 25
+  mea $n ouch ! your stommach suddenly hurts !!
+endif
+~
+|
+#70015
+travel back pack backpack~
+A travel backpack~
+A unique backpack lies here solely.~
+~
+15 524288 524289
+125 0 0 12
+1 0 0
+#70020
+sword Furria tundra~
+The Furria Tundra~
+A sword of thin ice lies here, solely.~
+~
+5 524289 8193
+12 40 2 3
+1 0 0
+A
+19 8
+A
+26 -2147483648
+A
+26 268435456
+A
+13 25
+#70026
+priest fight fighting boots boot~
+A Priest Fighting Boots~
+A fighting boot lies here, solely.~
+~
+9 525312 65
+12 0 0 0
+1 0 0
+A
+2 3
+A
+14 125
+#70027
+robe low rahxephon priest~
+A Low Priest Robe~
+A priest robe lies here, solely.~
+~
+9 525320 1025
+13 0 0 0
+1 0 0
+A
+17 -75
+A
+12 25
+#70028
+priest pole ~
+A Priest Pole~
+A priest's war pole is here, solely.~
+~
+5 525312 8193
+12 25 4 8
+1 0 0
+#70029
+red tight shirt fire~
+A tight red shirt of fire~
+A red shirt is here lying solely.~
+~
+9 525312 9
+13 0 0 0
+1 0 0
+A
+17 -100
+A
+13 35
+A
+25 2
+A
+18 2
+A
+2 1
+#70030
+sishimaru wing~
+A Sishimaru Wing~
+A strange wing lies here solely.~
+~
+9 524288 1025
+13 0 0 0
+1 0 0
+A
+26 524288
+A
+5 2
+A
+31 1
+A
+25 1
+A
+17 -30
+#70034
+bush spear siza~
+The Siza~
+A unique spear of the bush monster is here, solely.~
+~
+5 524304 8193
+12 30 3 3
+1 0 0
+E
+siza spear bush~
+a unique spear, sharp as a mightiest sword, and has a strong durability.
+it spreads evilic aura ...
+~
+A
+19 9
+A
+13 60
+> wear_prog 100~
+mpforce $n grin
+say You're Mine Evil Soul!, and let us be,  EVIL!
+mer $n Red Light surrounds $n as he wield The Siza!
+~
+|
+#70039
+sword tornader~
+The Tornader~
+A great sword lies here, solely.~
+~
+5 524288 8193
+12 45 2 3
+1 7500000 750000
+E
+tornader sword tor~
+A sword forged by tornado, a heavenly arms! The Tornader!!
+~
+A
+19 5
+A
+13 25
+#70040
+dagger shorja~
+The Shorja~
+A unique sharp dagger is here, solely.~
+~
+5 524288 8193
+12 40 2 11
+1 5000000 500000
+#70041
+Forbidden Fruit~
+A Forbidden Fruit~
+A forbidden fruit is here, lying solely.~
+~
+19 0 1
+125 0 0 0
+5 25 2
+#70042
+Holy Bean~
+A Holy Bean~
+A holy bean is here, lying solely.~
+~
+19 0 1
+100 0 0 0
+1 20 2
+#70043
+stridon boots boot~
+The Stridon~
+A good looking boot is here, lying solely.~
+~
+9 526336 65
+12 0 0 0
+1 0 0
+E
+stridon boot boots~
+a good looking boot, worn by high war monk of rahxephon temple.
+~
+A
+17 -85
+A
+2 3
+A
+14 300
+A
+26 10485792
+A
+17 -25
+A
+31 2
+#70044
+Gordion armor ~
+The Gordion~
+A good looking armor is here, lying solely.~
+~
+9 526336 9
+12 0 0 0
+1 0 0
+E
+gordion armor~
+A strange armor made from strange metal elements.
+The rune covering this armor is significantly strange!
+~
+A
+17 -125
+A
+1 2
+A
+5 2
+A
+20 200
+A
+12 100
+A
+26 67108864
+A
+25 2
+#70045
+Intelliguard helm~
+Intelliguard~
+A good looking helm lies here, solely.~
+~
+9 526336 17
+12 0 0 0
+1 0 0
+A
+17 -100
+A
+25 3
+A
+4 3
+A
+26 8388616
+A
+12 100
+A
+23 250
+#70046
+Charisguard mask~
+Charisguard~
+A good looking mask is here, lying solely.~
+~
+9 526336 1048577
+12 0 0 0
+1 0 0
+E
+mask charisguard~
+a mask with a very handsome face, rumors tell that this face on the
+ mask is the face of an ancient god, known as Fairbun the First.
+~
+A
+17 -100
+A
+12 100
+A
+25 4
+A
+31 3
+A
+5 1
+A
+26 8388616
+A
+3 4
+A
+20 100
+#70047
+polaris leggings legging leg~
+The Polaris~
+A good looking leggings is here, lying solely.~
+~
+9 526336 33
+12 0 0 0
+1 0 0
+E
+polaris leg leggings legging~
+a leg guard made from strange metal elements. HANDMADE!!
+~
+A
+17 -110
+A
+2 3
+A
+12 100
+A
+26 2097184
+A
+26 8388608
+A
+13 75
+#70048
+Windom Robe~
+Windom~
+A good looking robe is here, lying solely.~
+~
+9 526336 1025
+12 0 0 0
+1 0 0
+E
+windom robe~
+This robe is usually worn by the first rank war monk graduated from
+the famous war temple, Rahxephon.
+~
+A
+17 -125
+A
+26 10485794
+A
+13 100
+A
+12 50
+A
+25 1
+A
+2 1
+A
+5 1
+A
+22 100
+#70049
+Rah Imu Rod~
+The Rod of Rah Imu~
+A good looking rod lies here, solely.~
+~
+9 526336 16385
+12 0 0 0
+1 0 0
+E
+rod rah imu~
+a good looking rod, made from solid granite slab. no less than that.
+~
+A
+17 -50
+A
+26 268435456
+A
+12 100
+A
+14 100
+A
+26 8388616
+#70050
+bracer earth~
+Earth Bracer~
+A good looking bracer lies here, solely.~
+~
+9 526336 4097
+12 0 0 0
+1 0 0
+E
+earth bracer~
+a strong looking bracer, with runes all over it.
+it is made from solid strange metal elements.
+~
+A
+12 100
+A
+17 -100
+A
+5 2
+A
+31 2
+A
+1 2
+A
+26 8388640
+#70051
+visor earth~
+Earth Visor~
+A good looking visor lies here, solely.~
+~
+9 526336 131073
+12 0 0 0
+1 0 0
+E
+earth visor~
+a metal visor, made from strange metal elements.
+It is designed in a very comfortable way.
+~
+A
+17 -65
+A
+26 8388648
+A
+20 100
+A
+4 2
+A
+26 65536
+#70052
+anklor ankle anklet~
+The Anklor~
+A good looking anklet lies here, solely.~
+~
+9 526336 2097153
+12 0 0 0
+1 0 0
+E
+anklor anklet ankle~
+An ankle gear designed for comfort and good manueverability.
+~
+A
+17 -100
+A
+2 2
+A
+5 1
+A
+14 200
+A
+12 100
+A
+26 8421408
+#70053
+book earth~
+Book of Earth~
+A book with strange runes lies here, solely.~
+~
+35 526336 16385
+12 0 0 0
+1 0 0
+E
+book earth~
+aksjdhaksjdhas kjahsdkasjdhaksd kajdhsiqwueykjasdhiuqwynmbf akjhdas
+asdkjhasdoqwe asdkjhasdk oiquweoqiwue oiuqwekjhasdkj qoiwueqowieu oq
+qwoeiuqwhasdhk  asdjh9oqwe awdk j asdoiuqwoeiuqwe qwoiuqwe aqsdjhasgd
+qweuqywei aiuqwyekjhasd qweyiueryw wejhgasdjhasd qwieuyqwe wieuqyqwe
+qweiuqwe qweiuyqweiuqwe qweuyqwe qweiuyqwe qweiuyqweiuyiuyfas iuyqw 
+qwoeiu qweoiu fastdrqwe  oiqwueqwe  qweoiquwe qweiuqweoiquweoiquwe oi
+qwieuyqwe qweiuyqwei qwieuyqwe c iuyqweiquwey qwueyqwieuyqwe qweiuwqy
+dewa itu ganteng!
+~
+A
+3 5
+A
+4 3
+A
+26 8388608
+A
+13 50
+#70054
+aurorette robe~
+The Aurorette~
+A lady's robe lies here, solely.~
+~
+9 526368 1025
+12 0 0 0
+1 0 0
+E
+aurorette robe~
+A lady's robe. It will only fit a woman's body.
+~
+A
+17 -100
+A
+5 1
+A
+13 100
+A
+12 100
+A
+26 98304
+A
+26 2
+A
+26 8388648
+A
+22 100
+> wear_prog 100~
+if sex($n) == 1
+ mea $n YOU ARE TOO GREEDY! Can't you see that this is a lady's robe?
+ mpforce $n yell ARGHHHHHHHHHHHHHHHHHHHH!!! 
+ mpslay $n
+endif
+~
+|
+#70055
+Neckton neck guard~
+Neckton~
+A good looking neck guard lies here, solely.~
+~
+9 526337 5
+12 0 0 0
+1 0 0
+A
+17 -100
+A
+5 1
+A
+2 1
+A
+23 100
+#70058
+sword tormunion~
+The Tormunion~
+A unique broad sword lies here, solely.~
+~
+5 524288 8193
+12 49 2 3
+1 0 0
+A
+19 10
+A
+26 34078720
+A
+13 25
+#70062
+sword raiger~
+The Raiger~
+A unique sword with a bird's feather on it lies here.~
+~
+5 525312 8193
+12 47 2 3
+1 1000000 100000
+E
+sword raiger~
+a unique sword, with a bird's feather on it's end.
+~
+A
+19 9
+A
+26 524288
+#70065
+sword hikari~
+The Hikari~
+A shiny sword lies here, solely.~
+~
+5 525313 8193
+12 49 2 3
+1 0 0
+A
+19 10
+A
+13 30
+A
+26 67108864
+A
+26 524288
+A
+26 4
+A
+18 7
+> wear_prog 100~
+mea $n You feel like a lion!!
+mpecho _whi $n transforms into a Lion Man!!
+mpforce $n yell Ninpo Sishi Henge!
+mea $n You transform into a Lion Man!!
+~
+|
+#70067
+western square key~
+The western key~
+A key is here, solely.~
+~
+18 524288 1
+0 0 0 0
+1 0 0
+#70070
+sword sunriser~
+The Sunriser~
+A glowing metal sword is here, lying solely.~
+~
+5 527360 8193
+12 67 2 3
+1 0 0
+E
+sword sun sunraiser~
+A broad sword, made of strange metal .. and shines a strange ray.
+~
+A
+19 15
+A
+2 2
+A
+13 50
+A
+12 100
+A
+14 100
+A
+20 100
+A
+24 50
+#70071
+Pagoda guard robe~
+A Pagoda Guard's Robe~
+A good looking robe is here, lying on floor.~
+~
+9 526336 1025
+12 0 0 0
+1 0 0
+E
+pagoda guard robe~
+A metal silk robe, used by the rahxephon's pagoda guardians.
+~
+A
+17 -150
+A
+1 1
+A
+26 8388608
+#70072
+eastern square key~
+The eastern key~
+A key lies here solely~
+~
+18 524288 1
+0 0 0 0
+1 0 0
+#70075
+sword solaris~
+The Solaris~
+A slim shaped sword lies here, burning!!~
+~
+5 524304 8193
+12 68 2 3
+1 0 0
+E
+sword solaris~
+A sword forged by hell's fire ... a hellish and demonic sword!!
+~
+A
+26 33554432
+A
+19 15
+A
+12 150
+A
+13 25
+A
+5 1
+A
+18 5
+> wear_prog 100~
+mea $n You feel HOT!! HOT!! HOT!! and your cosmos burns optimally!
+mer $n $n's body is covered in red flames!!
+~
+|
+#70078
+central square key~
+The central key~
+A key lies here, solely.~
+~
+18 524288 1
+0 0 0 0
+1 0 0
+#70080
+goldeon hammer~
+The Goldeon~
+A huge hammer is here, lying solely.~
+~
+5 525312 8193
+12 67 2 8
+1 0 0
+E
+goldeon hammer~
+A huge hammer made from strange metal material only found in braveland.
+This is the standard weapon for pagoda elite guardians.
+~
+A
+19 20
+A
+24 75
+A
+21 50
+#70081
+whip luna~
+The Luna~
+A beautifully designed whip lies here, solely.~
+~
+5 527360 8193
+12 75 2 4
+1 0 0
+E
+whip luna~
+As you look into this whip's depth of design, you feel like seeing
+the moon ...
+~
+A
+19 15
+A
+2 2
+A
+25 1
+A
+26 4
+A
+26 8912896
+A
+13 25
+A
+12 50
+A
+18 5
+#70082
+robe high war monk~
+A high war monk robe~
+A good looking robe is here, lying solely.~
+~
+9 525312 1025
+12 0 0 0
+1 0 0
+E
+robe war monk high~
+a good looking robe, worn only by high level war monks of rahxephon
+temple.
+~
+A
+17 -100
+A
+2 1
+A
+5 1
+A
+25 2
+A
+3 1
+A
+26 16777220
+#70086
+sword saviour~
+The Saviour~
+A unique and beautiful sword is here, lying solely.~
+~
+5 525320 8193
+12 63 2 3
+1 0 0
+E
+sword saviour~
+A sword of heroic aura, no less than that.
+A sword with heroic beauty, indeed it is.
+~
+A
+1 1
+A
+19 15
+A
+26 8912900
+A
+26 1048576
+A
+18 5
+A
+25 1
+> wear_prog 100~
+mea $n _whi You feel stronger!! stronger!!
+mpforce $n yell Fear Me!! I shall slay evils!!
+mer $n $n's body grows stronger with The Saviour wielded in.
+~
+|
+#70088
+key rahxephia chamber golden small~
+A small golden key~
+A small golden key lies here, waiting to be picked up.~
+~
+18 524288 1
+0 0 0 0
+1 0 0
+E
+key rahxephia chamber gold~
+a small golden key to open lady rahxephia's chamber.
+be carefull, this may be dangerous ...
+~
+#70093
+whip Evolver~
+The Evolver~
+A wicked looking whip is here.~
+~
+5 526352 8193
+12 66 2 4
+1 0 0
+E
+whip evolver~
+This whip is designed for a lady fighter, no doubt about it!
+~
+> wear_prog 100~
+if sex($n) == 2
+  mea $n You comfortably wields the mighty evolver in your hand.
+else
+  mea $n This is a lady's whip, how dare you to wear this!!
+  mpslay $n
+endif
+~
+|
+#70094
+sword sonata~
+The Sonata~
+A sharp and thin sword lies here, solely.~
+~
+5 524288 8193
+12 67 2 4
+1 0 0
+E
+sonata sword~
+A great sword, a sword for a master combatant!!
+~
+A
+1 1
+A
+13 50
+A
+12 50
+A
+24 100
+A
+18 13
+A
+19 19
+> wear_prog 100~
+mea $n The Sonata is placed comfortably in your hand.
+~
+|
+#70095
+overture whip~
+The Overture~
+A good looking whip lies here, solely.~
+~
+5 526336 8193
+12 69 2 4
+1 0 0
+E
+whip overture~
+A whip made of pure lightning!!
+~
+A
+12 100
+A
+31 2
+A
+18 15
+A
+19 20
+#70096
+Ceres Black wing winged robe~
+Black Winged Robe of Ceres~
+A black winged robe lies here, solely.~
+~
+9 524816 1025
+13 0 0 0
+1 0 0
+E
+ceres black winged wing robe~
+A dark and menacing black winged robe.
+It's origin is from Ceres, the village of the origin.
+This robe is usually worn by a middle level fighter from Ceres.
+~
+A
+17 -150
+A
+2 2
+A
+5 1
+A
+1 2
+A
+25 1
+A
+26 16777216
+A
+26 524288
+A
+26 9535488
+#70097
+sword Prelude~
+The Prelude~
+A sword greatness lies here, solely.~
+~
+5 526336 8193
+12 68 2 3
+1 0 0
+E
+sword prelude~
+A sword that spreads an aura of greatness and conquest.
+~
+A
+1 2
+A
+13 75
+A
+18 15
+A
+19 18
+#70098
+sword Lonely Whisper~
+The Lonely Whisper~
+A sword with a deep and dark aura is here, lying solely.~
+~
+5 525328 8193
+12 85 2 3
+1 0 0
+A
+19 20
+A
+18 10
+A
+1 2
+A
+22 100
+A
+20 75
+A
+23 50
+A
+17 -25
+#70099
+Winged Gauntlets gauntlet~
+Winged Gauntlets~
+A kind of arm gear lies here, solely.~
+~
+9 526336 257
+12 0 0 0
+1 0 0
+E
+winged gauntlets gauntlet~
+An arm gear made from strange metal material only found in braveland.
+This arm gear can only be worn by the rahxephon temple's highest rank
+war monks.
+~
+A
+17 -80
+A
+5 2
+A
+26 40
+A
+18 10
+#0
+
+
+#ROOMS
+#70000
+A Sudden Change~
+A Feeling that you have never felt before suddenly surrounds you ...
+As you walk through this thinning of trees, your mind and body reacts
+strangely, leaving your confused mind unguarded ...
+~
+0 2097152 3
+D0
+~
+~
+0 -1 70114
+D7
+~
+~
+0 -1 70001
+> entry_prog 100~
+mea $n you really feel strange, ... and suddenly very tired ..
+mpdamage $n 50
+mea $n ouch ! some strange energy field hit you !
+~
+|
+S
+#70001
+A Strange Path~
+This path looks very strange ... winds are blowing, but you can not
+feel the breeze. The sun above you are shining, but you can not feel
+the heat. You can feel raindrops on your skin, but you can not see
+the rain itself.
+A very small path lies to the southwest.
+~
+0 1075838980 3
+D7
+~
+~
+0 -1 70002
+D8
+~
+~
+0 -1 70000
+D9
+~
+~
+0 -1 70011
+S
+#70002
+A Strange Path~
+The path continues, you still feel the strange auras arround you.
+you can see leaves moving like if they were blown by the wind, but
+you realize that there's no such thing here ...
+~
+0 1073741828 3
+D3
+~
+~
+0 -1 70003
+D8
+~
+~
+0 -1 70001
+> entry_prog 100~
+mea $n you shiver ...
+~
+|
+S
+#70003
+A Plain of Strangeness~
+You are entering a strange plain. This plain is void, but stangely ..
+you lost your grip of your direction. Strange ...
+~
+0 1073741828 3
+D1
+~
+~
+0 -1 70002
+D2
+~
+~
+0 -1 70006
+D3
+~
+~
+0 -1 70004
+S
+#70004
+Further in The Plain~
+Strangely you are in the middle of some strange plain ..
+once again you lost your concentration here ..
+~
+0 1073741828 3
+D1
+~
+~
+0 -1 70003
+D2
+~
+~
+0 -1 70005
+> entry_prog 100~
+mea $n you lost your concentration
+mpdamage $n 15
+~
+|
+S
+#70005
+A Smaller Path~
+Trees are running back, The sun is making a circular motion, and the
+path shivers like hell when you step on it !
+~
+0 1075838980 3
+D0
+~
+~
+0 -1 70004
+D1
+~
+~
+0 -1 70006
+D9
+~
+~
+0 -1 70007
+E
+sun~
+the sun is making a really weird circular motion in an incredible
+speed. you feel strange ...
+~
+> entry_prog 100~
+mpdamage $n 10
+mea $n you really feel strange ... and sick ..
+~
+|
+S
+#70006
+A Smaller Path~
+A small path strangely stretches in front of you.
+You try to concentrate, but failed ...
+~
+0 1073741828 3
+D0
+~
+~
+0 -1 70003
+D3
+~
+~
+0 -1 70005
+> entry_prog 100~
+mea $n again and again ... you feel sick ..
+mpdamage $n 10
+~
+|
+S
+#70007
+A Path to The Gate of Freedom~
+As you gain your consciousness, you can get a hold on your directions
+again, and far away, you can see a monstrous shadow in a form of some
+huge gate ..
+~
+0 1073741828 3
+D2
+~
+~
+0 -1 70008
+D6
+~
+~
+0 -1 70005
+S
+#70008
+A Solemn Resting Place~
+You enter a place where suddenly you gain all yourself back.
+You feel firmer and stronger.
+You can see some big flat stones are placed here neatly.
+It seems that this place is designed for resting.
+~
+0 1075838976 3
+D0
+~
+~
+0 -1 70007
+D2
+~
+~
+0 -1 70009
+S
+#70009
+Nearing The Gate~
+The path is getting wider as you approach the monstrous gate.
+Stones in various sizes are placed neatly along the path.
+Big ancient trees stand firmly here, with hawks on their branches ..
+~
+0 1073741828 3
+D0
+~
+~
+0 -1 70008
+D2
+~
+~
+0 -1 70010
+> entry_prog 100~
+mea $n you feel sudden uneasiness ..
+~
+|
+S
+#70010
+The Gate of Freedom~
+The huge gate appears menacingly, you can not sense anything here.
+The shadowing form of this gate has put all of your neural system to
+a complete halt.
+The gate is made of solid black coal, and strangely it reacts with the
+air and formed a new strange solid material.
+Just before the gate, you see a sign made of ebony wood.
+~
+0 1075847168 3
+D0
+~
+~
+0 -1 70009
+D2
+~
+gate~
+1063 70010 70012
+E
+sign wood~
+This is your decision to fight, not ours ...
+but first, a test of knowledge, let us know ...
+~
+S
+#70011
+A strange Stone~
+Here you see a floating stone ....
+A stone big enough to destroy a fortress wall.
+Beneath the flying stone is a big hole.
+~
+0 1073750528 3
+D6
+~
+~
+0 -1 70001
+S
+#70012
+A Plain of Smooth Grass~
+You are standing on a grassy plain. You feel more alive being here,
+You can hear the birds singing though you can not see any bird arround.
+You can feel the warmth of the shining sun though it is covered by blue
+clouds. A strange sound of a clock ticking can be heard from here.
+~
+0 1075847168 3
+D0
+~
+gate~
+1063 70010 70010
+D2
+~
+~
+0 -1 70013
+> entry_prog 100~
+mea $n you can clearly hear a sound of a ticking clock ...
+mea $n you begin to feel afraid in this solemnity ..
+mpdamage $n 13
+~
+|
+S
+#70013
+An Even More Strange Plain~
+You are standing on a small plain where bamboos grow and strangely
+making weird noises. You sense something of great power is hidden 
+arround here. On your feet, you feel like you're not stepping on the
+grass you see here, but like stepping on clouds.
+~
+0 1075847168 3
+D0
+~
+~
+0 -1 70012
+D3
+~
+~
+0 -1 70014
+S
+#70014
+A Path of Bamboos~
+You walk through a small path. This path makes you feel strangely
+solemn. A feeling of vague sanctuity. You can see the leaves of the
+bamboos moving in a certain strange way, drawing their own path.
+once again you feel strangely weird.
+~
+0 1075847168 3
+D1
+~
+~
+0 -1 70013
+D9
+~
+~
+0 -1 70015
+> entry_prog 100~
+mea $n you feel strange breeze on your face ...
+~
+|
+S
+#70015
+A Vague Crossroad~
+You are standing on a strange crossroad. You feel your eyes are getting
+blurry. Far to the southwest, you can vaguely see something strange.
+~
+0 1075847168 3
+D6
+~
+~
+0 -1 70014
+D7
+~
+~
+0 -1 70016
+D8
+~
+~
+0 -1 70018
+D9
+~
+~
+0 -1 70017
+S
+#70016
+A slippery path~
+The path is covered in thin ice.
+The cold is killing your mind. Strangely under the thin ice you can 
+see some kind of flaming thing.
+To the north you see a strange place. You really shouldn't go there.
+~
+0 1075847168 3
+D0
+~
+~
+0 -1 70043
+D3
+~
+~
+0 -1 70019
+D8
+~
+~
+0 -1 70015
+> entry_prog 100~
+mea $n the cold is really killing you ...
+mpdamage $n 10
+~
+|
+S
+#70017
+A path of granites~
+You walk through a wide path, with solid granite slabs placed
+neatly as it's floor. You can see beautiful trees and flowers
+grow along this solemn and tranquil path, leading to a greater 
+aura source.
+~
+0 1075847168 3
+D6
+~
+~
+0 -1 70015
+D9
+~
+~
+0 -1 70023
+S
+#70018
+Thicker Bushes~
+You enter some very thick bushes. it is almost as tall as you are.
+you can not see very clearly in this place, and your skin itches like
+hell when it makes contact with the bushes.
+The browny colour of this area makes your eyes very tired.
+~
+0 1075847168 3
+D7
+~
+~
+0 -1 70015
+D8
+~
+~
+0 -1 70029
+> entry_prog 100~
+mea $n suddenly you feel lonely ...
+~
+|
+S
+#70019
+A path of thin ice~
+The path of this thin ice continues to the west.
+The cold is still a pain for you, but as you walk further, your body
+begins to adjust to the temperature around here.
+You can see some cracks on the ice layers.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70016
+D3
+~
+~
+0 -1 70020
+E
+cracks crack~
+below the cracks you can see somekind of flaming thing ...
+~
+S
+#70020
+An end of the icy path~
+You are at the end of the icy path. Gazing downward you can see a
+strange flow of ice-cold water going somewhere.
+It might be best to prepare yourself before following this path further.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70019
+D5
+~
+~
+0 -1 70021
+S
+#70021
+A flow of strange ice~
+Ice cold water flows steadily somewhere.
+You can sense danger here, but at the same time, a tranquility being
+in the middle of this shiny white frost flow.
+~
+0 1075847172 6
+D2
+~
+~
+0 -1 70022
+> entry_prog 100~
+mea $n the ice cold water touches your skin ..
+mpforce $n ouch
+mpdamage $n 10
+~
+|
+S
+#70022
+A whirlpool of strange ice~
+A Whirlpool! 
+You are inside a whirlpool! Your skill of an adventurer is your only
+saviour here. You are doing your best!
+~
+0 1075847172 6
+D0
+~
+~
+0 -1 70021
+D9
+~
+~
+0 -1 70044
+> entry_prog 100~
+mea $n the strong whirlpool effect hurts you!
+mpdamage $n 100
+~
+|
+S
+#70023
+A path to the Rahxephon Temple~
+The granite path continues to the southwest part of the area.
+You can see a vague form of a building far away.
+~
+0 1075847172 3
+D6
+~
+~
+0 -1 70017
+D9
+~
+~
+0 -1 70024
+> entry_prog 100~
+mea $n you feel some uncertainty ...
+mpforce $n hmm
+~
+|
+S
+#70024
+A path to Rahxephon Temple~
+Still on the same solemn and tranquil path.
+You can see some strange people walking arround this place.
+~
+0 1075847172 3
+D6
+~
+~
+0 -1 70023
+D9
+~
+~
+0 -1 70025
+S
+#70025
+A small garden~
+A small formation of stone is arranged neatly here. 
+Flowers and beautiful grass grow from the stone cracks, making this
+garden splendid in nature.
+Some thin bamboo formation can be seen along the path, making a strange
+murmuring voice.
+~
+0 1075847172 3
+D6
+~
+~
+0 -1 70024
+D9
+~
+~
+0 -1 70026
+S
+#70026
+Before the Rahxephon Temple~
+The path to the big temple stretches to the southern part of the path.
+Some unique stone formation can be seen here. 
+You wonder if they form a certain pattern.
+~
+0 1075847172 3
+D2
+~
+~
+0 -1 70028
+D3
+~
+~
+0 -1 70027
+D6
+~
+~
+0 -1 70025
+S
+#70027
+A solemn tree~
+This place is so solemn, giving you much tranquility and peaceful
+feelings. This place seems to be a place for meditation and praying
+activities.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70026
+> entry_prog 100~
+mea $n you feel a sudden sanctuity arround you ..
+~
+|
+S
+#70028
+The Rahxephon Temple Square~
+You find yourself in a square. Not very wide, but it spreads an 
+aura of bravery and devotion. You can see birds on some part of 
+the square. The Huge Temple itself lies to the south.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70026
+D1
+~
+~
+0 -1 70059
+D2
+~
+~
+0 -1 70065
+D3
+~
+~
+0 -1 70055
+S
+#70029
+A strange thickering bushes~
+The bushes are getting thicker and thicker. As you notice, they also
+absorb sounds.
+You feel your skin is getting itchier.
+~
+0 1075847172 3
+D7
+~
+~
+0 -1 70018
+D8
+~
+~
+0 -1 70030
+> entry_prog 100~
+mea $n you feel really itchy ..
+mpdamage $n 10
+~
+|
+S
+#70030
+Lost in the bushes~
+The bushes smell and thickness are beginning to make you very dizzy.
+The bushes forms a non significant pattern, and makes it very hard
+to identify your current location.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70031
+D7
+~
+~
+0 -1 70029
+S
+#70031
+Lost in the bushes~
+Another formation of thick bushes is here for your obstacles now.
+You can sense danger in somewhere inside this thick itchy bushes.
+The bushes formation still continues further east.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70032
+D3
+~
+~
+0 -1 70030
+> entry_prog 100~
+mea $n you can't stand the itches caused by the bushes ...
+mpdamage $n 10
+~
+|
+S
+#70032
+A sudden thinning of the bushes~
+Strangely this area seems to have less bushes than the other.
+You seems to be in the center of the bushes formation, but still you
+lost your directions here. 
+Deep in your heart, you feel very strange being here.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70030
+D2
+~
+~
+0 -1 70033
+D3
+~
+~
+0 -1 70031
+S
+#70033
+Deeper in the bushes~
+Itchy bushes scratch your skin as you continue your journey deeper.
+You can not identify your directions here. You feel scared ...
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70032
+D3
+~
+~
+0 -1 70034
+> entry_prog 100~
+mea $n you lost your concentration again ...
+mpforce $n cry
+mea $n your mental is not stable anymore ..
+~
+|
+S
+#70034
+Thick bushes~
+The bushes are too thick that you can not see anything clearly here.
+You can't get a firm grip on your senses here.
+Vaguely, you can sense the path stretches to the west and south.
+~
+0 1075847173 3
+D1
+~
+~
+0 -1 70033
+D2
+~
+~
+2048 -1 70036
+D3
+~
+~
+0 -1 70035
+S
+#70035
+Lost in the bushes~
+The bushes formation is really confusing, and it's very tiring to
+walk through it. The thickness has drained your energy and power.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70034
+D3
+~
+~
+0 -1 70032
+> entry_prog 100~
+mea $n You start to think that this is a mistake ...
+mpdamage $n 13
+mpforce $n ouch
+~
+|
+S
+#70036
+Out of the bushes~
+The bushes formation is thinner now. You can see quite clearly here.
+The itches are still bothering you, but your body will adjust to it.
+As you walk through this thin formation you can see a path leading
+southeast. A clearer path.
+~
+0 1075847172 3
+D0
+~
+~
+2048 -1 70034
+D8
+~
+~
+0 -1 70037
+> entry_prog 100~
+mpforce $n phew
+~
+|
+S
+#70037
+A stoned path~
+Suddenly you find yourself on a stoned path, a neatly placed one.
+This path seems to lead to a huge formation of a temple.
+Bamboos and trees grow here along the path. You feel a little tranquil.
+~
+0 1075847172 3
+D7
+~
+~
+0 -1 70036
+D8
+~
+~
+0 -1 70038
+S
+#70038
+Nearing the Rahxephon Temple~
+You can see a huge temple with it's twin towers from here.
+The Temple of Rahxephon, the legendary temple of the proud fighters.
+The stoned path continues to the southeast.
+~
+0 1075847172 3
+D7
+~
+~
+0 -1 70037
+D8
+~
+~
+0 -1 70039
+S
+#70039
+Approaching the east wing of the Rahxephon Temple~
+You are standing before the east wing of the temple Rahxephon.
+This part of entrance is connected with the temple's central square.
+You can see some crowd to the eastern part of this entrance.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70040
+D3
+~
+~
+0 -1 70063
+D7
+~
+~
+0 -1 70038
+S
+#70040
+A small market~
+You are standing on a small market now. You don't see much here, but
+some crowds buying foods and beverages.
+You see a seller selling weapon in this solemn place, what a strange
+view.
+~
+0 1075847168 3
+D1
+~
+~
+0 -1 70041
+D3
+~
+~
+0 -1 70039
+S
+#70041
+Deeper in the market~
+Here you can see sellers of food and beverages. Nothing much to see 
+in this rural market area anyway.
+To the south you can see a darker room, with a sign placed before it's
+entrance.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70064
+D2
+~
+~
+0 -1 70042
+D3
+~
+~
+0 -1 70040
+E
+sign~
+TO THE SOUTH IS A ROOM WHICH YOU MUST NOT GO.
+MANY HAVE SUFFERED LOSS THERE.
+WE WON'T BE RESPONSIBLE FOR ANY DISTURBANCES CAUSED BY THAT ROOM.
+ 
+[admins of the Rahxephon Market]
+~
+S
+#70042
+A silent corner~
+This room is used as a death trap. Do you know what is a death trap ?
+Well .. you will, someday :)
+~
+0 1075847174 0
+D0
+~
+~
+0 -1 70041
+S
+#70043
+A strange silent corner~
+Long ago, A mighty adventurer died here.
+Now, his angry spirit is looking for revenge.
+Beware, this spirit is naughty.
+He will harm you not, but may tickle you ...
+~
+0 1075847172 3
+D2
+~
+~
+0 -1 70016
+> entry_prog 100~
+mpforce $n remove all
+mpforce $n drop all
+mpdamage $n 150
+mpecho _whi iiiiii aaaaammmm aaaa spiiiiirrriiiiitttt, ... 
+mpecho _whi iiiii wiiiillllll buuuuuggggg yooouuuu ....
+mea $n you are really scared ...
+~
+|
+S
+#70044
+Floating on the ice cold flow~
+A solemn flow after the whirlpool is here now. You feel much much
+comfortable drifting in this flow. You can see beautiful trees grow
+in the river banks. You can hear the birds singing above you.
+~
+0 1075847172 6
+D6
+~
+~
+0 -1 70022
+D9
+~
+~
+0 -1 70045
+> entry_prog 100~
+mea $n you feel much tranquil now ..
+mpforce $n smile
+~
+|
+S
+#70045
+The solemn flow continues~
+You can see many forms of bamboos grow in the river banks.
+You can see stones placed neatly near the bamboos.
+You enjoy your journey on this flow of solemn water.
+~
+0 1075847172 6
+D6
+~
+~
+0 -1 70044
+D9
+~
+~
+0 -1 70046
+> entry_prog 100~
+mea $n you feel so happy ..
+mpforce $n sing
+~
+|
+S
+#70046
+Drifted on ice~
+The flow turns fierce again, you drift in amazing speed on this flow.
+You hit some river stones in your drifting. You can't get a hold of
+your balance.
+~
+0 1075847172 6
+D6
+~
+~
+0 -1 70045
+D9
+~
+~
+0 -1 70047
+> entry_prog 100~
+mpforce $n ouch
+mpdamage $n 30
+~
+|
+S
+#70047
+Drifted further~
+Your body is smashed by the flow. You hit some more rocks, and caused
+severe damages to your health. Vaguely you can see dark figures watching
+you from the river banks.
+~
+0 1075847172 6
+D6
+~
+~
+0 -1 70046
+D9
+~
+~
+0 -1 70048
+> entry_prog 100~
+mpforce $n scream
+mpdamage $n 15
+~
+|
+S
+#70048
+An end of the drift~
+You arrive at a solemn pool.
+Strangely the fierce water flow is not here anymore.
+You can see flowers grow arround you, giving you an aura of beauty.
+~
+0 1075847172 6
+D9
+~
+~
+0 -1 70049
+> entry_prog 100~
+mpforce $n phew
+mpforce $n smile
+~
+|
+S
+#70049
+A stoned path~
+You arrive at a stoned path, seems to be heading to a formation of
+a temple. The path is arranged neatly, and apparently is a part of
+a large garden.
+You can see trees, flowers, and bamboos grow beautifully here.
+The path stretches to the west.
+~
+0 1075847172 3
+D3
+~
+~
+0 -1 70050
+D6
+~
+~
+0 -1 70048
+S
+#70050
+A solemn resting place~
+You arrive at a solemn corner. This place is definitely used for
+resting, relaxing, and meditating. The sounds of birds singing above
+you add the sanctuity in this place.
+You can see a path southward.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70049
+D2
+~
+~
+0 -1 70051
+S
+#70051
+Near the Rahxephon Temple~
+This is the path that heads directly to the temple formation.
+Some strange stone formation is here, placed in a certain pattern.
+Beside you, you can see formation of bamboos, making a strange sound.
+This path continues southward.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70050
+D2
+~
+~
+0 -1 70052
+D3
+~
+~
+0 -1 70053
+> entry_prog 100~
+mea $n you begin to feel strange again ..
+mpforce $n hmm
+mpecho ssssshhhhh ..... sssshhhhh ...
+~
+|
+S
+#70052
+Nearing the western part of the temple~
+This is the western part of the Rahxephon Temple formation.
+This western wing is connected to the central square of the temple.
+You can see the huge form of the twin towered temple from this part
+of entrance.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70051
+D1
+~
+~
+0 -1 70058
+S
+#70053
+A quiet corner~
+This path is intentionally left empty, and leads nowhere.
+Nothing of such importance can be seen here.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70066
+D1
+~
+~
+0 -1 70051
+S
+#70054
+Floating in a void~
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70028
+S
+#70055
+The central square~
+This part contains nothing but emptiness.
+Some stone statues are placed here only to add some views for the dwellers.
+The central square continues to the west and east.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70028
+D3
+~
+~
+0 -1 70056
+S
+#70056
+The central square~
+This is the western part of the central square.
+You can feel the same tranquility when passing by this area.
+Nothing much to see here.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70055
+D2
+~
+~
+0 -1 70057
+S
+#70057
+The western garden~
+The western garden mainly consist of artistic stone formation and
+beautifull formation of bamboos. Flower of many kinds can bee seen 
+here also. Wild grasses add a natural look to this tranquil garden.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70056
+D2
+~
+~
+0 -1 70058
+> entry_prog 100~
+mea $n You feel very tranquil here ...
+mpforce $n smile self
+~
+|
+S
+#70058
+The western square~
+This is the western square of the Rahxephon temple. This square is
+one of the three main entrances to the temple.
+It has been the witness of the war monks of the temple's hard training.
+The square floor is made from solid granite slabs.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70057
+D1
+~
+~
+7 70067 70067
+D3
+~
+~
+0 -1 70052
+S
+#70059
+The central square~
+The square's floor is made of strange material. It is solid and 
+unbreakable. It is the witness of the training sessions for the war
+monks dwell here.
+The square continues to the east and west.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70060
+D3
+~
+~
+0 -1 70028
+S
+#70060
+The central square~
+This part of the central square is so quiet, and apparently nothing
+much to see around here. The solemnity of this place has given you
+some kind of spirit booster. 
+The square stretches to the east and west.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70061
+D3
+~
+~
+0 -1 70059
+> entry_prog 100~
+mea $n you feel tranquil ...
+~
+|
+S
+#70061
+The central square~
+This is the eastern part of the central temple square.
+This area connects with the eastern square of the temple, located south
+from here, after the garden.
+Here you can see some stone statues of ancient legendary combatants
+from this temple.
+~
+0 1075847172 3
+D2
+~
+~
+0 -1 70062
+D3
+~
+~
+0 -1 70060
+S
+#70062
+The eastern garden~
+This is the eastern garden of the temple. It is so tranquil here.
+Stones are placed very neatly in a highly artistic manner, combined
+with the beauty of the flowers grow here, and the natural look of the
+grasses grow on the stone cracks.
+The eastern square is south from here.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70061
+D2
+~
+~
+0 -1 70063
+S
+#70063
+The eastern square~
+This is the eastern square of the great temple Rahxephon.
+This is one of the three main entrances to the temple.
+You can see some artistic brick walls arround here, and the floor is
+made from grantite slabs.
+~
+0 1075847172 3
+D0
+~
+~
+0 -1 70062
+D1
+~
+~
+0 -1 70039
+D3
+~
+~
+7 70072 70072
+S
+#70064
+A dark market corner~
+This is a quiet corner of the market place. You can see some abandoned
+shopping stands here. Organic trashes make this place terribly smells.
+Nothing much here to see.
+~
+0 1075847172 3
+D2
+~
+~
+0 -1 70041
+> entry_prog 100~
+mea $n you feel uncomfortable being here ...
+~
+|
+S
+#70065
+The Central Entrance~
+This is the main entrance to the worshipping hall of the temple.
+You can see solid walls and stone piles around here, all spread an aura
+of divinity. 
+A door can be seen to the south.
+~
+0 1075847172 0
+D0
+~
+~
+0 -1 70028
+D2
+~
+~
+7 70078 70078
+> entry_prog 100~
+mea $n You feel suddenly strange ... 
+mpforce $n ouch
+mea $n You're hit by a strange energy field!
+mpdamage $n 50
+~
+|
+S
+#70066
+A Hideout~
+This hidden corner can be used as a hideout for brave adventurers.
+Only the brave will wise enough to use this place as a place for retreat.
+~
+0 1075848708 3
+D2
+~
+~
+0 -1 70053
+S
+#70067
+Western Pagoda Base Floor~
+This is the basee floor for the temple's eastern pagoda.
+You can see a staircase leading to the upper level of the first tower.
+The top level of the eastern pagoda is also connected with the top
+level of the western pagoda.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70078
+D3
+~
+~
+7 70067 70058
+D4
+~
+~
+0 -1 70068
+> entry_prog 100~
+mea $n you feel the strange will from inside of you to go up ...
+mpforce $n hmm
+~
+|
+S
+#70068
+First level of eastern pagoda~
+The first floor of the eastern pagoda contains nothing but emptiness.
+~
+0 1075847172 3
+D4
+~
+~
+0 -1 70069
+D5
+~
+~
+0 -1 70067
+> entry_prog 100~
+mea $n You can feel the voidness deep inside your heart ...
+mea $n maybe, this is what we all feel ... 
+~
+|
+S
+#70069
+Second level of eastern pagoda~
+The second floor of the eastern pagoda contains nothing but an aura
+of power.
+~
+0 1075847172 3
+D4
+~
+~
+0 -1 70070
+D5
+~
+~
+0 -1 70068
+> entry_prog 100~
+mea $n You can feel the willingness to gain more power here ...
+mea $n maybe, this is what we all feel ...
+~
+|
+S
+#70070
+Third level of eastern pagoda~
+The third floor of the eastern pagoda contains nothing but an aura of
+greed and the hunger for destruction ...
+~
+0 1075847172 3
+D4
+~
+~
+0 -1 70071
+D5
+~
+~
+0 -1 70069
+> entry_prog 100~
+mea $n You can not feel anything here ...
+mea $n but maybe, this is what we all feel ...
+~
+|
+S
+#70071
+Fourth level of eastern pagoda~
+The fourth level of the pagoda contains nothing but an aura of despair.
+~
+0 1075847172 3
+D1
+~
+~
+0 -1 70081
+D4
+~
+~
+0 -1 70080
+D5
+~
+~
+0 -1 70070
+> entry_prog 100~
+mea $n You feel something familiar deep inside your heart ..
+~
+|
+S
+#70072
+Eastern Worship Area~
+This is a small area used by the lower level priests to pray.
+This eastern corner is small but solemn.
+Nothing much to see here, but some candles.
+~
+0 1075847172 0
+D1
+~
+~
+7 70072 70063
+D3
+~
+~
+0 -1 70073
+S
+#70073
+Eastern Pagoda Base Floor~
+This is the base floor of the western tower of the temple.
+You can see a spiral staircase leading up to the upper level of the 
+western pagoda.
+The top level of the western pagoda is also connected with the other
+top level tower.
+~
+0 1075847172 0
+D1
+~
+~
+0 -1 70072
+D3
+~
+~
+0 -1 70078
+D4
+~
+~
+0 -1 70074
+> entry_prog 100~
+mea $n you feel very attracted to try to go up ...
+mpforce $n hmm
+~
+|
+S
+#70074
+First level of western pagoda~
+The first level of the western pagoda contains nothing but an emptiness.
+~
+0 1075847172 0
+D4
+~
+~
+0 -1 70075
+D5
+~
+~
+0 -1 70073
+S
+#70075
+Second level of western pagoda~
+The second level of the western pagoda contains nothing but an aura
+of anger.
+~
+0 1075847172 0
+D4
+~
+~
+0 -1 70076
+D5
+~
+~
+0 -1 70074
+> entry_prog 100~
+mea $n You wonder why is this feeling seems to be familiar ...
+~
+|
+S
+#70076
+Third level of western pagoda~
+The third level of the western pagoda contains nothing but an aura of
+demonic lust.
+~
+0 1075847172 0
+D4
+~
+~
+0 -1 70077
+D5
+~
+~
+0 -1 70075
+> entry_prog 100~
+mea $n You shiver ...
+~
+|
+S
+#70077
+Fourth level of western pagoda~
+The fourth level of the western pagoda contains nothing but an aura
+of hatred.
+~
+0 1075847172 0
+D4
+~
+~
+0 -1 70079
+D5
+~
+~
+0 -1 70076
+> entry_prog 100~
+mea $n You feel a burning feeling deep in your heart ...
+~
+|
+S
+#70078
+Central Worshipping Area~
+This is the central worshipping area used by monks and priests here.
+This room spread an aura of peace and divinity.
+This room connects to the higher monks worshipping center to the south.
+~
+0 1075848196 0
+D0
+~
+~
+7 70078 70065
+D1
+~
+~
+0 -1 70073
+D2
+~
+~
+0 -1 70082
+D3
+~
+~
+0 -1 70067
+> entry_prog 100~
+mea $n you feel a sudden tranquility in this holy place ...
+~
+|
+S
+#70079
+Top level of western pagoda~
+The top level of the western pagoda contains nothing but an aura of
+destruction.
+~
+0 1075847172 0
+D3
+~
+~
+0 -1 70081
+D5
+~
+~
+0 -1 70077
+> entry_prog 100~
+mea $n you feel a sudden familiar feelings here ...
+mea $n maybe we all do ..
+~
+|
+S
+#70080
+Top level of eastern pagoda~
+The top level of the eastern pagoda contains nothing but an aura of
+nature and living.
+this part connects to the central area of the twin pagoda's top floor.
+~
+0 1075847172 0
+D1
+~
+~
+0 -1 70081
+D5
+~
+~
+0 -1 70071
+S
+#70081
+The Twin Pagoda Connector~
+A solemn room, a central room, a central solitude.
+A quiet room used for meditation for top level war monks.
+~
+0 1075847172 0
+D1
+~
+~
+0 -1 70079
+D3
+~
+~
+0 -1 70080
+S
+#70082
+A room with candles~
+This room connectes the main worship area with the high monk's place
+of praying. This room is full of candles. 
+The candles spread an aura of beauty and peacefulness for everyone
+watching them.
+~
+0 1075847172 0
+D0
+~
+~
+0 -1 70078
+D2
+~
+~
+0 -1 70083
+D5
+~
+~
+3 -1 70092
+> entry_prog 100~
+mea $n you feel a tingle on your spine ...
+mpforce $n hmm
+~
+|
+S
+#70083
+A high monk worshipping area~
+This is the room where high level priests say their prayer and try
+to meditate, gathering knowledge from the nature.
+This is a solemn room indeed, but strangely you feel a bit uneasy.
+~
+0 1075847172 0
+D0
+~
+~
+0 -1 70082
+D1
+~
+~
+0 -1 70084
+D3
+~
+~
+0 -1 70085
+> entry_prog 100~
+mea $n you begin to sweat ...
+~
+|
+S
+#70084
+The eastern altar~
+This eastern part of the altar is used by the peacefull monks.
+The aura in this room is a pure white aura, mixed with the beauty of
+candles and aqua pool.
+This place looks so solemn and quiet.
+~
+0 1075847172 0
+D3
+~
+~
+0 -1 70083
+D8
+~
+~
+0 -1 70086
+> entry_prog 100~
+mea $n you admire the beauty of this solemn room
+mpforce $n smile self
+~
+|
+S
+#70085
+The western altar~
+The western altar is used for fighter monks to say their prayer to the
+almighty ruler of the universe.
+This room echos their prayer eventhough noone is here. A strange kind
+of sanctuary.
+~
+0 1075847172 0
+D1
+~
+~
+0 -1 70083
+D9
+~
+~
+0 -1 70087
+> entry_prog 100~
+mpecho _whi heaar uuuuss, .... let peace be with uuusss ...
+~
+|
+S
+#70086
+A dark altar~
+This part of the eastern altar seems to be abandoned intentionally.
+The furnitures have been left dusty and broken.
+A dark place compared to other corners of the worshiping altars.
+~
+0 1075847172 0
+D7
+~
+~
+0 -1 70084
+D8
+~
+~
+7 70088 70088
+D9
+~
+~
+3 -1 70090
+> entry_prog 100~
+mpdamage $n 20
+mpforce $n ouch
+mea $n You are hit by a mysterious energy form!!
+~
+|
+S
+#70087
+The western altar for high war monks~
+This part of the western altar is provided for the higher level of
+war monks studying in this temple of Rahxephon.
+The aura in this room is so strange, valor mixed in hatred and anger.
+~
+0 1075847172 0
+D6
+~
+~
+0 -1 70085
+D8
+~
+~
+3 -1 70091
+D9
+~
+~
+3 -1 70089
+S
+#70088
+Rahxephia's Chamber~
+This lustfull room belongs to Lady Rahxephia, the fourth of the Rah
+Imu warmonk clan.
+Rahxephia is well known for her beauty, as well as her bad hobby to
+suck man's soul into her neo pandora box.
+~
+0 1075847172 0
+D7
+~
+~
+7 70088 70086
+S
+#70089
+Rahxeru's Chamber~
+This oriental themed chamber belongs to Rahxeru. The first son of the
+famous warmonk clan founder, Rah Imu.
+Rahxeru is well known for his skill in close quarter combat.
+~
+0 1075847172 0
+D6
+~
+~
+3 -1 70087
+S
+#70090
+Rahxeno's Chamber~
+A quiet and solemn chamber with a theme of water world.
+This solemn room belongs to Rahxeno, the third son of Rah Imu, the 
+famous warmonk legend.
+Rahxeno is well known for his intelligence and charisma.
+~
+0 1075847172 0
+D6
+~
+~
+3 -1 70086
+S
+#70091
+Rahxephim's Chamber~
+A chamber with a desert's look and feel. You can feel the very high
+temperature here.
+Rahxephim, the second son of Rah Imu, is well known for his wizardry.
+~
+0 1075847172 0
+D7
+~
+~
+3 -1 70087
+> entry_prog 100~
+mpdamage $n 15
+mea $n The hot temperature is torturing you ..
+~
+|
+S
+#70092
+A dark decline to the dungeon~
+You decline through a dark and dirty staircase leading down to the
+temple's prison for traitors and evil beings.
+this room is dark and somewhat slippery.
+The staircase leads further down.
+~
+0 1075847173 0
+D4
+~
+~
+3 -1 70082
+D5
+~
+~
+0 -1 70093
+> entry_prog 100~
+mea $n You begin to sweat ...
+mea $n You are not feeling well here.
+~
+|
+S
+#70093
+A narrower path to the dungeon~
+The slippery staircase leads further down to the dungeon.
+The room is getting darker...
+~
+0 1075847173 0
+D4
+~
+~
+0 -1 70092
+D5
+~
+~
+0 -1 70094
+> entry_prog 100~
+mea $n You feel something is wrong down there ...
+~
+|
+S
+#70094
+Before the dungeon~
+This is the last room before the temple's dungeon facilty complex.
+This room is darker and scarier than the other.
+~
+0 1075847173 0
+D4
+~
+~
+0 -1 70093
+D5
+~
+~
+0 -1 70095
+> entry_prog 100~
+mea $n You feel terrible being here ..
+mea $n you can smell some bat shit arround here ..
+~
+|
+S
+#70095
+The temple's dungeon entrance~
+This empty and quiet room is the only entrance to the dungeon's cells.
+the cell complex lies to the east from here.
+~
+0 1075847173 0
+D1
+~
+~
+0 -1 70096
+D4
+~
+~
+0 -1 70094
+S
+#70096
+Dungeon guard post~
+A dark room, with a single candle as the light, used as a guard room
+for the cell lies to the south from here.
+This room is dark and scary, but somehow solemn.
+~
+0 1075847173 0
+D2
+~
+~
+0 -1 70097
+D3
+~
+~
+0 -1 70095
+S
+#70097
+Nearing a dark cell~
+A dark room, a connector to an unlocked cell ...
+~
+0 1075847173 0
+D0
+~
+~
+0 -1 70096
+D2
+~
+~
+0 -1 70098
+> entry_prog 100~
+mea $n You begin to sweat terribly ...
+~
+|
+S
+#70098
+Rahxephon's Cell~
+This cell is used by Rahxephon, once a prince now a prisonner.
+He is a true prodigy of evil. One being that may not be released.
+The cell is full with aura of darkness.
+~
+0 1075847173 0
+D0
+~
+~
+0 -1 70097
+S
+#70099
+Floating in a void~
+~
+0 1075847172 3
+S
+#70100
+Last Room~
+Last room
+~
+0 2105348 3
+S
+#0
+
+
+#RESETS
+O 1 70011 1 70011
+M 1 10 2 70004
+M 1 10 2 70004
+M 1 60897 1 70006
+D 0 70012 0 2
+M 1 70024 1 70024
+E 1 60899 1 7
+E 1 24540 1 20
+E 1 5114 1 6
+E 1 2423 1 8
+G 1 46267 1
+E 1 48504 1 13
+E 1 15145 1 9
+G 1 1536 1
+E 1 8911 1 5
+E 1 15179 1 16
+E 1 4152 1 18
+M 1 70027 1 70027
+E 1 70027 1 12
+E 1 70028 1 16
+E 1 1536 1 20
+E 1 70026 1 8
+O 1 6102 1 70027
+M 1 70027 2 70050
+E 1 70027 1 12
+E 1 70028 1 16
+E 1 70026 1 8
+E 1 1536 1 20
+O 1 100021 1 70050
+M 1 6103 6 70032
+M 1 6103 6 70032
+M 1 70040 1 70040
+G 1 70039 1
+G 1 70040 1
+E 1 70040 1 18
+E 1 70039 1 16
+M 1 70041 1 70041
+G 1 70041 1
+G 1 70042 1
+O 1 6102 1 70053
+O 1 60503 1 70053
+M 1 70064 1 70064
+E 1 8110 1 17
+M 1 70015 1 70015
+E 1 70015 1 22
+E 1 280 1 8
+E 1 2338 1 7
+E 1 46291 1 5
+E 1 60883 1 12
+E 1 3012 1 16
+E 1 15122 1 13
+E 1 2433 1 3
+E 1 25554 1 6
+E 1 70040 1 18
+M 1 70020 1 70020
+E 1 70020 1 16
+E 1 24829 1 6
+E 1 24826 1 10
+E 1 24856 1 8
+E 1 2338 1 7
+E 1 15122 1 13
+E 1 21076 1 5
+E 1 60883 1 12
+G 1 45318 1
+M 1 70022 1 70022
+M 1 70061 1 70061
+E 1 70039 1 16
+E 1 70027 1 12
+E 1 70026 1 8
+O 1 60503 1 70060
+O 1 60503 1 70062
+M 1 70063 1 70063
+E 1 70062 1 16
+E 1 2336 1 6
+E 1 2338 1 7
+E 1 70026 1 8
+E 1 2332 1 13
+E 1 41401 1 3
+E 1 46015 1 5
+G 1 70072 1
+D 0 70063 3 2
+O 1 60503 1 70028
+O 1 100021 1 70055
+M 1 100026 2 70056
+O 1 60503 1 70057
+M 1 70058 1 70058
+E 1 70058 1 16
+E 1 2336 1 6
+E 1 2332 1 13
+E 1 2338 1 7
+E 1 70026 1 8
+E 1 2433 1 3
+E 1 46015 1 5
+E 1 7962 1 1
+E 1 3012 1 18
+G 1 70067 1
+D 0 70058 1 2
+M 1 70065 1 70065
+E 1 70065 1 16
+E 1 41426 1 6
+E 1 2332 1 13
+E 1 2338 1 7
+E 1 70029 1 5
+E 1 2327 1 8
+E 1 70030 1 12
+E 1 2322 1 17
+G 1 70078 1
+G 1 21008 1
+G 1 60924 1
+D 0 70065 2 2
+O 1 26539 1 70067
+D 0 70067 3 2
+O 1 26539 1 70078
+D 0 70078 0 2
+O 1 26539 1 70072
+O 1 42973 1 70072
+D 0 70072 1 2
+O 1 26539 1 70087
+D 0 70087 8 1
+D 0 70087 9 1
+O 1 26539 1 70084
+O 1 60503 1 70084
+M 1 70066 1 70066
+E 1 5222 1 12
+O 1 100021 1 70066
+M 1 70082 1 70082
+E 1 70082 1 12
+E 1 70028 1 16
+E 1 21008 1 17
+E 1 70026 1 8
+E 1 2338 1 7
+E 1 2392 1 3
+E 1 2432 1 20
+D 0 70082 5 1
+M 1 1515 8 70093
+M 1 1515 8 70093
+M 1 1515 8 70093
+M 1 1515 8 70093
+M 1 1515 9 70092
+D 0 70092 4 1
+M 1 1515 11 70094
+M 1 1515 11 70094
+O 1 15134 1 70094
+O 1 15134 1 70095
+M 1 1515 15 70097
+M 1 1515 15 70097
+M 1 1515 15 70097
+M 1 1515 15 70097
+M 1 70096 1 70096
+E 1 100095 1 16
+E 1 70096 1 12
+E 1 2338 1 7
+E 1 15165 1 8
+E 1 2102 1 5
+G 1 278 1
+G 1 2449 1
+E 1 60863 1 18
+E 1 2336 1 6
+E 1 12557 1 13
+M 1 70086 1 70086
+E 1 70086 1 16
+E 1 70082 1 12
+E 1 70026 1 8
+E 1 2332 1 13
+E 1 2338 1 7
+E 1 1536 1 20
+E 1 70002 1 23
+G 1 70088 1
+D 0 70086 8 2
+D 0 70086 9 1
+M 1 70027 3 70068
+E 1 70028 1 16
+E 1 70026 1 8
+E 1 1536 1 20
+E 1 70027 1 12
+E 1 21008 1 17
+M 1 70034 1 70034
+E 1 70034 1 16
+E 1 2388 1 12
+M 1 70008 1 70008
+E 1 70008 1 12
+E 1 3051 1 17
+E 1 14747 1 16
+O 1 60503 1 70008
+O 1 100021 1 70008
+M 1 1515 17 70013
+M 1 1515 17 70013
+M 1 70080 2 70079
+E 1 70080 1 16
+E 1 70026 1 8
+E 1 2338 1 7
+E 1 70082 1 12
+M 1 1515 22 70076
+M 1 1515 22 70076
+M 1 1515 22 70076
+M 1 1515 22 70076
+M 1 1515 22 70076
+M 1 70080 3 70074
+E 1 70080 1 16
+E 1 70026 1 8
+E 1 70082 1 12
+E 1 2338 1 7
+M 1 70024 2 70038
+E 1 24540 1 20
+E 1 4152 1 16
+E 1 8911 1 5
+E 1 5114 1 6
+E 1 60899 1 7
+E 1 21080 1 9
+E 1 15179 1 18
+G 1 5113 1
+E 1 2423 1 8
+G 1 21008 1
+G 1 21008 1
+G 1 60899 1
+G 1 21008 1
+M 1 70070 1 70070
+E 1 70070 1 16
+E 1 70071 1 12
+M 1 70081 1 70081
+E 1 70081 1 16
+E 1 70082 1 12
+E 1 2836 1 7
+G 1 2338 1
+E 1 70026 1 8
+E 1 25066 1 3
+E 1 24521 1 6
+M 1 70080 3 70080
+E 1 70080 1 16
+E 1 70026 1 8
+E 1 2338 1 7
+E 1 70082 1 12
+M 1 70075 1 70075
+E 1 70075 1 16
+E 1 70071 1 12
+M 1 70003 1 70003
+E 1 70003 1 16
+E 1 2338 1 7
+E 1 100004 1 23
+E 1 24530 1 12
+E 1 5114 1 6
+E 1 280 1 8
+M 1 1515 26 70003
+M 1 1515 26 70003
+M 1 1515 26 70003
+M 1 1515 26 70003
+O 1 17 1 70003
+M 1 70098 1 70098
+E 1 70098 1 16
+E 1 70099 1 10
+E 1 70052 1 24
+E 1 21061 1 8
+E 1 70048 1 12
+E 1 70055 1 3
+M 1 70089 1 70089
+E 1 70043 1 8
+E 1 70044 1 5
+E 1 70048 1 12
+E 1 70097 1 16
+D 0 70089 6 1
+M 1 70091 1 70091
+E 1 70049 1 17
+E 1 70048 1 12
+E 1 70047 1 7
+E 1 70045 1 6
+E 1 70095 1 16
+D 0 70091 7 1
+M 1 70090 1 70090
+E 1 70046 1 23
+E 1 70045 1 6
+E 1 70048 1 12
+E 1 70053 1 17
+E 1 70094 1 16
+G 1 21008 1
+G 1 21008 1
+D 0 70090 6 1
+M 1 70093 1 70088
+E 1 70051 1 20
+E 1 70050 1 14
+E 1 70054 1 12
+E 1 21008 1 17
+E 1 70093 1 16
+D 0 70088 7 2
+M 1 70010 1 70010
+E 1 70010 1 17
+E 1 46015 1 5
+E 1 622 1 6
+E 1 623 1 7
+G 1 60899 1
+E 1 276 1 12
+E 1 15165 1 8
+E 1 15178 1 9
+E 1 237 1 10
+G 1 70010 1
+E 1 42933 1 16
+D 0 70010 2 2
+S
+
+
+#SHOPS
+ 70040    0  0  0  0  0   120  90         5 23    ; Joko
+ 70041    0  0  0  0  0   120  90         5 23    ; Frutelia
+0
+
+
+#REPAIRS
+ 70066    9  5  3          10   1         0 23    ; Mpu Tantular
+0
+
+
+#SPECIALS
+M  70022 spec_breath_frost
+M  70064 spec_thief
+M  70065 spec_breath_lightning
+M  70080 spec_guard
+M  70086 spec_guard
+M  70098 spec_breath_any
+S
+
+
+#$

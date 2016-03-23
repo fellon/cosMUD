@@ -1,0 +1,456 @@
+Name        Vrock~
+Class       10
+Attrprime   1
+Alignment   -1000
+Weapon      10312
+Guild       3036
+Skilladept  95
+Thac0       18
+Thac32      7
+Hpmin       15
+Hpmax       18
+Mana        1
+Expbase     900
+Skill 'alertness' 20 95
+Skill 'armor' 6 70
+Skill 'blazeward' 12 95
+Skill 'blindness' 11 75
+Skill 'burning hands' 2 95
+Skill 'cancelation' 9 95
+Skill 'cover of darkness' 76 95
+Skill 'curse' 9 90
+Skill 'demonskin' 1 100
+Skill 'detect magic' 20 95
+Skill 'devils might' 5 95
+Skill 'dispel magic' 12 90
+Skill 'enchant weapon' 30 80
+Skill 'energy drain' 23 95
+Skill 'extradimensional portal' 47 95
+Skill 'faerie fire' 4 95
+Skill 'farsight' 16 95
+Skill 'festering wounds' 50 95
+Skill 'fireball' 10 95
+Skill 'fireshield' 22 95
+Skill 'hand of chaos' 30 95
+Skill 'harm' 15 95
+Skill 'identify' 90 95
+Skill 'invis' 35 95
+Skill 'locate object' 6 95
+Skill 'magic missile' 9 90
+Skill 'pass door' 18 95
+Skill 'poison' 6 90
+Skill 'possess' 50 95
+Skill 'power word kill' 50 80
+Skill 'scry' 14 95
+Skill 'shield' 7 95
+Skill 'shockshield' 55 95
+Skill 'sleep' 12 70
+Skill 'stone skin' 13 95
+Skill 'transport' 27 85
+Skill 'true sight' 30 95
+Skill 'visitation' 90 80
+Skill 'warmth' 98 95
+Skill 'weaken' 4 95
+Skill 'word of recall' 15 95
+Skill 'aid' 45 95
+Skill 'bloodlet' 24 95
+Skill 'climb' 2 95
+Skill 'dig' 2 80
+Skill 'disarm' 15 80
+Skill 'dodge' 19 45
+Skill 'drowfire' 2 95
+Skill 'dual wield' 20 90
+Skill 'enhanced damage' 7 100
+Skill 'feed' 1 100
+Skill 'fifth attack' 45 100
+Skill 'fly' 4 95
+Skill 'fourth attack' 35 95
+Skill 'gouge' 75 95
+Skill 'grasp suspiria' 60 90
+Skill 'grip' 20 80
+Skill 'hide' 33 95
+Skill 'jump' 2 95
+Skill 'kick' 2 50
+Skill 'lore' 21 25
+Skill 'mount' 2 95
+Skill 'occulutus visum' 50 95
+Skill 'parry' 12 70
+Skill 'peek' 2 90
+Skill 'poison weapon' 50 95
+Skill 'punch' 2 60
+Skill 'scan' 2 95
+Skill 'search' 2 95
+Skill 'second attack' 15 95
+Skill 'sneak' 19 95
+Skill 'talonslash' 3 95
+Skill 'taunt' 3 95
+Skill 'third attack' 25 90
+Skill 'track' 30 100
+Skill 'vision' 50 95
+Skill 'vomica pravus' 50 95
+Skill 'bludgeons' 1 80
+Skill 'flexible arms' 1 100
+Skill 'long blades' 1 60
+Skill 'pugilism' 1 95
+Skill 'short blades' 1 90
+Skill 'talonous arms' 1 100
+Skill 'common' 1 100
+Skill 'dwarven' 1 100
+Skill 'elvish' 1 100
+Skill 'gith' 1 100
+Skill 'gnome' 1 99
+Skill 'goblin' 1 100
+Skill 'halfling' 1 100
+Skill 'ogre' 1 100
+Title
+Man~
+Woman~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Imp~
+Imp~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Pit Fiend~
+Pit Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Greater Fiend~
+Greater Fiend~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Lesser Devil~
+Lesser Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Greater Devil~
+Greater Devil~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Champion~
+Demon Champion~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Master~
+Demon Mistress~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Prince~
+Demon Princess~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Demon Lord~
+Demon Lady~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Archdevil~
+Archdevil~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

@@ -1,0 +1,297 @@
+#PLAYER
+Version      3
+Name         Aiyo~
+Description  ~
+Sex          2
+Class        6
+Race         13
+Species      9
+Languages    1 1
+Level        6
+Played       16935
+Room         24801
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   84 120 118 118 165 165
+Gold         26162
+Exp          190257
+Height          73
+Weight          211
+Act          570426968
+AffectedBy   -2147483648
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       139
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    64
+Mentalstate  -8
+Password     AinbADS8OZAYg~
+Title         the Tracker~
+Lastname (null)~
+Bio          /nair on fire
+~
+AuthedBy     Prage~
+Prompt       < &Y%hhp &B%mmp &R%X TNL &w >~
+Deity	     Bane~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       158
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 7 7 10 16 12 10
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 16 10
+Site         207.202.214.132
+Skill        71 'dual wield'
+Skill        90 'kick'
+Skill        18 'scan'
+Weapon       85 'long blades'
+Weapon       13 'short blades'
+Tongue       100 'common'
+Killed       10300 1
+Killed       10303 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         127
+WearLoc      16
+Level        1
+Values       12 1 6 3 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 2 10 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21055
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         127
+Level        1
+Values       12 1 7 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 4 11 3 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      18
+Level        5
+Values       12 4 11 3 0 0
+End
+
+#ALIAS
+Name     zg~
+Commands ge all corpse ; wear all~
+End
+
+#END

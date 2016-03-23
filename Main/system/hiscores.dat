@@ -1,0 +1,87 @@
+#HISCORES
+#TABLE
+Keyword    mkill
+Desc       Greatest number of Mob Kills~
+Vnum       -1
+MaxLength  20
+Entry      Argon 18349
+Entry      Aella 16889
+Entry      Metheus 12899
+Entry      Exu 11126
+Entry      Nicremog 10311
+Entry      Trespin 9918
+Entry      Jurg 8981
+Entry      Athmoz 8811
+Entry      Andy 8513
+Entry      Maximus 6093
+Entry      Solidus 5190
+Entry      Hamspiced 5162
+Entry      Sager 4999
+Entry      Draga 4729
+Entry      Donfan 4453
+Entry      Farco 4397
+Entry      Dewa 4017
+Entry      Aramys 4006
+Entry      Caffiend 3905
+Entry      Aeshma 3896
+End
+
+#TABLE
+Keyword    pkill
+Desc       Greatest PKillers~
+Vnum       -1
+MaxLength  10
+Entry      Maelstrom 32
+Entry      Garett 13
+Entry      Reaper 10
+Entry      Ivar 10
+Entry      Gandolf 6
+Entry      Diablo 5
+Entry      Bradley 5
+Entry      Magneto 5
+Entry      Zagard 4
+Entry      Nicremog 4
+End
+
+#TABLE
+Keyword    mdeath
+Desc       Survival is not thier friend.~
+Vnum       -1
+MaxLength  10
+Entry      Andy 385
+Entry      Hamspiced 332
+Entry      Donfan 286
+Entry      Caffiend 175
+Entry      Nicremog 175
+Entry      Trespin 161
+Entry      Kuro 136
+Entry      Farco 105
+Entry      Secter 101
+Entry      Aeshma 88
+End
+
+#TABLE
+Keyword    pdeath
+Desc       Sometimes you just make a good victim~
+Vnum       -1
+MaxLength  10
+End
+
+#TABLE
+Keyword    arena_pkill
+Desc       Best Arena Warriors~
+Vnum       -1
+MaxLength  10
+Entry      Andy 35
+Entry      Aella 33
+Entry      Argon 24
+Entry      Athmoz 15
+Entry      Exu 13
+Entry      Animaniax 12
+Entry      Nicremog 10
+Entry      Hamspiced 10
+Entry      Maelstrom 9
+Entry      Voldemort 9
+End
+
+#END

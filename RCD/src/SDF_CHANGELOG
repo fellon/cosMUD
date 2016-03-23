@@ -1,0 +1,128 @@
+//	Ok fellas. Let's log our changes here. Newest on top please..
+//
+// 	Please see the _rough_ file in this dir called REQUESTS for a more
+//	detailed log. 
+
+Sep 30 2002	Chimerus
+	Wizinvis prevents the entrance and exit Info message.
+		act_comm.c 2326
+		comm.c 2492
+
+Sep 29 2002	Chimerus
+	Modified the do_deities function so that it gives more info.
+		mud.h 1244; added domains and detitle variable
+		deity.c 122, 220, 227, 431, 481, 921, 1121 
+
+Sep 27 2002     Chimerus
+       Added Sdtrap to setdeity and showdeity.
+		mud.h 1258
+		deity.c 148, 272, 435, 663, 942, 1445, 1475
+
+Sep 27 2002	Marten
+	Fixed Menu Quit Bug (pressing 0 works now without crashing the mud).
+		comm.c 2254
+	Chimerus's supp uplift favour fix. 
+		deity.c 1366
+
+Sep 26 2002	Marten
+	Trespin's corpse saving fix. 
+		act_obj.c 514 tresp pls ok thx
+	Alias;quit;logout;crash;burn;die bug finally fixed properly. phew.
+	Fixed switch (which i broke)
+		comm.c 724-ish
+
+Sep 24 3003	Prage
+	Changed MSL to MAX_STRING_LENGTH
+		player.c 1507
+
+Sep 23 3003	Marten
+	Fixed more scionware. Was cause of the alias;quit|logout bug
+		comm.c 712+
+
+Sep 17 2002 	Marten
+	Set timers on DT'd corpses to 48 hours (real time)
+		makeobjs.c 192
+	Fixed a bug that I created in do_last late one bleary eyed night. 
+		save.c	2369
+	Fixed a bug in "supp dt" that I *suspect* may bypass the 2500 favour under certain conditions.
+		deity.c 1067
+
+Sep 14 2002	Marten
+	Reworked do_beep. No more beep messages. No more bypassing silence flag.
+		act_comm.c 1434 
+
+Sep 14 2002	Prage
+	Removed wait states for immortals
+		mud.h 3530
+
+Sep 13 2002	Prage
+	Made frozen players forcable.
+		act_wiz.c 4682
+	Switch into frozen player bug fix.
+		act_wiz.c 2981
+	Added do_wimp function, it's in comments now though.
+		act_wiz.c 10049
+
+Sep 12 2002	Prage
+	Made pstealing impossible, as specified by cyph. goodnight.
+		skills.c 4577
+
+Sep 11 2002	Marten
+	DT's no longer purge corpses.
+		act_move.c 1235-1248
+	Corpse timers don't run out when in DT's.
+		makeobjs.c 192-193	
+
+Sep 10 2002	Marten
+	Started on DT reworking. Added supplicate dt command. Changes in do_supplicate.
+		deity.c 
+
+Sep 09 2002	Fellon
+	Added a Roster snippet so that Guild leaders can make lists of members without 
+	having to ask around. Works for all groups.
+		mud.h
+		fight.c
+		tables.c
+		clans.c
+
+Sep 09 2002    Prage
+	Added archive script to the base directory, tested seems to work ok.
+
+	Made furniture descriptions work.
+		act_info.c 618, 739
+
+Sep 05 2002	Marten
+	Beep <char> <message> now sends a beep like it should.
+		act_comm.c 1464
+	Rathkor's litterbug fix (was already done in misc.c)
+		act_obj.c  911
+
+Sep 04 2002	Prage
+	Quick and dirty dual wield missile bug fix(wear_obj).
+		act_obj.c 1918
+
+Sep 01 2002	Marten
+	Rathkor's shopkeeper wear all fix
+		update.c:  830  
+	Rathkor's poison weapon fix
+		fight.c:   3893  
+	Rathkor's corpse fix
+		magic.c:   5178  
+		skills.c:  5450  5457  5500  
+	Rathkor's diceformula enhancement
+		magic.c:   724-727
+	Rathkor's rescue fix. 
+		skills.c:  2553  
+	Trespin's ARENA anti-cheat fix.	
+		arena.c:   248  
+	Added "tech" channel
+		mud.h	   2131  
+		act_info.c 3932 - 3933 4052 4073 4103
+		act_comm.c 1167
+	Fixed "silence" command,  ( a good example of why complex expressions are bad )
+		act_comm.c 653 - 664
+		
+		  
+Aug 11 2002	Marten 
+	Started this file. SDF_CHANGELOG
+	Changed a bunch of specfunc breath related stuff. Forgot where (it does work though).

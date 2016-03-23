@@ -1,0 +1,373 @@
+#PLAYER
+Version      3
+Name         Bavel~
+Description  ~
+Sex          1
+Class        14
+Race         7
+Species      5
+Languages    1 1
+Level        18
+Played       45181
+Room         24851
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   308 296 112 100 321 321
+Gold         91614
+Exp          4804625
+Height          93
+Weight          243
+Act          570426984&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     10
+SavingThrows 0 0 0 0 0
+Alignment    -458
+Favor	       2478
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     BavVA6t5ejQ7I~
+Title         the Killer~
+Lastname  Blackheart~
+AuthedBy     Andy~
+Deity	     Shaundakul~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       143
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 11 11 13 9 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 21 11 26
+Site         203.130.222.218
+Skill        17 'aid'
+Skill        21 'backstab'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        17 'disarm'
+Skill        17 'discern'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        17 'hide'
+Skill        90 'kick'
+Skill        17 'knee'
+Skill        63 'pick lock'
+Skill        22 'scan'
+Skill        17 'search'
+Skill        90 'second attack'
+Skill        17 'sneak'
+Skill        17 'steal'
+Skill        17 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       95 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'orcish'
+Killed       24816 3
+Killed       24817 4
+Killed       24815 6
+Killed       24814 3
+Killed       24839 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        56
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46255
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1515
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1541
+Level        8
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        8
+Values       22 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        12
+Values       10 4 14 3 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      18
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        17
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#ALIAS
+Name     1~
+Commands kick~
+End
+
+#ALIAS
+Name     2~
+Commands pick lock~
+End
+
+#ALIAS
+Name     3~
+Commands disarm~
+End
+
+#END

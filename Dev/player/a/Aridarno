@@ -1,0 +1,47 @@
+#PLAYER
+Version      3
+Name         Aridarno~
+Sex          1
+Class        0
+Race         0
+Languages    1 1
+Level        2
+Played       1183
+Room         21194
+HpManaMove   27 27 106 106 110 110
+Gold         0
+Exp          1625
+Height          66
+Weight          155
+Act          570426952
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Password     ArvQBnwNWolbo~
+Title         the Spell Student~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 18 11 13 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'armor' 492 -20  17 0
+AffectData   'bless' 1166   6  18 0
+AffectData   'bless' 1166  -6  24 0
+End
+
+#END

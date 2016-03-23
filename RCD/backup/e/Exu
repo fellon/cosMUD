@@ -1,0 +1,211 @@
+#PLAYER
+Version      3
+Name         Exu~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Species      0
+Languages    524291 1
+Level        100
+Played       1772255
+Room         6003
+Memorized		60658 0 0 0 0 0 0 0
+HpManaMove   2120 1573 612 720 1384 1384
+Gold         23156778
+Exp          1130402041
+Height          66
+Weight          147
+Act          570427000&4
+AffectedBy   17400322
+Position     112
+Style     2
+Practice     192
+SavingThrows 0 0 0 0 -12
+Alignment    1000
+Favor	       992
+Balance      0
+Glory        13
+MGlory       13
+Hitroll      12
+Damroll      0
+Armor        -10
+ICEListen pchat~
+Resistant    1
+Mentalstate  0
+Password     ExtoLRiXpRUwc~
+Rank         &BP&YR&YA&YN&YG&BS&BT&YE&YR~
+Title        ~
+Lastname  Pariz~
+Prompt       < %hhp(%H) %mman(%M) %vmv(%V) %Aspc >~
+Deity	     Shaundakul~
+Clan         Guild of Rangers~
+Flags        98304
+PKills       1
+PDeaths      1
+MKills       11126
+MDeaths      78
+ArenaWins    13
+ArenaKills   26
+ArenaDeaths  22
+IllegalPK    0
+AttrPerm     15 13 12 13 13 13 12
+AttrMod      6 0 0 6 0 -1 0
+Condition    0 0 40 110
+Site         24.96.17.166
+Spell        90 'aqua breath'
+Spell        85 'armor'
+Spell        95 'barkskin'
+Spell        95 'basic shield'
+Spell        80 'bless'
+Spell        65 'blindness'
+Spell        72 'cancelation'
+Spell        95 'cat eyes'
+Spell        76 'charm person'
+Spell        90 'continual light'
+Spell        41 'control weather'
+Spell        87 'cool breeze'
+Spell        37 'create fire'
+Spell        90 'create spring'
+Spell        90 'create water'
+Spell        90 'cure blindness'
+Spell        85 'cure critical'
+Spell        85 'cure light'
+Spell        85 'cure poison'
+Spell        80 'cure serious'
+Spell        18 'detect evil'
+Spell        90 'detect hidden'
+Spell        85 'detect invis'
+Spell        18 'detect magic'
+Spell        18 'detect poison'
+Spell        90 'dispel magic'
+Spell        65 'dream'
+Spell        90 'faerie fire'
+Spell        30 'fletch'
+Spell        90 'float'
+Spell        75 'identify'
+Spell        55 'infravision'
+Spell        80 'invis'
+Spell        90 'kindred strength'
+Spell        37 'know alignment'
+Spell        90 'locate object'
+Spell        95 'ogrish hide'
+Spell        80 'pass door'
+Spell        95 'plant pass'
+Spell        85 'poison'
+Spell        23 'refresh'
+Spell        23 'remove invis'
+Spell        90 'shield'
+Spell        70 'sleep'
+Spell        80 'stone skin'
+Spell        95 'word of recall'
+Skill        22 'aid'
+Skill        95 'bearhug'
+Skill        18 'cook'
+Skill        95 'cuff'
+Skill        18 'detrap'
+Skill        90 'disarm'
+Skill        90 'dual wield'
+Skill        80 'elbow'
+Skill        75 'enhanced damage'
+Skill        95 'forestwalk'
+Skill        70 'fourth attack'
+Skill        75 'grip'
+Skill        90 'hide'
+Skill        90 'kick'
+Skill        90 'parry'
+Skill        60 'pick lock'
+Skill        72 'pigeon'
+Skill        95 'rescue'
+Skill        65 'roundhouse'
+Skill        90 'scan'
+Skill        89 'search'
+Skill        90 'second attack'
+Skill        80 'shoulder'
+Skill        90 'sneak'
+Skill        90 'third attack'
+Skill        90 'track'
+Weapon       80 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       85 'long blades'
+Weapon       18 'missile weapons'
+Weapon       90 'pugilism'
+Weapon       40 'short blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'elvish'
+Tongue       99 'gith'
+AffectData   'kindred strength'  83   6   1 0
+AffectData   'scry' 791   0  26 16777216
+AffectData   'slink' 1179   6   2 0
+AffectData   'stone skin' 1113 -40  17 0
+AffectData   'flight' 1249   0  26 524288
+AffectData   'shield' 1455 -20  17 0
+AffectData   'cool breeze' 1063   1  27 0
+AffectData   'armor' 281 -20  17 0
+AffectData   'ogrish hide' 1286 -30  17 0
+AffectData   'ogrish hide' 1286  -1  25 0
+AffectData   'cat eyes' 1287   0  26 512
+AffectData   'invis' 723   0   0 2
+AffectData   'sneak' 2161   0  26 32768
+AffectData   'bless' 2183 -12  24 0
+AffectData   'bless' 2183  12  18 0
+Killed       3008 2
+Killed       3013 1
+Killed       3012 2
+Killed       3014 2
+Killed       3007 2
+Killed       2421 1
+Killed       6000 1
+Killed       3501 1
+Killed       70101 3
+Killed       21062 1
+Killed       21063 1
+Killed       229 1
+Killed       228 1
+Killed       225 1
+Killed       233 1
+Killed       231 1
+Killed       218 5
+Killed       207 1
+Killed       208 11
+Killed       202 1
+Killed       264 1
+Killed       6117 1
+Killed       6100 1
+Killed       6102 2
+Killed       25531 5
+i3invis	0
+End
+
+#ALIAS
+Name     gm~
+Commands get meat bag~
+End
+
+#ALIAS
+Name     em~
+Commands eat meat~
+End
+
+#ALIAS
+Name     cw~
+Commands cast 'create water' skin~
+End
+
+#ALIAS
+Name     pb~
+Commands put all bag~
+End
+
+#ALIAS
+Name     ci~
+Commands cast 'infravision' exu~
+End
+
+#ALIAS
+Name     so~
+Commands say owie~
+End
+
+#END

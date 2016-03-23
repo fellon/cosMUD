@@ -1,0 +1,533 @@
+#PLAYER
+Version      3
+Name         Maps~
+Description  ~
+Sex          1
+Class        2
+Race         5
+Species      0
+Languages    524289 1
+Level        28
+Played       267722
+Room         100013
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   50 582 127 127 367 451
+Gold         437434
+Exp          17333101
+Height          54
+Weight          142
+Act          570426954
+AffectedBy   512
+Position     112
+Style     2
+Practice     52
+SavingThrows 0 0 0 0 0
+Alignment    972
+Favor	       111
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        40
+ICEListen (null)~
+Resistant    256
+Mentalstate  -5
+Password     MapVfA9Suoey2~
+Title        &P<Legion Of Falcon>~
+Lastname  Hawk~
+Bio          Merry christmas, Happy New year, Happy easter, Have a great 4th of july
+And                     Happy birthday to y'all
+~
+AuthedBy     Relgar~
+Prompt       <&B%h/%Hhp &r%b/%Bbl &w%v/%V &Y%ggold &c%Xexp &w>~
+FPrompt	     <&B%h/%Hhp &r%b/%Bbl &w%v/%Vmv &R%c &c%Xexp &w>~
+Deity	     Thirian~
+Clan         RDAF~
+Flags        360480
+PKills       0
+PDeaths      0
+MKills       914
+MDeaths      38
+ArenaWins    3
+ArenaKills   4
+ArenaDeaths  6
+IllegalPK    0
+AttrPerm     15 11 15 18 14 9 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         172.128.136.162
+Skill        17 'aid'
+Skill        95 'backstab'
+Skill        95 'circle'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        61 'disarm'
+Skill        95 'discern'
+Skill        85 'dual wield'
+Skill        95 'feed'
+Skill        95 'gouge'
+Skill        60 'headbutt'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        70 'knee'
+Skill        70 'parry'
+Skill        95 'pick lock'
+Skill        90 'scan'
+Skill        73 'search'
+Skill        90 'second attack'
+Skill        95 'sneak'
+Skill        90 'spinkick'
+Skill        28 'steal'
+Skill        60 'track'
+Weapon       17 'bludgeons'
+Weapon       20 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'gith'
+AffectData   'armor' 365 -20  17 0
+Killed       8907 1
+Killed       3504 1
+Killed       3506 4
+Killed       7002 1
+Killed       3501 4
+Killed       10303 1
+Killed       10300 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         7219
+WearLoc      9
+Level        14
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        14
+Values       6 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48611
+Level        1
+Cost         0
+Values       30 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         41430
+WearLoc      11
+Level        28
+Values       9 9 9 4 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        23
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21056
+Level        13
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21064
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21066
+Level        12
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        14
+Values       0 0 11 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60993
+Level        13
+Values       4 4 3 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60990
+Level        13
+Values       4 4 3 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         624
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21070
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21055
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         61001
+Level        14
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        17
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         3421
+Level        1
+Values       12 2 6 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7221
+Level        44
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24802
+ExtraFlags   25265153
+Level        32
+Values       12 10 29 7 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         809
+Level        19
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14701
+Level        63
+Values       12 15 53 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5113
+Level        79
+Values       12 3 12 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6518
+Level        24
+Cost         0
+Values       12 2 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24817
+ExtraFlags   64
+Level        32
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26539
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         654
+WearLoc      5
+Level        21
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100097
+WearLoc      17
+Level        10
+Values       8 8 0 12 0 0
+End
+
+#OBJECT
+Vnum         24817
+Level        27
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24817
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         3506
+WearLoc      12
+Level        16
+Values       10 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         48602
+Level        17
+Values       12 2 10 11 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#ALIAS
+Name     99~
+Commands hide;save~
+End
+
+#ALIAS
+Name     1~
+Commands save~
+End
+
+#ALIAS
+Name     2~
+Commands disarm~
+End
+
+#ALIAS
+Name     3~
+Commands quaff shot~
+End
+
+#ALIAS
+Name     4~
+Commands spinkick~
+End
+
+#ALIAS
+Name     5~
+Commands gouge~
+End
+
+#ALIAS
+Name     6~
+Commands headbutt~
+End
+
+#ALIAS
+Name     7~
+Commands circle~
+End
+
+#END

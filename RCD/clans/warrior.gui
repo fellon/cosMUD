@@ -1,0 +1,32 @@
+#CLAN
+Name         Guild of Warriors~
+Filename     warrior.gui~
+Motto        To Bash and Slash~
+Leader       Reaper~
+NumberOne    Sager~
+PKillRangeNew   0 0 0 0 0 2 7
+PDeathRangeNew  0 0 0 0 0 1 20
+MKills       11991
+MDeaths      228
+IllegalPK    0
+Score        0
+Type         14
+Class        3
+Favour       0
+Strikes      0
+Members      13
+MemLimit     0
+Alignment    0
+Board        21239
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       21002
+Storeroom    21240
+GuardOne     0
+GuardTwo     0
+End
+
+#END

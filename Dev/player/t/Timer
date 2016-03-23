@@ -1,0 +1,88 @@
+#PLAYER
+Version      3
+Name         Timer~
+Sex          1
+Class        4
+Race         7
+Languages    1 1
+Level        2
+Played       233
+Room         10398
+HpManaMove   34 42 91 91 110 110
+Gold         0
+Exp          2000
+Height          96
+Weight          280
+Act          637535816
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -3
+Password     Ti4qTJEqUajsc~
+Title         the Blood Student~
+Flags        0
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 12 11 13 15 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 45 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'orcish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

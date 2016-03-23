@@ -1,0 +1,62 @@
+#PLAYER
+Version      3
+Name         Ssaaslak~
+Description  This young lizards scales are dull green.
+~
+Sex          2
+Class        5
+Race         13
+Languages    1 1
+Level        3
+Played       7700
+Room         21194
+HpManaMove   52 52 81 105 120 120
+Gold         18623
+Exp          18666
+Height          71
+Weight          212
+Act          536872520
+AffectedBy   -2147483648
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        10
+ICEListen ~
+Resistant    64
+Mentalstate  -2
+Password     SsCcFd.ayzzxQ~
+Title         the Acolyte~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       28
+MDeaths      1
+IllegalPK    0
+AttrPerm     14 9 12 12 16 12 9
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 0 13
+Site         207.202.214.132
+Spell        35 'armor'
+Spell        23 'create food'
+Spell        19 'create water'
+Spell        21 'cure light'
+Skill        19 'evasive style'
+Weapon       19 'bludgeons'
+Tongue       100 'common'
+AffectData   'armor' 425 -20  17 0
+AffectData   'bless' 1097   6  18 0
+AffectData   'bless' 1097  -6  24 0
+Killed       10303 1
+Killed       10396 3
+Killed       10301 1
+End
+
+#END

@@ -1,0 +1,182 @@
+#PLAYER
+Version      3
+Name         Orthae~
+Sex          1
+Class        4
+Race         11
+Languages    1 1
+Level        2
+Played       879
+Room         10319
+HpManaMove   21 32 112 112 210 110
+Gold         2415
+Exp          5891
+Height          55
+Weight          91
+Act          570427000
+AffectedBy   17302016
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    -142
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        60
+ICEListen ~
+Resistant    256
+Mentalstate  0
+Password     Ornigk.3QdSsA~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       11
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 16 11 17 12 9 15
+AttrMod      0 0 0 3 0 0 0
+Condition    0 38 27 3
+Site         64.169.158.195
+Skill        19 'standard style'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'slink' 1006   3   2 0
+AffectData   'armor' 351 -20  17 0
+AffectData   'bless' 1020   6  18 0
+AffectData   'bless' 1020  -6  24 0
+AffectData   'shield' 589 -20  17 0
+AffectData   'fly' 590   0  26 524288
+Killed       10302 1
+Killed       10301 1
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10324
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#END

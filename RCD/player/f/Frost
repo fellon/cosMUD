@@ -1,0 +1,214 @@
+#PLAYER
+Version      3
+Name         Frost~
+Description  ~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        20
+Played       19634
+Room         8141
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   422 435 100 100 339 347
+Gold         97885
+Exp          8587477
+Height          125
+Weight          334
+Act          570426952&4
+AffectedBy   512
+Position     104
+Style     2
+Practice     25
+SavingThrows 0 0 0 0 -6
+Alignment    25
+Favor	       1052
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        30
+ICEListen (null)~
+Mentalstate  -1
+Password     FrG0l1NlovA5s~
+Title         the Ultimate Warrior~
+Lastname ~
+AuthedBy     Arbadus~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       85
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 10 10 14 14 8 14
+AttrMod      4 0 0 0 0 0 0
+Condition    0 17 0 10
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        17 'elbow'
+Skill        100 'enhanced damage'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        20 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Weapon       17 'bludgeons'
+Weapon       100 'long blades'
+Weapon       100 'short blades'
+Tongue       100 'common'
+AffectData   'kindred strength' 809   4   1 0
+AffectData   'bless' 1108   6  18 0
+AffectData   'bless' 1108  -6  24 0
+Killed       2407 1
+Killed       21037 1
+Killed       8108 1
+Killed       8128 2
+Killed       8129 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       77 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       32 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        10
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        5
+Values       11 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      18
+Level        3
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+Level        55
+Values       13 14 0 0 0 0
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     pp~
+Commands dri spri~
+End
+
+#ALIAS
+Name     as~
+Commands elbow~
+End
+
+#END

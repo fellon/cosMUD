@@ -1,0 +1,349 @@
+#PLAYER
+Version      3
+Name         Grazonaj~
+Description  ~
+Sex          1
+Class        6
+Race         9
+Languages    524289 1
+Level        31
+Played       453698
+Room         21000
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   636 526 344 358 494 469
+Gold         1492945
+Exp          32478250
+Height          63
+Weight          148
+Act          570426956&4
+AffectedBy   302612994
+Position     112
+Style     2
+Practice     17
+SavingThrows 0 0 0 0 -3
+Alignment    950
+Favor	       667
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        60
+Wimpy        127
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Gr6Eo60hwbfz2~
+Title         the Skylord~
+Lastname  Caranthir~
+Prompt       ^x&w<&r%h&W.%H&rh &c%m&W.%M&cm &g%v&W.%V&Gv &Y%gg &p%Xe &O%A&w> &g~
+FPrompt	     ^x&w<&r%h&W.%H&rh &c%m&W.%M&cm &g%v&W.%V&Gv &Y%gg &p%Xe &R%C&w> &g~
+Pagerlen     30
+Deity	     Oghma~
+Clan         Guild of Rangers~
+Flags        98336
+PKills       0
+PDeaths      0
+MKills       2392
+MDeaths      53
+ArenaWins    1
+ArenaKills   3
+ArenaDeaths  7
+IllegalPK    0
+AttrPerm     15 17 13 17 12 15 12
+AttrMod      2 0 0 5 0 0 0
+Condition    0 12 4 38
+Site         207.202.214.131
+Spell        59 'aqua breath'
+Spell        85 'armor'
+Spell        80 'bless'
+Spell        90 'create fire'
+Spell        90 'create water'
+Spell        24 'cure blindness'
+Spell        85 'cure light'
+Spell        76 'cure poison'
+Spell        85 'detect invis'
+Spell        80 'detect magic'
+Spell        87 'detect poison'
+Spell        18 'fletch'
+Spell        75 'identify'
+Spell        65 'infravision'
+Spell        80 'invis'
+Spell        46 'kindred strength'
+Spell        85 'poison'
+Spell        24 'refresh'
+Spell        68 'remove invis'
+Spell        49 'shield'
+Spell        95 'word of recall'
+Skill        22 'aid'
+Skill        90 'climb'
+Skill        18 'cook'
+Skill        95 'cuff'
+Skill        95 'dig'
+Skill        30 'disarm'
+Skill        90 'dual wield'
+Skill        80 'elbow'
+Skill        75 'enhanced damage'
+Skill        90 'hide'
+Skill        90 'kick'
+Skill        90 'mount'
+Skill        90 'parry'
+Skill        94 'pigeon'
+Skill        24 'rescue'
+Skill        65 'roundhouse'
+Skill        90 'scan'
+Skill        89 'search'
+Skill        90 'second attack'
+Skill        80 'shoulder'
+Skill        90 'sneak'
+Skill        90 'third attack'
+Skill        90 'track'
+Weapon       80 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       85 'long blades'
+Weapon       18 'missile weapons'
+Weapon       90 'pugilism'
+Weapon       40 'short blades'
+Weapon       95 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Tongue       99 'gith'
+AffectData   'slink' 268   5   2 0
+AffectData   'sneak' 316   0  26 32768
+AffectData   'invis'  47   0   0 2
+AffectData   'armor' 209 -20  17 0
+AffectData   'bless' 614   3  18 0
+AffectData   'bless' 614  -3  24 0
+AffectData   'kindred strength' 646   2   1 0
+AffectData   'shield' 648 -20  17 0
+AffectData   'flight' 1685   0  26 524288
+AffectData   'fireshield' 275   0  26 33554432
+AffectData   'iceshield' 277   0  26 268435456
+AffectData   'inner warmth' 1626   2  27 0
+Killed       21071 1
+Killed       1521 1
+Killed       1519 1
+Killed       1518 2
+Killed       1517 7
+Killed       1548 5
+Killed       1513 2
+Killed       6117 1
+i3invis	0
+End
+
+#ALIAS
+Name     2~
+Commands south~
+End
+
+#ALIAS
+Name     8~
+Commands north~
+End
+
+#ALIAS
+Name     6~
+Commands east~
+End
+
+#ALIAS
+Name     4~
+Commands west~
+End
+
+#ALIAS
+Name     7~
+Commands northwest~
+End
+
+#ALIAS
+Name     9~
+Commands northeast~
+End
+
+#ALIAS
+Name     1~
+Commands southwest~
+End
+
+#ALIAS
+Name     3~
+Commands southeast~
+End
+
+#ALIAS
+Name     0~
+Commands l~
+End
+
+#ALIAS
+Name     ls~
+Commands alias~
+End
+
+#ALIAS
+Name     /~
+Commands cast armor;cast bless~
+End
+
+#ALIAS
+Name     5~
+Commands hide;sneak~
+End
+
+#ALIAS
+Name     55~
+Commands hide;sneak;cast invis~
+End
+
+#ALIAS
+Name     aa~
+Commands shoul;elb;kick;cuf~
+End
+
+#ALIAS
+Name     11~
+Commands cast c~
+End
+
+#ALIAS
+Name     22~
+Commands down~
+End
+
+#ALIAS
+Name     88~
+Commands up~
+End
+
+#ALIAS
+Name     2222~
+Commands scan d~
+End
+
+#ALIAS
+Name     00~
+Commands inventory~
+End
+
+#ALIAS
+Name     47~
+Commands scan nw~
+End
+
+#ALIAS
+Name     48~
+Commands scan n~
+End
+
+#ALIAS
+Name     488~
+Commands scan u~
+End
+
+#ALIAS
+Name     49~
+Commands scan ne~
+End
+
+#ALIAS
+Name     46~
+Commands scan e~
+End
+
+#ALIAS
+Name     43~
+Commands scan se~
+End
+
+#ALIAS
+Name     42~
+Commands scan s~
+End
+
+#ALIAS
+Name     422~
+Commands scan d~
+End
+
+#ALIAS
+Name     41~
+Commands scan sw~
+End
+
+#ALIAS
+Name     44~
+Commands scan w~
+End
+
+#ALIAS
+Name     33~
+Commands get meat 'rune-covered bag';eat meat~
+End
+
+#ALIAS
+Name     66~
+Commands drink dragonskin~
+End
+
+#ALIAS
+Name     555~
+Commands vis~
+End
+
+#ALIAS
+Name     50~
+Commands cast word~
+End
+
+#ALIAS
+Name     666~
+Commands dri spr;fil dragonskin spring~
+End
+
+#ALIAS
+Name     art~
+Commands get key; unl n;op n~
+End
+
+#ALIAS
+Name     63~
+Commands drink;fill dragonskin~
+End
+
+#ALIAS
+Name     78~
+Commands get key;unl n;op n~
+End
+
+#ALIAS
+Name     76~
+Commands get key;unl e;op e~
+End
+
+#ALIAS
+Name     72~
+Commands get key;unl s;op s~
+End
+
+#ALIAS
+Name     74~
+Commands get key;unl w;op w~
+End
+
+#ALIAS
+Name     722~
+Commands get ket;unl d;op d~
+End
+
+#MOBILE
+Vnum	21060
+Room	21126
+Description The hunting dog constantly sniffs the ground, searching for its prey.
+A neck tag says 'I belong to Grazonaj'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

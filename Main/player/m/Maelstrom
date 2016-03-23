@@ -1,0 +1,565 @@
+#PLAYER
+Version      3
+Name         Maelstrom~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      2
+Languages    278529 1
+Level        59
+Played       502042
+Room         21000
+Memorized		21000 1551 0 0 0 0 0 0
+HpManaMove   645 535 640 448 938 854
+Gold         6266965
+Exp          243915432
+Height          60
+Weight          140
+Act          570426952&4
+AffectedBy   33554440
+Position     104
+Style     2
+Practice     83
+SavingThrows 0 0 0 0 0
+Alignment    -435
+Favor	       1119
+Balance      0
+Glory        170
+MGlory       210
+Hitroll      0
+Damroll      0
+Armor        100
+Deaf         12615793
+ICEListen (null)~
+Mentalstate  0
+Password     MatdyJfAX4Lgc~
+Title         the Killer of the Gods~
+Extraname  Dark Lord~
+Lastname ~
+AuthedBy     Prage~
+FPrompt	     <%hhp %mm %vmv %g %c %C>~
+Pagerlen     20
+Deity	     Soleran~
+Clan         Order of Chaos~
+Flags        98818
+PKills       32
+PDeaths      5
+MKills       1950
+MDeaths      79
+ArenaWins    9
+ArenaKills   33
+ArenaDeaths  25
+IllegalPK    0
+AttrPerm     12 14 13 14 12 14 12
+AttrMod      4 0 0 0 4 -1 0
+Condition    0 35 8 69
+Site         207.202.214.132
+Spell        62 'acid blast'
+Spell        35 'aqua breath'
+Spell        95 'armor'
+Spell        21 'black fist'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        26 'blazeward'
+Spell        28 'blindness'
+Spell        94 'blur'
+Spell        94 'burning hands'
+Spell        28 'cancelation'
+Spell        95 'caustic fount'
+Spell        95 'charm person'
+Spell        95 'colour spray'
+Spell        92 'continual light'
+Spell        21 'control weather'
+Spell        95 'create spring'
+Spell        19 'curse'
+Spell        78 'demonskin'
+Spell        95 'detect invis'
+Spell        19 'dispel magic'
+Spell        45 'disruption'
+Spell        69 'dragon wit'
+Spell        45 'dragonskin'
+Spell        19 'dream'
+Spell        51 'eldritch sphere'
+Spell        72 'elven beauty'
+Spell        39 'enchant weapon'
+Spell        95 'energy drain'
+Spell        19 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        33 'ethereal shield'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        95 'farsight'
+Spell        85 'fireball'
+Spell        89 'flight'
+Spell        38 'float'
+Spell        95 'galvanic whip'
+Spell        35 'hand of chaos'
+Spell        85 'iceshield'
+Spell        95 'identify'
+Spell        27 'infravision'
+Spell        37 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        72 'knock'
+Spell        95 'lightning bolt'
+Spell        68 'liquid skin'
+Spell        95 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        40 'ogrish hide'
+Spell        84 'pass door'
+Spell        95 'portal'
+Spell        23 'razorbait'
+Spell        19 'recharge'
+Spell        62 'refresh'
+Spell        93 'sagacity'
+Spell        95 'shadowform'
+Spell        95 'shield'
+Spell        75 'shockshield'
+Spell        27 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        30 'spectral furor'
+Spell        74 'stone skin'
+Spell        95 'summon'
+Spell        22 'swordbait'
+Spell        95 'teleport'
+Spell        34 'transport'
+Spell        87 'trollish vigor'
+Spell        35 'true sight'
+Spell        20 'valiance'
+Spell        56 'weaken'
+Spell        19 'winter mist'
+Spell        22 'wizard eye'
+Spell        95 'word of recall'
+Skill        26 'aid'
+Skill        19 'brew'
+Skill        60 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        59 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        54 'meditate'
+Skill        95 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        24 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        93 'trance'
+Weapon       80 'bludgeons'
+Weapon       20 'flexible arms'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       9 'goblin'
+AffectData   'detect invis' 1285   0  26 8
+AffectData   'fireshield' 179   0  26 33554432
+AffectData   'kindred strength' 1191   4   1 0
+AffectData   'trollish vigor' 1191  -1  25 0
+AffectData   'trollish vigor' 1191   4   5 0
+Killed       12585 1
+Killed       1527 1
+Killed       14710 1
+Killed       6103 1
+Killed       24809 1
+Killed       5106 1
+Killed       802 1
+Killed       44709 2
+Killed       24827 1
+Killed       1513 2
+Killed       1511 1
+Killed       1508 1
+Killed       1502 1
+Killed       1538 1
+Killed       6000 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         12545
+WearLoc      20
+Level        48
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         12572
+WearLoc      10
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         12575
+WearLoc      7
+Level        44
+Cost         0
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         12576
+WearLoc      8
+Level        44
+Cost         0
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        53
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      14
+Level        29
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         12571
+WearLoc      5
+Level        45
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         46274
+WearLoc      15
+Level        22
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         30310
+WearLoc      13
+Level        35
+Cost         0
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         30307
+WearLoc      19
+Level        30
+Cost         0
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         7939
+WearLoc      12
+Level        48
+Cost         0
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         42963
+WearLoc      6
+Level        29
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         12501
+WearLoc      12
+Level        53
+Cost         0
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         46923
+WearLoc      9
+Level        53
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         12505
+WearLoc      16
+Level        50
+Values       10 14 43 11 0 0
+End
+
+#OBJECT
+Name         one winged angel~
+ShortDescr   One Winged Angel~
+Description  Maelstrom has dropped the One Winged Angel here.~
+Vnum         46900
+WearLoc      18
+Level        52
+Values       10 12 144 6 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         30309
+Level        25
+Values       50 4 3 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Vnum         36
+End
+
+#OBJECT
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         36
+Values       1 0 1 0 0 0
+ExtraDescr   _text_~ By selling your soul, this only
+means that I am allowed to say
+that I own your soul and can 
+make an item entitled "Theodore's Soul"
+This has no real bearing on the game.
+If I say that I own your soul you may not say that 
+I don't. If I have lied, I must sui
+cide my character.
+-Mael
+I ,Theodore, have agreed to sell
+my soul to Maelstrom, for eternity. 
+I can no longer claim it as mine.
+I have sold it for 3 million coins
+Maelstrom owns it now.
+-Theodore
+~
+ExtraDescr   _to_~ Contract of Theodore's Soul~
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25564
+Level        1
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1213
+Level        70
+End
+
+#OBJECT
+Nest         1
+Vnum         1213
+Level        71
+End
+
+#OBJECT
+Nest         1
+Vnum         3604
+Level        1
+Cost         0
+Values       0 1 5 7 0 0
+End
+
+#OBJECT
+Vnum         12589
+Level        39
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Name         flask potion quantum spike~
+ShortDescr   a quantum spike potion~
+Description  A strange potion labelled 'quantum spike' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       66 171 -1 -1 0 0
+Spell 1      'quantum spike'
+End
+
+#OBJECT
+Vnum         100002
+WearLoc      22
+Level        59
+Values       500 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         13027
+Level        14
+Values       157 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         8107
+Level        60
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         48026
+Level        53
+Values       10 187 138 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'kindred strength'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         7206
+ExtraFlags   64
+Level        17
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         30309
+Level        25
+Values       49 2 2 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         30309
+Level        25
+Values       49 3 3 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         30309
+Level        25
+Values       50 3 3 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         30309
+Level        25
+Values       51 2 2 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Vnum         30309
+Level        25
+Values       50 2 2 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         30309
+Level        25
+Values       51 3 3 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Vnum         30309
+Level        25
+Values       49 4 4 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Vnum         30309
+Level        25
+Values       51 4 4 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         30309
+Level        25
+Values       50 4 4 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Vnum         21011
+Level        97
+Values       11 5 40 0 0 0
+End
+
+#ALIAS
+Name     bl~
+Commands c black ~
+End
+
+#ALIAS
+Name     en~
+Commands c energy ~
+End
+
+#ALIAS
+Name     a~
+Commands c word~
+End
+
+#END

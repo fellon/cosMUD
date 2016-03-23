@@ -1,0 +1,70 @@
+#PLAYER
+Version      3
+Name         Fnor~
+Sex          1
+Class        1
+Race         1
+Languages    1 1
+Level        5
+Played       4160
+Room         21185
+HpManaMove   65 65 127 127 123 140
+Gold         51605
+Exp          64937
+Height          60
+Weight          99
+Act          570427000
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -4
+Password     FnRyPeS6OHl3.~
+Title         the Missionary~
+Prompt       <%h/%Hhp %m/%Mma %v/%Vmv> <%X>~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       96
+MDeaths      1
+IllegalPK    0
+AttrPerm     13 14 16 16 12 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 15
+Site         63.161.21.90
+Spell        34 'armor'
+Spell        19 'bless'
+Spell        19 'cure blindness'
+Spell        19 'detect invis'
+Spell        23 'detect magic'
+Spell        50 'faerie fire'
+Skill        19 'aid'
+Skill        19 'defensive style'
+Skill        19 'evasive style'
+Skill        19 'mount'
+Skill        19 'standard style'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 1149   6  18 0
+AffectData   'bless' 1149  -6  24 0
+AffectData   'armor' 489 -20  17 0
+Killed       10303 3
+Killed       10300 4
+Killed       10302 4
+End
+
+#END

@@ -1,0 +1,313 @@
+#PLAYER
+Version      3
+Name         Grear~
+Description  ~
+Sex          1
+Class        9
+Race         37
+Languages    5 1
+Level        28
+Played       77706
+Room         24819
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   447 729 481 431 451 451
+Gold         3373045
+Exp          24678920
+Height          385
+Weight          1958
+Act          570426952&4
+AffectedBy   -2147483520
+Position     112
+Style     2
+Practice     33
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       1423
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    2097152
+Susceptible  1
+Mentalstate  -3
+Password     Grm6L0YARDPp6~
+Title         the Juvenile Dragon~
+Lastname  le'marge~
+AuthedBy     Marten~
+Prompt       <%h/%Hhp %m/%Mma %v/%Vmv> <%X> ~
+FPrompt	     <%h/%Hhp %m/%Mma %v/%Vmv> <%X> <%c>~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       465
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 13 13 16 12 15 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 32 5 38
+Site         63.161.21.90
+Spell        65 'armor'
+Spell        19 'cancelation'
+Spell        21 'create fire'
+Spell        21 'detect magic'
+Spell        19 'dispel magic'
+Spell        100 'dragon wit'
+Spell        53 'dragonskin'
+Spell        19 'extradimensional portal'
+Spell        24 'faerie fire'
+Spell        55 'float'
+Spell        29 'locate object'
+Spell        50 'poison'
+Spell        41 'shield'
+Spell        77 'word of recall'
+Skill        19 'aid'
+Skill        95 'bite'
+Skill        19 'dual wield'
+Skill        95 'enhanced damage'
+Skill        64 'fan'
+Skill        40 'kick'
+Skill        19 'scan'
+Skill        19 'search'
+Skill        100 'second attack'
+Skill        95 'third attack'
+Skill        19 'track'
+Weapon       50 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+AffectData   'aqua breath' 931   0  26 -2147483648
+AffectData   'sanctuary'  59   0  26 128
+Killed       3501 2
+Killed       7003 3
+Killed       21064 1
+Killed       24835 2
+Killed       24803 1
+Killed       24824 1
+Killed       24836 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        15
+Values       1 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        14
+Values       1 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        13
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        30
+Values       4 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2802
+WearLoc      11
+Level        39
+Values       21 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         5112
+WearLoc      1
+Level        23
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         5112
+WearLoc      2
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2803
+WearLoc      5
+Level        38
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         42979
+WearLoc      16
+Level        37
+Values       12 11 32 7 0 0
+End
+
+#OBJECT
+Vnum         24817
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24817
+Level        35
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24818
+Level        34
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24817
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24885
+Level        48
+Values       -20 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         24885
+Level        29
+Values       1 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         21071
+WearLoc      17
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       40 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21072
+Level        12
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21072
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21004
+Level        11
+Values       21 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21004
+Level        11
+Values       22 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         24884
+Level        27
+Values       7 7 26 3 0 0
+End
+
+#OBJECT
+Vnum         24884
+Level        30
+Values       11 9 26 3 0 0
+End
+
+#END

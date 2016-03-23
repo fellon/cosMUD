@@ -1,0 +1,254 @@
+#PLAYER
+Version      3
+Name         Naive~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Languages    1 1
+Level        9
+Played       73662
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   70 70 161 253 204 204
+Gold         68826
+Exp          738188
+Height          56
+Weight          115
+Act          570426970
+AffectedBy   2097680
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        5
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     NamOaF.aBm00M~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Fellon~
+FPrompt	     <&Y%hhp &C%mmp &R%c&w>~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       245
+MDeaths      8
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 18 11 15 12 13 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 10 16
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        95 'black hand'
+Spell        95 'chill touch'
+Spell        40 'continual light'
+Spell        48 'create fire'
+Spell        64 'float'
+Spell        95 'galvanic whip'
+Spell        49 'infravision'
+Spell        95 'invis'
+Spell        48 'locate object'
+Spell        95 'magic missile'
+Spell        95 'shocking grasp'
+Spell        95 'weaken'
+Spell        59 'word of recall'
+Skill        19 'cook'
+Skill        95 'scan'
+Skill        95 'second cast'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor'  53 -20  17 0
+AffectData   'float' 192   0  26 2097152
+AffectData   'infravision' 198   0  26 512
+Killed       7003 2
+Killed       3506 1
+Killed       3501 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8307
+Level        13
+Values       41 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         3611
+Level        3
+End
+
+#OBJECT
+Nest         1
+Vnum         60953
+Level        100
+Values       6 6 12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         3606
+Level        2
+Values       6 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         3606
+Level        1
+Values       4 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         3606
+Level        3
+Values       6 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3613
+Level        9
+Cost         0
+Values       12 2 8 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         3612
+WearLoc      3
+Level        3
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3612
+WearLoc      4
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3613
+WearLoc      16
+Level        9
+Cost         0
+Values       12 2 8 11 0 0
+End
+
+#ALIAS
+Name     hl~
+Commands quaff anti-death~
+End
+
+#ALIAS
+Name     esc~
+Commands c word~
+End
+
+#ALIAS
+Name     et~
+Commands get meat bag;eat meat~
+End
+
+#ALIAS
+Name     bh~
+Commands cast 'black hand'~
+End
+
+#ALIAS
+Name     dk~
+Commands get skin bag;drink skin;put skin bag~
+End
+
+#ALIAS
+Name     cin~
+Commands c inv~
+End
+
+#ALIAS
+Name     mm~
+Commands c 'magic missile'~
+End
+
+#ALIAS
+Name     sg~
+Commands c 'shocking gra'~
+End
+
+#ALIAS
+Name     hea~
+Commands get maggot bag;eat maggot~
+End
+
+#MOBILE
+Vnum	21070
+Room	1534
+Description This fat, lumbering creature is dirty and unkept. You find yourself
+wondering what it carries.
+A neck tag says 'I belong to Naive'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

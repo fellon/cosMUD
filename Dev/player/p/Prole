@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Prole~
+Description  It's prole!
+~
+Sex          1
+Class        1
+Race         9
+Languages    1 1
+Level        2
+Played       4115
+Room         10303
+HpManaMove   23 32 107 107 110 110
+Gold         0
+Exp          2585
+Height          65
+Weight          163
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        6
+ICEListen ~
+Resistant    2
+Mentalstate  -16
+Password     PrdaU/m94Q.QY~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 14 16 15 12 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         209.221.165.117
+Spell        19 'cause light'
+Spell        19 'cure light'
+Skill        19 'cook'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

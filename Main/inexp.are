@@ -1,0 +1,351 @@
+#AREA Mages guild lesser experience~
+
+#AUTHOR Andy~
+
+#RANGES
+10 60 10 60
+$
+
+#RESETMSG ~
+
+#FLAGS
+0 0
+
+#ECONOMY 1000 0
+
+#MOBILES
+#1
+Lama~
+A lama~
+A lama is standing here eating some grass
+~
+Somone left there lama behind here.
+~
+65 0 0 C
+15 0 -100 8d1+10 1d3+20
+1000 100000
+12 12 2
+20 3 12 6 12 13 13
+0 0 0 0 0
+87 0 0 0 0 0 2
+20 15 0 0 0 128 296344 8
+#2
+yemba~
+Yemba~
+Yemba is here.
+~
+Someone has abandoned poor yemba here
+~
+65 0 1000 C
+30 0 -100 8d81+6 1d1+58
+10000 50000
+12 12 1
+15 20 20 15 12 18 15
+0 0 0 0 0
+0 0 0 0 0 0 3
+5 40 0 0 2048 0 70402560 2097666
+#3
+Mike roch~
+Mike roch~
+Mike roch is standing here.
+~
+~
+65 44566844 0 C
+1 0 -10 1d1+50 1d1+41
+100000 100000
+12 12 0
+20 25 25 15 20 20 8
+0 0 0 0 0
+0 0 0 0 0 0 2
+40 3 1040 1024 0 2052 88096768 3703518
+#4
+Thing~
+A thing~
+A thing is here.
+~
+as you look closer, you smell the smelly smell of somthing that smells smelly.
+~
+65 304679232 1000 C
+60 0 -275 1d1+50 0d0+90
+1000000 1000000
+12 12 1
+20 15 25 20 18 19 18
+0 0 0 0 0
+0 0 0 0 0 0 1
+60 40 538970112 0 2048 1025 661798915 194
+#0
+
+#OBJECTS
+#1
+Arch welder~
+An arch welder~
+An arch welder has been discarded here~
+~
+5 25395200 24577 0
+8 23 40 38
+4 100000 0
+#2
+Bannana~
+A bannana~
+A bannana is here~
+~
+3 27492352 24577 0
+10 50000 50000 61
+1 0 0
+#3
+Brass knuckles~
+Brass knuckles~
+A pair of brass knuckles is on th floor.~
+~
+5 27492352 3 0
+13 65 80 17
+1 400648 0
+#4
+Helm~
+A helm~
+A helm is here~
+~
+9 25395200 17 0
+-1000 0 0 0
+1 505418 0
+#5
+Slayer sword~
+A slayers sword~
+A s;ayers sword is on the ground.~
+~
+5 25395232 8193 0
+13 26 153 13
+1 100000 0
+#6
+Good pill~
+A good pill~
+There is a good pill on the ground here~
+~
+26 25395200 16385 0
+50000 3 19 39 5000 0
+1 0 0
+#7
+Shield~
+A shield~
+A shield is here~
+~
+9 25395232 513 0
+-1000 0 0 0
+2 0 0
+#0
+
+#ROOMS
+#1
+Trainer intoduction area~
+This area has manny mobs to kill just make sure that you con bobs before you 
+kill and  also watch for hidden and invis things i put some in there the mobs 
+will have good weapons/armor so go out and kill.
+~
+0 3145732 0 0 0 0
+D2
+Exit description
+~
+~
+0 0 2 0
+D4
+Exit description
+~
+~
+0 0 8 0
+S
+#2
+mobs~
+just look arround for mobs
+~
+0 2097152 0 0 0 0
+D0
+Exit description
+~
+~
+0 0 1 0
+D1
+Exit description
+~
+~
+0 0 3 0
+D3
+Exit description
+~
+~
+0 0 4 0
+S
+#3
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D3
+Exit description
+~
+~
+0 0 2 0
+D2
+Exit description
+~
+~
+0 0 5 0
+S
+#4
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D1
+Exit description
+~
+~
+0 0 2 0
+D2
+Exit description
+~
+~
+0 0 6 0
+S
+#5
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D0
+Exit description
+~
+~
+0 0 3 0
+D1
+Exit description
+~
+~
+0 0 6 0
+S
+#6
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D0
+Exit description
+~
+~
+0 0 4 0
+D3
+Exit description
+~
+~
+0 0 5 0
+D2
+Exit description
+~
+~
+0 0 7 0
+S
+#7
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D0
+Exit description
+~
+~
+0 0 6 0
+D2
+Exit description
+~
+~
+0 0 9 0
+S
+#8
+potion room~
+Here is a plac where you can drop potions pills scrolls and anything like that
+~
+0 2097152 0 0 0 0
+D5
+Exit description
+~
+~
+0 0 1 0
+S
+#9
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D0
+Exit description
+~
+~
+0 0 7 0
+D1
+Exit description
+~
+~
+0 0 10 0
+S
+#10
+mobs~
+just look arround for mobs
+~
+0 0 0 0 0 0
+D3
+Exit description
+~
+~
+0 0 9 0
+S
+#0
+
+#RESETS
+P 0 2 1 5  ; Put: #2 A bannana => #5 A slayers sword
+M 0 3 1 7  ; Mob: #3 Mike roch => #7 mobs
+E 1 1 1 16  ; -- Equip: #1 An arch welder (Wield)
+G 1 5 1 ; -- Give:  #5 A slayers sword
+M 0 1 1 3  ; Mob: #1 A lama => #3 mobs
+G 1 4 1 ; -- Give:  #4 A helm
+E 1 4 1 6  ; -- Equip: #4 A helm (Head)
+M 0 3 1 10  ; Mob: #3 Mike roch => #10 mobs
+E 1 7 1 11  ; -- Equip: #7 A shield (Shield)
+G 1 2 1 ; -- Give:  #2 A bannana
+M 0 2 1 2  ; Mob: #2 Yemba => #2 mobs
+G 1 5 1 ; -- Give:  #5 A slayers sword
+E 1 1 1 16  ; -- Equip: #1 An arch welder (Wield)
+M 0 4 1 4  ; Mob: #4 A thing => #4 mobs
+G 1 3 1 ; -- Give:  #3 Brass knuckles
+G 1 6 1 ; -- Give:  #6 A good pill
+G 1 7 1 ; -- Give:  #7 A shield
+M 0 1 1 5  ; Mob: #1 A lama => #5 mobs
+E 1 4 1 6  ; -- Equip: #4 A helm (Head)
+G 1 7 1 ; -- Give:  #7 A shield
+G 1 6 1 ; -- Give:  #6 A good pill
+M 0 4 1 6  ; Mob: #4 A thing => #6 mobs
+E 1 2 1 17  ; -- Equip: #2 A bannana (Hold)
+M 0 4 1 9  ; Mob: #4 A thing => #9 mobs
+E 1 2 1 16  ; -- Equip: #2 A bannana (Wield)
+G 1 4 1 ; -- Give:  #4 A helm
+G 1 5 1 ; -- Give:  #5 A slayers sword
+G 1 6 1 ; -- Give:  #6 A good pill
+G 1 7 1 ; -- Give:  #7 A shield
+O 0 1 1 10  ; Object: #1 An arch welder => #10 mobs
+O 0 2 1 10  ; Object: #2 A bannana => #10 mobs
+O 0 3 1 10  ; Object: #3 Brass knuckles => #10 mobs
+O 0 4 1 10  ; Object: #4 A helm => #10 mobs
+O 0 5 1 10  ; Object: #5 A slayers sword => #10 mobs
+O 0 7 1 10  ; Object: #7 A shield => #10 mobs
+O 0 6 1 8  ; Object: #6 A good pill => #8 potion room
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 Andy~
+Andy is cool~
+1 Hamspiced~
+Hamspiced is the verry good leader of the guild of mages~
+0 $~
+
+#$

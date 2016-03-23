@@ -1,0 +1,30 @@
+#CLAN
+Name         Unholy Empire~
+Filename     hol.clan~
+Leader       samio~
+PKillRangeNew   0 0 0 0 0 0 0
+PDeathRangeNew  0 0 0 0 0 0 0
+MKills       0
+MDeaths      0
+IllegalPK    0
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      0
+MemLimit     0
+Alignment    0
+Board        0
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       0
+Storeroom    0
+GuardOne     0
+GuardTwo     0
+End
+
+#END

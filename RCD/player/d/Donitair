@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Donitair~
+Sex          1
+Class        2
+Race         6
+Languages    1 1
+Level        2
+Played       2491
+Room         10301
+HpManaMove   38 38 92 92 110 110
+Gold         0
+Exp          2000
+Height          109
+Weight          278
+Act          -1577056696
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    32
+Mentalstate  0
+Password     DoAVcZuo/YgSo~
+Title         the Footpad~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 10 11 12 17 9 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 13 13 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'ogre'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

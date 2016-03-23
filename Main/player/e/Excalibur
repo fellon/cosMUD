@@ -1,0 +1,772 @@
+#PLAYER
+Version      3
+Name         Excalibur~
+Description  ~
+Sex          1
+Class        2
+Race         1
+Species      0
+Languages    1 1
+Level        12
+Played       183847
+Room         21039
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   176 141 240 240 240 240
+Gold         74282
+Exp          1330954
+Height          69
+Weight          101
+Act          637535834
+AffectedBy   33320
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    -3
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        50
+Wimpy        20
+ICEListen ~
+Resistant    1026
+Mentalstate  0
+Password     ExTJJ0l1hH4SM~
+Title         The Thief Of D'ni~
+Lastname ~
+Bio          Your kick _demolishes_ a carrion crawler! [12]
+~
+Clan         Guild of Thieves~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       775
+MDeaths      8
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     13 14 13 18 12 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 9 22
+Site         24.141.146.164
+Skill        20 'backstab'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        95 'discern'
+Skill        85 'dual wield'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        78 'pick lock'
+Skill        83 'scan'
+Skill        43 'search'
+Skill        90 'second attack'
+Skill        95 'sneak'
+Skill        20 'steal'
+Weapon       40 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       18 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'forcefield' 503 -50  17 0
+AffectData   'sneak' 103   0  26 32768
+AffectData   'discern'  10   0  26 32
+AffectData   'detect invis' 105   0  26 8
+Killed       8907 1
+Killed       21045 4
+Killed       10397 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        74
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6002
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2072
+Level        4
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2104
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2103
+Level        3
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2101
+Level        3
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21065
+Level        13
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        12
+Values       10 3 15 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21064
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21063
+Level        14
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21065
+Level        14
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        13
+Values       10 4 15 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21066
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21073
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14717
+Level        45
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        12
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        14
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        3
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1515
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21057
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3510
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        13
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 3 8 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        6
+Values       12 3 10 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        7
+Values       12 2 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 2 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10318
+Level        4
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        12
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        3
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 5 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        4
+Values       12 2 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        6
+Values       12 5 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 2 8 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21082
+Level        6
+Values       7 3 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       17 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        9
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       17 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        11
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       9 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        6
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       4 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6000
+WearLoc      16
+Level        6
+Values       12 2 12 1 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2109
+WearLoc      10
+Level        12
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+WearLoc      8
+Level        6
+Values       8 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      2
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         126
+WearLoc      18
+Level        1
+Values       12 2 6 7 0 0
+End
+
+#END

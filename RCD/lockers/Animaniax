@@ -1,0 +1,247 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         14702
+Room         327685
+Level        64
+Values       17 18 0 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+Room         327685
+Level        63
+Values       12 18 53 11 0 0
+End
+
+#OBJECT
+Vnum         14700
+Room         327685
+Level        64
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         14703
+Room         327685
+Level        63
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+Room         327685
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         25507
+Room         327685
+Level        34
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         14748
+Room         327685
+Level        47
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         12508
+Room         327685
+Level        45
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         12508
+Room         327685
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         25536
+Room         327685
+Level        40
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         25534
+Room         327685
+Level        44
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         25553
+Room         327685
+Level        45
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Vnum         25514
+Room         327685
+Level        43
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        59
+Values       51 20 20 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        56
+Values       50 20 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         15147
+Room         327685
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         3059
+Room         327685
+Level        45
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         15163
+Room         327685
+Level        43
+Values       12 12 39 11 0 0
+End
+
+#OBJECT
+Vnum         42937
+Room         327685
+Level        31
+Cost         0
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+Room         327685
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         3042
+Room         327685
+Level        34
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Room         327685
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         3500
+Room         327685
+Level        5
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         25552
+Room         327685
+Level        45
+Values       12 12 38 4 0 0
+End
+
+#OBJECT
+Vnum         25552
+Room         327685
+Level        46
+Values       12 14 40 4 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         2435
+Room         327685
+Values       3 68 109 10 0 0
+Spell 1      'detect magic'
+Spell 2      'flight'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         12572
+Room         327685
+Level        45
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25516
+Room         327685
+Level        41
+Values       29 30 0 0 0 0
+End
+
+#OBJECT
+Vnum         25518
+Room         327685
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         2435
+Room         327685
+Values       1 68 109 10 0 0
+Spell 1      'detect magic'
+Spell 2      'flight'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         25520
+Room         327685
+Level        38
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         25515
+Room         327685
+Level        43
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         14722
+Room         327685
+Level        43
+Values       46 10 10 31 0 0
+Spell 3      'cause critical'
+End
+
+#END

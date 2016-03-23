@@ -1,0 +1,49 @@
+#PLAYER
+Version      3
+Name         Ruthafellow~
+Sex          1
+Class        2
+Race         0
+Languages    1 1
+Level        2
+Played       4727
+Room         21194
+HpManaMove   30 30 100 100 110 110
+Gold         503
+Exp          1432
+Height          62
+Weight          144
+Act          570426952
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -3
+Password     RuXzwBcLBReqg~
+Title         the Footpad~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      1
+IllegalPK    0
+AttrPerm     13 16 10 15 14 12 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 12
+Site         207.202.214.132
+Skill        17 'pick lock'
+Skill        17 'steal'
+Tongue       100 'common'
+AffectData   'armor' 484 -20  17 0
+Killed       10317 5
+End
+
+#END

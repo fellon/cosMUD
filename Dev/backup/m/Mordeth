@@ -1,0 +1,534 @@
+#PLAYER
+Version      3
+Name         Mordeth~
+Description  ~
+Sex          1
+Class        3
+Race         5
+Languages    65 1
+Level        23
+Played       101020
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   370 513 122 122 386 386
+Gold         38503
+Exp          12404882
+Height          51
+Weight          145
+Act          570427000
+AffectedBy   512
+Position     104
+Style     2
+Practice     18
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1121
+Balance      0
+Glory        30
+MGlory       30
+Hitroll      0
+Damroll      0
+Armor        30
+Wimpy        40
+ICEListen (null)~
+Resistant    256
+Mentalstate  -5
+Password     MowwUqlTdKqqg~
+Title         the Sergeant~
+Lastname ~
+AuthedBy     Rathkor~
+Deity	     Shar~
+Clan         Vampire~
+Flags        98306
+PKills       1
+PDeaths      2
+MKills       968
+MDeaths      9
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     18 11 15 13 14 10 11
+AttrMod      0 4 4 4 0 0 0
+Condition    0 0 0 32
+Site         207.202.214.132
+Skill        17 'aid'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        51 'feed'
+Skill        92 'kick'
+Skill        90 'lunge'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        45 'scan'
+Skill        38 'search'
+Skill        95 'second attack'
+Skill        35 'shoulder'
+Skill        47 'third attack'
+Weapon       100 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'trollese'
+AffectData   'shield' 550 -20  17 0
+AffectData   'forcefield' 616 -50  17 0
+AffectData   'slink' 553   4   2 0
+AffectData   'sagacity' 557   4   4 0
+AffectData   'dragon wit' 558   4   3 0
+Killed       24814 1
+Killed       10301 3
+Killed       10303 2
+Killed       10300 3
+Killed       10302 3
+Killed       21007 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        12
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         41402
+WearLoc      3
+Level        17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         41402
+WearLoc      4
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      14
+Level        17
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      15
+Level        16
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2364
+WearLoc      7
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41417
+Level        24
+Values       12 2 30 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         41409
+Level        11
+Values       11 1 1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         41417
+Level        25
+Values       12 2 30 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41409
+Level        13
+Values       11 1 1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41408
+Level        2
+Values       8 3 3 81 0 0
+Spell 3      'earthquake'
+End
+
+#OBJECT
+Nest         1
+Vnum         41417
+Level        26
+Values       12 2 30 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         41419
+Level        20
+Values       12 1 25 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41410
+Level        3
+Values       10 1 1 144 0 0
+Spell 3      'lightning bolt'
+End
+
+#OBJECT
+Nest         1
+Vnum         41420
+Level        25
+Values       12 6 18 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41409
+Level        1
+Values       11 2 2 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41419
+Level        22
+Values       12 1 25 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41420
+Level        28
+Values       11 6 18 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41406
+Level        2
+Values       14 3 3 102 0 0
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         1
+Vnum         41422
+Level        1
+Values       16 137 -1 -1 0 0
+Spell 1      'invis'
+End
+
+#OBJECT
+Nest         1
+Vnum         41406
+Level        2
+Values       15 2 2 102 0 0
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         1
+Vnum         41402
+Level        18
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41403
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41417
+Level        24
+Values       11 2 30 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         41409
+Level        1
+Values       12 1 1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41425
+Level        29
+Values       12 5 20 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41426
+Level        28
+Values       9 9 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        13
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41402
+Level        19
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41403
+Level        20
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41402
+Level        19
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41402
+Level        18
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41403
+Level        16
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41421
+Level        19
+Values       11 4 20 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41406
+Level        2
+Values       15 3 3 102 0 0
+Spell 3      'fireball'
+End
+
+#OBJECT
+Nest         1
+Vnum         41421
+Level        20
+Values       12 4 20 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41402
+Level        18
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41403
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41402
+Level        18
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41403
+Level        18
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41416
+Level        1
+Values       20 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41417
+Level        25
+Values       10 2 30 0 0 0
+End
+
+#OBJECT
+Vnum         41420
+Level        25
+Values       12 6 18 8 0 0
+End
+
+#END

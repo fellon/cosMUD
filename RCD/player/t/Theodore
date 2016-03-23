@@ -1,0 +1,433 @@
+#PLAYER
+Version      3
+Name         Theodore~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      0
+Languages    1 1
+Level        30
+Played       144431
+Room         24801
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   249 249 616 656 477 477
+Gold         7029
+Exp          30565095
+Height          67
+Weight          101
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     30
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       -1810
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -7
+Password     Th.9SUVooWm72~
+Title         the Conjurer~
+Lastname ~
+Bio          spectral furor    Current: 95  Max: 95   MinPos: fighting
+our Spectral Furor _maims_ Welmar's Right Foot! [154]
+You leap to the air and pounce...  At nobody.
+You try pouncing on yourself, but it doesn't quite work.
+You politely ask the Executioner to remove his pants.
+The Executioner growls.
+The Executioner says 'Theodore, you are trying my patience.'
+The Executioner gently strokes his torch.
+The Executioner winks suggestively at you.
+Your Magnetic Thrust decimates Welmar's Right Eye! [287]
+Your Magnetic Thrust _demolishes_ Welmar's Left hand! [481]
+Your Magnetic Thrust _demolishes_ Welmar's Left hand! [387]
+~
+AuthedBy     Arbadus~
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       304
+MDeaths      14
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  4
+IllegalPK    0
+AttrPerm     11 18 14 16 13 13 16
+AttrMod      0 0 0 2 0 0 0
+Condition    0 31 4 40
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        95 'black fist'
+Spell        51 'black hand'
+Spell        28 'blazeward'
+Spell        19 'blindness'
+Spell        40 'burning hands'
+Spell        44 'charm person'
+Spell        21 'chill touch'
+Spell        47 'continual light'
+Spell        57 'create spring'
+Spell        46 'demonskin'
+Spell        95 'detect invis'
+Spell        77 'dragon wit'
+Spell        56 'dragonskin'
+Spell        19 'enchant weapon'
+Spell        19 'energy drain'
+Spell        34 'extradimensional portal'
+Spell        44 'flight'
+Spell        95 'galvanic whip'
+Spell        45 'iceshield'
+Spell        93 'identify'
+Spell        30 'invis'
+Spell        85 'kindred strength'
+Spell        85 'lightning bolt'
+Spell        19 'liquid skin'
+Spell        30 'locate object'
+Spell        59 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        19 'pass door'
+Spell        52 'portal'
+Spell        19 'razorbait'
+Spell        55 'sagacity'
+Spell        42 'shield'
+Spell        88 'shocking grasp'
+Spell        75 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        59 'stone skin'
+Spell        92 'summon'
+Spell        19 'swordbait'
+Spell        89 'trollish vigor'
+Spell        54 'ventriloquate'
+Spell        19 'weaken'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        29 'cuff'
+Skill        30 'dual wield'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        65 'meditate'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'slink'   0   2   2 0
+Killed       24820 2
+Killed       24816 5
+Killed       24819 8
+Killed       24817 4
+Killed       24818 8
+Killed       24815 3
+Killed       24814 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        9
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2421
+WearLoc      5
+Level        10
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        12
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        16
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        12
+Values       4 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8919
+Level        11
+Values       5 -1 60 165 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        12
+Values       0 0 6 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24892
+Level        28
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24516
+Level        98
+Values       11 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21011
+Level        97
+Values       7 5 40 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21081
+Level        5
+Values       12 3 9 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24892
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        29
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1505
+Level        11
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 5 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24516
+Level        97
+Values       14 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         2
+Count        10
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         6000
+Level        5
+Values       12 2 12 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   524804
+WearLoc      18
+Level        5
+Values       12 7 14 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   524804
+WearLoc      16
+Level        3
+Values       12 7 14 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         42940
+WearLoc      12
+Level        23
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

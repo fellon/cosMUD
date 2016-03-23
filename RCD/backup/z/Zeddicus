@@ -1,0 +1,98 @@
+#PLAYER
+Version      3
+Name         Zeddicus~
+Description  ~
+Sex          1
+Class        5
+Race         20
+Languages    1 1
+Level        6
+Played       24816
+Room         10307
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   107 107 176 176 165 165
+Gold         29875
+Exp          176836
+Height          97
+Weight          815
+Act          570426954
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       375
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        35
+ICEListen (null)~
+Susceptible  64
+Mentalstate  0
+Password     Ze7Nym/rmzQYc~
+Title         the Adept~
+Lastname  Zorander~
+AuthedBy     Arbadus~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       94
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 14 16 11 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 7 12
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        91 'bless'
+Spell        46 'blindness'
+Spell        32 'cause light'
+Spell        37 'cause serious'
+Spell        51 'continual light'
+Spell        44 'create fire'
+Spell        88 'create food'
+Spell        19 'create water'
+Spell        23 'cure blindness'
+Spell        66 'cure light'
+Spell        39 'detect evil'
+Spell        76 'detect invis'
+Spell        53 'detect magic'
+Spell        94 'faerie fire'
+Spell        55 'float'
+Spell        29 'infravision'
+Skill        19 'aid'
+Skill        50 'dual wield'
+Skill        95 'kick'
+Weapon       62 'bludgeons'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+Killed       21045 1
+Killed       21055 2
+i3invis	0
+End
+
+#OBJECT
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#MOBILE
+Vnum	21059
+Room	21280
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Zeddicus'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

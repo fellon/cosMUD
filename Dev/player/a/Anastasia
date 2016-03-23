@@ -1,0 +1,115 @@
+#PLAYER
+Version      3
+Name         Anastasia~
+Description  ~
+Sex          2
+Class        1
+Race         4
+Species      0
+Languages    1 1
+Level        10
+Played       116104
+Room         3000100
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   67 67 306 326 217 217
+Gold         149694
+Exp          720413
+Height          26
+Weight          42
+Act          570426968
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    3
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        25
+ICEListen (null)~
+Susceptible  16
+Mentalstate  -18
+Password     Anz3Fmd8jhqsY~
+Title         the Acolyte~
+Lastname ~
+AuthedBy     Arbadus~
+Deity	     Mystra~
+Clan         Guild of Clerics~
+Flags        65536
+PKills       0
+PDeaths      0
+MKills       413
+MDeaths      10
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 11 16 17 12 16 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 19
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        95 'bless'
+Spell        25 'blindness'
+Spell        51 'cause critical'
+Spell        28 'cause light'
+Spell        95 'cause serious'
+Spell        83 'continual light'
+Spell        95 'create food'
+Spell        23 'create symbol'
+Spell        35 'create water'
+Spell        19 'cure blindness'
+Spell        67 'cure critical'
+Spell        95 'cure light'
+Spell        28 'cure poison'
+Spell        63 'cure serious'
+Spell        90 'detect evil'
+Spell        89 'detect hidden'
+Spell        84 'detect invis'
+Spell        79 'detect magic'
+Spell        75 'detect traps'
+Spell        27 'dispel evil'
+Spell        95 'earthquake'
+Spell        68 'faerie fire'
+Spell        87 'float'
+Spell        36 'identify'
+Spell        60 'know alignment'
+Spell        22 'locate object'
+Spell        21 'poison'
+Spell        95 'protection'
+Spell        48 'refresh'
+Spell        47 'summon'
+Spell        93 'word of recall'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        30 'dual wield'
+Skill        95 'scan'
+Skill        46 'search'
+Weapon       95 'long blades'
+Weapon       19 'pugilism'
+Weapon       60 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       21052 1
+Killed       6100 2
+Killed       6103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         20
+Timer        10
+Values       5 0 0 0 0 0
+End
+
+#END

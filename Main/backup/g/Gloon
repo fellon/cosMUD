@@ -1,0 +1,233 @@
+#PLAYER
+Version      3
+Name         Gloon~
+Description  ~
+Sex          1
+Class        0
+Race         14
+Species      0
+Languages    1 1
+Level        7
+Played       7630
+Room         21166
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   56 51 215 215 278 178
+Gold         19959
+Exp          317169
+Height          44
+Weight          100
+Act          570427000
+AffectedBy   528
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       1189
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        20
+ICEListen (null)~
+Resistant    8
+Susceptible  1
+Mentalstate  -1
+Password     SmsTHtA0lIMAk~
+Title         the Apprentice Mage~
+Lastname  E'toons~
+AuthedBy     Fairburn~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       54
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 18 12 12 11 12 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 0 10
+Site         207.202.214.132
+Spell        60 'armor'
+Spell        95 'black hand'
+Spell        74 'burning hands'
+Spell        95 'chill touch'
+Spell        19 'continual light'
+Spell        95 'galvanic whip'
+Spell        35 'word of recall'
+Skill        19 'cook'
+Skill        19 'dual wield'
+Skill        19 'kick'
+Skill        36 'scan'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'gnome'
+AffectData   'armor' 222 -20  17 0
+AffectData   'bless' 941   6  18 0
+AffectData   'bless' 941  -6  24 0
+Killed       10396 6
+Killed       10302 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        6
+Values       12 5 9 3 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        5
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        5
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

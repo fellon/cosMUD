@@ -1,0 +1,159 @@
+#PLAYER
+Version      3
+Name         Strider~
+Description  ~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        40
+Played       55710
+Room         24868
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   722 953 100 100 607 607
+Gold         291211
+Exp          70608688
+Height          120
+Weight          336
+Act          570427002
+AffectedBy   512
+Position     112
+Style     2
+Practice     56
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       115
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -3
+Password     StCR.L8aWdJpg~
+Title         the Lieutenant-Commander~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Flags        98306
+PKills       1
+PDeaths      0
+MKills       225
+MDeaths      9
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     19 10 10 11 17 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 6 45
+Site         207.202.214.132
+Skill        17 'bash'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        100 'dual wield'
+Skill        17 'elbow'
+Skill        100 'enhanced damage'
+Skill        90 'fourth attack'
+Skill        25 'grip'
+Skill        90 'headbutt'
+Skill        20 'kick'
+Skill        17 'lunge'
+Skill        100 'parry'
+Skill        17 'pummel'
+Skill        45 'scan'
+Skill        95 'second attack'
+Skill        95 'third attack'
+Skill        17 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 196 -20  17 0
+AffectData   'bless' 838   6  18 0
+AffectData   'bless' 838  -6  24 0
+Killed       439 3
+Killed       2070 1
+Killed       2071 2
+Killed       21037 2
+Killed       2102 2
+Killed       12597 1
+Killed       24837 3
+Killed       24840 1
+Killed       24838 1
+Killed       24839 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        19
+Vnum         24876
+Values       30 30 10 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        19
+Vnum         24864
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24876
+Values       30 29 10 0 0 0
+End
+
+#ALIAS
+Name     ddd~
+Commands disarm~
+End
+
+#ALIAS
+Name     sd~
+Commands headbutt~
+End
+
+#ALIAS
+Name     dd~
+Commands drink carton~
+End
+
+#ALIAS
+Name     ssd~
+Commands sd;sd;sd;sd;sd;sd~
+End
+
+#ALIAS
+Name     ss~
+Commands disarm~
+End
+
+#ALIAS
+Name     ee~
+Commands drink carton~
+End
+
+#END

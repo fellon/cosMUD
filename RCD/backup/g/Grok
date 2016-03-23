@@ -1,0 +1,191 @@
+#PLAYER
+Version      3
+Name         Grok~
+Description  ~
+Sex          1
+Class        22
+Race         19
+Languages    1 1
+Level        5
+Played       23555
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   98 98 212 212 152 152
+Gold         18582
+Exp          81121
+Height          59
+Weight          113
+Act          570426968
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        5
+ICEListen (null)~
+Mentalstate  0
+Password     GrfL2gneEbMjo~
+Title         the Divine~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       44
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 16 19 14 11 16 12
+AttrMod      2 0 0 0 0 0 0
+Condition    0 35 29 15
+Site         207.202.214.132
+Spell        66 'armor'
+Spell        38 'bless'
+Spell        23 'continual light'
+Spell        59 'create fire'
+Spell        74 'create food'
+Spell        27 'create water'
+Spell        19 'cure blindness'
+Spell        88 'cure light'
+Spell        35 'cure serious'
+Spell        37 'detect evil'
+Spell        26 'detect magic'
+Spell        27 'faerie fire'
+Spell        28 'invis'
+Spell        37 'know alignment'
+Spell        19 'refresh'
+Skill        40 'dual wield'
+Weapon       19 'bludgeons'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'shield' 130 -20  17 0
+AffectData   'kindred strength' 132   2   1 0
+Killed       10303 3
+Killed       10300 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        14
+Values       10 5 17 3 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2431
+Level        1
+Values       65 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         5252
+WearLoc      18
+Level        7
+Values       12 2 10 11 0 0
+End
+
+#END

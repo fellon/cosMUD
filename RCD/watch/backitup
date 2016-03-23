@@ -1,0 +1,9 @@
+cd /smaug/ucmm/ucmm/src
+make clean
+cd ../area
+rm core
+cd /smaug/ucmm/ucmm
+rm ../ucmm.tar.gz
+rm */core
+tar -cvzf ../ucmm.tar.gz *
+echo "DONE"

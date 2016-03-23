@@ -1,0 +1,276 @@
+#PLAYER
+Version      3
+Name         Dire~
+Sex          1
+Class        4
+Race         6
+Languages    1 1
+Level        3
+Played       9343
+Room         21319
+HpManaMove   20 54 92 92 164 120
+Gold         14008
+Exp          22841
+Height          100
+Weight          274
+Act          704644728
+AffectedBy   2621952
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen ~
+Resistant    32
+Mentalstate  0
+Password     Dio0gMelJBXj.~
+Title         the Scholar of Blood~
+AuthedBy     Cyph~
+Prompt       [%h/%Hhp %b/%Bbp %v/%Vmv]>~
+Flags        33552
+PKills       0
+PDeaths      0
+MKills       50
+MDeaths      1
+IllegalPK    0
+AttrPerm     15 11 12 12 17 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 9
+Site         4.54.22.243
+Spell        26 'float'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'ogre'
+AffectData   'fly' 278   0  26 524288
+AffectData   'float'  22   0  26 2097152
+Killed       1508 1
+Killed       10301 4
+Killed       10302 5
+End
+
+#OBJECT
+Vnum         8902
+Level        1
+Cost         0
+Values       5 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8903
+Level        1
+Values       -2 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8904
+Level        1
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10324
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10330
+Level        1
+Values       18 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10324
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         2
+Vnum         10330
+Level        1
+Values       19 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         2
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10324
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10330
+Level        1
+Values       19 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         2
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         2
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+WearLoc      21
+Values       10 3 5 14 1 0
+End
+
+#OBJECT
+Vnum         1512
+Level        1
+Values       16 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         1539
+Level        3
+Values       14 1 1 150 0 0
+Spell 3      'stone skin'
+End
+
+#END

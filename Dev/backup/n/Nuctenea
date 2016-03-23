@@ -1,0 +1,602 @@
+#PLAYER
+Version      3
+Name         Nuctenea~
+Description  ~
+Sex          2
+Class        1
+Race         11
+Species      0
+Languages    16429 1
+Level        58
+Played       578998
+Room         40007
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   646 646 642 1330 841 841
+Gold         514542
+Exp          173232128
+Height          68
+Weight          117
+Act          570427000&4
+AffectedBy   16777760
+Position     112
+Style     2
+Practice     79
+SavingThrows 0 0 0 0 -14
+Alignment    -497
+Favor	       2500
+Balance      1000000
+Glory        2
+MGlory       2
+Hitroll      14
+Damroll      0
+Armor        80
+Wimpy        230
+ICEListen (null)~
+Resistant    768
+Mentalstate  -1
+Password     NuttBClPQMkHY~
+Title        &g the Elusive~
+Lastname  Umbratica~
+AuthedBy     Prage~
+Prompt       %k<&Y%hhp &C%mm &G%vmv &r%a&w>~
+Deity	     Lolth~
+Clan         Guild of Clerics~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3698
+MDeaths      38
+ArenaWins    1
+ArenaKills   1
+ArenaDeaths  5
+IllegalPK    0
+AttrPerm     12 15 14 15 12 10 14
+AttrMod      0 0 0 0 0 4 0
+Condition    0 6 0 68
+Site         207.202.214.132
+Spell        46 'alertness'
+Spell        34 'antimagic shell'
+Spell        54 'aqua breath'
+Spell        95 'armor'
+Spell        79 'benediction'
+Spell        95 'bless'
+Spell        95 'blindness'
+Spell        80 'call lightning'
+Spell        77 'cancelation'
+Spell        95 'cause critical'
+Spell        51 'charged beacon'
+Spell        95 'continual light'
+Spell        93 'control weather'
+Spell        79 'create food'
+Spell        74 'create symbol'
+Spell        90 'create water'
+Spell        84 'cure blindness'
+Spell        95 'cure critical'
+Spell        62 'cure poison'
+Spell        95 'cure serious'
+Spell        95 'curse'
+Spell        91 'detect evil'
+Spell        95 'detect hidden'
+Spell        95 'detect invis'
+Spell        95 'detect magic'
+Spell        33 'detect poison'
+Spell        75 'detect traps'
+Spell        47 'dispel evil'
+Spell        19 'dispel magic'
+Spell        37 'dream'
+Spell        95 'earthquake'
+Spell        33 'ethereal funnel'
+Spell        95 'faerie fire'
+Spell        67 'faerie fog'
+Spell        21 'fatigue'
+Spell        95 'flamestrike'
+Spell        95 'flight'
+Spell        44 'float'
+Spell        45 'fortify'
+Spell        25 'grounding'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        95 'identify'
+Spell        91 'indignation'
+Spell        19 'infravision'
+Spell        70 'knock'
+Spell        93 'know alignment'
+Spell        95 'lethargy'
+Spell        95 'locate object'
+Spell        95 'major invocation'
+Spell        38 'mass invis'
+Spell        95 'minor invocation'
+Spell        95 'poison'
+Spell        86 'protection'
+Spell        37 'recharge'
+Spell        23 'refresh'
+Spell        95 'remove curse'
+Spell        19 'remove trap'
+Spell        95 'resilience'
+Spell        20 'restoration'
+Spell        95 'sanctuary'
+Spell        56 'scry'
+Spell        95 'shockshield'
+Spell        45 'solar flight'
+Spell        19 'spiritual wrath'
+Spell        95 'summon'
+Spell        88 'transport'
+Spell        35 'true sight'
+Spell        95 'unravel defense'
+Spell        91 'uplift'
+Spell        95 'word of recall'
+Skill        28 'aid'
+Skill        70 'brew'
+Skill        19 'cook'
+Skill        80 'cuff'
+Skill        30 'dual wield'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        19 'rescue'
+Skill        95 'scan'
+Skill        68 'search'
+Skill        50 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       95 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       95 'long blades'
+Weapon       50 'pugilism'
+Weapon       60 'short blades'
+Weapon       50 'talonous arms'
+Tongue       100 'common'
+Tongue       60 'dwarven'
+Tongue       100 'elvish'
+Tongue       65 'goblin'
+Tongue       60 'orcish'
+Tongue       63 'pixie'
+AffectData   'detect hidden' 108   0  26 32
+AffectData   'armor'  25 -20  17 0
+AffectData   'elven beauty' 716   4  25 0
+AffectData   'minor invocation' 944  -7  24 0
+AffectData   'minor invocation' 944   7  18 0
+AffectData   'bless' 947  -7  24 0
+AffectData   'bless' 947   7  18 0
+AffectData   'resilience' 960 512  27 0
+Killed       10406 1
+Killed       14741 4
+Killed       14732 4
+Killed       14729 3
+Killed       14742 4
+Killed       21052 1
+Killed       1536 1
+Killed       1502 4
+Killed       1538 2
+Killed       1537 7
+Killed       1501 1
+Killed       1527 2
+Killed       14701 6
+Killed       14725 1
+Killed       14743 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         46926
+Level        47
+Values       5 5 0 0 0 0
+End
+
+#ALIAS
+Name     pab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin ; pab~
+End
+
+#ALIAS
+Name     filskin~
+Commands get skin bag ; c 'create water' skin ; pab~
+End
+
+#ALIAS
+Name     shr~
+Commands c 'create food' ; eat mush~
+End
+
+#ALIAS
+Name     ga~
+Commands get all ; pab~
+End
+
+#ALIAS
+Name     eb~
+Commands exam bag~
+End
+
+#ALIAS
+Name     cc~
+Commands c 'cure critical'~
+End
+
+#ALIAS
+Name     dm~
+Commands c 'detect magic'~
+End
+
+#ALIAS
+Name     fuk~
+Commands c curse ; c poison ; c 'faerie fire' ; c blindness~
+End
+
+#ALIAS
+Name     din~
+Commands get turk bag ; eat turk ; dw~
+End
+
+#ALIAS
+Name     gocat~
+Commands nw ; w ; w ; n ; n ; n ; n ; n ; rest~
+End
+
+#ALIAS
+Name     lvcat~
+Commands stand ; s ; s ; s ; s ; s ; e ; e ; se~
+End
+
+#ALIAS
+Name     gosch~
+Commands e ; e ; e ; s ; d ; op s ; n ; e~
+End
+
+#ALIAS
+Name     lvsch~
+Commands w ; s ;  u ; n ; w ; w ; w~
+End
+
+#ALIAS
+Name     gogno~
+Commands e ; e ; e ; e ; e ; c knock e; c knock e; op e ; e ; e ; se ; sw ; s ; se~
+End
+
+#ALIAS
+Name     er~
+Commands c earthquake~
+End
+
+#ALIAS
+Name     buygear~
+Commands s ; s ; w ; n ; b rune ; s ; e ; n ; n ; e ; e ; e ; s ; e ; b skin ; pab ; w ; n ; w ; w; w~
+End
+
+#ALIAS
+Name     lootcorp~
+Commands get all corpse ; wear all ; get all corpse ; wear all ; pab~
+End
+
+#ALIAS
+Name     zz~
+Commands c harm~
+End
+
+#ALIAS
+Name     cs~
+Commands c 'cure serious'~
+End
+
+#ALIAS
+Name     cp~
+Commands c 'cure poison'~
+End
+
+#ALIAS
+Name     mi~
+Commands c 'minor invocation' ; c bless~
+End
+
+#ALIAS
+Name     eh~
+Commands get h ; eat h~
+End
+
+#ALIAS
+Name     ll~
+Commands c 'call lightning'~
+End
+
+#ALIAS
+Name     fs~
+Commands c flamestrike~
+End
+
+#ALIAS
+Name     storm~
+Commands c 'control weather' wetter~
+End
+
+#ALIAS
+Name     goval~
+Commands e ; e ; e ; e ; e ; e ; e ; e ; s ; s ; s ; s ; s ; s ; e ; e ; s ; e ; e ; say 'Drow City d w s d d  Elemental Canyon d s u u u u'~
+End
+
+#ALIAS
+Name     dh~
+Commands c 'detect hidden'~
+End
+
+#ALIAS
+Name     ff~
+Commands c 'faerie fog'~
+End
+
+#ALIAS
+Name     medmed~
+Commands rem helm ; med ; med ; med ; med ; wear helm~
+End
+
+#ALIAS
+Name     lolth~
+Commands c 'create symbol'~
+End
+
+#ALIAS
+Name     dinv~
+Commands c 'detect invis'~
+End
+
+#ALIAS
+Name     dt~
+Commands c 'detect traps'~
+End
+
+#ALIAS
+Name     det~
+Commands dm ; dinv ; dh ; dt ; devil~
+End
+
+#ALIAS
+Name     shrw~
+Commands c 'create food' ; give mush warder~
+End
+
+#ALIAS
+Name     hr~
+Commands c he raos~
+End
+
+#ALIAS
+Name     ht~
+Commands c he riot~
+End
+
+#ALIAS
+Name     pow~
+Commands c minor ; c bless ; c armor~
+End
+
+#ALIAS
+Name     doit~
+Commands get beef ; put all bag~
+End
+
+#ALIAS
+Name     gg~
+Commands get all ; wear all ; doit~
+End
+
+#ALIAS
+Name     hv~
+Commands c he voldemort~
+End
+
+#ALIAS
+Name     cv~
+Commands c 'cure critical' voldemort~
+End
+
+#ALIAS
+Name     iii~
+Commands c 'mass invis'~
+End
+
+#ALIAS
+Name     sr~
+Commands supp recall~
+End
+
+#ALIAS
+Name     maj~
+Commands c major invocation~
+End
+
+#ALIAS
+Name     cw~
+Commands c 'cure critical' w~
+End
+
+#ALIAS
+Name     unle~
+Commands e ; e ; e ; e ; e ; get 5 key bag ; un e ; op e ; pab ; w ; w ; w ; w ; w~
+End
+
+#ALIAS
+Name     devil~
+Commands c 'detect evil'~
+End
+
+#ALIAS
+Name     gogal~
+Commands s ; s ; s ; s ; w ; n ; n ; give 100 coin recep ; un n ; op n ; n~
+End
+
+#ALIAS
+Name     cb~
+Commands c 'cure blindness'~
+End
+
+#ALIAS
+Name     cwe~
+Commands c 'cure critical' wendig~
+End
+
+#ALIAS
+Name     ud~
+Commands c 'unravel defense'~
+End
+
+#ALIAS
+Name     ss~
+Commands c 'shockshield'~
+End
+
+#ALIAS
+Name     goofcol~
+Commands n ; n ; n ; n ; n ; n ; n ; n ; n ; ne ; n ; n ; ne ; n ; ne ; ne ; e~
+End
+
+#ALIAS
+Name     buyturk~
+Commands s ; s ; e ; n ; b turk ; b turk ; b turk ; b turk ; b turk ; b turk ; b turk ; b turk ; b turk ; b turk ; pab ; s ; w ; n ; n ~
+End
+
+#ALIAS
+Name     remc~
+Commands c 'remove curse'~
+End
+
+#ALIAS
+Name     ind~
+Commands c indignation~
+End
+
+#ALIAS
+Name     fixit~
+Commands s ; s ; e ; s ; rem all~
+End
+
+#ALIAS
+Name     nn~
+Commands c harm ninja~
+End
+
+#ALIAS
+Name     fn~
+Commands c fa ninja ; c bli ninja~
+End
+
+#ALIAS
+Name     har~
+Commands c heal argon~
+End
+
+#ALIAS
+Name     pow2~
+Commands c sanctuary ; c shockshield ; c resilience~
+End
+
+#ALIAS
+Name     powgr~
+Commands c major ; c benediction ; c indignation~
+End
+
+#ALIAS
+Name     gab~
+Commands get all bag~
+End
+
+#ALIAS
+Name     makeheal~
+Commands wear empty ; brew heal~
+End
+
+#ALIAS
+Name     mh3~
+Commands makeheal ; makeheal ; makeheal~
+End
+
+#ALIAS
+Name     tr5~
+Commands trance ; trance ; trance ; trance ; trance~
+End
+
+#ALIAS
+Name     tt~
+Commands trance ; trance~
+End
+
+#ALIAS
+Name     gomid~
+Commands n ; n ; n ; n ; n ; c knock n; c knock n; op n ; n ; n ; n ; n ; nw ; n ; n ; nw ; nw ; n ; n ; nw ; nw ; n ; n ; n~
+End
+
+#ALIAS
+Name     stn~
+Commands get round bag ; wear round ; z n ; wear all~
+End
+
+#ALIAS
+Name     godoom~
+Commands w ; w ; w ; w ; w ; c knock w;c knock w; op w ; w ; s ; s ; s ; s ; nw ; n~
+End
+
+#ALIAS
+Name     fiz~
+Commands drop all ; get bag ; get fizz ; get fizz ; get stone ; get stone ; get stone ; get beaker ; get beaker ; get beaker ; pab~
+End
+
+#ALIAS
+Name     0~
+Commands c cont ; drop ball~
+End
+
+#ALIAS
+Name     con1~
+Commands con a ; con b ; con c ; con d ; con e ; con f ; con g ; con h ; con i ; con j ; con k ; con l ; con m~
+End
+
+#ALIAS
+Name     con2~
+Commands con n ; con o ; con p ; con q ; con r ; con s ; con t ; con u ; con v ; con w ; con x ; con y ; con z~
+End
+
+#ALIAS
+Name     sac1~
+Commands sac a ; sac b ; sac c ; sac d ; sac e ; sac f ; sac g ; sac h ; sac i ; sac j ; sac k ; sac l ; sac m~
+End
+
+#ALIAS
+Name     sac2~
+Commands sac n ; sac o ; sac p ; sac q ; sac r ; sac s ; sac t ; sac u ; sac v ; sac w ; sac x ; sac y ; sac z~
+End
+
+#ALIAS
+Name     do5~
+Commands doit ; doit ; doit ; doit ; doit ~
+End
+
+#ALIAS
+Name     do10~
+Commands doit ; doit ; doit ; doit ; doit ; doit ; doit ; doit ; doit ; doit~
+End
+
+#ALIAS
+Name     invi~
+Commands rem ill ; wear ill~
+End
+
+#ALIAS
+Name     elf~
+Commands rem belt ; wear belt~
+End
+
+#MOBILE
+Vnum	60895
+Room	21000
+Description The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Nuctenea'.
+~
+Position 8
+Flags 259
+EndMobile
+
+#END

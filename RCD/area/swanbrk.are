@@ -1,0 +1,3630 @@
+#AREA   Swanbrook Forest~
+
+
+
+#VERSION 1
+#AUTHOR Snowbird~
+
+#RANGES
+50 100 0 115
+$
+
+#RESETMSG Birds fly about and sing as a breeze rustles through the trees.~
+
+#FLAGS
+4
+
+#ECONOMY 0 31250000
+
+#CLIMATE 3 1 1
+
+#MOBILES
+#429
+Dinah~
+Lady Dinah~
+Lady Dinah, Snowbird's cat, sits here contentedly grooming herself.
+~
+Lady Dinah, Snowbird's cat, sits here purring contentedly, surveying
+the world as though it is hers to rule. She is a domestic short hair,
+with fur as white as snow, from her little pink nose to the tip of her
+proudly held tail. She knows the place she holds in her world, being
+the pet of a goddess, and she does not let anyone forget it.
+~
+1 0 0 C
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+29 3 0 0 6645091 6645090 0
+0 0 329405 0 0 0 707 0
+> all_greet_prog 100~
+mpechoat $n _cya Lady Dinah begins to rub against your leg and purrs happily.
+~
+|
+#430
+Valgard~
+Valgard~
+Valgard, Snowbird's Silver Dragon, is here guarding the castle.
+~
+This magnificent beast rests here in Swanbrook Garden, keeping watch
+over his Mistresses domain. He is armored from the end of his nose to 
+the tip of his tail in silver scales. His huge head is formed of a long
+sleek nose and mouth, broadening out into a wide skull with large green
+eyes, pointed ears and ivory horns. His long sleek neck flows into a well
+muscled body with strong thick legs and a long, strong, spined tail. 
+He has been a constant companion of his Mistress, Snowbird, since she
+found him as but a hatchling, after his mother was slayed for her ivory
+horns and silver scales. He now protects Snowbird and Swanbrook from any
+intruders who would intend to do harm. 
+~
+3 0 0 C
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+31 3 0 0 1879074163 1879074162 0
+0 0 14124733 0 0 0 67248358 0
+#431
+swan female~
+A snow white female swan~
+A snow white female swan swims in the pond with her mate.
+~
+This graceful snow white swan swims about Swanbrook pond with her mate.
+She bends her head, and nuzzles it inder the chin of her mate, as a sign
+of affection. as she swims about under his watchful protection.
+~
+3 0 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 0 0 0 0 0 0
+#432
+male swan~
+A snow white male swan~
+A snow white male swan swims protectively by his mate.
+~
+This snow white male swan, swims  about Swanbrook pond with his mate.
+He looks up and about from time to time, watching for anything that
+might attempt to harm her. 
+~
+3 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 0 0 0 0 0 0
+#433
+frog~
+A large green frog~
+A large green frog sits here on the edge of the well.
+~
+This frog looks for most part like any other frog, except that he is
+rather large. He sits here on the edge of the well as though he is 
+waiting for something, or perhaps someone. He looks at you, blinks his
+big bulgy eyes and the snatches an unfortunate fly from the air with
+long tongue.
+~
+3 0 0 C
+90 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+80 3 0 0 1701994753 1701994752 0
+0 0 3519 0 0 0 496 0
+#434
+bees~
+A swarm of honey bees~
+A swarm of honey bees are here tending to their hive.
+~
+A swarm of honeybees is here in this hollow tree tending to its hive,
+filled with sweet delicious honey. Maybe they should just be left alone.
+~
+35 0 0 C
+70 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+83 3 0 0 1768252449 1768252448 0
+0 0 33849 0 0 0 262248 524291
+#435
+Grace~
+Grace ~
+Grace, the Nanny, is here caring for Tamina and Laila.
+~
+This is Grace, the Nanny hired to care for Snowbird,s daughter Tamina.
+She is a woman in her middle 50's, silver grey hair and a warm and
+loving smile. She lovingly cares for Tamina like she was her own child.
+~
+3 0 0 C
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 1841 0 0 0 1084227953 538631
+#436
+bear~
+A grizzly bear~
+A very BIG grizzly bear is here... perhaps you should... RUN!!!
+~
+It is VERY big, it is black, it has very sharp claws and even sharper
+teeth, what is it? ITS A GRIZZLY BEAR!!!
+~
+3 0 0 C
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+16 13 13 13 13 13 13
+0 0 0 0 0
+24 3 0 0 1768715009 1768715008 0
+0 0 329405 0 0 0 67 524291
+#437
+doe~
+A graceful doe~
+A graceful doe is here grazing on tender grass.
+~
+Grazing in the grass here in Swanbrook forest is a gentle, graceful doe.
+Her glossy coat is a toasty brown and her tail has an undercoating of
+soft white fur.
+~
+1 0 0 C
+60 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 67125 0 0 0 65 524291
+#438
+stag~
+A tall regal stag~
+A tall regal stag watches you warily.
+~
+This regal stag stands tall and proud. His coat is dark brown and his
+tail is white. He holds his head up proudly showing off his magnificent
+ten point antlers.
+~
+1 0 0 C
+70 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 67261 0 0 0 97 524291
+#439
+rabbit~
+A small grey rabbit~
+A small grey rabbit hops though the forest.
+~
+With its long ears floppying and its little grey puff tail, this little
+grey rabbit hops along on its merry way.
+~
+1 0 0 C
+50 0 0 1d6+70 1d6+50
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+60 0 67237 0 0 0 241 0
+> fight_prog 30~
+c quant
+~
+|
+#440
+squirrel~
+A bushy tailed squirrel~
+A bushy tailed squirrel scampers throuth the forest.
+~
+~
+1 0 0 C
+55 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 66677 0 0 0 85 524291
+#441
+skunk~
+A skunk~
+A furry, skunk walks here, tail in the air.
+~
+~
+1 0 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 0 0 0 0 131157 524291
+#442
+raccoon~
+A black-masked raccoon~
+A black-masked raccoon washes its food in the brook.
+~
+~
+3 0 0 C
+85 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 67261 0 0 0 87 3
+#444
+owl~
+A hoot owl~
+A large brown hoot owl sits in the tree calling ...WHOOOOO...
+~
+~
+1 0 0 C
+70 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 33981 0 0 0 67 524291
+#445
+fox~
+A small red fox~
+A small red fox looks around for danger.
+~
+~
+1 0 0 C
+55 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 67133 0 0 0 117 524291
+#446
+chipmunk~
+A tiny chipmunk~
+A tiny chipmunk scurries behind a tree.
+~
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1867251723 1867251722 0
+0 0 66201 0 0 0 81 3
+#447
+Dennis the puppy~
+Dennis~
+Dennis, the cockerspaniel puppy, barks, tail wagging, waiting to play.
+~
+This playful puppy has long, curly ears, large pleading eyes, and fur as
+soft and glossy as silk.  He is blue roan, with a broad, white blaze and
+four white paws.  His toungue is very soft and he loves to lick everyone.
+Around his neck is a brown leather collar with silver brads. Attached to 
+the collar is a tag, upon which is engraved:
+ 
+'My name is Dennis, I live at Swanbrook Castle, 429 ResortMUD Road. I am
+ a present to Andrew and Tamina from Aunt Molly.'
+~
+65 0 0 C
+99 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+15 7 6 10 18 13 13
+0 0 0 0 0
+30 3 0 0 1970039881 1970039881 0
+0 0 65556 0 0 0 65 3
+> greet_prog 100~
+mpechoat $n _cya Dennis runs to greet you, barking and wagging his tail.
+~
+|
+#450
+Knight of the Crown~
+A Knight of the Crown~
+A Knight of the Crown stands ready to defend his honor.
+~
+~
+3 0 0 C
+75 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+18 16 13 16 17 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 96 526339
+> speech_prog field~
+mpoload 10698
+wear armor
+mpoload 5317
+wield sword
+~
+|
+#451
+Emily~
+Emily ~
+Emily sits here playing the harpsicord.
+~
+~
+1073741827 0 0 C
+90 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#460
+red dragon~
+A fierce red dragon~
+A fierce red dragon glares at you, preparing to attack.
+~
+~
+3 0 -500 C
+105 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+25 16 14 13 18 7 13
+0 0 0 0 0
+31 3 0 0 2049 1969906241 0
+0 0 0 1729 1056512 0 8262 524291
+#461
+vulture~
+a large, black feathered, long necked vulture~
+A large, black feathered, long necked vulture is flying around in circles overhead.
+~
+~
+35 524296 0 C
+90 0 -200 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+30 65 294921 0 0 0 3 1
+> all_greet_prog 100~
+mea $n _cya A vulture looks at you with dinner in mind.
+~
+|
+#499
+final mob~
+a newly created final mob~
+Some god abandoned a newly created final mob here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#0
+
+
+#OBJECTS
+#429
+White robe~
+A flowing white robe with an embroidered ring of stars~
+A flowing white robe with an embroidered ring of stars floats here.~
+~
+13 0 9
+0 0 0 0
+1 0 0
+#430
+jeans~
+A pair of tight-fitting, straight-leg jeans~
+A pair of tight-fitting, straight-leg jeans lies rumpled here.~
+~
+13 0 33
+0 0 0 0
+1 0 0
+#431
+nurses shoes~
+A pair of white sneakers~
+A pair of white sneakers lies here.~
+~
+13 0 65
+0 0 0 0
+1 0 0
+#433
+dress~
+A floral cotton sundress with bareback, fitted waist, and full skirt.~
+A floral cotton sundress with bareback, fitted waist, and full skirt hangs here on a hanger.~
+~
+13 0 8
+0 0 0 0
+1 0 0
+#436
+kingsize bed~
+A kingsize canopy bed~
+A kingsize canopy bed sits here, its head against the east wall.~
+~
+12 0 0
+2 0 1168 0
+1 0 0
+#437
+wishing well~
+An old stone well.~
+An old stone well stands here beneath the oak tree.~
+~
+15 0 0
+100 0 0 0
+1 0 0
+E
+well~
+This old well looks like its been here for ages. The stones are covered
+with a thin layer of velvety moss. An old bucket hangs from a rope tied
+to a crank rod. Looking into the well ones see cool clear water and the
+reflection of some gold coins that have been tossed in. Could this 
+possibly be a wishing well?  Toss in a coin, make a wish and find out.
+~
+#438
+bench~
+A Stone bench~
+Stone bench sits here in the grass.~
+~
+13 0 0
+2 2 2 2 2 2
+1 0 0
+E
+bench~
+This bench that sits by the well, is made of the same stone as the well
+and the castle. Its a nice place to sit and relax and enjoy a lovely
+summers day.
+~
+#439
+fountain~
+A fountain pouring out the River of Dreams.~
+A crystal fountain is here pouring forth the River of Dreams.~
+~
+25 1 0
+0 0 0 0
+1 0 0
+#440
+bush~
+A blueberry bush~
+A bush, heavy with sweet, ripe blueberries grows here.~
+~
+15 0 0
+500 0 0 0
+1 0 0
+E
+bush blueberry~
+This bush looks as though its branches might break under the weight
+of the big, sweet, juicy, ripe blueberries growing on it. 
+~
+#441
+blueberries~
+A handful of blueberries~
+A handful of sweet, ripe blueberries lies here.~
+~
+19 0 16385
+15 0 0 0
+1 0 0
+E
+blue blueberries~
+These blueberries are so full of sweet, succulet juice... They look as
+though they may burst at any moment. 
+~
+#442
+earrings stars~
+A cluster of twinkling stars~
+A cluster of twinkling stars earrings lies here.~
+~
+13 1 65537
+0 0 0 0
+1 0 0
+#443
+dreamcatcher light~
+A finely crafted Dreamcatcher~
+A finely crafted Dreamcatcher hangs here on the wall.~
+~
+1 524289 1
+0 0 -1 0
+1 0 0
+E
+dream catcher~
+You see here a finely crafted Dreamcatcher. Handmade of a hoop of oak
+wood with a string woven net with a small hole in the center stretched
+across it. It is adorned with varying legnths of leather cord, holding
+colorful beads and feathers. The Native American legend states that if
+one hangs a Dreamcatcher over their bed, that in the night the dreams
+that come to them will pass through the dreamcatcher. The good dreams
+will pass through the hold in the center of the dreamcatchers net and
+to the sleeper. The bad dreams will be caught in the net and held there
+till morning, and then are destroyed by the mornings light.
+~
+#444
+cloak of Moonlight~
+A cloak of Moonlight~
+A cloak of Moonlight has been left here.~
+~
+13 0 1025
+0 0 0 0
+1 0 0
+#445
+amulet~
+An amulet of Love and Understanding~
+An amulet of Love and Understanding has been left here.~
+~
+15 0 16389
+500 0 0 0
+1 0 0
+A
+4 5
+A
+3 5
+A
+5 5
+#446
+veil of stars~
+A veil of twinkling stars~
+A veil of twinkling stars floats here in the ether.~
+~
+13 1 17
+0 0 0 0
+1 0 0
+#447
+slippers~
+A pair of sparkling crystal slippers~
+A pair of sparkling crystal slippers sits here.~
+~
+13 0 65
+0 0 0 0
+1 0 0
+E
+slippers~
+Sitting here is a pair of white slippers made of pure silk. 
+~
+#448
+cup of dreams~
+A golden cup of the River of Dreams~
+A golden cup of the River of Dreams pours out dreams to the world.~
+~
+17 1 16385
+0 1000 0 0
+1 0 0
+#449
+ring band moonbeam~
+a plain white band made from a moonbeam~
+The ring given Cyrodian by the woman he loves on his wedding day lies here.~
+~
+8 4097 3
+0 0 0 0
+1 0 0
+E
+ring~
+In side the band is engraved:
+ 
+          Cyrodian,
+           With this ring, I thee wed and pledge to thee my vows.
+                                        With all my love forever,
+                                                 Snowbird
+~
+#450
+bush ~
+A bush of scarlet red roses~
+A bush of scarlet red roses grows here in Swanbrook Garden.~
+~
+15 0 0
+500 0 0 0
+1 0 0
+E
+bush ~
+This bush is blooming with scarlet roses, alost the color of blood. The
+roses seem to shimmer in the sunlight, as though they possess some magic.
+Why not pick one and see?
+~
+#451
+rose red~
+A scarlet red rose~
+A scarlet red rose lies here, a symbol of love.~
+~
+3 0 16385
+20 10 10 -1
+1 0 0
+'cure critical'
+#452
+throne~
+The throne of the Keeper of Dreams~
+An ornate chair sits here on a white carpeted platform.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#453
+harpsicord~
+A harpsicord~
+A beautiful wooden harpsicord sits here, waiting to be played.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+desc harpsicord~
+Although this musical instrument looks like a small piano, it is not. 
+It is infact the predicesor of the piano. Its notes are high and clear
+and played by hitting the ivory white keys. Its cover is slightly open
+and inside can be seen what looks like a harp laid inside. It stands on
+three, long, thin ornately carved legs. On its music stand is a small
+music book, laid open to Strauss' "Blue Danube Waltz".
+~
+#454
+oven~
+The stone oven~
+A stone oven is here in the wall next to the fireplace.~
+~
+15 0 0
+500 7 0 0
+1 0 0
+E
+desc oven~
+This stone oven is built into the wall, over a stone firebox, next to
+the fireplace. It doesnt seem as though an open oven could get hot enough
+to bake pies and breads, but it does.
+~
+#455
+pie blueberry~
+A blueberry pie~
+A mouth watering blueberry pie sits here on the table.~
+~
+19 0 16385
+10 0 0 0
+1 0 0
+E
+desc pie blueberry~
+This is Snowbird's specialty, blueberry pie. She makes her pies from
+the blueberries growing on the bushes near Swanbrook pond.
+~
+#456
+bread~
+A loaf of golden brown bread~
+A loaf of golden brown bread lies here.~
+~
+19 0 16385
+15 0 0 0
+1 0 0
+#457
+couch~
+a large comfortable couch~
+A large, comfortable looking couch beckons to you invitingly.~
+~
+12 1073741824 0
+2 0 1168 0
+1 0 0
+E
+desc couch~
+Better be careful when you sit or lie on the large, comfortable couch...
+you just might fall asleep.
+~
+#458
+crib~
+A baby's crib~
+An elegant, handcrafted, walnut baby's crib sits against the wall.~
+~
+15 0 0
+200 0 0 0
+1 0 0
+#459
+rocking chair~
+An antique rocking chair~
+An antique rocking chair sits here in the corner.~
+~
+12 0 0
+1 0 1168 0
+1 0 0
+#460
+rocking horse~
+A fine rocking horse~
+A fine rocking horse sits here waiting for a young knight to ride it.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#461
+twin bed~
+A small twin bed~
+A small twin bed, with pillows and comforters, sits here by the wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#462
+toybox~
+A walnut toybox~
+A large walnut toybox sits here in the corner.~
+~
+15 0 0
+0 7 0 0
+1 0 0
+#463
+nightgown~
+A sheer black nightgown~
+Some god dropped a newly created nighty here.~
+~
+13 0 9
+0 0 0 0
+1 0 0
+#464
+brook~
+A babbling brook~
+A babbling brook flows here into Swanbrook pond.~
+~
+25 0 0
+10000 10000 1 0
+1 0 0
+#465
+tub bathtub~
+A large sunken bathtub~
+A large sunken bathtub sits here in the corner beneath the windows.~
+~
+12 0 0
+2 0 288 0
+1 0 0
+E
+tub bathtub~
+You see here a large marble bathtub which has been built into the
+floor. It is big enough for two.
+~
+#466
+wardrobe~
+A tall walnut wardrobe~
+A tall walnut wardrobe stands here against the wall.~
+~
+15 0 16385
+10000 7 0 0
+1 0 0
+#467
+cake wedding~
+A slice of wedding cake~
+A slice of wedding cake sits here~
+~
+19 0 1
+20 0 0 0
+1 0 0
+#468
+double bed~
+A double bed~
+A double bed sits here, its head against the wall~
+~
+12 0 0
+0 0 0 0
+500 0 0
+#470
+towel~
+A large fluffy towel~
+A large fluffy towel lies in a heap on the floor.~
+~
+13 0 1041
+0 0 0 0
+1 0 0
+#471
+honey~
+A sweet honeycomb~
+A sweet honeycomb lies here on the ground.~
+~
+19 0 1
+20 0 0 0
+1 0 0
+E
+desc honey~
+This is a piece of honeycomb from a beehive. It is made from wax made
+by the bees and is dripping with sweet, gooey, sticky honey.
+~
+#472
+babbling brook~
+A babbling brook~
+A crystal clear babbling brook flows through Swanbrook Forest.~
+~
+25 0 0
+5000 5000 1 0
+1000 0 0
+E
+brook~
+You see here a cheerful babbling brook of clear clean water flowing
+through the forest. It began its journey a the top of Swanbrook mountain
+and flows along its way, bringing life giving water to the forest and
+all that inhabit it.
+~
+#473
+uniform~
+A white nurses uniform~
+A white nurses uniform lies here.~
+~
+13 0 9
+0 0 0 0
+1 0 0
+#474
+wedding gown~
+A princess style gown of silk and French lace set with diamonds and pearls.~
+A princess style gown of silk and French lace set with diamonds and pearls has been laid here.~
+~
+13 0 9
+0 0 0 0
+1 0 0
+#475
+flowers bouquet bridal~
+A bouquet of Daisies, pink roses, Mums and babys breath tied with a silk ribbon~
+A bouquet of Daisies, pink roses, Mums and babys breath tied with a silk ribbon lies here.~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+#476
+necklace ~
+A necklace of diamonds and pearls~
+A necklace of diamonds and pearls has been left here.~
+~
+13 0 5
+0 0 0 0
+1 0 0
+#477
+earrings~
+Diamond and pearl earrings~
+Diamond and pearl earrings have been left here.~
+~
+13 0 65537
+0 0 0 0
+1 0 0
+#478
+robe~
+A sheer, white silk robe with long sheer sleeves and form-fitting french lace bodice~
+A sheer, white silk robe with long sheer sleeves and form-fitting french lace bodice has been dropped here.~
+~
+9 0 1025
+0 0 0 0
+1 0 0
+#479
+gown~
+A sheer, white, silk gown with thin straps and form-fitting french lace bodice ~
+A sheer, white, silk gown with thin straps and form-fitting french lace bodice has been left here.~
+~
+9 0 1033
+0 0 0 0
+1 0 0
+#480
+earrings ~
+A pair of gold hoop earrings~
+A pair of gold hoop earrings has been carelessly left here.~
+~
+8 0 65537
+0 0 0 0
+1 0 0
+E
+gold earrings~
+These earrings of solid gold have been formed into perfect hoops about
+one inche in diameter. The shine and glissen  in the sun.
+~
+#481
+slippers~
+A pair of fluffy open-back slippers~
+A pair of fluffy open-back slippers sits here.~
+~
+13 0 65
+0 0 0 0
+1 0 0
+#482
+sandels~
+A pair of open-toed, &Ybrown leather&g sandels ~
+A pair of open-toed, &Ybrown leather&G sandels lies here. ~
+~
+13 0 64
+0 0 0 0
+1 0 0
+#483
+brook pond~
+A babbling brook~
+A crystal clear babbling brook flows into Swanbrook Pond.~
+~
+25 0 0
+1000 1000 0 0
+1 0 0
+#484
+gold coin~
+A gold coin~
+A gold coin lies here in the grass.~
+~
+8 0 16385
+0 12 0 0
+1 50 5
+E
+coin~
+Aren't you lucky, you found a shiny gold coin, and heads up no less.
+It appears to be new and unused. Wouldn't it be lucky too if you
+just might be near a well to toss it in and make a wish? Go ahead toss
+the coin in the well and make a wish... But, becareful what you wish
+for... You just might get it!
+~
+A
+31 2
+#485
+piece of parchment~
+A piece of torn parchment.~
+A small piece of torn parchment lies here, impailed on a twig.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+E
+parchment~
+======\/\/\/\/===================\/\/\/\/\/\/\/\/\
+ |            SWANBROOK FOREST                     |
+ |    This area was designed and created by         |
+|    Snowbird, Keeper of Dreams, Wife of Cyrodian  |  
+ |   August 1998.  It is designed for players level |
+|    50 - 100.  Lower level adventurers enter at   |
+|    your own risk.                                |
+ \   This is also an example of the type of zones  /
+ /   you will find in the Medieval dimension of    \
+ \   4 Dimensions MUD.                             /
+  \/\/\______/-----\/\/\/\/\/------------\/\/\/\/\/      
+~
+#486
+baby carrier~
+A quilted baby carrier~
+A quilted baby carrier has been left here.~
+~
+15 524288 1025
+200 200 0 0
+4 0 0
+#487
+panties~
+A pair of sheer, white, silk lace panties~
+A pair of sheer, white, silk lace panties have been left here.~
+~
+9 0 2049 4
+12 10 0 0
+1 20 2
+#488
+playpen~
+A baby's playpen~
+A baby's playpen sits here.~
+~
+15 0 1
+200 1 0 0
+5 100 10
+#489
+Knight of the Rose ring~
+The ring of a Knight of the Rose~
+The ring of a Knight of the Rose has been laid here.~
+~
+8 557120 3
+12 0 0 0
+4 5000 500
+E
+ring rose knight~
+This ring, formed of solid silver, has a slightly raised, flattened   
+oval surface, into which has been carved the image of a perfect rose.
+Around the rose is engraved the words... 'Est Solarus, Oth Mathus', 
+which translated means 'My Honor Is My Life'. This ring is given only to
+the highest rank of Knight of Solamnia, the Knight of the Rose. The 
+knight who earns the privlidge to wear this ring has proven their bravery,
+loyalty, and put the welfare of others above their own.
+ 
+Inside the band of the ring is engraved...
+ 
+             Cyrodian Lyonsbane, Knight of the Rose                  
+~
+A
+25 4
+A
+5 4
+A
+2 4
+#490
+baby Liam Andrew~
+baby Liam Andrew~
+Liam Andrew, Cyrodian and Snowbird's baby son lies here sleeping.~
+~
+8 0 16385
+12 0 0 0
+9 0 0
+E
+baby Liam Andrew~
+This tiny baby rouses from his sleep and peers at you with eyes the 
+color of the blue-green sea. His thick hair is as black as night and
+his skin is the warm olive of a summers tan. His body is sturdy and
+strong, with limbs that are long and lean. This is Liam Andrew, the
+baby son of Cyrodian and Snowbird Lyonsbane. He is his fathers pride,
+and his mothers joy.
+Liam Andrew is in excellent condition
+
+Liam Andrew is a Human Warrior
+Liam Andrew is 2 feet tall and weighs 9 pounds and 14 ounces.
+ 
+Liam Andrew is using:
+(worn on head)           A knit baby cap
+(worn on body)           A cotton baby sacque
+(worn about body)        A blue babys blanket
+(worn about waist)       A babys diaper
+(worn on feet)           A pair of babys booties
+~
+E
+baby Liam Andrew~
+~
+#491
+document~
+A legal document~
+A legal document lies here on the desk.~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+E
+desc document~
+***  Legal MUD Document  ***
+ 
+August 9, 1998
+
+ Plaintiff:  Snowbird
+ 
+Legal Action:  Dissolvement of marriage between Snowbird and Womberly
+The MUD court of 4 Dimensions does here by grant the Plaintiff, Snowbird,
+a legal MUD divorce from the Defendant, Womberly, on the grounds that
+the defendant did willfully spend excessive time away from his wife and
+ children. This divorce is granted on the grounds of neglect of wife and
+family, and willfull abandonment. The court grants to Snowbird, full
+custody of the minor children Andrew and Tamina.
+ 
+ This divorce granted and witnessed by,
+Shorty, Kalten, and Molly
+Implementors of 4 D
+(Shorty's legal seal)
+ 
+~
+E
+desc document~
+/
+~
+#492
+parchment~
+A sheet of parchment~
+A sheet of parchment lies here, something is written on it.~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+E
+desc parchment~
+Be afraid, be in awe, of the man you see before you, for you stand in
+the presence of the Lord of the Dead. Standing a full head in height
+above the average human male, his unreadable face shows forth a steely,
+unmoveable strength of mind and will, dont even try to second guess
+this man. Beneath his armor and black robe, his strong, muscled body
+is nothing less than pure power. He looks at you and his gaze cuts
+through you like the double edge sword he wields, right into the core
+of your soul. He walks this world protecting it from those who would
+seek to transgress the laws and do harm. If you are in his presence
+to be judged for your actions, judgment will come swifly and be
+completely fair. And though he is a just and fair man, do not invoke
+his wrath, for it maybe the last thing you ever do.
+~
+#493
+red dress~
+A short, tight fitting, scarlet red dress~
+A short, tight fitting, scarlet red dress lies here in a heap.~
+~
+13 0 1025
+0 0 0 0
+1 0 0
+#494
+shoes~
+high heeled black pumps~
+A pair of high heeled black pumps lie here.~
+~
+13 0 64
+0 0 0 0
+1 0 0
+#495
+black fishnet hose~
+A pair of black fishnet hose~
+A pair of black fishnet hose lies crumpled here.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+#496
+red panties~
+A pair of red silk panties~
+A pair of red silk panties lies forgotten here.~
+~
+13 0 2049
+0 0 0 0
+1 0 0
+#498
+red silk bra~
+A red silk french push-up bra~
+A red silk french push-up bra has been carelessly left here.~
+~
+13 0 9
+0 0 0 0
+1 0 0
+#499
+Katuba~
+Snowbird and Cyrodian's Katuba~
+Snowbird and Cyrodian's katuba hangs here on the wall.~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+E
+desc Katuba~
+'*=====*=====*=====*=====*=====*=====*=====*=====*
+'||        *** CERTIFICATE OF MARRIAGE ***      ||
+'||                                             ||
+'||            Snowbird and Cyrodian            ||
+'||                                             ||
+'||       On this 13th day of August 1998       ||
+'||         Were joined in marriage by          ||
+'||               Mistress Cosia                || 
+'||    In Swanbrook Chapel of Swanbrook Castle  ||
+'||         At the Headquarters of UCMM         ||
+'||                                             ||
+'*=====*=====*=====*=====*=====*=====*=====*=====*      
+~
+E
+desc katuba~
+*=====*=====*=====*=====*=====*=====*=====*=====*
+||        *** CERTIFICATE OF MARRIAGE ***      ||
+||                                             ||
+||            Snowbird and Cyrodian            ||
+||                                             ||
+||       On this 13th day of August 1998       ||
+||         Were joined in marriage by          ||
+||               Mistress Cosia                || 
+||         At the Headquarters of UCMM         ||
+||    In Swanbrook Chapel of Swanbrook Castle  ||
+||                                             ||
+*=====*=====*=====*=====*=====*=====*=====*=====*
+~
+E
+desc katuba~
+~
+#0
+
+
+#ROOMS
+#429
+The Gateway to Snowbird's "Swanbrook" Castle~
+Tall gates of intricately woven rods of solid gold block the path
+leading to Snowbird's home, "Swanbrook". On either side of the gates
+is a hedge of briars and thorns, standing atleast ten feet high and 
+stretching out as far as the eye can see. Although she welcomes all
+into her world, the Keeper of Dreams highly values her privacy, and it
+is best to first seen an audience with the Mistress of Swanbrook.
+
+~
+0 1073741828 3
+D0
+~
+gates~
+3 -1 430
+S
+#430
+Swanbrook Castle~
+The gate opens onto a path laid with natural flagstone that passes
+through a seemingly enchanted garden. The beauty of this place is
+breathtaking. Tall majestic oaks stand along the boreder of this
+garden, stretching out their leafy arms over it protectively. Beams
+of bright sunlight filter down through the branches, and a pair of
+love birds fly about in the sky. Along the perimeter of the garden,
+fragrant bushes of red, pink, yellow and white roses grow. To the east
+is a pond, fed by a small babbling brook, where a pair of snow white
+swans, swim in a ballet of love, and a cluster of small bushes laden
+with sweet blueberries grows. To the west is an old, roof covered 
+stone well, the kind that wishes are made in, and on either side of
+the well is a stone bench. To the north is the focal point of this
+place. There stands "Swanbrook", a beautiful, ivy covered, stone castle,
+with a single tower room at the top, a small wing at the east end, and
+Swanbrook Chapel at the west. The castle is entered by way of an old
+rustic, arched, wooden door.
+
+~
+0 1073741824 0
+D0
+~
+wooden~
+3 -1 434
+D1
+~
+~
+0 -1 431
+D2
+~
+gates~
+3 -1 429
+D3
+~
+~
+0 -1 432
+S
+#431
+By Swanbrook Pond~
+The sunlight sparkles and plays on the surface of this pond, along with
+the shadows cast by the tree branches. The clear blue sky, billowy white
+clouds and hanging branches are reflected as in a mirror. The water at
+the north end of the pond flows out in ripples as a clear, slow flowing,
+babbling brook flows into the pond over a small waterfall. Tiny water
+skates glide across the surface of the water and gold fish poke their
+mouths out of the water to grab a passing bug. A pair of swans swim side
+by side in the pond, heads together. Around the edge of the grow wild
+violets and stalks of Queen Anne's lace. A soothing breeze blows in from
+the south, blowing white dandilion sees into the air. To the east of 
+the pond, is a cluster of bushes, heavy laden with sweet, succulent
+blueberries, just ripe and ready to pick. To the north is the kitchen
+wing of the castle, which is entered by a wooden door with a small glass
+window in it. To the east, at the edge of the garden is a small marble 
+grotto. A crystal clear babbling brook flows in, emptying into the pond.
+To the northeast, a small path leads to Swanbrook Forest.
+
+~
+0 1073741824 3
+D0
+~
+wooden~
+3 -1 439
+D1
+~
+gates~
+3 -1 435
+D3
+~
+~
+0 -1 430
+D6
+~
+~
+0 -1 457
+E
+book~
+1 Corinthians  
+ 
+ 13:4 Love is patient and kind, it is not jealous or conceited or proud.
+ 13:5 love is not ill-mannered or selfish or irritable, love does not 
+      keep a record of wrongs.
+ 13:6 love is not happy with evil, but is happy with the truth. 
+ 13:7 Love never gives up, and its faith, hope, and patience never fail. 
+ 13:8 Love is eternal. There are inspired messages, but they are 
+      temporary, there are gifts of speaking in strange tongues, but  
+      they will cease, there is knowledge, but it will pass. 
+ 13:9 For our gifts of knowledge and of inspired messages are only 
+      partial, 
+ 13:10 but when what is perfect comes, then what is partial will 
+       disappear. 
+ 13:11 When I was a child, my speech, feelings, and thinking were all 
+       those of a child, now that I am an adult, I have no more use for
+       childish ways. 
+ 13:12 What we see now is like a dim image in a mirror, then we shall 
+       see face-to-face. What I know now is only partial, then it will
+       be complete as complete as God's knowledge of me.
+ 13:13 Meanwhile these three remain: faith, hope, and love, 
+       and the greatest of these is love. 
+ 
+                   Good News Bible in Today's English Version
+~
+S
+#432
+By the Wishing Well~
+Here, beneath the protective shade of an ancient oak tree, stands an 
+old well. It is constructed of the same stone as the castle, with an
+A-line roof covering, supported by two vertical beams fixed between the
+stones. Suspended between the beams is a long metal rod with a crank
+handle. Attached and wound around the rod is a thick rop, an old oaken
+bucket tied to it. On either side of the well is a stone bench. Wild 
+morning glories climb up and wind around the beams, up to the roof. From
+time to time, a honey bee buzzes by, collecting nectar from the flowers.
+Robins and other birds sing and fly about, a woodpecker pecks at a tree.
+To the south is a quint little cottage for special guests of Snowbird.
+To the north, part of but separate from Swanbrook Castle, is a small
+stone chapel. An arched wooden door enters the chapel, and on either 
+side of the door is a small stained glass window. All along the perimeter
+of the garden, grow bushes of red, pink, yellow, and white roses. Legend
+has it that these roses are enchanted with healing magic.
+
+~
+0 1073741824 3
+D0
+~
+wooden~
+3 -1 433
+D1
+~
+~
+0 -1 430
+D2
+~
+door~
+3 -1 493
+D3
+~
+~
+0 -1 450
+S
+#433
+The Chapel Sanctuary~
+This is Swanbrook Chapel, a place of peace and rest for the soul. This
+small chapel is part of, yet separate from, Swanbrook Castle. The high
+arched ceiling is supported by strong wooden beams and wrought iron
+lamps hang from the ceiling. A small central isle, with a red carpet,
+runs from the wooden arched door to the Holy Alter at the north end of
+the chapel. On either side of the isle are five rows of small pews, and
+three arched, stained glass windows. At the north end of the chapel is
+the Holy Alter of God.  A sense of peace, tranquility and love fills
+the air. All the cares and worries of life seem to fade into distant
+memories, replaced with feelings of love and joy as one approaches the
+Holy Alter of the Most High God. The Holy Alter is formed of pure gold,
+with engaved images of Saints etched on its front surface. Its top is 
+formed of a slab of polished white marble, and is partially covered by a
+hand woven lace cloth.  A huge white book, lettered in gold, sits laid 
+open on a golden book stand in the center of the Alter, with golden 
+urns, giving off smoke from sweet incense, on either side. Tall golden 
+candle stands, with white and gold candles, sit at either end of the
+alter, flames flickering in the slightest breeze.  On the back wall is
+a tall, arched, stained glass window, depicting a man and woman walking 
+hand in hand, and an angel hovering above them.  Around the window, 
+etched in stone, are the words "...AND OF THESE, THE GREATEST IS LOVE".
+
+~
+0 1073742848 0
+D2
+~
+wooden~
+3 -1 432
+E
+book~
+1 Corinthians
+ 13:4  Love is patient and kind it is not jealous or conceited or 
+       proud.
+ 13:5  love is not ill-mannered or selfish or irritable love does 
+       not keep a record of wrongs
+ 13:6  love is not happy with evil, but is happy with the truth. 
+ 13:7  Love never gives up and its faith, hope, and patience never
+       fail. 
+ 13:8  Love is eternal. There are inspired messages, but they are
+       temporary there are gifts of speaking in strange tongues, 
+       but they will cease there is knowledge, but it will pass. 
+ 13:9  For our gifts of knowledge and of inspired messages are only 
+       partial 
+ 13:10 but when what is perfect comes, then what is partial will 
+       disappear. 
+ 13:11 When I was a child, my speech, feelings, and thinking were
+       all those of a child now that I am an adult, I have no more
+       use for childish ways. 
+ 13:12 What we see now is like a dim image in a mirror then we  
+       shall see face-to-face. What I know now is only partial then 
+       it will be complete as complete as God's knowledge of me. 
+ 13:13 Meanwhile these three remain: faith, hope, and love, and the
+       greatest of these is love. 
+                  Good News Bible in Today's English Version
+~
+S
+#434
+The Entry Hall~
+The arched wooden door opens into the entry hall of Swanbrook Castle.
+The floor here is of polished stone and covered by a large handwoven rug.
+From the 12 foot high ceiling hangs a large wrought iron chandlier, with
+a dozen small lamps. The walls are also made of stone, cut and polished 
+to bring out their inner colors. On the north wall is a door leading to
+the livingroom, and above the door hangs a huge shield, the Coat-of-Arms
+of Swanbrook painted on its golden metal surface. On each side of the 
+door stands a polished suit of armor, lance held tightly in a gauntlet.
+In the eastern wall is the door leading to the dining room. Over the 
+doorway hangs a tapestry depicting two swans swimming in a pond. On the
+west wall is the door leading to the the library. On wall on either
+side of the door are hung paintings and picture tapestries. At the
+north east corner along the eastern wall is a stone staircase going
+up to the second floor.
+
+~
+0 1073742848 0
+D0
+~
+~
+0 -1 438
+D1
+~
+~
+0 -1 437
+D2
+~
+wooden~
+3 -1 430
+D3
+~
+~
+0 -1 436
+D4
+~
+~
+0 -1 440
+S
+#435
+Shrine To The Keeper Of Dreams~
+The gates open into a small grotto just east of the pond. This is the
+Shrine to the Keeper of Dreams. The lawn is perfectly kept and the area
+is edged by bushes of Palanthas Roses. In the center of the grotto is a
+small open marble round temple. In the center of the temple is a lifesize
+statue of Snowbird, the Handmaid of Morpheus, Angel of the Morning,
+the Keeper of Dreams. About the shrine is a semicircle of lifelike statues 
+of men, at the base of each statue is a small golden plaque, the mans
+name on it...  Sabian, Gilean, Shadow, Gamaliel, Malice, Morpheus,
+Rush, Hercules, Rev, Derbar, Blacky, Bolt, Womberly, Kalten, Cyrodian and
+Gwydion. Standing between the rose bushes are smaller statues of 
+children, also with small name plaques...  Corinthian, Renevar, Rachel,
+Remington, Andrew, Tamina, Laila and Liam. On a marble pedestal 
+before the shire, open for all to see is a large, glowing golden book 
+titled Snowbird's Book of Dreams.
+
+~
+0 1073741828 0
+D3
+~
+gates~
+3 -1 431
+E
+keeper dreams ~
+You stand in awe of the most beautiful, most sensious, most desirable
+woman you have ever beheld. This is Snowbird, called Angel of the
+Morning, the Keeper of Dreams.  She is the answer to the dreams of 
+everyman who has ever held her in his arms, and worst nightmare to
+those who have dared to betray her love. She is petite, not more than
+five feet tall, with body designed expecially for pleasure. Her hair is a
+mass of shimmering golden curls that flow over her shoulders and down
+her back. Her eyes are a liquid blue-green, the color of the sea. Her full
+red lips are poised in half a smile, ready to bestow the next kiss. She
+ is dressed in a flowing white robe with a ring of embroidered golden
+stars. On her head is a veil of twinkling stars and in her ears she wears
+clusters of shimmering stars. In one hand she holds a finely crafted
+dreamcatcher and in the other, a golden goblet, from which she pours
+out the river of dreams. About her shoulders is a cloak of moonlight.
+She is the guardian of the dreamworld, sending to all who slumber either
+sweet dreams or horrid mightmares.  Floating mid-air before her is
+a large golden book, Snowbird's book of Dreams.
+
+~
+E
+Gwydion~
+You see here the man Gwydion, the love of Snowbird's life. He is
+tall, standing around 6' 3" tall, a perfect speciman of manhood. His
+smiling eyes are a cool hazel green, and his hair is strawberry blonde.
+This is the man that she has chosen to make her partner for life in
+that realm knows to many as "The Real World" beyond this ether, 
+as well as in this world. He is dressed in the attire of a man of some
+importance, and it is quite clear that he is of above average mind
+intelligence and talent.
+~
+E
+Sabian~
+You see here a tall, grey haired man in his early 40's. His hansome face
+is weather worn and his blue eyes reflect the bloody battles they have
+witnessed. He proudly wears the armor of a Knight of the Rose, with a rose
+engraved ring on his finger. He is a man of honor and high ideals and
+until his life was taken as he saved a fellow knights life in a Draconian
+raid, he was Snowbirds beloved first love, and first husband.
+~
+E
+Gilean~
+You see here an ageless man, dressed in the flowing robes of a 
+red robe mage. In his hands he holds a book, the knowledge of the 
+the gods. This is the Immortal Gilean, also called Gilean the Book,
+the god of Neutrality. In her younger years, Snowbird worshipped 
+and served her beloved god Gilean as his Devoted Scribe, personal
+servant and the beloved of his heart.
+~
+E
+Cyrodian~
+Be afraid, be in awe, of the man you see before you, for you stand in
+the presence of the Lord of the Dead. Standing a full head in height
+above the average human male, his unreadable face shows forth a steely,
+unmoveable strength of mind and will, dont even try to second guess
+this man. Beneath his armor and black robe, his strong, muscled body
+is nothing less than pure power. He looks at you and his gaze cuts
+through you like the double edge sword he wields, right into the core
+of your soul. He walks this world protecting it from those who would
+seek to transgress the laws and do harm. If you are in his presence
+to be judged for your actions, judgment will come swifly and be
+completely fair. And though he is a just and fair man, do not invoke
+his wrath, for it maybe the last thing you ever do. Cyrodian Lyonsbane
+is Snowbirds seventh husband and the father of Laila and Liam.
+~
+E
+Gamaliel~
+You see here a tall, proud Silvinesti Elf.  He is dressed in the flowing
+white robes of a Revered Son of Paladine. His flowing brown hair
+drapes over his pointed ears and down his neck and over his 
+shoulders.  He looks at the world around him with an air of haughty
+arrogance, feeling assured that being Silvanesti makes him better
+than anyone else he sees.  He is Snowbird's second husband.  Their
+marriage ended when his arrogant pride prevented him from taking
+her home to his family when he returned to Silvanos, and he refused
+to even consider fathering a half-elf/half-human child.
+~
+E
+Malice~
+As you look upon this mage, your first instinct is to look away. He is 
+tall and almost haggerdly thin. He is dressed in the robes of a mage
+of the Black Robes.  Under his black cowl you can see that his right
+eye is covered by a black patch. A deep jagged scar runs from above
+his hairline down his forehead, through his eye and down his right 
+cheek. This horrid scar is the result of his encounter with an demon
+while traveling through the Abyss.  He is Malice D'Artek, Snowbird's
+second husband and father of Corinthian, Renevar and Rachel. He
+was made to choose between his Dark Queen, Takhisis and his family.
+With the promise of even more power, Malice chose the Dark Queen.
+~
+E
+morpheus~
+A tall man, cloaked in shadows stands here. His dark features are 
+hard to see, only a thin lipped mouth,  pulled in a slight grimace can
+be seen. This is Morpheus, the Lord of Dreams.  It is he who called
+Snowbird to his service to be his Keeper of Dreams, to protect and 
+keep the fountain from which flows the River of Dreams. Snowbird's
+son Corinthian was named by Morpheus and blessed before he was
+born with Morpheus' gift of Dream Sight.
+~
+E
+Hercules~
+Before you is the largest, most powerful Knight you have ever seen.
+His body is perfect, with perfectly toned muscles and hands that could
+crush a man with one blow. Yet he is gentle in holding the woman he
+loves in his arms. He is Hercules, Snowbird's third husband. He was
+lost in battle and only his sword and shield were ever found. No word
+has been heard from him since.
+~
+E
+Rev~
+You see before you Forest Warrior Rev. Tall and lean, a ranger who
+lives his life in protection of the forest.  His clothes are made of 
+leather and he carries a bow and a quiver of arrows. On his head is 
+a huntsman hat with an eagels feather in it.  Rev Kaldara was one of
+mightiest of the Forest Warriors and a love of Snowbird.
+~
+E
+Derbar~
+Before you stands a tall Knight of the Crown.  The deep scar on his
+chest shows his experience of battle.  His face shows the scars of the
+years. His brown hair hangs down to his muscled shoulders and his
+green eyes sparkle when he smiles. He is Debar Shedu, once a great
+love of Snowbird and father of her son Remington. 
+~
+E
+Blacky~
+You see here a mage of the Black Robes. He is tall and very thin and
+frail looking. His blond hair flows down his back almost to his waist.
+He leans heavily on his staff, gaining support from it.  About his waist
+are tied bags of spell componants. This is Blacky Kaldara, brother of
+Rev and Snowbird's fifth husband.  He too was seduced by the Dark
+Queen and choose her.
+~
+E
+Bolt~
+You see before you a tall dark elf. His skin is the color of ebony and
+his hair as white as snow. His violet eyes glow with the ability to see
+in infravision. His muscular body is well toned and well developed
+from many long hours of training. He is dressed in the clothes of a 
+ranger and carries a bow and a scimitar. This is Bolt, the Drow elf,
+one of Snowbird's oldest, dearest friends and companions.
+~
+E
+Womberly~
+There is nothing really special that you can see about this man. He
+looks like an average adventurer, ready to explore and discover the
+secrets the world holds. This is Womberly, Snowbird's sixth husband and
+father of her son Andrew, and explore the world he did. In fact he 
+spent so much time adventuring and exploring that he forgot about his
+family and returned home to find his wife and child gone. 
+~
+E
+Kalten~
+You see here the god Kalten. He is tall, with ruggedly handsome good
+looks and a perfect body. He is the finest example of male virility and
+will persue anything female, and the younger the better. He is also
+Snowbird's former loved and her daughter Tamina's father.
+~
+E
+Corinthian~
+You see here a tall, well built young man in his late teens. His hair is
+the color of spun gold and his eyes as blue as the sky. About him is an
+aura of mystery that you cant help but feel. This is Corinthian D'Artek,
+the son of Snowbird and Malice D'Artek. He was given the gift of Dream
+Sight before his birth. In his dreams he sees things that are yet to come.
+His is Corinthian, the Dream Seer, named by Lord Morpheus himself.
+~
+E
+Renevar~
+The young man you see before you is Renevar D'Artek, son of Malice
+and Snowbird D'Artek, and twin brother of Rachel. He is tall and lean
+with jet black hair pulled to the back of his neck, black gotee and dark
+piercing black eyes. He is dressed in the clothes of a Forest Warrior
+and carried a cross bow and a long sword.  He wanders the forests of
+this world protecting mother earth and her animal children.
+~
+E
+Rachel~
+You see here a young woman dressed in black robes, bags of spell
+components tied to a teather around her waist. Her jet black hair falls
+about her shoulders in soft natural curls. She is not what most would
+consider to be a beauty, but she is not homely either. Her eyes are like
+two black pools and her full lips neither smile nor frown. This is Rachel
+D'Artek, daughter of Malice and Snowbird D'Artek, and twin sister of
+Renevar.  She is definately her father's daughter, looking just like him
+to choosing the follow the black arts of the Black Robes. 
+~
+E
+Remington~
+You look at this young man and you cannot help smiling.  His face is
+bright and shining, and he greets you with a warm smile. This man is
+Remington Shedu, the son and love child of Snowbird and Derbar. He
+is tall with warm brown hair, blue eyes and a smattering of freckles.
+He is the apple of Snowbird's eye and the son of her heart.  He is 
+dressed in traveling clothes and carrying a backpack, all to wander the
+worlds seeking his fortune.
+~
+E
+Andrew~
+This young man looks like a typical sixteen year old, eyes filled with
+curiousity about the world around him. His sandy blonde hair hangs
+down in his eyes and around his ears.  Andrew is the son of Snowbird
+and Womberly, and is determined to get what he wants, no matter what.
+When he sets his mind to what he wants, nothing can stop him from
+getting it.  He is also very much a mommas boy.
+~
+E
+keeper dreams~
+~
+E
+Tamina~
+You see her a young girl with wide flashing eyes.  She is sharp witted
+and does not miss a thing. Her big brown eyes study you, cutting right
+through you, disemboweling your very soul. Her body is well developed
+for her thirteen years and she seems to know it. She is Tamina, the love
+child and daughter of Snowbird and Kalten. This child is indeed her
+fathers daughter, with no mistake.  One need only look at her to tell.
+~
+E
+Laila~
+You see here a young girl dressed in the flowing robes of a Red Robe
+mage. Her small body seems almost lost in the array of robes.  Her eyes
+seem to glow with the magic within her. She is Laila the daughter of
+Snowbird and Cyrodian. She is also a wild mage, born with her powers
+active almost from birth.  She has spent her formative years learning
+to control and manage her Art at the teachings of her great-grandfather,
+the Black Robe mage and head of the Conclave, Vagnard.  
+~
+E
+Liam~
+Just one look tells you that this small boy is a miniature version of his
+father Cyrodian.  Even at this young age, you can see that one day he
+will be strong and powerful like his father. Perhaps he will one day,
+like his father, be Lord of the Dead. He is Snowbird and Cyrodian's son
+Liam Andrew.
+~
+E
+book ~
+Snowbird's Book of Dreams
+ 
+Preface
+ 
+To any and all who have come to my Swanbrook, welcome, I hope
+you have enjoyed your visit here.  This book is a little about me, 
+Snowbird, and the woman behind her. 
+ 
+            ***  The Keeper of Dreams  ***
+ 
+First and formost I believe in dreams.  I don't just mean the dreams
+that fill our heads at night, but the dreams that keep us looking to
+the future. Without dreamers mankind would be extince, dreamers
+keep our legacy alive.  When one person says "Why?", the dreamer
+says "Why not?"  To a great degree it is dreamers that make MUDs
+possible. Each and every zone of every mud on the net is the product
+of some builders dream.
+ 
+From the first time I was introduced to fantasy gaming on my first PC, 
+which was a Commodore 64, the T-Rex of PC's, I had a dream to one
+ 
+ (see Page2)
+~
+E
+Page2~
+day create fantasy worlds for others to play in.  I can remember playing
+ a fantasy role-playing game on my computer and having to play each
+character myself. I can remember thinking "If only other people, maybe
+even my friends, could play my other characters." At that time I was
+not at all knowledgable about the Internet and had no idea that MUDs
+even existed.  Finally I acquired a 486 PC with a modem and a whole
+new world was opened up to me. Through the man who shall be known
+only as my old friend Gilean, whom I met online, I was introduced to
+MUDs.  At first it was quite a strange experience. I had been very 
+used to playing graphical games and had tended to shy away from
+text based game. Yet here I was, tossed into a new exciting world of
+text based gaming.  My first character was a woman Warrior whom I
+named Laurina.  I liked playing a warrior, but one day I ran into a
+character dressed in robes and casting healing spells and creating 
+magical loafs of bread. He was a cleric. Ha, thats what I wanted to be,
+I wanted to be a healer.  And so Snowbird was born.  Her name came
+from a tribe of indians who were named only after animals. Being part
+Algonquain indian myself, I named my character Snowbird, the little 
+white dove.  I soon choose a "god" to worship, who just happened to
+be my friend Gilean, and was made his Devoted Scribe.  I remember
+even from my side of the screen, looking on in awe as Gilean created
+ 
+ (see Page3)
+~
+E
+Page3~
+wonderful things like armor, weapons, wands and other magical
+things.  He was using a program that I now know as OnLine Creation
+OLC for short.  Gilean also allowed me to "follow" him as he went
+about creating new zones for players to play in.  From that day on I
+had one dream...  I wanted to build on a MUD!  I wanted to make 
+places for other people to play. I wanted to create wonderful mystical
+and magical things. I wanted to wield "godly powers".  I had what I
+really though were some very good ideas for zones.  At that time I had
+never built a thing on a MUD and had limited programming experience.
+I asked Gilean to let me try my hand at building on his mud, but as it
+went, he never quite got around to giving me a chance.  Eventually
+his mud closed down for a major upgrade and I went looking for a
+new mud to play on.  I went to many muds that were new to me, but
+I was never able to persuade anyone to let me, a newbie mudder
+no less, to try my hand at building.  Finally one day, through a friend
+I had met on another MUD, I met a MUD Implementor named Shorty.
+It was the break I had been looking for.  Shorty, who is a really great
+man as well as a fantastic Implementor, believed in giving new builders
+a break with a trial zone.  Shorty set me up with a 100 room zone and
+told me what he wanted and I set to work.  It seemed as though I just
+fell into the job.  Having been am amateur SciFi and fantasy writer for
+a good many years, I let my imagination go and build a zone that was
+ 
+ (see Page4)
+~
+E
+Page4~
+a MUD version of a perhistoric dinosaur forest, just what Shorty had
+asked for.  I was in my glory, I had a new outlet for my creative talents.
+I went on to build on three more muds, creating zones, including the
+one you are in now, Swanbrook Forest.  This zone is my pride and
+joy. It has many many special memories for me, especially of a very
+dear man who will always be in my heart.  His name is Cyrodian the
+Lord of the Dead, and for him there is a place in my heart that no one
+else can ever fill.  He knows this and I hope he will never forget me.
+ 
+Epilog
+As a last note...  let me quote from a song that the Rolling Stones sang
+long ago...  "Lose your Dreams and you will lose your mind."  Never
+let your dreams go. No matter how impossible they may seem, no 
+matter how unachieveable, how unattainable, how unreachable they
+may seem. Strive for your dreams... it is that striving that makes us 
+strong. It is the struggle towards the goal, that if it doesnt kill us will
+make us all strong. Live your dreams...  Never let them die.
+ 
+Reach for the stars....
+ 
+Laura M. Conklin-Hutchinson
+AKA....  Snowbird the Keeper of Dreams
+ 
+ (see Page5)
+~
+E
+Page5~
+Final note...
+ 
+As a last note...  In this Shrine to the Keeper of Dreams, you see many
+names of many men...  these men were all played by players who 
+became very special friends of mine.  Each of them and I were either
+MUD married or were MUD lovers.  To each of them I say... Thank you
+for the good times we had. Thank you for the wonderful roleplaying
+and thank you for the "love" we shared as characters and friends. 
+I will never forget any of you ever.
+
+To Shorty , the Implementor of 4 Dimensions Mud, thank you for giving
+me a chance to realize my dream to be a builder on a mud. You were
+not afraid to give a newbie builder and mudder a chance.  And to the
+one and only Ntanel StormBlade, thank you for hiring me to be your head
+builder. I know there were times I nearly drove you crazy.  Hey, thats
+life Nat.  And to my beloved Cyrodian, I will love you forever more.
+ 
+Snowbird the Keeper of Dreams
+April 2, 1999
+Head Builder and Implementor, UCMM ResortMUD
+~
+E
+Shadow~
+You look upon a man dressed in black robes, the robes of a Black Robe
+mage.  His casts his sinister gaze on you and it is hard to look away.
+He has eyes for but one one woman, and would nearly be her undoing.
+This is Shadow D'Artek, mage of the Black Robes and brother of Malice.
+and Snowbird's lover. For him she was excommunicated from Gileans
+temple and nearly banned from his world.
+~
+E
+Rush~
+From his slicked back jet black hair to his spit shined wingtips, this 
+man is a very sharp dresser.  He is Rush... Assassin, thief, cutthroat,
+rapist, and all around SOB.  His desire was for one woman, but his
+desire was not to love her but to destroy her.  He wanted to possess
+her very soul.  Try as he may to destroy Snowbird he could not.
+His goal was to turn her to the path of his Queen Takhisis, but he
+could not.
+~
+S
+#436
+The Library~
+This room is well lit by the light that shines in through the stained 
+glass windows. A large fireplace with an ornate firescreen and untensils
+dominates the western wall. On the eastern wall is a door leading back
+to the entry hall. On either side of the door is a small couch set
+set against the wall.  Facing the fireplace is a couch and two large
+upholstered chairs.  On the north and south walls are bookcases holding
+books of all sizes and ages. Although this is mainly a library, a small
+harpsicord sits, at the south end of the room, while a long wooden table,
+eight high back chairs, placed around it. In the center of the table is
+a large stained glass lamp, to illuminate the room at night.
+
+~
+0 1073742848 0
+D1
+~
+~
+0 -1 434
+S
+#437
+Dining Room~
+Many holidays and special occasions have been celebrated in this elegant
+dining room. The stone walls are decorated with paintings and in the
+south wall are three tall stained glass windows. From the ceiling hangs
+a crystal chandelier, its lamp lights twinkling like faerie fire. In
+the east wall is a door leading to the kitchen. On either side of the
+door is a walnut hutch, displaying antique china and crystal. In the
+north wall is a small fireplace, small portraits of family members on 
+its mantle. Against the south wall, under the windows is a walnut buffet.
+In the west wall is the door leading out into the entry hall, and on 
+either side of the door is a large hand carved captains chair. The focal
+point of this room is the large dining table, which can seat up to ten
+persons comfortably. The table is made of highly polished walnut and
+covered by an elegant hand woven Irish lace table cloth. In the center
+of he table is tall crystal vase filled with sweet smelling roses from
+the garden. On each side of the flowers is a silver candle stick with
+a long white candle. Placed around the table are eight dining chairs at
+the sides and a captains chair at each end. 
+
+~
+0 1073741824 0
+D1
+~
+door~
+3 -1 439
+D3
+~
+~
+0 -1 434
+S
+#438
+The Audience Chamber~
+This formal Audience Chamber occupies nearly half of the first floor.
+The feeling that is projected by this room is one of grace and majesty.
+This is the where Snowbird, as Keeper of Dreams, Goddess of the Night,
+holds formal audience with mortals and other Immortals. From the doorway
+to the northern wall, runs a wide white carpet, which comes to an end
+at the back of a small two tiered platform. Sitting on the platform is
+a chair, that almost looks like a throne. On either side of the chair
+are two smaller chairs, for guests of honor.  On the north wall above
+the throne, hangs a huge tapestry of a golden cup which is tipped forward
+and pouring out the River of Dreams. Along either side of the white
+carpet are three chairs, for those having audience with the Keeper.
+In the west wall is a large fireplace, with ornate wrought firescreen and
+utencils. Above the fireplace hangs a large oil portrait of Snowbird and
+her son Remington. On the northwest and southwest walls are comfortable
+couches, between them a red oriental rug and large, low round tea table.
+Set in the wast wall are two tall stained glass windows. On the east,
+northeast, and southeast walls are comfortable chairs and couches. This
+room is also used on holidays and special occasions for formal parties.
+In the south wall are wooden doors leading out to the entry hall.
+
+~
+0 1073741824 0
+D2
+~
+~
+0 -1 434
+> act_prog p is dying of thirst!~
+mpmset 0.$n thirst 100
+mpmset 0.$n full 100
+~
+> act_prog p is suffering from lack of blood!~
+mpmset 0.$n blood 20
+~
+> act_prog p is starved half to death!~
+mpmset 0.$n full 100
+mpmset 0.$n thirst 100
+~
+|
+S
+#439
+The Kitchen~
+Ohhhhh, the wonderful smells that come from this kitchen. The kitchen
+as in many old castles, has been added on as a separate room, mainly
+to accommodate the huge cooking fireplace that takes up almost all of
+the northern wall. Next to the fireplace is a firebox with a stone oven
+over it and pile of logs. In the fireplace is a crank handled roasting
+spit for roasting meat. along the west wall is a row of cupboards with
+supplies of grains, flours, meal, and non-perishable food stuffs. In 
+the south wall is a door leading out to Swanbrook pond, allowing the
+cook to easily transport water from the brook to the kitchen. In the
+west wall is the door leading to the dining room. On either side of 
+this door, is a large wooden hutch, containing dining dishes and cutlery.
+In the center of this kitchen is a large wooden table, next to it a wood
+standing chopping block. Over the table hangs a large, wrought iron rack
+on which hangs pots, pans, kettles and utensils. On the south wall next 
+to the door, are brooms, mops and water buckers. At this moment it smells
+as though Snowbird's specialty, blueberry pie, is baking in the oven.
+
+~
+0 1073741824 0
+D2
+~
+wooden~
+3 -1 431
+D3
+~
+door~
+3 -1 437
+S
+#440
+Second Floor Hallway~
+The stone staircast leads up into the second floor hallway, which runs
+north. The west door leads into the bedroom of Remington, Snowbird's 
+eldest son. The door to the east leads into the guest bedroom. The stair
+well here is protected by a wrought iron railing. At the south end of 
+the hall, in the ceiling, is a door, with a short knotted rope fixed to
+it. When the ceiling trapdoor is open, a small wooden ladder descends,
+giving access to the tower room above.
+
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 441
+D1
+~
+door~
+3 -1 443
+D3
+~
+door~
+3 -1 442
+D4
+~
+trapdoor~
+3 -1 444
+D5
+~
+~
+0 -1 434
+S
+#441
+Second Floor Hallway~
+This is the northern end of the second floor hallway. The door to the
+north opens to Snowbird and Cyrodian's bed chamber. To the east is the
+door to the bathroom and to the west is the door leading into the nursery.
+The hallway here is lit by an ornate wrought iron chandelier.
+
+~
+0 1073741824 0
+D0
+~
+door~
+3 -1 445
+D1
+~
+door~
+3 -1 447
+D2
+~
+~
+0 -1 440
+D3
+~
+door~
+3 -1 446
+S
+#442
+Remington's Bedroom~
+This is the bedroom of Remington, Snowbird's eldest son. The walls and
+floor are stone, and a stained glass windows are set in the west and 
+south walls. The floor is covered with a large brown woven rug. A walnut
+double bed sits with its head against the south wall, under the window
+It has a firm feather mattress as well as comforters and pillows. On the
+the east wall, above a high dresser, hangs a large shield, given to
+Remington by his grandfather. Against the west wall, under the window,
+is another dresser, a large lamp sits on it. A small walnut desk sits
+againt the north wall, a wooden chair at it. On the desk are a lamp,
+parchment, quills ink and other stationary items. Sitting about the
+room are various other things which Remington has collected. 
+
+~
+0 1073741824 0
+D1
+~
+door~
+3 -1 440
+S
+#443
+The Guest Room~
+This guest room is elegant and comfortable. A large blue rug covers the
+stone floor, and a wrought iron chandelier hangs from the ceiling. In the
+south wall is a stained glass window which opens out to a view of the
+garden and pond below. A large double bed sits with its head against the
+east wall, a night stand on either side of it. Against the north wall
+is a large dresser, with a lamp on it. This room is made to make the 
+occasional house guest feel right at home.
+
+~
+0 1073741824 0
+D3
+~
+door~
+3 -1 440
+S
+#444
+The Sanctuary Tower~
+The trapdoor at the top of the staircase opens into this room at the
+top of the tower. Colorful tapestries depicting knights in shining
+armor on white steeds, great warriors in battle, and lovely ladies in
+waiting hang from the stone walls. In the east wall a stained glass
+window swings open to look out on the pond and garden below. In the
+west wall is a small fireplace, just large enough to hold a fire to
+warm this room. Beside the fireplace is a comfortable, warm looking,
+overstuffed chair, just suitable for curling up in with a good book
+Beside the chair is a small table holding a ceramic tea service. On
+the south wall is a small wooden writing desk with chair, complete
+with parchment, quill, ink , wax and seal. Nearby the desk is a tall
+book case filled with books, some ancient and some almost new. In the
+center of the room is a large handwoven, oval braided rug, that nearly
+covers the entire floor. Against the north wall is a long,  red velvet
+upholstered chase lounge with pillows laid at its head corner and a
+large hand crocheted white afghan draped over its back. The comfort
+afforded by this room makes you want to never leave.
+
+~
+0 1073741824 0
+D3
+~
+portal~
+3 -1 448
+D5
+~
+trapdoor~
+3 -1 440
+S
+#445
+Snowbird's Bed Chamber~
+Elegance and beauty are what come to mind when you enter this room. The
+stone floor is covered by a huge hand woven emerald green carpet. Against 
+the eastern wall sits a kingsize canopy bed, with handwoven Irish lace
+canopy, bedpost drapes, and bedspread, waiting to offer restful comfort.
+On either side of the bed is a walnut night stand with a hurricane lamp
+In the west wall is a fireplace with an ornate wrought iron firescreen.
+In front of the fireplace sits two over stuffed highback chairs. Between
+the chairs is a small round table, with a china tea service set on a tray.
+Against the south wall is a tall walnut wardrobe for storing clothing
+In the northeast corner is a vanity table, with a tall oval mirror and a
+padded vanity chair. On the vanity are perfumes, jewelry and hair brushes.
+To the north is a set of glass double door, which lead out to a balcony,
+and to the south, a door leading out in to the second floor hallway.
+
+~
+0 1073741824 0
+D0
+~
+doors~
+3 -1 449
+D2
+~
+door~
+3 -1 441
+S
+#446
+The Nursery~
+Shhh... quiet please. You are in the nursery where Snowbird's children
+Laila and Liam Andrew sleep. The stone floor is covered by a thick-pile 
+hand-crafted carpet. A stained glass window overlooking the west garden
+is set in the west wall, beneath it a walnut dresser with a lamp and 
+baby toiletries. In the northwest corner is a handcrafted walnut crib 
+with a canopy of sheer netting. Hanging over the crib is a mobile of
+colorful paper butterflies. Against the north wall is a walnut dressing
+table and a bathinet. A finely crafted walnut rocking chair sits in
+the south west corner next to the dresser. Against the east wall is a
+small single bed with pillows and a handmade comforter, another dresser
+and a walnut wardrobe. In the southeast corner sits a walnut toybox and
+a handcrafted wooden rocking horse, with a brown yarn mane. To the
+south is a door leading to the room of Grace, Laila and Liam's Nanny.
+
+~
+0 1073741824 0
+D1
+~
+door~
+3 -1 441
+S
+#447
+The Bathroom~
+This large bathroom is elegant yet functional, providing all the needed
+facilities for personal care and comfort. In the north and east walls
+are large stained glass windows, which open to a view of the beautiful
+Shire of Swanbrook. On the west wall is a mirror covering almost half
+of the wall. Below the mirror is a vanity with two polished marble sinks
+in the northeast corner below the windows, is a huge marble tub, partly
+sunk into the floor. The tub, like the sinks, is equipped with solid
+gold fistures for hot and cold running water. In the south wall is a 
+large closet for storing towels and toiletries and next to it, a tall
+decorative screen hiding a toilet and paper holder.
+
+~
+0 1073741824 0
+D3
+~
+door~
+3 -1 441
+S
+#448
+The Realm Of Dreams~
+A swirling portal leads to this place, a place seemimgly completely
+out of time and space. The ground here is pure white sand, so finely
+ground as to be almost like powder. All about, north, east, south, west
+even up, is a swirling, turning mist that seems almost alive and seems 
+to have no end. Flashes of light streak through the mist illuminating it
+ and forming into images... Images of love, hope, desire, want, need,
+every thing that the heart can imagine. The images appear, come to life,
+and then fade as quickly. Rising up in the center of this place is a
+beautiful, glowing, three tiered crystal fountain.  Water bubbles up 
+from and flows downward from tier to tier, and then flows out of the 
+fountain to form a river. As the water flows into a river, the images 
+in the mist are picked up and carrier with it into the mist. This is 
+the River of Dreams, carrying dreams to all creatures that sleep. 
+
+~
+0 1073741828 0
+D1
+~
+portal~
+3 -1 444
+S
+#449
+The Balcony~
+This large balcony on the north side of the castle, overlooks the entire
+estate of Swanbrook Shire. To the north, Swanbrook Forest can be viewed
+stretching it carpet of trees for miles. To the east, the fertile valley
+with its rolling fields of wheat and corn seem to go on forever. To the
+west, rising majestically into the sky, is Swanbrook Mountain. It is
+here that the crystal clear waters that feed Swanbrook flow down after 
+a summers afternoon rain. From this balcony, sunrises can be viewed in 
+the morning and sunsets at night. The only furnishings here are a small
+wrought iron table with a glass top and two wrought iron padded chairs.
+To the south is a set of glass and walnut doors leading back into the
+bed chamber.
+
+~
+0 1073741824 0
+D2
+~
+doors~
+3 -1 445
+S
+#450
+Swanbrook Forest~
+The break in the bushes opens to Swanbrook Forest. Massive trees rise
+up, stretching their branches to the sky. The forest floor is carpeted
+with a layer of leaves and branches and a variety of wild flowers. From
+time to time something moves near by, or a twig snaps. The air here is
+cool and a bit damp, smelling of earth and plants. The opening that was
+in the bushes seems to have closed up and can no longer be found. To
+the west and south the vegetation is too thick to get through. The only
+way to go is north thru the forest and northwest to Darkhaven Square.
+
+~
+0 4 3
+D0
+~
+~
+0 -1 451
+D1
+~
+~
+0 -1 432
+D7
+~
+~
+0 -1 21000
+S
+#451
+Swanbrook Forest~
+Beautiful Swanbrook Forest. The sun filters down through the trees,
+sending shadows dancing across the forest floor. Tall trees rise up
+and raise their leafy branches to the sky. A cooling breeze blows in 
+from the south, scattering fallen leaves. In the distance, something
+moves in the shadows. The forest continues north and east. A small
+opening in the trees lies to the south.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 458
+D1
+~
+~
+0 -1 452
+D2
+You cant see the forest for the trees.
+~
+~
+0 -1 450
+S
+#452
+Swanbrook Forest~
+The forest continues here, giving home and shelter to a variety of 
+wildlife. This forest is known for miles around as a rich fertile hunting
+ground and is frequented by hunters from all over. The forest continues
+to the north, east and west. To the south, just through the openings in 
+in the trees, a majestic stone castle can be seen.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 459
+D1
+~
+~
+0 -1 453
+D3
+~
+~
+0 -1 451
+S
+#453
+By a Hollow Tree~
+As the forest continues a variety of wild flowers can be seen growing
+on the forest floor. Oak trees grow here, providing acorn as food for
+many animals. Pine trees provide pinecones and pinenuts which some animals
+eat. The forest continues here east and west. To the north is a tree that
+seems to be hollow. Looking south through the trees, majestic stonebuilt
+Swanbrook Castle can be seen.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 460
+D1
+~
+~
+0 -1 454
+D3
+~
+~
+0 -1 452
+D4
+~
+~
+0 -1 498
+S
+#454
+Swanbrook Forest~
+The forest continues here, giving home and shelter to a variety of 
+wildlife. This forest is known for miles around as a rich fertile hunting
+ground and is frequented by hunters from all over. The forest continues
+to the north, east and west. To the south, just through the openings in 
+in the trees, a majestic stone castle can be seen.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 461
+D1
+~
+~
+0 -1 455
+D3
+~
+~
+0 -1 453
+S
+#455
+Swanbrook Forest~
+The forest continues here, giving home and shelter to a variety of 
+wildlife. This forest is known for miles around as a rich fertile hunting
+ground and is frequented by hunters from all over. The forest continues
+to the north, east and west. To the south, just through the openings in
+in the trees, a majestic stone castle can be seen.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 462
+D1
+~
+~
+0 -1 456
+D3
+~
+~
+0 -1 454
+S
+#456
+By a Babbling Brook~
+The brook flows in from the north here. All around to the north , east
+and west, the forest spreads on. To the south the brook flows through
+on through a small opening in a hedge of torns. Looking south, there  
+can be seen the beautiul Swanbrook Castle.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 463
+D1
+~
+~
+0 -1 457
+D3
+~
+~
+0 -1 455
+S
+#457
+Swanbrook Forest~
+The brook flows in from the west, taking a turn and flowing south west.
+The forest continues here, giving home and shelter to a variety of 
+wildlife. This forest is known for miles around as a rich fertile hunting
+ground and is frequented by hunters from all over. The forest continues
+to the north and west. To the south, just through the openings in 
+in the trees, a majestic stone castle can be seen.
+
+~
+0 4 3
+D0
+~
+~
+0 -1 464
+D3
+~
+~
+0 -1 456
+D9
+~
+~
+0 -1 431
+S
+#458
+Swanbrook Forest~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+The forest spreads out here to the north, east and south. To the west,
+you can't see the forest for the trees.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 465
+D1
+~
+~
+0 -1 459
+D2
+~
+~
+0 -1 451
+S
+#459
+Swanbrook Forest~
+Beautiful Swanbrook Forest spreads out here. Trees and plants provide 
+food and shelter for a varitey of animals and insects. Nearby the
+sound of running water can be heard. To the east is what appears to be
+an old dead tree. The forest continues to spread out to the north,
+west and south.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 466
+D2
+~
+~
+0 -1 452
+D3
+~
+~
+0 -1 458
+S
+#460
+Inside a Hollow Tree~
+The inside of this tree has rotted out with age. Flakes of dead decaying
+wood break off and fall to the ground. A smell of something very sweet
+fills the air here and a buzzing sound can be hard.
+
+~
+0 4 0
+D2
+~
+~
+0 -1 453
+S
+#461
+By a Babbling Brook~
+Here the brook flows in from the north and on eastward. The forest floor
+is littered here with dead leaves and twigs. A small dead tree branch
+lies across stream forming a type of natural bridge across the brook.
+The forest continues here to the north, east, and south. To the west
+is what appears to be a dead tree. 
+
+~
+0 0 3
+D0
+~
+~
+0 -1 468
+D1
+~
+~
+0 -1 462
+D2
+~
+~
+0 -1 454
+S
+#462
+By a Babbling Brook~
+The babbling brook continues on its journey, flowing from west to east.
+The trees here have thinned out a bit, allowing for more sunlight to 
+reach the ground. At the edge of the brook grows a patch of wild violets.
+The forest continues on here to the north, east, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 469
+D1
+~
+~
+0 -1 463
+D2
+~
+~
+0 -1 455
+D3
+~
+~
+0 -1 461
+S
+#463
+By a Babbling Brook~
+Here, the brook continues to flow on through the forest, from west to
+east, taking a turn south here. A small pine cone floats along in the 
+current, perhaps to plant itself somewhere else. Needles from a pine
+tree litter the floor here, and the forest continues on here north, 
+east, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 470
+D1
+~
+~
+0 -1 464
+D2
+~
+~
+0 -1 456
+D3
+~
+~
+0 -1 462
+S
+#464
+Swanbrook Forest~
+A light breeze blows from the south, gently waving the branches of the
+trees. The songs of a variety of birds can be heard as they fly too and
+from from tree to tree. Nearby can be heard the sound of running water.
+The forest continues to spread out here to the north, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 471
+D2
+~
+~
+0 -1 457
+D3
+~
+~
+0 -1 463
+S
+#465
+Swanbrook Forest~
+The forest floor is is blanketed with fallen leaves, acorns and small
+broken twigs. Wild flowers spring up here and there, and nearby the 
+sound of running water can be heard. The forest spreads out here to the
+north, south and to the east. To the west, you can't see the forest
+for the trees.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 472
+D1
+~
+~
+0 -1 466
+D2
+~
+~
+0 -1 458
+S
+#466
+Swanbrook Forest~
+The forest continues here with a large varitey of insects depending on
+the trees and grasses and flowers to live. Ants and beetles chew up old
+dead wood for their nests and honey bees fly about the flowers gathering
+nectar and honey. The forest spreads out here  north, south, east and 
+west. Nearby, the sound of running water can be heard. 
+
+~
+0 0 3
+D0
+~
+~
+0 -1 473
+D1
+~
+~
+0 -1 467
+D2
+~
+~
+0 -1 459
+D3
+~
+~
+0 -1 465
+S
+#467
+By a Babbling Brook~
+The brook continues to flow down from the north and turns here to 
+the east. Its waters bubble and splash cheerfully as it flows along.
+A leaf falls and is washed along with the current. The forest spreads
+out here to the north, east and west. To the south is what looks like
+an old rotting tree.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 474
+D1
+~
+~
+0 -1 468
+D3
+~
+~
+0 -1 466
+S
+#468
+By a Babbling Brook~
+Sunshine sparkles on the water flowing over the rocks in the brook
+as it continues it journey from the west on to the south. Birds chirp
+and twitter and fly from tree to tree as the forest spreads out to the
+north, east, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 475
+D1
+~
+~
+0 -1 469
+D2
+~
+~
+0 -1 461
+D3
+~
+~
+0 -1 467
+S
+#469
+Swanbrook Forest~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+To the north is a rustic log hunters cabin. The sound of running water 
+can be heard nearby, and the forest continues south, east and west.
+
+~
+0 0 3
+D1
+~
+~
+0 -1 470
+D2
+~
+~
+0 -1 462
+D3
+~
+~
+0 -1 468
+S
+#470
+Swanbrook Forest~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+Near by the sound of running water can be heard. The forest continues to
+spread out here to the north, south, east and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 477
+D1
+~
+~
+0 -1 471
+D2
+~
+~
+0 -1 463
+D3
+~
+~
+0 -1 469
+S
+#471
+Swanbrook Forest~
+A variety of trees and flora grows here in beautiful Swanbrook forest.
+Oak and pine trees provide food for squirrels and small animals. Flowers
+feed insects and grazing deer. The tree branches provide a place for
+birds to build their nests. The forest continues out to the north, west,
+and south. To the east, you cant see the forest for the trees.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 478
+D2
+~
+~
+0 -1 464
+D3
+~
+~
+0 -1 470
+S
+#472
+Swanbrook Forest~
+Swanbrook Forest spreads out here, a home for a rich variety of wildlife.
+Birds fly from tree to tree building nests in the branches of trees. Bees
+fly about wildflowers gathering pollen and nectar. Insects dig through
+the decaying wood lying on the ground, turning it back into soil and loam.
+The forest spreads out here to the north, south and east. To the north
+is a tangle of bushes and west, you can't see the forest for the trees.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 479
+D1
+~
+~
+0 -1 473
+D2
+~
+~
+0 -1 465
+S
+#473
+Swanbrook Forest~
+A light breeze blows from the south, gently waving the branches of the
+trees. The songs of a variety of birds can be heard as they fly too and
+from from tree to tree. Nearby can be heard the sound of running water.
+The forest continues to spread out here to the north, south east and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 480
+D1
+~
+~
+0 -1 474
+D2
+~
+~
+0 -1 466
+D3
+~
+~
+0 -1 472
+S
+#474
+By a Babbling Brook~
+The brook continues here, flowing from the north and on southward. A 
+honey bee stops to inspect a wild flower growing at the bottom of a
+tree, and an acorn falls, plopping on the ground, provinding food for
+the squirrels. The forest continues on to the north, east, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 481
+D1
+~
+~
+0 -1 475
+D2
+~
+~
+0 -1 467
+D3
+~
+~
+0 -1 473
+S
+#475
+By a Hunting Cabin~
+Here, nestled in Swanbrook Forest, is a rustic hunters cabin. It is built
+on three sides of logs, fitted together at the corners, and a stone 
+fireplace. To the east, a door set between clean glass windows, leads
+into the cabin. Under on window sits a stack of firewood, and an axe.
+sitting, and a bucket for carrying water. Here the forest continues on
+to the north, west and south. Also, to the west and south can be heard
+the sound of running water.
+ 
+~
+0 0 3
+D0
+~
+~
+0 -1 482
+D1
+~
+wooden door east~
+3 -1 476
+D2
+~
+~
+0 -1 468
+D3
+~
+~
+0 -1 474
+S
+#476
+In the Hunting Cabin~
+This is someone's hungting cabin, and since the door was not locked, it
+must be alright to use it. The north, west and south walls are built of
+stripped and cured logs that are fitted together at the corners, and the 
+east wall is one large fireplace built entirely of stone from Swanbrook
+Mountain. The floor and ceiling are made from cut and cured lumber.
+Windows, with clear glass panes, in the north, south and west walls, 
+let hunters watch the surrounding forest. Against the south wall are
+two small wooden beds with bare feather mattresses. A small table sets
+before the fireplace, three chairs set around it. In the northwest
+corner is a tall wooden cupboard. On the walls are hung a number of
+useful items such as a frying pan, wash basin, water bucket, pots and
+the like. Wooden pegs have been pounded into the wall to hang clothes on.
+In the west wall, between two windows is the door going outside.
+
+~
+0 4 0
+D3
+~
+wooden door west~
+3 -1 475
+S
+#477
+Swanbrook Forest~
+Swanbrook Forest spreads out here, a home for a rich variety of wildlife.
+Birds fly from tree to tree building nests in the branches of trees. Bees
+fly about wildflowers gathering pollen and nectar. Insects dig through
+the decaying wood lying on the ground, turning it back into soil and loam.
+To the west is the stone wall that makes up firplace chimney at the rear
+of a hunters cabin. The forest continues to spread out here north, east
+and south. 
+
+~
+0 0 3
+D0
+~
+~
+0 -1 484
+D1
+~
+~
+0 -1 478
+D2
+~
+~
+0 -1 470
+S
+#478
+Swanbrook Forest~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+To the north is a curious looking hole. The forest continues here north,
+west and south. To the east, you can't see the forest for the trees.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 485
+D2
+~
+~
+0 -1 471
+D3
+~
+~
+0 -1 477
+S
+#479
+By a Growth of Bushes~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+Near by the sound of running water can be heard. To the north, a thick
+bush looks as though some or its branches have been broken or disturbed.
+The forest continues to the north, south and east.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 486
+D1
+~
+~
+0 -1 480
+D2
+~
+~
+0 -1 472
+D3
+~
+bushes~
+1 -1 495
+S
+#480
+By a Babbling Brook~
+The babbling brook flows on here from north to south, taking a turn 
+here to the east. The waters splash and bounce as they roll over the
+rocks in the brook. Small animals come here to drink and rest by the
+cool water. The forest continues to spread out here to the north,
+east, south and the west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 487
+D1
+~
+~
+0 -1 481
+D2
+~
+~
+0 -1 473
+D3
+~
+~
+0 -1 479
+S
+#481
+By a Babbling Brook~
+Here the brook flows in from the west and takes a turn southward. A cool
+breeze flows in from west, blowing leaves too and fro. A butterfly flys
+by looking for a flower, and small bugs crawl about on the forest floor
+gathering up pieces of leaf and broken twigs. The forest spreads out and
+continues to the north, east, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 488
+D1
+~
+~
+0 -1 482
+D2
+~
+~
+0 -1 474
+D3
+~
+~
+0 -1 480
+S
+#482
+Swanbrook Forest~
+A light breeze blows from the south, gently waving the branches of the
+trees. The songs of a variety of birds can be heard as they fly too and
+from from tree to tree. Nearby can be heard the sound of running water.
+The forest continues to spread out here to the north, south and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 489
+D1
+~
+~
+0 -1 483
+D2
+~
+~
+0 -1 475
+D3
+~
+~
+0 -1 481
+S
+#483
+Swanbrook Forest~
+Beautiful Swanbrook Forest spreads out here. Trees and plants provide 
+food and shelter for a varitey of animals and insects. Nearby the
+sound of running water can be heard. To the south is what appears to be
+a log cabin. The forest continues here to the north, east and west.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 490
+D1
+~
+~
+0 -1 484
+D3
+~
+~
+0 -1 482
+S
+#484
+Swanbrook Forest~
+The forest continues here with a large varitey of insects depending on
+the trees and grasses and flowers to live. Ants and beetles chew up old
+dead wood for their nests and honey bees fly about the flowers gathering
+nectar and honey. The forest spreads out here to the north, east, south
+and west. To the east is a curious looking hole in the ground.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 491
+D1
+~
+~
+0 -1 485
+D2
+~
+~
+0 -1 477
+D3
+~
+~
+0 -1 483
+S
+#485
+A Curious Hole In the Ground~
+Here among the trees and flower in this forest, is a curious looking
+hole in the ground. It is hard to tell if it is a natural hole or if
+it was dug by someone or something. The dirt around the edges doesn't
+look too safe. It might be wise to not get too close to the edge. And
+if you do venture to climb down into the hole, better be very careful.
+The forest spreads out here to the north, south and west. To the east
+you can't see the forest for the trees.
+
+~
+0 16777220 3
+D0
+~
+~
+0 -1 492
+D2
+~
+~
+0 -1 478
+D3
+~
+~
+0 -1 484
+D5
+~
+~
+0 -1 497
+S
+#486
+By a Babbling Brook~
+Here, flowing down from the side of Swanbrook Mountain, is a crystal
+clear babbling brook. It is the result of the spring and summer rains
+that fall each year, giving life giving water to the land and animals.
+The brook flows from to west on to the east. The forest continues east 
+and south. To the north and west, you cant see the forest for the trees.
+
+~
+0 0 3
+D1
+~
+~
+0 -1 487
+D2
+~
+~
+0 -1 479
+S
+#487
+Swanbrook Forest~
+The brook continues on its carefree journey here, flowing in from the
+west and turning south. Its waters bubble and splash as it flows along
+making a babbling sound. The forest continues here to the east, west 
+and south. To the north, you can't see the forest for the trees.
+
+~
+0 0 3
+D1
+~
+~
+0 -1 488
+D2
+~
+~
+0 -1 480
+D3
+~
+~
+0 -1 486
+S
+#488
+Swanbrook Forest~
+The forest continues here with a large varitey of insects depending on
+the trees and grasses and flowers to live. Ants and beetles chew up old
+dead wood for their nests and honey bees fly about the flowers gathering
+nectar and honey. The forest spreads out here to the south, east and
+west. Nearby, the sound of running water can be heard. To the north, you
+can't see the forest for the trees.
+
+~
+0 0 3
+D1
+~
+~
+0 -1 489
+D2
+~
+~
+0 -1 481
+D3
+~
+~
+0 -1 487
+S
+#489
+Swanbrook Forest~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+Near by the sound of running water can be heard. The forest continues to
+spread out here to the south, east and west.
+
+~
+0 0 3
+D0
+~
+door~
+3 -1 493
+D1
+~
+~
+0 -1 490
+D2
+~
+~
+0 -1 482
+D3
+~
+~
+0 -1 488
+S
+#490
+Swanbrook Forest~
+The forest continues here with a large varitey of insects depending on
+the trees and grasses and flowers to live. Ants and beetles chew up old
+dead wood for their nests and honey bees fly about the flowers gathering
+nectar and honey. The forest continues to spread out to the east, west
+and south. To the north, you cant see the forest for the trees.
+
+~
+0 0 3
+D1
+~
+~
+0 -1 491
+D2
+~
+~
+0 -1 483
+D3
+~
+~
+0 -1 489
+S
+#491
+Swanbrook Forest~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+The forest continues here to the west, east and south. To the north, you
+can't see the forest for the trees.
+
+~
+0 0 3
+D1
+~
+~
+0 -1 492
+D2
+~
+~
+0 -1 484
+D3
+~
+~
+0 -1 490
+S
+#492
+Near a Hole In the Ground~
+The forest here gives home and shelter to a variety of wildlife. The
+trees with their leafy branches, soft earth for burrowing into. Thickets
+and low bushes provide hiding places for smaller animals. Grasses and
+leaves as well as nuts and acorns  and flowers give food to the wildlife.
+To the south is what appears to be a hole in the ground. orest continues
+to spread out south and west.
+
+~
+0 0 3
+D2
+~
+~
+0 -1 485
+D3
+~
+~
+0 -1 491
+S
+#493
+In A Cozy Guest Cottage~
+This small two room cottage is just suitable for two people to live
+comfortably. It is constructed of the same stone as Swanbrook Castle.
+The floor is almost entirely covered by a large handmade braided rug,
+and the windows have panes of stained glass. In the east wall is a 
+large wall to wall fireplace with and ornate firescreen. Before the 
+fireplace is a round walnut table with 4 chairs. The fireplace also serves
+as a place to cook meals over the fire or bake in the oven above the 
+firebox. Against the south wall is a large comfortable couch. In the
+southeast corner is a walnut rocking chair, next to it a table and lamp.
+On the west wall on either side of the door are two tall bookcases, each
+fill with a variety of books. In the east wall next to the bedroom door
+is a large rolltop desk, complete with chair, ink, quill and parchment.
+This is indeed a very comfortable cottage.
+
+~
+0 12 0
+D0
+~
+door~
+3 -1 432
+D1
+~
+door~
+3 -1 494
+S
+#494
+In a Cozy Bedroom~
+This bedroom is comfy and cozy. On the stone floor is a large handmade
+braided rug, upon which sits a large comfortable bed, its head against
+the east wall. The bed is piled with comforters, and many large pillows.
+In the west wall is a stained glass window which opens to a view of the
+garden and pond. Against the south wall, next to the door, is a tall
+wardrobe for storing clothing. On the north wall is a small fireplace, 
+just large enough to warm this room. In the northeast corner sits a large
+comfortable chair, a table with a lamp and a ceramic tea service. In the 
+south west corner, by the window, is a small dresser, a ceramic bowl
+and pitcher, soft towels and scented soaps on it.
+
+~
+0 8 0
+D3
+~
+door~
+3 -1 493
+S
+#495
+In a Grizzly Bears Den~
+The dark cave comes to an end here. The smell here is definately that 
+of a wild animal. The floor of the cave is lined with dead leaves and
+broken twigs and clumps of amimal fur. This can't be anything other 
+than a den. In fact it is... It belongs to a ... GRIZZLY BEAR!
+
+~
+0 4 0
+D1
+~
+bushes~
+1 -1 479
+S
+#496
+In a Dark Cave~
+Its almost too dark to see in here. There appears to be what looks like
+tunnels going north, east, and west.
+
+~
+0 8193 0
+D0
+~
+~
+0 -1 496
+D1
+~
+~
+0 -1 496
+D2
+~
+~
+0 -1 497
+D3
+~
+~
+0 -1 495
+S
+#497
+In a Deep Hole In the Ground~
+That was one DOOZIE of a step! And this is one doozie of a hole. The
+ground here is damp, and moldy smelling. Pieces of tree root protrude 
+from the walls of this hole like spidery fingers. Looking up, it looks
+like the soft earth at the top of the hole gave way and climbing out
+will be a bit messy. To the north is what appears to be another hole,
+in the wall of this hole.
+
+~
+0 4 0
+D0
+~
+~
+0 -1 496
+D4
+~
+~
+0 -1 485
+S
+#498
+Climbing a tree~
+This is a large tree and is also very, very tall.  Climbing up it is
+not a task for the weak of heart and falling down it is not for
+anyone, so be careful.  Up leads to the tree canopy and down is the
+forest floor.
+
+~
+0 4 0
+D4
+~
+~
+0 -1 499
+D5
+~
+~
+0 -1 453
+S
+#499
+In a tree canopy~
+Up here you can see the whole forest, well atleast the top of the
+other trees in the forest.  Birds fly around you in what looks like a
+circular pattern, almost like they are going to be hunting a corpse.
+Down is the forest floor.
+
+~
+0 0 0
+D5
+~
+~
+0 -1 498
+> speech_prog crown~
+if mobinroom (450) <2
+if ispc($n)
+mpmload 450
+mpmload 450
+mpforce knight mpoload 10698 70
+mpforce knight wear armor
+mpforce knight mpoload 46930 70
+mpforce knight wear shield
+mpforce knight mpoload 1263 70
+mpforce knight wield sword
+mpforce knight say I challenge the on the field of Honor, M'lord.
+mpforce knight bow $n
+mpforce 2.knight mpoload 10698 70
+mpforce 2.knight wear armor
+mpforce 2.knight mpoload 46930 70
+mpforce 2.knight wear shield
+mpforce 2.knight mpoload 1263 70
+mpforce 2.knight wield sword
+mpforce 2.knight say I challenge thee on the field of Honor, M'lord.
+mpforce knight bow $n
+endif
+endif
+endif
+~
+> speech_prog red~
+if mobinroom (460) <5
+if ispc($n)
+mpmload 460
+mpecho _red You have summoned a fierce red dragon!
+mpecho _red The fierce red dragon rears it head and snorts a spout of flame.
+mpforce dragon say Who dares summon me from my lair? 
+mpforce red say Ahh, tis you $n... Prepare now to die!
+mpecho _red The fierce red dragon raises its head and roars in rage.
+endif
+endif
+~
+> speech_prog bear~
+if mobinroom (436) <5
+if ispc($n)
+mpmload 436
+mpecho The fierce grizzly bear strikes at $n with a razor sharp claw.
+mpecho The fierce grizzly bear rears up on its hind legs and roars fiercely.
+endif
+endif
+~
+|
+S
+#0
+
+
+#RESETS
+M 1 433 1 432
+O 1 437 1 432
+O 1 438 1 432
+O 1 450 1 432
+O 1 484 1 432
+D 0 432 0 1
+D 0 432 2 1
+D 0 433 2 1
+D 0 434 2 1
+O 1 457 1 436
+O 1 453 1 436
+D 0 437 1 1
+O 1 452 1 438
+O 1 454 1 439
+D 0 439 2 1
+D 0 439 3 1
+D 0 440 1 1
+D 0 440 3 1
+D 0 440 4 1
+D 0 441 0 1
+D 0 441 1 1
+D 0 441 3 1
+O 1 468 1 442
+O 1 466 1 442
+D 0 442 1 1
+O 1 468 1 443
+O 1 466 1 443
+D 0 443 3 1
+O 1 436 1 445
+O 1 466 1 445
+D 0 445 0 1
+D 0 445 2 1
+M 1 435 1 446
+E 1 431 1 8
+E 1 473 1 5
+O 1 458 1 446
+O 1 461 1 446
+O 1 466 1 446
+O 1 462 1 446
+O 1 460 1 446
+O 1 459 1 446
+D 0 446 1 1
+O 1 465 1 447
+D 0 447 3 1
+D 0 449 2 1
+O 1 485 1 450
+M 1 438 5 451
+M 1 441 5 451
+M 1 440 8 452
+M 1 440 8 453
+M 1 444 4 453
+M 1 437 5 454
+M 1 438 5 455
+M 1 445 3 456
+O 1 472 1 456
+O 1 472 1 457
+M 1 440 8 459
+M 1 434 12 460
+G 1 471 1
+M 1 434 12 460
+G 1 471 1
+O 1 472 1 461
+M 1 445 3 462
+O 1 472 1 462
+M 1 442 6 463
+M 1 442 6 463
+M 1 440 8 463
+M 1 439 9 463
+O 1 472 1 463
+M 1 441 5 465
+M 1 439 9 466
+M 1 441 5 466
+O 1 472 1 467
+M 1 442 6 468
+M 1 442 6 468
+M 1 441 5 468
+M 1 446 5 468
+O 1 472 1 468
+M 1 438 5 470
+M 1 441 5 470
+M 1 439 9 470
+M 1 437 5 472
+M 1 440 8 472
+M 1 446 5 473
+M 1 445 3 473
+M 1 444 4 473
+M 1 440 8 474
+O 1 472 1 474
+M 1 437 5 475
+M 1 446 5 475
+M 1 439 9 475
+D 0 475 1 1
+D 0 476 3 1
+M 1 444 4 477
+M 1 439 9 477
+M 1 431 3 478
+M 1 432 3 478
+M 1 431 3 478
+M 1 432 3 478
+M 1 438 5 478
+M 1 437 5 478
+D 0 479 3 0
+O 1 472 1 480
+M 1 442 6 481
+M 1 439 9 481
+M 1 439 9 481
+O 1 472 1 481
+M 1 439 9 483
+O 1 440 1 483
+M 1 438 5 484
+O 1 440 1 484
+M 1 442 6 486
+O 1 472 1 486
+M 1 446 5 487
+O 1 472 1 487
+M 1 444 4 488
+M 1 437 5 489
+D 0 489 0 1
+M 1 439 9 490
+M 1 446 5 491
+M 1 440 8 491
+M 1 440 8 491
+O 1 454 1 493
+O 1 459 1 493
+O 1 457 1 493
+D 0 493 0 1
+D 0 493 1 1
+O 1 468 1 494
+O 1 466 1 494
+D 0 494 3 1
+M 1 436 1 495
+D 0 495 1 0
+M 1 461 2 499
+M 1 461 2 499
+D 0 435 3 1
+M 1 431 3 431
+M 1 432 3 431
+M 1 447 1 431
+O 1 483 1 431
+O 1 440 1 431
+D 0 431 0 1
+D 0 431 1 1
+D 0 429 0 1
+M 1 430 1 430
+M 1 429 1 430
+M 1 447 1 430
+D 0 430 0 1
+D 0 430 2 1
+D 0 444 3 1
+D 0 444 5 1
+O 1 439 1 448
+D 0 448 1 1
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

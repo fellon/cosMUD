@@ -1,0 +1,362 @@
+#PLAYER
+Version      3
+Name         Sywin~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      1
+Languages    1 1
+Level        27
+Played       173608
+Room         21054
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   249 242 184 587 538 438
+Gold         4364
+Exp          22587613
+Height          68
+Weight          111
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    973
+Favor	       2236
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     SyGQj55BGrwIg~
+Title         The Monster Slayer~
+Lastname  Selin~
+AuthedBy     Prage~
+Deity	     Aoskar~
+Clan         Guild of Mages~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       405
+MDeaths      25
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  4
+IllegalPK    0
+AttrPerm     13 16 12 13 13 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 5 36
+Site         207.202.214.132
+Spell        29 'acid blast'
+Spell        33 'antimagic shell'
+Spell        95 'armor'
+Spell        95 'black fist'
+Spell        95 'black hand'
+Spell        19 'cancelation'
+Spell        22 'charm person'
+Spell        28 'continual light'
+Spell        19 'control weather'
+Spell        29 'create fire'
+Spell        95 'create spring'
+Spell        52 'demonskin'
+Spell        81 'detect invis'
+Spell        81 'dragon wit'
+Spell        61 'dragonskin'
+Spell        19 'dream'
+Spell        31 'enchant weapon'
+Spell        32 'extradimensional portal'
+Spell        39 'faerie fire'
+Spell        36 'fireball'
+Spell        60 'flight'
+Spell        92 'float'
+Spell        95 'galvanic whip'
+Spell        79 'iceshield'
+Spell        19 'identify'
+Spell        19 'inner warmth'
+Spell        62 'invis'
+Spell        95 'kindred strength'
+Spell        95 'lightning bolt'
+Spell        29 'locate object'
+Spell        95 'magic missile'
+Spell        19 'pass door'
+Spell        74 'portal'
+Spell        30 'refresh'
+Spell        66 'sagacity'
+Spell        19 'scry'
+Spell        62 'shield'
+Spell        38 'sleep'
+Spell        93 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        52 'stone skin'
+Spell        73 'summon'
+Spell        40 'teleport'
+Spell        20 'transport'
+Spell        95 'trollish vigor'
+Spell        19 'valiance'
+Spell        23 'ventriloquate'
+Spell        95 'word of recall'
+Skill        34 'aid'
+Skill        21 'brew'
+Skill        95 'fourth cast'
+Skill        95 'meditate'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Weapon       50 'long blades'
+Weapon       88 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       24818 1
+Killed       2407 1
+Killed       24820 2
+Killed       24819 3
+Killed       24815 7
+Killed       24816 10
+Killed       24817 7
+i3invis	0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6001
+WearLoc      5
+Level        6
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      4
+Level        6
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6000
+ExtraFlags   1024
+WearLoc      16
+Level        5
+Values       12 2 12 1 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         2432
+WearLoc      20
+Level        7
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2104
+WearLoc      11
+Level        5
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        29
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        9
+Values       8 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         2432
+Level        4
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         2418
+Level        8
+Values       30 122 10 175 0 0
+Spell 1      'heal'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1505
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        13
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         2463
+Level        1
+Values       20 19 2 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44702
+Level        7
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        12
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        35
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21001
+Level        8
+Values       24 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         21001
+Level        8
+Values       25 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         34
+WearLoc      17
+Values       1 -1 -1 -1 0 0
+End
+
+#END

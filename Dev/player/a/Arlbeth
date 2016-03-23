@@ -1,0 +1,178 @@
+#PLAYER
+Version      3
+Name         Arlbeth~
+Description  ~
+Sex          1
+Class        20
+Race         29
+Languages    1 1
+Level        2
+Played       2418
+Room         10316
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   34 42 110 110 113 113
+Gold         4502
+Exp          3262
+Height          71
+Weight          371
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        4
+ICEListen (null)~
+Resistant    544
+Susceptible  16
+Mentalstate  0
+Password     ArWQ66Ztv57vU~
+Title         the Student of the Arts~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        65536
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 12 12 16 16 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 39 39 10
+Site         207.202.214.132
+Skill        17 'cook'
+Weapon       17 'long blades'
+Tongue       100 'common'
+AffectData   'armor' 194 -20  17 0
+Killed       104 3
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        4
+Values       5 5 0 0 0 0
+End
+
+#END

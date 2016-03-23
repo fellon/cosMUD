@@ -1,0 +1,114 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         21005
+Room         327685
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         36
+Room         327685
+Level        1
+End
+
+#OBJECT
+Vnum         37
+Room         327685
+Level        1
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         260
+Room         327685
+Level        71
+Values       72 22 193 -1 0 0
+Spell 1      'bless'
+Spell 2      'shockshield'
+End
+
+#OBJECT
+Vnum         2111
+Room         327685
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1508
+Room         327685
+Level        15
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Room         327685
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         658
+Room         327685
+Level        27
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2109
+Room         327685
+Level        12
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Room         327685
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         662
+Room         327685
+Level        27
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         1536
+Room         327685
+Level        10
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         10371
+Room         327685
+Level        1
+Timer        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+Room         327685
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         70098
+Room         327685
+Level        99
+Values       12 85 170 3 0 0
+End
+
+#END

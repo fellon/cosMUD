@@ -1,0 +1,168 @@
+#PLAYER
+Version      3
+Name         Zola~
+Description  ~
+Sex          1
+Class        6
+Race         20
+Languages    1 1
+Level        2
+Played       28039
+Room         41830
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   43 38 118 118 113 113
+Gold         601
+Exp          2397
+Height          94
+Weight          814
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Susceptible  64
+Mentalstate  -17
+Password     ZoEOf/ncOAPIU~
+Title         the Strider~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 15 15 10 14 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 36 12
+Site         207.202.214.132
+Skill        18 'cook'
+Weapon       18 'long blades'
+Weapon       18 'short blades'
+Tongue       100 'common'
+Killed       104 1
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        7
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        14
+Values       10 6 16 3 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        11
+Values       12 4 14 11 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         41801
+Level        6
+Cost         0
+Values       3 3 3 0 0 0
+End
+
+#END

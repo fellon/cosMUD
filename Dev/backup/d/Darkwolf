@@ -1,0 +1,94 @@
+#PLAYER
+Version      3
+Name         DarkWolf~
+Description  ~
+Sex          1
+Class        3
+Race         29
+Species      10
+Languages    1 1
+Level        15
+Played       20238
+Room         24852
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   309 304 142 142 282 282
+Gold         231740
+Exp          3258520
+Height          62
+Weight          408
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     25
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    544
+Susceptible  16
+Mentalstate  -4
+Password     DatRjVTmuySNU~
+Title        :>~
+Lastname  the ManEater~
+Bio          DarkWolf has achieved level 5!
+Your pound MUTILATES a slimy slug! [19]
+Your pierce GUTS a slimy slug! [30]
+Your pierce * SLAUGHTERS * the dread wolf! [37]
+Your pierce * SLAUGHTERS * the dread wolf! [39]
+Your pierce *** ANNIHILATES *** the dread wolf! [40]
+~
+AuthedBy     Andy~
+Clan         Guild of Warriors~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       327
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 12 12 14 15 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    1 3 9 10
+Site         80.97.42.117
+Skill        17 'aid'
+Skill        17 'doorbash'
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        95 'kick'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        17 'scan'
+Skill        95 'second attack'
+Weapon       63 'bludgeons'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Killed       24816 1
+Killed       24814 3
+Killed       24815 2
+Killed       24842 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         42934
+Level        21
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21010
+Values       12 3 4 0 0 0
+End
+
+#END

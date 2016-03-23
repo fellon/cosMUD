@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Blindman~
+Sex          1
+Class        5
+Race         14
+Languages    1 1
+Level        2
+Played       2129
+Room         10301
+HpManaMove   29 29 124 124 110 110
+Gold         0
+Exp          2000
+Height          48
+Weight          117
+Act          570426952
+AffectedBy   528
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    8
+Susceptible  1
+Mentalstate  0
+Password     Bll/HN6llvYcs~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 14 17 14 11 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 20 10
+Site         (Link-Dead)
+Tongue       100 'common'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

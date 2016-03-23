@@ -1,0 +1,264 @@
+#PLAYER
+Version      3
+Name         Reptile~
+Description  ~
+Sex          1
+Class        14
+Race         9
+Species      5
+Languages    1 1
+Level        7
+Played       11131
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   106 104 118 118 263 178
+Gold         65757
+Exp          223802
+Height          65
+Weight          148
+Act          570426952
+AffectedBy   512
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        40
+ICEListen (null)~
+Resistant    2
+Mentalstate  -14
+Password     WoZeUjN7GKIaY~
+Title         the Cut-Purse~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       136
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     12 14 13 15 12 13 17
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 17
+Site         207.202.214.132
+Skill        70 'backstab'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        85 'hide'
+Skill        17 'kick'
+Skill        17 'pick lock'
+Skill        90 'scan'
+Skill        18 'search'
+Skill        94 'sneak'
+Skill        50 'steal'
+Weapon       17 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10302 1
+Killed       10303 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      18
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       12 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        10
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        4
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        5
+Values       12 1 10 3 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#ALIAS
+Name     as~
+Commands hide~
+End
+
+#ALIAS
+Name     sd~
+Commands sneak~
+End
+
+#END

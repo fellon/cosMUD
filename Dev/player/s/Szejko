@@ -1,0 +1,146 @@
+#PLAYER
+Version      3
+Name         Szejko~
+Description  Szejko
+~
+Sex          1
+Class        1
+Race         19
+Species      1
+Languages    1 1
+Level        2
+Played       6108
+Room         10360
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   37 32 123 123 113 113
+Gold         1701
+Exp          4074
+Height          60
+Weight          117
+Act          570426968
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -1
+Password     SzHcVBboS6pYQ~
+Title         the Layman Brother~
+Lastname (null)~
+AuthedBy     Rathkor~
+Flags        98320
+PKills       0
+PDeaths      0
+MKills       13
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 18 15 12 16 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 1 10
+Site         207.202.214.132
+Spell        19 'armor'
+Spell        19 'create water'
+Spell        19 'cure light'
+Spell        19 'faerie fire'
+Skill        19 'cook'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 412   6  18 0
+AffectData   'bless' 412  -6  24 0
+Killed       10344 1
+Killed       10312 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         126
+WearLoc      16
+Level        1
+Values       12 3 5 7 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#END

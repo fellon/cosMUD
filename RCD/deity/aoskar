@@ -1,0 +1,53 @@
+#DEITY
+Filename		../deity/aoskar~
+Name		Aoskar~
+Detitle	The Keeper of Gateways~
+Domains	Portals, Doors, Passages~
+Description	The deity of portals, doorways, and opportunity. Whenever you pass through
+a portal, utter a prayer to him for safe passage. Once he was a strong Deity.
+Now he is floating in the Astral Plane, weakened by an unknown force. His
+Priests' duties are to spread his word and strengthen him so that they may
+once again call upon his favors and blessings.
+~
+Alignment		0
+Worshippers	66
+Flee		-5
+Flee_npcrace	-35
+Flee_npcfoe	-35
+Kill		5
+Kill_npcrace	35
+Kill_npcfoe	50
+Kill_magic	0
+Sac		5
+Bury_corpse	5
+Aid_spell		5
+Aid		5
+Steal		5
+Backstab		0
+Die		-50
+Die_npcrace	-50
+Die_npcfoe	-50
+Spell_aid		5
+Dig_corpse	-10
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		150
+Sdtrap		1000
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		0
+Npcfoe		75
+Suscept		0
+Race2		-1
+Susceptnum	500
+Elementnum	750
+Affectednum	1000
+Objstat		6
+End
+
+#END

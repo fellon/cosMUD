@@ -1,0 +1,584 @@
+#PLAYER
+Version      3
+Name         Kuro~
+Description  Kuro is a dark individual, blending carefully into the shadows of the crowd.
+You can notice 4 strange characters imprinted on his hand, reminiscent of
+ancient Japanese Hiragana.
+As you watch him, he turns and looks you straight in the eye, casting you an
+apathetic yet loatheful glare. The impression that he doesnt like
+you isn't difficult to pick up.
+But hey, just because he hates you doesnt mean that you cant be friends.
+ 
+~
+Sex          1
+Class        0
+Race         11
+Species      1
+Languages    1 1
+Level        63
+Played       496322
+Room         261
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1042 567 1879 1434 1090 906
+Gold         170801
+Exp          306144115
+Height          64
+Weight          107
+Act          570426952
+AffectedBy   20447754
+Position     112
+Style     2
+Practice     23
+SavingThrows 0 0 0 0 0
+Alignment    -606
+Favor	       1273
+Balance      0
+Glory        3
+MGlory       3
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -17
+Password     KurSzQMsphT2w~
+Title         the &rM&zisanthrop&rE&z~
+Extraname &z Kenju~
+Lastname ~
+Bio          Electroshoker, Prince of Cyberspace **** SMITES **** you! [2040]
+Level 50-55 my ass.
+~
+AuthedBy     Andy~
+Prompt       <&B%X: %h(%H)  %m/%M&w> ~
+Deity	     Soleran~
+Clan         Guild of Mages~
+Flags        360704
+PKills       1
+PDeaths      0
+MKills       2543
+MDeaths      117
+ArenaWins    4
+ArenaKills   17
+ArenaDeaths  12
+IllegalPK    1
+AttrPerm     12 18 12 15 11 9 14
+AttrMod      4 0 0 0 0 0 0
+Condition    0 7 4 73
+Site         207.202.214.132
+Spell        26 'antimagic shell'
+Spell        19 'aqua breath'
+Spell        95 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        69 'blindness'
+Spell        95 'blur'
+Spell        38 'cancelation'
+Spell        95 'caustic fount'
+Spell        43 'charm person'
+Spell        77 'chill touch'
+Spell        95 'continual light'
+Spell        81 'control weather'
+Spell        27 'create fire'
+Spell        95 'create spring'
+Spell        52 'curse'
+Spell        64 'demonskin'
+Spell        95 'detect invis'
+Spell        19 'dispel magic'
+Spell        95 'disruption'
+Spell        38 'dragon wit'
+Spell        61 'dragonskin'
+Spell        60 'dream'
+Spell        95 'eldritch sphere'
+Spell        55 'energy drain'
+Spell        37 'ethereal fist'
+Spell        19 'ethereal funnel'
+Spell        31 'ethereal shield'
+Spell        60 'extradimensional portal'
+Spell        25 'faerie fog'
+Spell        95 'farsight'
+Spell        94 'fireball'
+Spell        95 'flight'
+Spell        95 'float'
+Spell        95 'galvanic whip'
+Spell        27 'hand of chaos'
+Spell        77 'iceshield'
+Spell        95 'identify'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        40 'knock'
+Spell        63 'know alignment'
+Spell        79 'lightning bolt'
+Spell        53 'liquid skin'
+Spell        81 'locate object'
+Spell        19 'magnetic thrust'
+Spell        26 'ogrish hide'
+Spell        73 'pass door'
+Spell        95 'portal'
+Spell        89 'quantum spike'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        35 'refresh'
+Spell        27 'remove invis'
+Spell        47 'sagacity'
+Spell        33 'scry'
+Spell        95 'shadowform'
+Spell        57 'shield'
+Spell        62 'shockshield'
+Spell        29 'sleep'
+Spell        70 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        57 'stone skin'
+Spell        95 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        87 'transport'
+Spell        20 'trollish vigor'
+Spell        21 'true sight'
+Spell        49 'valiance'
+Spell        95 'ventriloquate'
+Spell        19 'wizard eye'
+Spell        95 'word of recall'
+Skill        37 'aid'
+Skill        19 'brew'
+Skill        19 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        22 'focus'
+Skill        95 'fourth cast'
+Skill        19 'kick'
+Skill        21 'levitate'
+Skill        95 'meditate'
+Skill        29 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        94 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'float'  94   0  26 2097152
+AffectData   'flight'  94   0  26 524288
+AffectData   'kindred strength' 1133   4   1 0
+AffectData   'detect invis' 1157   0  26 8
+AffectData   'pass door' 194   0   0 1048576
+AffectData   'invis' 608   0   0 2
+Killed       6100 1
+Killed       21062 4
+Killed       24812 1
+Killed       21037 1
+Killed       21064 2
+Killed       21065 2
+Killed       809 4
+Killed       811 4
+Killed       801 2
+Killed       812 4
+Killed       15124 1
+Killed       263 6
+Killed       262 11
+Killed       260 12
+Killed       6102 2
+Killed       9902 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        27
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+WearLoc      3
+Level        42
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         7927
+WearLoc      5
+Level        49
+Cost         0
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+WearLoc      6
+Level        54
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         46282
+WearLoc      14
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      1
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         12503
+WearLoc      20
+Level        52
+Values       33 33 0 0 0 0
+End
+
+#OBJECT
+Vnum         25513
+WearLoc      9
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25514
+WearLoc      7
+Level        42
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        51
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+WearLoc      8
+Level        35
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         42921
+WearLoc      13
+Level        28
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      2
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         12500
+WearLoc      16
+Level        53
+Values       12 15 44 3 0 0
+End
+
+#OBJECT
+Vnum         2321
+WearLoc      4
+Level        28
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+WearLoc      18
+Level        62
+Values       12 16 53 11 0 0
+End
+
+#OBJECT
+Vnum         466
+Level        1
+Values       10000 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14722
+Level        43
+Values       46 9 9 31 0 0
+Spell 3      'cause critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         14722
+Level        44
+Values       44 10 10 31 0 0
+Spell 3      'cause critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        9
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6106
+Level        1
+Cost         0
+Values       12 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        4
+Values       15 4 4 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         25536
+Level        40
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        58
+Values       51 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        59
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14736
+Level        46
+End
+
+#OBJECT
+Nest         2
+Vnum         24805
+Level        37
+Values       12 11 32 5 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1535
+Level        12
+Values       12 4 12 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         46026
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         42978
+Level        25
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         25521
+Level        38
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24857
+Level        43
+Values       44 6 6 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         25536
+Level        39
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7207
+Level        12
+Values       19 8 8 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         46912
+Level        43
+Values       59 190 187 84 0 0
+Spell 1      'shadowform'
+Spell 2      'sanctuary'
+Spell 3      'eldritch sphere'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        20
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        20
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        17
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         12502
+WearLoc      19
+Level        54
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         813
+WearLoc      0
+Level        50
+Values       0 0 -1 0 0 0
+End
+
+#ALIAS
+Name     stn~
+Commands c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c bla;c invis;sac cor~
+End
+
+#ALIAS
+Name     sts %0~
+Commands say %0~
+End
+
+#ALIAS
+Name     sts~
+Commands say '%0'~
+End
+
+#ALIAS
+Name     water~
+Commands c 'create s';drink sp;drink sp;~
+End
+
+#ALIAS
+Name     shields~
+Commands c dem;c dragonskin;c eldr;c 'ethereal shield;c ice;c liq;c ogrish;c shield;c shockshi;c stone~
+End
+
+#ALIAS
+Name     basic~
+Commands c blu;c 'detect invis;c drag;c fli;c flo;c invi;c kin;c sag;c shadow;c slink;c trol;c true;c val~
+End
+
+#ALIAS
+Name     quick~
+Commands c invis;c blu;c eldr;c kin;c shadow;c val;~
+End
+
+#ALIAS
+Name     c~
+Commands bla brad~
+End
+
+#ALIAS
+Name     food~
+Commands wake;op war;get bag war;eat turk bag;put bag war;close war~
+End
+
+#END

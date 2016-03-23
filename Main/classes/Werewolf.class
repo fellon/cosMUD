@@ -1,0 +1,437 @@
+Name        Werewolf~
+Class       11
+Attrprime   2
+Alignment   0
+Weapon      10313
+Guild       3022
+Skilladept  85
+Thac0       18
+Thac32      6
+Hpmin       11
+Hpmax       20
+Mana        0
+Expbase     1200
+Skill 'astral walk' 80 65
+Skill 'festering wounds' 97 95
+Skill 'plant pass' 25 95
+Skill 'spiderweb' 71 95
+Skill 'aid' 6 80
+Skill 'bash' 30 85
+Skill 'bite' 8 95
+Skill 'climb' 2 85
+Skill 'clover' 2 95
+Skill 'cook' 1 95
+Skill 'dig' 2 95
+Skill 'disarm' 20 85
+Skill 'discern' 4 95
+Skill 'dodge' 2 80
+Skill 'doorbash' 8 85
+Skill 'drowfire' 2 95
+Skill 'dual wield' 2 100
+Skill 'dust' 2 95
+Skill 'elbow' 18 90
+Skill 'enhanced damage' 1 95
+Skill 'fifth attack' 42 85
+Skill 'fly' 2 95
+Skill 'forestwalk' 2 95
+Skill 'fourth attack' 32 90
+Skill 'frenzy' 20 95
+Skill 'gouge' 56 95
+Skill 'grip' 29 90
+Skill 'headbutt' 25 90
+Skill 'hide' 7 95
+Skill 'hitall' 50 95
+Skill 'howl' 2 95
+Skill 'jump' 2 95
+Skill 'kick' 2 45
+Skill 'limber' 55 95
+Skill 'lore' 2 25
+Skill 'lunge' 22 90
+Skill 'mount' 2 85
+Skill 'nightvision' 2 95
+Skill 'parry' 1 85
+Skill 'peek' 2 100
+Skill 'punch' 2 40
+Skill 'rescue' 4 80
+Skill 'roundhouse' 25 70
+Skill 'scan' 2 45
+Skill 'search' 2 85
+Skill 'second attack' 5 95
+Skill 'serenity' 25 95
+Skill 'slit' 76 95
+Skill 'sneak' 2 95
+Skill 'stun' 48 85
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 23 95
+Skill 'track' 2 85
+Skill 'vision' 50 95
+Skill 'bludgeons' 1 60
+Skill 'flexible arms' 1 40
+Skill 'long blades' 1 95
+Skill 'pugilism' 1 95
+Skill 'short blades' 1 60
+Skill 'talonous arms' 1 100
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Skill 'orcish' 1 99
+Skill 'pixie' 1 99
+Skill 'trollese' 1 99
+Title
+Man~
+Woman~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Werewolf Cub~
+Werewolf Cub~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Young Wolf~
+Young Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Mature Wolf~
+Mature Wolf~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Moon Dancer~
+Moon Dancer~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Tracker~
+Tracker~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Hunter~
+Huntress~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Master Wolf~
+Mistress Wolf~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Wolflord~
+Woldlady~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Pack Leader~
+Pack Leader~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Alpha Male~
+Alpha Female~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

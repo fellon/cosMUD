@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Datura~
+Description  What ya lookin' @?
+~
+Sex          1
+Class        5
+Race         4
+Languages    16385 1
+Level        2
+Played       661189
+Room         1
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   20 20 126 126 113 113
+Gold         788623
+Exp          2000
+Height          22
+Weight          36
+Act          637536008
+Position     104
+Style     4
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        15
+ICEListen ~
+Susceptible  16
+Mentalstate  0
+Password     DaNtdKhAlF2XA~
+Title         the Attendant~
+Lastname ~
+Pagerlen     23
+Flags        35360
+PKills       0
+PDeaths      0
+MKills       2048
+MDeaths      42
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 12 16 15 12 15 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 44 37 31
+Site         (Link-Dead)
+AffectData   'bless' 843   6  18 0
+AffectData   'bless' 843  -6  24 0
+AffectData   'armor' 198 -20  17 0
+Killed       24827 4
+Killed       24826 2
+i3invis	0
+End
+
+#MOBILE
+Vnum	21057
+Room	21339
+Description This white mare sports a brilliant white coat and whinnies at your approach.
+She appears ready to serve anyone.
+A neck tag says 'I belong to Datura'.
+~
+Position 4
+Flags 262403
+EndMobile
+
+#END

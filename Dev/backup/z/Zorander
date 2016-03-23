@@ -1,0 +1,88 @@
+#PLAYER
+Version      3
+Name         Zorander~
+Description  ~
+Sex          1
+Class        10
+Race         29
+Languages    1 1
+Level        9
+Played       40844
+Room         3618
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   132 185 169 169 204 204
+Gold         162457
+Exp          546411
+Height          62
+Weight          386
+Act          570426954
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       -236
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        50
+ICEListen (null)~
+Resistant    544
+Susceptible  16
+Mentalstate  0
+Password     ZoYMz0nk8BYPc~
+Title         soulthirster~
+Lastname  Zul~
+AuthedBy     Prage~
+Deity	     Shar~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       419
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     18 13 11 15 14 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 4 7
+Site         207.202.214.132
+Spell        68 'armor'
+Spell        65 'burning hands'
+Spell        32 'curse'
+Spell        56 'demonskin'
+Spell        56 'devils might'
+Spell        54 'faerie fire'
+Spell        20 'locate object'
+Spell        41 'magic missile'
+Spell        45 'poison'
+Spell        80 'shield'
+Skill        100 'enhanced damage'
+Skill        95 'scan'
+Weapon       19 'flexible arms'
+Weapon       60 'long blades'
+Weapon       90 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Killed       3601 1
+Killed       3605 1
+Killed       3604 2
+i3invis	0
+End
+
+#MOBILE
+Vnum	21059
+Room	21208
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Zorander'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

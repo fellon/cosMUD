@@ -1,0 +1,51 @@
+#DEITY
+Filename		../deity/torm~
+Name		Thhan~
+Detitle	Patron of Paladins~
+Domains	Piety, Honour, Vengeance~
+Description	Thhan is the scourge of evil and defender of the weak. Purveyor of justice,
+he welcomes pious followers who would use his power of descenment to bravely
+fight the vast armies of evil.
+~
+Alignment		900
+Worshippers	3
+Flee		-50
+Flee_npcrace	10
+Flee_npcfoe	-50
+Kill		5
+Kill_npcrace	-50
+Kill_npcfoe	75
+Kill_magic	7
+Sac		5
+Bury_corpse	10
+Aid_spell		7
+Aid		7
+Steal		-30
+Backstab		-30
+Die		-100
+Die_npcrace	-10
+Die_npcfoe	-100
+Spell_aid		10
+Dig_corpse	-10
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Sdtrap		0
+Race		-1
+Class		8
+Element		0
+Sex		-1
+Affected		0
+Npcrace		0
+Npcfoe		31
+Suscept		0
+Race2		-1
+Susceptnum	500
+Elementnum	500
+Affectednum	1250
+Objstat		0
+End
+
+#END

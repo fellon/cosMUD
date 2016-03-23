@@ -1,0 +1,397 @@
+#PLAYER
+Version      3
+Name         Rahvin~
+Description  A gaunt human in oversized robes floats before you.
+Light dances in his eyes, a dangerous look of insanity...
+Is it possible that he touches the true source even now?
+~
+Sex          1
+Class        0
+Race         0
+Languages    1 1
+Level        16
+Played       157195
+Room         1538
+HpManaMove   160 135 130 161 250 250
+Gold         888112
+Exp          4231149
+Height          63
+Weight          161
+Act          167773772
+AffectedBy   524288
+Position     112
+Style     3
+Practice     1
+SavingThrows 0 0 0 0 -2
+Alignment    -32
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      2
+Damroll      0
+Armor        20
+Wimpy        50
+ICEListen ~
+Resistant    32
+Mentalstate  0
+Password     RakIpujmFgtXc~
+Title         the Chosen~
+Bio          A gaunt human in oversized robes floats before you.
+Light dances in his eyes, a dangerous look of insanity...
+Is it possible that he touches the true source even now?
+~
+Prompt       <%h/%Hhp %m/%Mm %vmv %Xxp>~
+FPrompt	     <%h/%Hhp %m/%Mm %Xxp>~
+Flags        33024
+PKills       0
+PDeaths      0
+MKills       779
+MDeaths      6
+IllegalPK    0
+AttrPerm     14 17 12 12 12 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 2 10
+Site         24.4.54.53
+Spell        95 'armor'
+Spell        95 'black hand'
+Spell        22 'blindness'
+Spell        30 'charm person'
+Spell        19 'continual light'
+Spell        51 'create spring'
+Spell        19 'curse'
+Spell        23 'detect invis'
+Spell        44 'dispel magic'
+Spell        95 'disruption'
+Spell        56 'dragon wit'
+Spell        38 'dragonskin'
+Spell        19 'enchant weapon'
+Spell        19 'energy drain'
+Spell        23 'extradimensional portal'
+Spell        95 'faerie fire'
+Spell        19 'farsight'
+Spell        95 'fly'
+Spell        95 'galvanic whip'
+Spell        95 'identify'
+Spell        47 'invis'
+Spell        71 'kindred strength'
+Spell        19 'locate object'
+Spell        19 'mass invis'
+Spell        19 'midas touch'
+Spell        62 'sagacity'
+Spell        19 'scry'
+Spell        79 'shield'
+Spell        95 'shocking grasp'
+Spell        19 'sleep'
+Spell        65 'slink'
+Spell        95 'spectral furor'
+Spell        78 'trollish vigor'
+Spell        19 'valiance'
+Spell        26 'weaken'
+Spell        53 'word of recall'
+Skill        19 'aid'
+Skill        19 'climb'
+Skill        19 'cook'
+Skill        19 'defensive style'
+Skill        19 'dig'
+Skill        21 'evasive style'
+Skill        19 'meditate'
+Skill        19 'mount'
+Skill        26 'search'
+Skill        45 'second attack'
+Skill        19 'standard style'
+Skill        70 'strike'
+Skill        80 'swat'
+Weapon       50 'bludgeons'
+Weapon       50 'long blades'
+Weapon       31 'pugilism'
+Weapon       95 'short blades'
+Tongue       100 'common'
+AffectData   'fly' 208   0  26 524288
+AffectData   'shield' 210 -20  17 0
+AffectData   'dragonskin' 228  32  27 0
+AffectData   'bless' 368   2  18 0
+AffectData   'bless' 368  -2  24 0
+AffectData   'stone skin' 299 -40  17 0
+AffectData   'armor' 145 -20  17 0
+Killed       1502 1
+Killed       1533 1
+Killed       2425 2
+Killed       1530 2
+Killed       1504 1
+Killed       1531 4
+Killed       1537 2
+Killed       1508 4
+Killed       6506 1
+End
+
+#OBJECT
+Vnum         3509
+WearLoc      8
+Level        7
+Values       7 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2424
+WearLoc      2
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      4
+Level        3
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2421
+WearLoc      5
+Level        11
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2424
+WearLoc      1
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6635
+WearLoc      12
+Level        3
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        12
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2442
+WearLoc      6
+Level        12
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2443
+WearLoc      11
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   1
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6630
+Level        4
+Values       3 3 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1537
+Level        8
+Values       21 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        10
+Values       19 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1512
+Level        2
+Values       16 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        8
+Values       19 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        7
+Values       21 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1537
+Level        8
+Values       18 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        9
+Values       21 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 1 1 135 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         1537
+Level        8
+Values       20 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         21081
+Level        9
+Values       12 5 12 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21081
+Level        9
+Values       12 3 11 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        9
+Values       20 19 40 126 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#END

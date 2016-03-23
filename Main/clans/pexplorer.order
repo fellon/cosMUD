@@ -1,0 +1,32 @@
+#CLAN
+Name         Planer Explorers~
+Filename     pexplorer.order~
+Motto        To Search and Learn~
+Description  Searchers of the known world and hunters of the hidden.~
+Leader       Jekk~
+PKillRangeNew   0 0 0 0 0 0 0
+PDeathRangeNew  0 0 0 0 0 0 0
+MKills       5645
+MDeaths      17
+IllegalPK    0
+Score        0
+Type         13
+Class        0
+Favour       0
+Strikes      0
+Members      2
+MemLimit     10
+Alignment    0
+Board        3000053
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       3000052
+Storeroom    3000062
+GuardOne     0
+GuardTwo     0
+End
+
+#END

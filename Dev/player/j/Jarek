@@ -1,0 +1,141 @@
+#PLAYER
+Version      3
+Name         JAREK~
+Description  ~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        7
+Played       21351
+Room         10381
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   117 179 100 100 176 178
+Gold         29028
+Exp          358533
+Height          105
+Weight          318
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     10
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        50
+ICEListen (null)~
+Mentalstate  0
+Password     JAS/.RoNZ7Xsk~
+Title         the Private~
+Lastname  JAX~
+AuthedBy     Marten~
+Deity	     Aoskar~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       281
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 10 10 13 16 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 19 7 12
+Site         207.202.214.132
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Tongue       100 'common'
+AffectData   'bless' 531   6  18 0
+AffectData   'bless' 531  -6  24 0
+Killed       10301 1
+Killed       10303 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       52 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       52 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        16
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#END

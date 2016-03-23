@@ -1,0 +1,668 @@
+#PLAYER
+Version      3
+Name         Athmoz~
+Description  He looks incredibly strong, and challenging him would not be a wise idea
+Athmoz is of pure evil, he emmits a red aura of darkness.
+Furious flames enshroud his body, as if he came straight from hell.
+~
+Sex          1
+Class        4
+Race         5
+Species      0
+Languages    1196075 1
+Level        75
+Played       956563
+Room         80115
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   4660 3500 989 174 1378 1064
+Gold         8339416
+Exp          610278190
+Height          52
+Weight          144
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     98
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       580
+Balance      5000000
+Glory        93
+MGlory       93
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -7
+Password     AtcZQlt7OWBEE~
+Title         the Bunny-Hater~
+Extraname  Duke~
+Lastname ~
+Bio          Who are you looking at man?
+Dont make me bust a cap in yo ass!@#
+&WYour backstab **** SMITES **** the bone naga! &R[&Y3252&R]&w
+Told yo crazy ass not to be trippin' on my tricks.
+Imma b*tch slap your bone naga hoe.
+Werd up homies
+West side Darkhaven nigga, all the way.
+&WYour backstab **** SMITES **** The Undead Wanderer! &R[&Y3432&R]&w
+I just popped yo ass wandera!
+~
+AuthedBy     Prage~
+Prompt       &Y(&R%A &G%h&Y/&G%H &R%b&Y/&R%B &B%v&Y/&B%V &P%a&Y)~
+FPrompt	     &Y(&B%A &G%h&Y/&G%H &R%b&Y/&R%B &C%v&Y/&C%V &B%c &Y)~
+Deity	     Aoskar~
+Clan         RDAF~
+Flags        98560
+PKills       1
+PDeaths      0
+MKills       7954
+MDeaths      16
+ArenaWins    11
+ArenaKills   29
+ArenaDeaths  15
+IllegalPK    0
+AttrPerm     18 10 14 16 13 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 55
+Site         213.118.152.93
+Spell        23 'cancelation'
+Spell        44 'chill touch'
+Spell        23 'control weather'
+Spell        35 'cover of darkness'
+Spell        19 'curse'
+Spell        20 'detect magic'
+Spell        19 'detect traps'
+Spell        47 'devils might'
+Spell        42 'dispel magic'
+Spell        19 'enchant weapon'
+Spell        62 'energy drain'
+Spell        95 'festering wounds'
+Spell        95 'fireball'
+Spell        40 'flight'
+Spell        19 'float'
+Spell        19 'harm'
+Spell        95 'identify'
+Spell        32 'infravision'
+Spell        35 'invis'
+Spell        19 'kindred strength'
+Spell        56 'locate object'
+Spell        80 'poison'
+Spell        21 'scry'
+Spell        44 'shield'
+Spell        29 'sleep'
+Spell        19 'teleport'
+Spell        40 'transport'
+Spell        19 'ventriloquate'
+Spell        43 'weaken'
+Spell        95 'word of recall'
+Skill        51 'aid'
+Skill        38 'bite'
+Skill        38 'bloodlet'
+Skill        59 'broach'
+Skill        87 'disarm'
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        26 'fade'
+Skill        95 'feed'
+Skill        90 'fourth attack'
+Skill        56 'frenzy'
+Skill        100 'grasp suspiria'
+Skill        95 'hide'
+Skill        20 'kick'
+Skill        28 'mistform'
+Skill        75 'occulutus visum'
+Skill        100 'parry'
+Skill        100 'scan'
+Skill        54 'search'
+Skill        95 'second attack'
+Skill        95 'second cast'
+Skill        22 'serenity'
+Skill        100 'slit'
+Skill        95 'sneak'
+Skill        74 'steal'
+Skill        95 'third attack'
+Skill        45 'vomica pravus'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'elvish'
+Tongue       99 'gnome'
+Tongue       99 'goblin'
+Tongue       99 'halfling'
+Tongue       99 'orcish'
+Tongue       99 'pixie'
+Killed       80012 1
+Killed       80003 2
+Killed       80004 2
+Killed       80013 2
+Killed       80005 11
+Killed       80006 7
+Killed       12566 1
+Killed       12529 2
+Killed       12553 3
+Killed       12583 1
+Killed       12584 3
+Killed       1500 2
+Killed       1534 1
+Killed       1535 1
+Killed       1566 3
+Killed       1537 1
+Killed       1505 1
+Killed       1530 1
+Killed       1503 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         12636
+Level        90
+Values       12 25 73 10 0 0
+End
+
+#OBJECT
+Vnum         46900
+Level        53
+Values       12 12 144 6 0 0
+End
+
+#OBJECT
+Vnum         12505
+WearLoc      16
+Level        50
+Values       9 13 43 11 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Name         An iron mask rename~
+ShortDescr   An iron mask~
+Vnum         1208
+WearLoc      23
+Level        69
+Values       20 -300 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        48
+Values       11 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        46
+Values       10 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         12502
+WearLoc      19
+Level        53
+Values       17 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         12640
+WearLoc      6
+Level        52
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         25568
+WearLoc      5
+Level        52
+Values       40 40 0 0 0 0
+End
+
+#OBJECT
+Vnum         25507
+WearLoc      12
+Level        36
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        44
+Values       13 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         12507
+WearLoc      1
+Level        47
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100096
+Values       1 0 144 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         60959
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         note parchment paper mail Athmoz~
+ShortDescr   a note from Aella to Athmoz~
+Description  A note from Aella to Athmoz lies on the ground.~
+Vnum         36
+Values       2 2 2 0 0 0
+ExtraDescr   _sender_~ Aella~
+ExtraDescr   _text_~ #9909
+infernal myrmidonic opulentiatorthe infernal myrmidonic opulentiatorAn infernal
+tome of myrmidonic knowledge lays here.
+9 16910708 65537 1
+11 11 0 0
+1 0 0
+A
+13 90
+A
+18 2
+A
+19 2
+A
+32 95
+A
+46 95
+A
+40 10
+A
+53 95
+A
+~
+ExtraDescr   _to_~ Athmoz~
+ExtraDescr   _subject_~ Object Code~
+ExtraDescr   _date_~ Wed Jul 24 21:15:16 2002~
+ExtraDescr   note~ From: Aella
+To: Athmoz
+Subject: Object Code
+
+#9909
+infernal myrmidonic opulentiatorthe infernal myrmidonic opulentiatorAn infernal
+tome of myrmidonic knowledge lays here.
+9 16910708 65537 1
+11 11 0 0
+1 0 0
+A
+13 90
+A
+18 2
+A
+19 2
+A
+32 95
+A
+46 95
+A
+40 10
+A
+53 95
+A
+
+~
+End
+
+#OBJECT
+Nest         1
+Name         note parchment paper mail Athmoz~
+ShortDescr   a note from Aella to Athmoz~
+Description  A note from Aella to Athmoz lies on the ground.~
+Vnum         36
+Values       2 2 2 0 0 0
+ExtraDescr   _sender_~ Aella~
+ExtraDescr   _text_~ 48 10
+A
+50 95
+A
+34 95
+A
+4 -2
+> wear_prog 100if ispkill($n)
+mea $n You already know well the knowledge of combat within this device.
+mpforce $n remove 'infernal opulentiator'
+else
+mea $n _bre Your mind is wracked as esoteric knowlege of combat fills you!
+mer $n $n's mind is wracked as esoteric knowlege of combat fills $m!
+mpdamage $n 20
+endif
+|
+~
+ExtraDescr   _to_~ Athmoz~
+ExtraDescr   _subject_~ Part 2~
+ExtraDescr   _date_~ Wed Jul 24 21:15:21 2002~
+ExtraDescr   note~ From: Aella
+To: Athmoz
+Subject: Part 2
+
+48 10
+A
+50 95
+A
+34 95
+A
+4 -2
+> wear_prog 100if ispkill($n)
+mea $n You already know well the knowledge of combat within this device.
+mpforce $n remove 'infernal opulentiator'
+else
+mea $n _bre Your mind is wracked as esoteric knowlege of combat fills you!
+mer $n $n's mind is wracked as esoteric knowlege of combat fills $m!
+mpdamage $n 20
+endif
+|
+
+~
+End
+
+#OBJECT
+Nest         1
+Vnum         13083
+Level        50
+Values       12 4 8 6 0 0
+End
+
+#OBJECT
+Nest         1
+Name         scroll scribing summon~
+ShortDescr   a summon scroll~
+Description  A glowing scroll inscribed 'summon' lies in the dust.~
+Vnum         34
+Values       102 208 -1 -1 0 0
+Spell 1      'summon'
+End
+
+#OBJECT
+Nest         1
+Vnum         12611
+Level        45
+Values       45 90 173 100 0 0
+Spell 1      'ethereal funnel'
+Spell 2      'razorbait'
+Spell 3      'feebleness'
+End
+
+#OBJECT
+Nest         1
+Vnum         7930
+Level        54
+Values       48 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        42
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        43
+Values       11 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         25514
+WearLoc      7
+Level        41
+Values       18 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        69
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12610
+Level        44
+Values       50 22 22 131 0 0
+Spell 3      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         12610
+Level        43
+Values       51 22 22 131 0 0
+Spell 3      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         234
+Level        91
+Values       24 24 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         235
+Level        91
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Name         flask potion flight~
+ShortDescr   a flight potion~
+Description  A strange potion labelled 'flight' sizzles in a glass flask.~
+Vnum         35
+Level        1
+Values       96 109 -1 -1 0 0
+Spell 1      'flight'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Name         flask potion forcefield~
+ShortDescr   a forcefield potion~
+Description  A strange potion labelled 'forcefield' sizzles in a glass flask.~
+Vnum         35
+Level        1
+Values       96 112 -1 -1 0 0
+Spell 1      'forcefield'
+End
+
+#OBJECT
+Nest         1
+Vnum         13082
+Level        50
+Values       12 7 42 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         219
+Level        77
+Values       12 10 100 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         229
+Level        90
+Values       -30 -30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12585
+Level        47
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         268
+Level        80
+Values       92 92 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46900
+Values       12 12 144 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         49814
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         13105
+Level        99
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         13105
+Level        100
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         49816
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3012
+Level        31
+Values       12 10 30 6 0 0
+End
+
+#OBJECT
+Vnum         12589
+Level        72
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         80022
+Values       10 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         12523
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         12523
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         46942
+WearLoc      15
+Level        46
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         46942
+WearLoc      14
+Level        48
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         46923
+WearLoc      9
+Level        53
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         12525
+Level        45
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         80021
+WearLoc      18
+Level        32
+Values       10 12 36 8 0 0
+End
+
+#OBJECT
+Vnum         80007
+Level        10
+Cost         0
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         80023
+Level        1
+End
+
+#END

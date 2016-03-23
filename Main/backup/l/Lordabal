@@ -1,0 +1,66 @@
+#PLAYER
+Version      3
+Name         LordAbal~
+Description  ~
+Sex          1
+Class        20
+Race         0
+Species      0
+Languages    1 1
+Level        3
+Played       32415
+Room         2108
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   53 53 105 105 126 126
+Gold         457
+Exp          18469
+Height          61
+Weight          165
+Act          570426968
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Deaf         146833655
+ICEListen (null)~
+Mentalstate  0
+Password     Lo7N4nQpSrPZ6~
+Title         the Student of the Arts~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       18
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 14 15 13 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 2 13
+Site         207.202.214.136
+Spell        21 'refresh'
+Skill        17 'cook'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 266 -20  17 0
+AffectData   'bless' 942  -6  24 0
+AffectData   'bless' 942   6  18 0
+Killed       10344 1
+Killed       10403 1
+i3invis	0
+End
+
+#END

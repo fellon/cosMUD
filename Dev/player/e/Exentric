@@ -1,0 +1,424 @@
+#PLAYER
+Version      3
+Name         Exentric~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      1
+Languages    1 1
+Level        48
+Played       181064
+Room         8109
+Memorized		8112 0 0 0 0 0 0 0
+HpManaMove   350 378 86 945 714 711
+Gold         220789
+Exp          130657530
+Height          66
+Weight          110
+Act          637535832
+AffectedBy   512
+Position     104
+Style     2
+Practice     61
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        60
+ICEListen (null)~
+Resistant    1122
+Mentalstate  0
+Password     ExqaUVP71l1Ys~
+Title         the Enchanter~
+Lastname &R Scourge &w~
+AuthedBy     Relgar~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       927
+MDeaths      52
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     11 18 14 14 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 8 45
+Site         207.202.214.132
+Spell        19 'acid blast'
+Spell        95 'armor'
+Spell        19 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        95 'burning hands'
+Spell        95 'caustic fount'
+Spell        95 'chill touch'
+Spell        30 'colour spray'
+Spell        53 'continual light'
+Spell        95 'create fire'
+Spell        95 'create spring'
+Spell        68 'demonskin'
+Spell        23 'detect invis'
+Spell        81 'dragonskin'
+Spell        20 'energy drain'
+Spell        68 'extradimensional portal'
+Spell        85 'fireball'
+Spell        95 'flight'
+Spell        95 'float'
+Spell        95 'galvanic whip'
+Spell        95 'hand of chaos'
+Spell        78 'iceshield'
+Spell        27 'identify'
+Spell        21 'inner warmth'
+Spell        95 'invis'
+Spell        95 'lightning bolt'
+Spell        19 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        95 'portal'
+Spell        19 'remove invis'
+Spell        34 'sagacity'
+Spell        51 'scry'
+Spell        94 'shield'
+Spell        95 'shocking grasp'
+Spell        33 'shockshield'
+Spell        42 'sleep'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        67 'stone skin'
+Spell        61 'summon'
+Spell        95 'teleport'
+Spell        32 'weaken'
+Spell        48 'winter mist'
+Spell        95 'word of recall'
+Skill        19 'cook'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        89 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'demonskin'  20  64  27 0
+AffectData   'dragonskin'  23  32  27 0
+AffectData   'stone skin'  46 -40  17 0
+Killed       8108 1
+Killed       8106 1
+Killed       8100 1
+Killed       8101 4
+Killed       8132 2
+Killed       8118 1
+Killed       8112 1
+Killed       46253 1
+Killed       4152 1
+Killed       4157 1
+Killed       4151 1
+Killed       622 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         44
+Level        43
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        9
+Values       10 3 10 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        7
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        6
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        7
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        8
+Values       12 6 12 11 0 0
+End
+
+#OBJECT
+Vnum         24894
+WearLoc      6
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         804
+Level        17
+Values       24 4 4 88 0 0
+Spell 3      'energy drain'
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         13007
+WearLoc      17
+Level        30
+Values       1 14 13 131 0 0
+Spell 3      'identify'
+End
+
+#OBJECT
+Vnum         44701
+WearLoc      8
+Level        3
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         44703
+WearLoc      3
+Level        4
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      4
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2432
+WearLoc      20
+Level        4
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         4151
+Level        9
+Values       16 4 4 120 0 0
+Spell 3      'harm'
+End
+
+#ALIAS
+Name     as~
+Commands c 'black hand'~
+End
+
+#ALIAS
+Name     sg~
+Commands cast 'shocking grasp'~
+End
+
+#ALIAS
+Name     cc~
+Commands cast 'chilling touch'~
+End
+
+#ALIAS
+Name     gw~
+Commands cast 'galvanic whip'~
+End
+
+#ALIAS
+Name     cf~
+Commands cast 'float'~
+End
+
+#ALIAS
+Name     ca~
+Commands cast 'acid blast'~
+End
+
+#ALIAS
+Name     ri~
+Commands cast 'remove invis'~
+End
+
+#ALIAS
+Name     lb~
+Commands cast 'lightning bolt'~
+End
+
+#ALIAS
+Name     ct~
+Commands cast 'teleport'~
+End
+
+#ALIAS
+Name     su~
+Commands supp uplift~
+End
+
+#ALIAS
+Name     supp~
+Commands uplift~
+End
+
+#ALIAS
+Name     salias~
+Commands su supp uplift~
+End
+
+#ALIAS
+Name     ss~
+Commands cast 'sonic resonance'~
+End
+
+#ALIAS
+Name     w~
+Commands cast 'weaken~
+End
+
+#ALIAS
+Name     cs~
+Commands cast 'colour spray'~
+End
+
+#ALIAS
+Name     ww~
+Commands cast 'weaken'~
+End
+
+#ALIAS
+Name     csp~
+Commands cast 'create spring'~
+End
+
+#ALIAS
+Name     cep~
+Commands cast 'extradimensional portal'~
+End
+
+#ALIAS
+Name     ed~
+Commands cast 'energy drain'~
+End
+
+#ALIAS
+Name     csf~
+Commands cast 'spectral furor'~
+End
+
+#ALIAS
+Name     stsk~
+Commands cast 'stone skin'~
+End
+
+#ALIAS
+Name     ccl~
+Commands cast 'continual light'~
+End
+
+#ALIAS
+Name     ccf~
+Commands cast 'create fire'~
+End
+
+#ALIAS
+Name     clo~
+Commands cast 'locate object'~
+End
+
+#ALIAS
+Name     mmm~
+Commands meditate~
+End
+
+#ALIAS
+Name     mt~
+Commands cast 'magnetic thrust'~
+End
+
+#ALIAS
+Name     qq~
+Commands cast 'winter mist'~
+End
+
+#ALIAS
+Name     ff~
+Commands cast 'caustic fount'~
+End
+
+#ALIAS
+Name     fb~
+Commands cast 'fireball'~
+End
+
+#ALIAS
+Name     ii~
+Commands cast 'inner warnth'~
+End
+
+#ALIAS
+Name     hh~
+Commands cast 'hand of chaos'~
+End
+
+#ALIAS
+Name     bb~
+Commands cast 'black lightning'~
+End
+
+#END

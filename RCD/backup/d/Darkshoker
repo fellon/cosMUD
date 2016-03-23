@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Darkshoker~
+Description  ~
+Sex          1
+Class        9
+Race         36
+Languages    1 1
+Level        6
+Played       21870
+Room         21043
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   51 146 117 117 165 165
+Gold         48815
+Exp          225341
+Height          321
+Weight          2176
+Act          570426968
+Position     112
+Style     2
+Practice     14
+SavingThrows 0 0 0 0 0
+Alignment    3
+Favor	       376
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        15
+ICEListen (null)~
+Resistant    1
+Susceptible  4
+Mentalstate  -42
+Password     DaL0TclmsLjGM~
+Title         the Dragon Hatchling~
+Lastname ~
+Bio          Dark is a dragon wich followed dragonshoker, his master, in every single
+adventure, dark knowed because his will to help and protect, and dragon because
+his healing spells that saved citicens more than once
+~
+AuthedBy     Fellon~
+Deity	     Shaundakul~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       122
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 16 9 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 8 8 16
+Site         200.64.220.9
+Spell        26 'cancelation'
+Spell        100 'dragon wit'
+Spell        30 'shield'
+Skill        95 'bite'
+Skill        95 'enhanced damage'
+Skill        46 'fan'
+Weapon       19 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Killed       3501 1
+Killed       10396 2
+i3invis	0
+End
+
+#END

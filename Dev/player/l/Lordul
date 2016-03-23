@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Lordul~
+Sex          1
+Class        3
+Race         9
+Languages    1 1
+Level        2
+Played       9822
+Room         21194
+HpManaMove   34 34 103 103 110 110
+Gold         0
+Exp          1558
+Height          61
+Weight          158
+Act          637535816
+AffectedBy   512
+Position     104
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  -100
+Password     LoSv119EBhkvs~
+Title         the Recruit~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 14 12 15 13 15 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 731   6  18 0
+AffectData   'bless' 731  -6  24 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#END

@@ -1,0 +1,256 @@
+#PLAYER
+Version      3
+Name         Creep~
+Description  ~
+Sex          1
+Class        14
+Race         5
+Species      4
+Languages    1 1
+Level        6
+Played       19695
+Room         1514
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -10 114 105 105 264 165
+Gold         69205
+Exp          124920
+Height          55
+Weight          153
+Act          570558040&4
+AffectedBy   512
+Position     101
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -5
+Password     CrMkwkrUEQ2IA~
+Title         the Pincher~
+Lastname  tryst~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       134
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 12 14 15 13 9 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 0
+Site         207.202.214.132
+Skill        63 'backstab'
+Skill        17 'dual wield'
+Skill        95 'enhanced damage'
+Skill        56 'feed'
+Skill        17 'hide'
+Skill        90 'kick'
+Skill        17 'pick lock'
+Skill        36 'scan'
+Skill        19 'search'
+Skill        17 'sneak'
+Skill        28 'steal'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       62 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Killed       10344 1
+Killed       10331 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        3
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        17
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        11
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        17
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         44
+Level        17
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1504
+Level        10
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        12
+Values       13 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1505
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1511
+Level        10
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 9 0 0 0 0
+End
+
+#ALIAS
+Name     gw='get~
+Commands dra sack'~
+End
+
+#ALIAS
+Name     dw~
+Commands drink water'~
+End
+
+#ALIAS
+Name     dw='drink~
+Commands water'~
+End
+
+#ALIAS
+Name     wat~
+Commands get dra sack;drink water;put dra sack~
+End
+
+#ALIAS
+Name     dro~
+Commands drop all;get sack;get blade;get ball~
+End
+
+#ALIAS
+Name     dra~
+Commands drop all;get sack;get blade;get ball~
+End
+
+#ALIAS
+Name     dor~
+Commands wear all;drop all;get sack;get blade;get ball~
+End
+
+#END

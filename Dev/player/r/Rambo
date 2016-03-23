@@ -1,0 +1,47 @@
+#PLAYER
+Version      3
+Name         Rambo~
+Sex          1
+Class        3
+Race         0
+Languages    1 1
+Level        2
+Played       1965
+Room         21194
+HpManaMove   35 35 100 100 110 110
+Gold         0
+Exp          0
+Height          70
+Weight          138
+Act          536872520
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     Rai51u5UHogDQ~
+Title         the Recruit~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      2
+IllegalPK    0
+AttrPerm     17 15 13 13 13 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 9 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'bless' 1122   6  18 0
+AffectData   'bless' 1122  -6  24 0
+End
+
+#END

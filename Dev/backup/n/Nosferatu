@@ -1,0 +1,62 @@
+#PLAYER
+Version      3
+Name         Nosferatu~
+Description  ~
+Sex          1
+Class        3
+Race         5
+Species      4
+Languages    1 1
+Level        2
+Played       894
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   52 47 101 101 213 113
+Gold         1817
+Exp          3750
+Height          52
+Weight          164
+Act          570427256&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     NouITB6epDT4.~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98834
+PKills       0
+PDeaths      0
+MKills       10
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 11 14 12 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 0 10
+Site         207.202.214.132
+Skill        42 'enhanced damage'
+Skill        50 'feed'
+Skill        38 'parry'
+Tongue       100 'common'
+Killed       10344 1
+Killed       10307 2
+i3invis	0
+End
+
+#END

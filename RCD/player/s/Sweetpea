@@ -1,0 +1,328 @@
+#PLAYER
+Version      3
+Name         Sweetpea~
+Description  ~
+Sex          1
+Class        0
+Race         11
+Species      1
+Languages    1 1
+Level        16
+Played       29741
+Room         24819
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   195 190 73 422 395 295
+Gold         60914
+Exp          4324694
+Height          55
+Weight          113
+Act          536872536
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     13
+SavingThrows 0 0 0 0 0
+Alignment    -606
+Favor	       -2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        25
+ICEListen (null)~
+Resistant    256
+Mentalstate  -42
+Password     GaaCSx0Foj5L2~
+Title         the Novice Mage~
+Lastname  N'apod~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       73
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     12 17 15 15 15 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 6 24
+Site         63.169.107.252
+Spell        53 'armor'
+Spell        95 'black hand'
+Spell        19 'blindness'
+Spell        32 'burning hands'
+Spell        39 'cancelation'
+Spell        19 'charm person'
+Spell        95 'colour spray'
+Spell        19 'continual light'
+Spell        58 'control weather'
+Spell        19 'create fire'
+Spell        36 'create spring'
+Spell        19 'curse'
+Spell        52 'detect invis'
+Spell        28 'detect magic'
+Spell        19 'detect traps'
+Spell        95 'disruption'
+Spell        46 'dragon wit'
+Spell        19 'dragonskin'
+Spell        26 'enchant weapon'
+Spell        28 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        19 'farsight'
+Spell        19 'fireball'
+Spell        30 'flight'
+Spell        95 'galvanic whip'
+Spell        45 'identify'
+Spell        19 'infravision'
+Spell        20 'invis'
+Spell        54 'kindred strength'
+Spell        19 'know alignment'
+Spell        95 'lightning bolt'
+Spell        19 'locate object'
+Spell        19 'mass invis'
+Spell        19 'remove invis'
+Spell        19 'sagacity'
+Spell        19 'scry'
+Spell        29 'shield'
+Spell        95 'shocking grasp'
+Spell        19 'sleep'
+Spell        60 'slink'
+Spell        19 'teleport'
+Spell        51 'trollish vigor'
+Spell        19 'valiance'
+Spell        95 'ventriloquate'
+Spell        19 'weaken'
+Spell        54 'word of recall'
+Skill        19 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       1566 6
+Killed       1535 1
+Killed       1538 1
+Killed       1500 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         2421
+WearLoc      5
+Level        10
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         24832
+Values       80 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24873
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24864
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2439
+Level        5
+Values       9 4 4 42 0 0
+Spell 3      'colour spray'
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7931
+Level        59
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         21081
+ExtraFlags   524800
+WearLoc      16
+Level        10
+Values       12 4 14 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         60853
+Values       12 12 7 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+Level        8
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         1541
+Level        9
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         1503
+Level        4
+Values       12 1 9 7 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        30
+Values       1 9 0 0 0 0
+End
+
+#END

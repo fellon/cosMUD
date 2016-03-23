@@ -1,0 +1,431 @@
+#PLAYER
+Version      3
+Name         Morpheus~
+Description  "HI THERE FOLKS " . WELLCOME TO ALL ......
+~
+Sex          1
+Class        3
+Race         15
+Species      5
+Languages    17 1
+Level        36
+Played       154082
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1035 865 110 100 655 555
+Gold         962818
+Exp          50791744
+Height          114
+Weight          369
+Act          570427000&4
+AffectedBy   520
+Position     104
+Style     2
+Practice     49
+SavingThrows 0 0 0 0 0
+Alignment    -30
+Favor	       688
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        50
+ICEListen (null)~
+Mentalstate  0
+Password     Mou.LP2mzh0Vk~
+Title         the Lieutenant~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Deity	     Bane~
+Flags        98818
+PKills       2
+PDeaths      3
+MKills       341
+MDeaths      11
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     19 11 13 15 15 8 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 3 46
+Site         207.202.214.132
+Skill        39 'aid'
+Skill        17 'cook'
+Skill        17 'disarm'
+Skill        18 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        24 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        90 'lunge'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        63 'roundhouse'
+Skill        45 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        90 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       9 'ogre'
+AffectData   'detect invis' 112   0  26 8
+Killed       8118 2
+Killed       8112 4
+Killed       8132 3
+Killed       8103 4
+Killed       8100 3
+Killed       8907 1
+Killed       24827 1
+Killed       3413 1
+Killed       2804 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         647
+WearLoc      16
+Level        29
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        30
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        30
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        30
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        29
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        29
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        66
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1521
+Level        8
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        9
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         640
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24878
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21001
+Level        2
+Values       27 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         1520
+Level        8
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         271
+Level        69
+Values       600 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10302
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1520
+Level        10
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        11
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        12
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         645
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1521
+Level        7
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9838
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21080
+Level        11
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21076
+Level        17
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        9
+Values       17 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        9
+Vnum         21019
+Values       2 2 6 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        5
+Vnum         24846
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        8
+Vnum         24875
+Values       25 25 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         24875
+Values       25 2 10 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        8
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        27
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24885
+Level        28
+Values       1 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         24884
+WearLoc      18
+Level        29
+Values       10 11 26 3 0 0
+End
+
+#ALIAS
+Name     as~
+Commands elbow~
+End
+
+#ALIAS
+Name     dis~
+Commands disarm~
+End
+
+#ALIAS
+Name     wq~
+Commands shoulder~
+End
+
+#ALIAS
+Name     nm~
+Commands lunge~
+End
+
+#ALIAS
+Name     bb~
+Commands headbutt~
+End
+
+#ALIAS
+Name     tt~
+Commands roundhouse~
+End
+
+#END

@@ -1,0 +1,96 @@
+#PLAYER
+Version      3
+Name         Dragonsrage~
+Sex          2
+Class        3
+Race         6
+Species      5
+Languages    1 1
+Level        2
+Played       457
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   45 40 100 100 113 113
+Gold         0
+Exp          2000
+Height          118
+Weight          517
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    32
+Mentalstate  0
+Password     DrJ0FmEFvdfok~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        65536
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 12 10 13 14 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 45 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'ogre'
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#END

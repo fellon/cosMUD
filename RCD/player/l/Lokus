@@ -1,0 +1,52 @@
+#PLAYER
+Version      3
+Name         Lokus~
+Sex          1
+Class        5
+Race         2
+Languages    1 1
+Level        2
+Played       91
+Room         10300
+HpManaMove   26 40 94 99 100 110
+Gold         0
+Exp          2000
+Height          48
+Weight          134
+Act          536872520
+AffectedBy   512
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Password     Lo8HsX0cYxFHM~
+Title         the Attendant~
+Flags        0
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 13 17 12 14 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 48 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'dwarven'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

@@ -1,0 +1,919 @@
+#PLAYER
+Version      3
+Name         Mirri~
+Description  ~
+Sex          2
+Class        14
+Race         22
+Species      5
+Languages    3 1
+Level        26
+Played       49846
+Room         1547
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   460 355 130 100 459 425
+Gold         75097
+Exp          14798024
+Height          58
+Weight          118
+Act          570427000
+AffectedBy   512
+Position     104
+Style     2
+Practice     18
+SavingThrows 0 0 0 0 0
+Alignment    -816
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -1
+Password     MiWCb3Eafv04E~
+Title        &z <&g<&z<&rRoyal Assassin&z>&g>&z>~
+Lastname ~
+Bio          I need to get to Rath.  Sisay is a captive of Volrath and
+I must free my captian.  The new captain, Gerrard, has known
+me since we were both kids.  I love him, but I cannot have him.
+He is human, and I am a cat warrior.  If I cannot have his 
+love, I will at least have his friendship.  When next I see
+Volrath he will wish he were dead.  He will learn why we 
+Mrrshan follow the path of the assassin.  I will
+show him, personally.
+ 
+Fear the pain of revenge, Volrath.  I WILL have
+your head!
+ 
+&YSecond Mate &wfor the crew of the flying ship
+&gWeatherlight&w.
+~
+AuthedBy     Cyph~
+Prompt       <&R%h&php &B%m&bm &O%X&YTNL> %k~
+FPrompt	     <&R%h&php &B%m&bm>&g%c~
+Deity	     Aoskar~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       335
+MDeaths      12
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 14 11 18 12 13 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 8 0 28
+Site         67.217.197.224
+Skill        17 'aid'
+Skill        95 'backstab'
+Skill        95 'circle'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        17 'disarm'
+Skill        17 'discern'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        17 'gouge'
+Skill        60 'headbutt'
+Skill        85 'hide'
+Skill        90 'kick'
+Skill        70 'knee'
+Skill        17 'pick lock'
+Skill        90 'scan'
+Skill        85 'search'
+Skill        90 'second attack'
+Skill        83 'sneak'
+Skill        86 'spinkick'
+Skill        50 'steal'
+Skill        17 'track'
+Weapon       17 'bludgeons'
+Weapon       20 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       95 'short blades'
+Weapon       23 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'elvish'
+Killed       1545 1
+Killed       24829 1
+Killed       24814 1
+Killed       2111 2
+Killed       2102 2
+Killed       24837 1
+Killed       24819 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2423
+WearLoc      8
+Level        10
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6505
+WearLoc      5
+Level        20
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6510
+WearLoc      6
+Level        18
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         42920
+WearLoc      16
+Level        26
+Values       12 8 25 2 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        9
+Values       4 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        62
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         641
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25545
+Level        46
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25537
+Level        42
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7220
+Level        42
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        29
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         24892
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        27
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24892
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42912
+Level        31
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25547
+Level        46
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42953
+Level        34
+Cost         0
+Values       34 191 206 161 0 0
+Spell 1      'shield'
+Spell 2      'stone skin'
+Spell 3      'pass door'
+End
+
+#OBJECT
+Nest         1
+Vnum         21003
+Level        4
+Values       1 59 -1 -1 0 0
+Spell 1      'cure light'
+End
+
+#OBJECT
+Nest         1
+Vnum         21000
+Level        1
+Values       25 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         3508
+Level        13
+Values       8 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24892
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        29
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26515
+Level        25
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26516
+Level        22
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26520
+Level        25
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26519
+Level        26
+Values       12 3 18 10 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26516
+Level        24
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26522
+Level        26
+End
+
+#OBJECT
+Nest         1
+Vnum         26521
+Level        27
+Values       9 3 18 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26522
+Level        27
+End
+
+#OBJECT
+Nest         1
+Vnum         26521
+Level        28
+Values       12 3 18 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26522
+Level        28
+End
+
+#OBJECT
+Nest         1
+Vnum         26505
+Level        28
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26504
+Level        28
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26523
+Level        28
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26520
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         26519
+Level        22
+Values       12 3 18 10 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         125
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21017
+Values       10 5 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        9
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        19
+Vnum         24876
+Values       30 30 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        8
+Values       17 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       102 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        11
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         126
+Level        1
+Values       12 2 6 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        3
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       52 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        6
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 2 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14717
+Level        46
+Values       11 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 9 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 8 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42984
+Level        35
+Values       51 20 20 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Vnum         42984
+Level        34
+Values       50 21 21 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 7 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2421
+Level        10
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        16
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         21017
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8919
+Level        11
+Values       5 -1 60 165 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24892
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        29
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21017
+Values       10 6 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        33
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        8
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        25
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         25538
+Level        45
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         25538
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         25565
+Level        46
+Values       12 14 40 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         664
+Level        20
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7224
+Level        44
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         34
+Level        1
+Cost         0
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flask potion cancelation~
+ShortDescr   a cancelation potion~
+Description  A strange potion labelled 'cancelation' sizzles in a glass flask.~
+Vnum         35
+Level        8
+Values       33 29 -1 -1 0 0
+Spell 1      'cancelation'
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25553
+Level        44
+Values       17 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46239
+Level        56
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25551
+Level        44
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25544
+Level        46
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25541
+Level        44
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25540
+Level        44
+Values       12 13 39 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25534
+Level        44
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25566
+Level        47
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        26
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#END

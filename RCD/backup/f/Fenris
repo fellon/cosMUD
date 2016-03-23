@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         Fenris~
+Description  ~
+Sex          1
+Class        9
+Race         0
+Languages    0 1
+Level        2
+Played       4469
+Room         10399
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   26 26 100 100 120 120
+Gold         45974
+Exp          0
+Height          59
+Weight          151
+Act          570427256
+Position     112
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    -3
+Favor	       464
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -81
+Password     FeToJgK7P8pYM~
+Title         the Not set.~
+Lastname ~
+Deity	     Shar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       93
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 15 15 18 18 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 2 16
+Site         64.169.158.195
+AffectData   'armor' 280 -20  17 0
+Killed       10301 3
+Killed       10302 6
+i3invis	0
+End
+
+#END

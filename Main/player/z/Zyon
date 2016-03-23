@@ -1,0 +1,65 @@
+#PLAYER
+Version      3
+Name         Zyon~
+Description  ~
+Sex          2
+Class        2
+Race         0
+Species      2
+Languages    1 1
+Level        3
+Played       16769
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   40 40 100 100 126 126
+Gold         2679
+Exp          13206
+Height          65
+Weight          135
+Act          570426968
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       1
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -8
+Password     Zy32ocTpfzPao~
+Title         the Filcheress~
+Lastname (null)~
+AuthedBy     Rathkor~
+Deity	     Aoskar~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       22
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 14 13 16 12 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 12
+Site         207.202.214.132
+Skill        17 'backstab'
+Skill        28 'hide'
+Skill        17 'kick'
+Skill        18 'steal'
+Tongue       100 'common'
+AffectData   'bless' 1107   6  18 0
+AffectData   'bless' 1107  -6  24 0
+AffectData   'armor' 481 -20  17 0
+Killed       10324 4
+Killed       10310 2
+i3invis	0
+End
+
+#END

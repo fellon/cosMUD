@@ -1,0 +1,54 @@
+#PLAYER
+Version      3
+Name         Krys~
+Sex          2
+Class        6
+Race         1
+Languages    1 1
+Level        2
+Played       698
+Room         10357
+HpManaMove   29 29 115 115 110 110
+Gold         0
+Exp          2000
+Height          60
+Weight          116
+Act          637535816
+AffectedBy   16
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     KrYlaHU9S7OeU~
+Title         the Strider~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 15 13 15 11 15 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 41 41 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

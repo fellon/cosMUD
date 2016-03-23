@@ -1,0 +1,511 @@
+#PLAYER
+Version      3
+Name         Eris~
+Description  ~
+Sex          2
+Class        23
+Race         19
+Species      1
+Languages    5 1
+Level        33
+Played       75036
+Room         6003
+Memorized		6003 0 0 0 0 0 0 0
+HpManaMove   281 358 98 887 516 516
+Gold         2463325
+Exp          40388962
+Height          70
+Weight          122
+Act          570427000&4
+AffectedBy   8
+Position     112
+Style     2
+Practice     16
+SavingThrows 0 0 0 0 -12
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      12
+Damroll      0
+Armor        60
+ICEListen (null) pchat~
+Mentalstate  -1
+Password     ErJgtP8XdkpZI~
+Title         the Mind Bender~
+Lastname  Kalisti~
+AuthedBy     Fellon~
+Deity	     Cimeron~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       189
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     9 17 16 13 11 16 13
+AttrMod      6 0 0 0 0 0 0
+Condition    0 25 0 43
+Site         24.96.17.166
+Spell        19 'antimagic shell'
+Spell        87 'armor'
+Spell        19 'blazebane'
+Spell        29 'blazeward'
+Spell        19 'blindness'
+Spell        21 'cancelation'
+Spell        19 'cause critical'
+Spell        19 'cause light'
+Spell        19 'cause serious'
+Spell        19 'charm person'
+Spell        19 'claustrophobia'
+Spell        19 'confusion'
+Spell        63 'continual light'
+Spell        19 'create fire'
+Spell        19 'create spring'
+Spell        35 'cure light'
+Spell        19 'curse'
+Spell        35 'demonskin'
+Spell        29 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'detect traps'
+Spell        19 'dispel magic'
+Spell        19 'disruption'
+Spell        92 'dragon wit'
+Spell        29 'dragonskin'
+Spell        19 'dream'
+Spell        87 'elven beauty'
+Spell        43 'enchant weapon'
+Spell        19 'energy drain'
+Spell        19 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        19 'faerie fog'
+Spell        19 'feather fall'
+Spell        78 'flight'
+Spell        19 'float'
+Spell        19 'harm'
+Spell        87 'hyperactivity'
+Spell        84 'iceshield'
+Spell        26 'identify'
+Spell        19 'infravision'
+Spell        84 'inner warmth'
+Spell        95 'invis'
+Spell        19 'knock'
+Spell        19 'know alignment'
+Spell        19 'locate object'
+Spell        19 'mass invis'
+Spell        19 'mental block'
+Spell        53 'pass door'
+Spell        95 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        19 'refresh'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        95 'sagacity'
+Spell        19 'scry'
+Spell        19 'sleep'
+Spell        90 'slink'
+Spell        95 'sonic resonance'
+Spell        49 'spectral furor'
+Spell        85 'stone skin'
+Spell        76 'summon'
+Spell        19 'swordbait'
+Spell        24 'teleport'
+Spell        62 'transport'
+Spell        24 'valiance'
+Spell        28 'ventriloquate'
+Spell        19 'weaken'
+Spell        19 'winter mist'
+Spell        65 'word of recall'
+Skill        19 'aid'
+Skill        19 'clairvoyance'
+Skill        19 'cook'
+Skill        19 'cuff'
+Skill        30 'dual wield'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        22 'pinch'
+Skill        95 'scan'
+Skill        19 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       21 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       80 'dwarven'
+Tongue       100 'elvish'
+AffectData   'shield' 926 -20  17 0
+AffectData   'barkskin' 527 -20  17 0
+AffectData   'kindred strength' 928   6   1 0
+AffectData   'detect invis' 929   0  26 8
+AffectData   'bless' 851 -12  24 0
+AffectData   'bless' 851  12  18 0
+Killed       26538 1
+Killed       26537 1
+Killed       26531 1
+Killed       26527 1
+Killed       26526 1
+Killed       26529 1
+Killed       26500 2
+Killed       26514 1
+Killed       26517 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         25503
+WearLoc      13
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24816
+WearLoc      1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        13
+Values       10 4 16 3 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         45341
+Values       300 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15102
+Level        26
+Values       2 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         484
+Level        1
+Cost         0
+Values       0 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         60921
+Level        15
+Values       50 67 68 215 0 0
+Spell 1      'detect invis'
+Spell 2      'detect magic'
+Spell 3      'true sight'
+End
+
+#OBJECT
+Nest         1
+Vnum         263
+Level        90
+Values       120 120 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         60921
+Level        15
+Values       51 67 68 215 0 0
+Spell 1      'detect invis'
+Spell 2      'detect magic'
+Spell 3      'true sight'
+End
+
+#OBJECT
+Nest         1
+Vnum         267
+Level        90
+Values       87 88 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         268
+Level        80
+Values       92 92 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8103
+Level        48
+Values       12 14 42 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         262
+Level        82
+Values       28 10 60 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         36
+Values       1 0 1 0 0 0
+ExtraDescr   _text_~ AuthUserFILE /www/ag/e/exu2323/dev.teamabrams.com/images/.htpasswd
+AuthName "My private files"
+AuthType Basic
+<Limit GET>
+require valid-user
+</Limit>
+~
+ExtraDescr   _to_~ Exu~
+End
+
+#OBJECT
+Nest         1
+Vnum         234
+Level        92
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3506
+Level        12
+Values       10 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12569
+Level        46
+Values       12 12 39 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12582
+Level        48
+Values       3 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12586
+Level        46
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12585
+Level        47
+Values       17 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        12
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         263
+Level        89
+Values       120 120 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         239
+Level        88
+Values       22 23 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         41430
+Level        28
+Values       8 9 9 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24524
+Level        50
+Values       7 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        13
+Values       10 5 16 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25503
+Level        45
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21066
+Level        11
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24521
+Cost         0
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24521
+Level        51
+Values       20 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21057
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         265
+Level        99
+Values       12 34 68 11 0 0
+End
+
+#OBJECT
+Vnum         26520
+Level        20
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         26509
+Level        23
+Values       5 5 1 0 0 0
+End
+
+#OBJECT
+Vnum         26505
+Level        22
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         26504
+Level        23
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         26512
+Level        23
+End
+
+#OBJECT
+Vnum         26515
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         26514
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         26513
+Level        25
+Values       10 10 0 0 0 0
+End
+
+#END

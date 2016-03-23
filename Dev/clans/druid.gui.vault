@@ -1,0 +1,581 @@
+#OBJECT
+Vnum         14701
+Level        63
+Values       12 19 54 11 0 0
+End
+
+#OBJECT
+Vnum         14701
+Level        63
+Values       12 17 54 11 0 0
+End
+
+#OBJECT
+Vnum         46270
+Level        24
+Values       20 3 3 31 0 0
+Spell 3      'cause critical'
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         24825
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14745
+Level        46
+Values       12 11 40 3 0 0
+End
+
+#OBJECT
+Vnum         46270
+Level        22
+Values       19 5 5 31 0 0
+Spell 3      'cause critical'
+End
+
+#OBJECT
+Vnum         14725
+Level        57
+Values       12 17 48 11 0 0
+End
+
+#OBJECT
+Vnum         6114
+Level        9
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         1532
+Level        25
+Values       26 74 22 170 0 0
+Spell 1      'dispel magic'
+Spell 2      'bless'
+Spell 3      'protection'
+End
+
+#OBJECT
+Vnum         1535
+Level        12
+Values       12 4 12 3 0 0
+End
+
+#OBJECT
+Vnum         1536
+Level        10
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         14700
+Level        64
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         42937
+Level        26
+Cost         0
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2419
+Level        9
+Values       1 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14746
+Level        48
+Values       49 10 22 191 0 0
+Spell 1      'armor'
+Spell 2      'bless'
+Spell 3      'shield'
+End
+
+#OBJECT
+Vnum         630
+Level        16
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         620
+Level        16
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         664
+Level        17
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         1511
+Level        9
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         42930
+Level        26
+Values       20 1 1 65 0 0
+Spell 3      'detect evil'
+End
+
+#OBJECT
+Vnum         24894
+Level        8
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6002
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         46269
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2447
+Level        4
+Cost         0
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         15176
+Level        5
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         46921
+ExtraFlags   25395264
+Level        54
+Values       32 32 0 0 0 0
+End
+
+#OBJECT
+Vnum         9852
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         14754
+Level        48
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14753
+Level        49
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14724
+Level        51
+Values       12 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42938
+Level        22
+Values       12 7 23 2 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9862
+Level        12
+Values       20 1 1 79 0 0
+Spell 3      'dragonskin'
+End
+
+#OBJECT
+Vnum         21060
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1537
+Level        9
+Values       19 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         42944
+Level        25
+Values       12 6 23 8 0 0
+End
+
+#OBJECT
+Vnum         42933
+Level        31
+Values       12 8 31 0 0 0
+End
+
+#OBJECT
+Vnum         14755
+Level        48
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        28
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        28
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        29
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        28
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+Level        44
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         46269
+Level        23
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+Level        44
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         21082
+Level        15
+Values       7 4 17 0 0 0
+End
+
+#OBJECT
+Vnum         42944
+Level        25
+Values       12 8 25 8 0 0
+End
+
+#OBJECT
+Vnum         6504
+Level        19
+Values       11 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         5020
+Level        16
+Values       29 9 9 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         646
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         46280
+Level        29
+Values       12 4 24 1 0 0
+End
+
+#OBJECT
+Vnum         5237
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         8900
+Level        19
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         8906
+Level        20
+Values       12 7 21 3 0 0
+End
+
+#OBJECT
+Vnum         8907
+Level        19
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         5103
+Level        14
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        7
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         621
+Level        17
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         42945
+Level        25
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         46925
+Level        49
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         42911
+Level        23
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+Level        63
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+Level        63
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         2109
+Level        10
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2109
+Level        12
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         5108
+Level        21
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         24804
+ExtraFlags   8438785
+Level        34
+Values       12 9 30 8 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         42929
+Level        26
+Values       21 2 2 140 0 0
+Spell 3      'know alignment'
+End
+
+#OBJECT
+Vnum         2111
+Level        13
+Cost         0
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         42953
+Level        34
+Cost         0
+Values       33 191 206 161 0 0
+Spell 1      'shield'
+Spell 2      'stone skin'
+Spell 3      'pass door'
+End
+
+#OBJECT
+Vnum         42957
+Level        34
+Values       31 1 1 215 0 0
+Spell 3      'true sight'
+End
+
+#OBJECT
+Nest         1
+Vnum         42956
+Level        35
+Values       29 5 5 165 0 0
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         2
+Vnum         42955
+Level        35
+Values       29 5 5 122 0 0
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         44
+Level        37
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24888
+ExtraFlags   1024
+Level        39
+Values       12 14 42 8 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Vnum         6508
+Level        6
+Values       12 2 12 8 0 0
+End
+
+#OBJECT
+Vnum         5105
+Level        22
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         5235
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         813
+Level        50
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         5101
+ExtraFlags   1024
+Level        9
+Values       12 3 15 3 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Vnum         42946
+Level        26
+Values       8 8 0 0 0 0
+End
+
+#END

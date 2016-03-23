@@ -1,0 +1,517 @@
+#PLAYER
+Version      3
+Name         Kemu~
+Description  Kemu is a dangerous looking elf, clad in Archmage robes, wielding a red tachi.
+~
+Sex          1
+Class        0
+Race         1
+Species      0
+Languages    262145 1
+Level        64
+Played       348277
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   937 632 547 1399 919 919
+Gold         827605
+Exp          317056256
+Height          56
+Weight          107
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     152
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1479
+Balance      0
+Glory        5
+MGlory       5
+Hitroll      0
+Damroll      0
+Armor        70
+Wimpy        30
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -16
+Password     KeyhYnCBEFs2E~
+Title         the &RBastard &BElementalist~
+Lastname ~
+Bio          Kemu was born a long time ago, deep in the sylvan forests.  He was exiled from
+his hoome town long ago, due to his uncontrolled and aweful power.  Soon after
+he came across a mage named Argon, who channeled and focused his horrible power
+and Kemu became a very powerful elementalist within the Order of Chaos.
+~
+AuthedBy     Arbadus~
+Deity	     Soleran~
+Clan         Order of Chaos~
+Flags        98306
+PKills       1
+PDeaths      1
+MKills       2702
+MDeaths      34
+ArenaWins    3
+ArenaKills   8
+ArenaDeaths  15
+IllegalPK    0
+AttrPerm     11 17 13 15 12 16 13
+AttrMod      0 0 0 0 0 -1 0
+Condition    0 0 0 74
+Site         65.59.40.81
+Spell        95 'acid blast'
+Spell        28 'antimagic shell'
+Spell        47 'aqua breath'
+Spell        95 'armor'
+Spell        91 'astral walk'
+Spell        95 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        91 'blazeward'
+Spell        34 'blindness'
+Spell        95 'blur'
+Spell        95 'burning hands'
+Spell        51 'cancelation'
+Spell        95 'caustic fount'
+Spell        83 'charm person'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        54 'control weather'
+Spell        87 'create fire'
+Spell        95 'create spring'
+Spell        59 'curse'
+Spell        95 'demonskin'
+Spell        95 'detect invis'
+Spell        68 'detect magic'
+Spell        43 'detect traps'
+Spell        19 'dispel magic'
+Spell        95 'disruption'
+Spell        95 'dragon wit'
+Spell        95 'dragonskin'
+Spell        45 'dream'
+Spell        95 'eldritch sphere'
+Spell        95 'elven beauty'
+Spell        67 'enchant weapon'
+Spell        95 'energy drain'
+Spell        86 'ethereal fist'
+Spell        95 'ethereal funnel'
+Spell        88 'ethereal shield'
+Spell        31 'extradimensional portal'
+Spell        94 'faerie fire'
+Spell        53 'faerie fog'
+Spell        95 'farsight'
+Spell        32 'feather fall'
+Spell        95 'fireball'
+Spell        95 'flight'
+Spell        95 'float'
+Spell        95 'galvanic whip'
+Spell        95 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        73 'infravision'
+Spell        95 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        83 'knock'
+Spell        46 'know alignment'
+Spell        95 'lightning bolt'
+Spell        95 'liquid skin'
+Spell        95 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        32 'mass invis'
+Spell        95 'ogrish hide'
+Spell        95 'pass door'
+Spell        95 'portal'
+Spell        95 'quantum spike'
+Spell        76 'razorbait'
+Spell        19 'recharge'
+Spell        33 'refresh'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        95 'sagacity'
+Spell        90 'scry'
+Spell        86 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        95 'sleep'
+Spell        95 'slink'
+Spell        19 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        95 'stone skin'
+Spell        95 'summon'
+Spell        50 'swordbait'
+Spell        52 'teleport'
+Spell        44 'transport'
+Spell        95 'trollish vigor'
+Spell        35 'true sight'
+Spell        95 'valiance'
+Spell        67 'ventriloquate'
+Spell        95 'weaken'
+Spell        20 'winter mist'
+Spell        85 'wizard eye'
+Spell        95 'word of recall'
+Skill        53 'aid'
+Skill        24 'brew'
+Skill        19 'cook'
+Skill        19 'cuff'
+Skill        10 'dodge'
+Skill        19 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        44 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        59 'levitate'
+Skill        95 'meditate'
+Skill        23 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        41 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       75 'bludgeons'
+Weapon       46 'flexible arms'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'ogrish hide' 863  -1  25 0
+AffectData   'ogrish hide' 863 -30  17 0
+Killed       24818 1
+Killed       2102 5
+Killed       442 1
+Killed       444 1
+Killed       440 1
+Killed       437 2
+Killed       439 2
+Killed       446 2
+Killed       48021 1
+Killed       10303 2
+Killed       264 2
+Killed       260 2
+Killed       10301 6
+Killed       10300 5
+Killed       10302 5
+Killed       21045 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        15
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         30307
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7957
+Level        49
+Values       11 10 60 2 0 0
+End
+
+#OBJECT
+Vnum         15131
+ExtraFlags   0
+WearLoc      23
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      14
+Level        27
+Values       1 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         5112
+WearLoc      1
+Level        25
+Values       1 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        41
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         30304
+Level        52
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         30309
+Level        27
+Values       49 3 3 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         30309
+Level        27
+Values       51 2 2 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Nest         1
+Vnum         30309
+Level        27
+Values       50 4 4 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Nest         1
+Vnum         30309
+Level        27
+Values       51 4 4 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Nest         1
+Vnum         30309
+Level        27
+Values       50 3 3 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        18
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         263
+Level        87
+Values       120 120 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         267
+Level        88
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Vnum         30307
+WearLoc      19
+Level        29
+Values       1 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        42
+Values       1 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        44
+Values       1 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         30310
+WearLoc      13
+Level        26
+Values       1 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         7939
+WearLoc      12
+Level        48
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         25507
+WearLoc      12
+Level        36
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         7921
+WearLoc      20
+Level        59
+Cost         0
+Values       1 4 10 10 0 0
+End
+
+#OBJECT
+Vnum         25544
+WearLoc      7
+Level        46
+Values       1 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         25537
+WearLoc      12
+Level        42
+Values       1 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         42963
+WearLoc      6
+Level        27
+Values       1 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         30306
+WearLoc      0
+End
+
+#OBJECT
+Vnum         14700
+WearLoc      5
+Level        63
+Values       6 18 0 0 0 0
+End
+
+#OBJECT
+Vnum         30308
+ExtraFlags   2621960
+Level        28
+Values       10 50 100 2 0 0
+End
+
+#OBJECT
+Vnum         14702
+WearLoc      11
+Level        63
+Values       8 18 0 0 0 0
+End
+
+#OBJECT
+Vnum         2306
+WearLoc      3
+Level        28
+Values       5 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         48608
+WearLoc      15
+Level        16
+Values       1 6 6 2 0 0
+End
+
+#OBJECT
+Vnum         48610
+Level        17
+Values       9 57 58 -1 0 0
+Spell 1      'cure blindness'
+Spell 2      'cure critical'
+End
+
+#OBJECT
+Vnum         2300
+WearLoc      9
+Level        28
+Values       4 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         826
+Level        35
+Values       45 161 182 182 0 0
+Spell 1      'pass door'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         30309
+WearLoc      17
+Level        27
+Values       49 2 2 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Vnum         813
+Level        50
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21004
+Level        4
+Values       22 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#END

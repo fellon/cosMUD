@@ -1,0 +1,115 @@
+#PLAYER
+Version      3
+Name         Tiboith~
+Description  ~
+Sex          1
+Class        14
+Race         1
+Species      1
+Languages    1 1
+Level        2
+Played       14716
+Room         21096
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   16 30 113 113 113 113
+Gold         3002
+Exp          2000
+Height          56
+Weight          113
+Act          570426968
+AffectedBy   512
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -36
+Password     Ti1pCFosGcj3I~
+Title         the Footpad~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 13 16 13 13 17
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         207.202.214.132
+Skill        17 'search'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       104 2
+Killed       103 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       3 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 6 0 0 0 0
+End
+
+#END

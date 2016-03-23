@@ -1,0 +1,96 @@
+#PLAYER
+Version      3
+Name         Sirqa~
+Description  Mitl jinn bil-lail...
+~
+Sex          1
+Class        2
+Race         9
+Languages    1 1
+Level        15
+Played       103714
+Room         50152
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   41 223 146 136 273 273
+Gold         443530
+Exp          2486039
+Height          60
+Weight          137
+Act          637535832
+AffectedBy   512
+Position     106
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       221
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  -3
+Password     SiAT.0xvOpQpk~
+Title         il Sukut~
+Lastname ~
+Deity	     Thirian~
+Clan         Guild of Thieves~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       840
+MDeaths      9
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 15 13 16 14 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 20
+Site         207.202.214.132
+Skill        95 'backstab'
+Skill        17 'cook'
+Skill        54 'dig'
+Skill        22 'disarm'
+Skill        95 'discern'
+Skill        85 'dual wield'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        57 'knee'
+Skill        95 'pick lock'
+Skill        90 'scan'
+Skill        84 'search'
+Skill        90 'second attack'
+Skill        95 'sneak'
+Skill        95 'steal'
+Skill        17 'track'
+Weapon       22 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       60882 1
+Killed       60880 3
+Killed       44900 1
+Killed       6100 1
+i3invis	0
+End
+
+#MOBILE
+Vnum	21056
+Room	21145
+Description The hawk returns your stare with unfeeling eyes.  Its beak and talons
+appear as though they could rend even the toughest of flesh.
+A neck tag says 'I belong to Sirqa'.
+~
+Position 4
+Flags 259
+EndMobile
+
+#END

@@ -1,0 +1,48 @@
+#OBJECT
+Name         corpse Hamspiced~
+ShortDescr   the corpse of Hamspiced~
+Description  The corpse of Hamspiced is lying here.~
+ActionDesc   undead sentry~
+Vnum         11
+ExtraFlags   4194304
+Timer        -1
+Values       0 0 5 0 71 0
+End
+
+#OBJECT
+Name         corpse Hamspiced~
+ShortDescr   the corpse of Hamspiced~
+Description  The corpse of Hamspiced is buzzing with flies.~
+ActionDesc   undead sentry~
+Vnum         11
+ExtraFlags   4194304
+Timer        -1
+Values       0 0 4 0 71 0
+End
+
+#OBJECT
+Vnum         813
+Level        50
+Values       -3 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         26539
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         42973
+Level        55
+Cost         0
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         70071
+Level        84
+Values       12 12 0 0 0 0
+End
+
+#END

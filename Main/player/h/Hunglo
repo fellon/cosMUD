@@ -1,0 +1,51 @@
+#PLAYER
+Version      3
+Name         Hunglo~
+Sex          1
+Class        4
+Race         0
+Languages    1 1
+Level        2
+Played       1971
+Room         10303
+HpManaMove   34 34 100 100 110 110
+Gold         0
+Exp          2000
+Height          72
+Weight          155
+Act          570426952
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     Hun0.Y0MbzqIk~
+Title         the Blood Student~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 13 14 15 14 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 20 20 10
+Site         (Link-Dead)
+Tongue       100 'common'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

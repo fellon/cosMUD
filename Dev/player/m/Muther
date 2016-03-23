@@ -1,0 +1,100 @@
+#PLAYER
+Version      3
+Name         Muther~
+Sex          1
+Class        29
+Race         30
+Species      2
+Languages    1 1
+Level        2
+Played       341
+Room         5
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   52 10035 10116 13103 113 113
+Gold         1500
+Exp          2000
+Height          70
+Weight          147
+Act          570426968
+AffectedBy   6815784
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        -200
+ICEListen (null)~
+Resistant    1060735
+Mentalstate  0
+Password     Mupj20SNjxMBE~
+Title         the Apprentice Harper~
+Lastname (null)~
+AuthedBy     Trespin~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 21 18 17 18 18 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 46 46 10
+Site         217.39.231.129
+Tongue       100 'common'
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#END

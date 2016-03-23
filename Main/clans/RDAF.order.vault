@@ -1,0 +1,21 @@
+#OBJECT
+Vnum         100004
+Level        5
+Values       2 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         9836
+Level        16
+Cost         0
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         34
+Level        1
+Cost         0
+Values       1 -1 -1 -1 0 0
+End
+
+#END

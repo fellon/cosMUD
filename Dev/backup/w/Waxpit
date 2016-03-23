@@ -1,0 +1,287 @@
+#PLAYER
+Version      3
+Name         Waxpit~
+Description  ~
+Sex          1
+Class        15
+Race         22
+Languages    1 1
+Level        9
+Played       95841
+Room         21182
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   21 117 162 162 204 204
+Gold         178603
+Exp          509266
+Height          55
+Weight          110
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       519
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        12
+Deaf         146833653
+ICEListen (null)~
+Password     WaoCLhP/2KdxM~
+Title         the Priest~
+Lastname  Tarpaper~
+AuthedBy     Fairburn~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       245
+MDeaths      16
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 18 13 18 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 19
+Site         207.202.214.132
+Spell        91 'cause critical'
+Spell        95 'cause serious'
+Spell        95 'continual light'
+Spell        95 'create food'
+Spell        70 'cure blindness'
+Spell        95 'cure critical'
+Spell        69 'detect magic'
+Spell        95 'earthquake'
+Spell        35 'poison'
+Skill        30 'dual wield'
+Skill        95 'scan'
+Weapon       60 'short blades'
+Tongue       100 'common'
+Killed       10301 2
+Killed       10303 1
+Killed       10302 3
+i3invis	0
+End
+
+#ALIAS
+Name     waa~
+Commands wear all~
+End
+
+#ALIAS
+Name     ks~
+Commands kill slug~
+End
+
+#ALIAS
+Name     scn~
+Commands scan north~
+End
+
+#ALIAS
+Name     scs~
+Commands scan south~
+End
+
+#ALIAS
+Name     sce~
+Commands scan east~
+End
+
+#ALIAS
+Name     scw~
+Commands scan west~
+End
+
+#ALIAS
+Name     drr~
+Commands drop all ; get bag~
+End
+
+#ALIAS
+Name     ds~
+Commands drink spring~
+End
+
+#ALIAS
+Name     emm~
+Commands eat mush~
+End
+
+#ALIAS
+Name     cf~
+Commands c create food~
+End
+
+#ALIAS
+Name     tor~
+Commands c continual~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corpse~
+End
+
+#ALIAS
+Name     kc~
+Commands kill crawler~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin ; put skin bag~
+End
+
+#ALIAS
+Name     kw~
+Commands kill wolf~
+End
+
+#ALIAS
+Name     fb~
+Commands get skin bag ; fill skin ; put skin bag~
+End
+
+#ALIAS
+Name     df~
+Commands drink fountain~
+End
+
+#ALIAS
+Name     swa~
+Commands c 'cause serious' ant~
+End
+
+#ALIAS
+Name     swc~
+Commands c 'cause serious' cent~
+End
+
+#ALIAS
+Name     ab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     ceq~
+Commands c earthquake~
+End
+
+#ALIAS
+Name     gc~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     pw~
+Commands c poison warrior~
+End
+
+#ALIAS
+Name     war~
+Commands c 'cause serious' warrior~
+End
+
+#ALIAS
+Name     scu~
+Commands scan up~
+End
+
+#ALIAS
+Name     ccw~
+Commands c 'cure critical' self~
+End
+
+#ALIAS
+Name     ccww~
+Commands c 'cure critical' wendig~
+End
+
+#ALIAS
+Name     scd~
+Commands scan down~
+End
+
+#ALIAS
+Name     cx~
+Commands c 'cause serious' marsh~
+End
+
+#ALIAS
+Name     cm~
+Commands c 'cure critical' maps~
+End
+
+#ALIAS
+Name     cb~
+Commands c 'cure critical' brad~
+End
+
+#ALIAS
+Name     mm~
+Commands c 'cause critical' mourner~
+End
+
+#ALIAS
+Name     chh~
+Commands c 'cause critical' hobgob~
+End
+
+#ALIAS
+Name     cct~
+Commands c 'cause critical' troll~
+End
+
+#ALIAS
+Name     ccm~
+Commands c 'cause critical' mimic~
+End
+
+#ALIAS
+Name     ccl~
+Commands c 'cause critical' lamia~
+End
+
+#ALIAS
+Name     ff~
+Commands flee~
+End
+
+#ALIAS
+Name     ccg~
+Commands c 'cause critical' gol~
+End
+
+#ALIAS
+Name     aaa~
+Commands c 'cause critical' ant~
+End
+
+#ALIAS
+Name     home~
+Commands get recall bag ; recite recall~
+End
+
+#ALIAS
+Name     bb~
+Commands exam bag~
+End
+
+#ALIAS
+Name     pp~
+Commands c poison hier~
+End
+
+#ALIAS
+Name     pg~
+Commands c poison guard~
+End
+
+#END

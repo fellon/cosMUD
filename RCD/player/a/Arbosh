@@ -1,0 +1,53 @@
+#PLAYER
+Version      3
+Name         Arbosh~
+Sex          1
+Class        4
+Race         2
+Languages    1 1
+Level        2
+Played       273
+Room         10300
+HpManaMove   34 41 94 94 110 110
+Gold         0
+Exp          2000
+Height          55
+Weight          136
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -5
+Password     ArdNrR60WaCHs~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 14 15 16 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 46 46 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'dwarven'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

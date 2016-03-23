@@ -1,0 +1,182 @@
+#PLAYER
+Version      3
+Name         Flea~
+Description  ~
+Sex          1
+Class        17
+Race         0
+Species      0
+Languages    1 1
+Level        5
+Played       20959
+Room         10371
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   60 89 120 120 152 152
+Gold         1003762
+Exp          113085
+Height          70
+Weight          162
+Act          570426968
+Position     104
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     FloJp5hKC1pPA~
+Title         the Page~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       85
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     16 13 13 13 14 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 31 15
+Site         202.155.9.111
+Skill        60 'kick'
+Weapon       18 'long blades'
+Tongue       100 'common'
+Killed       10303 3
+Killed       10302 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21081
+Level        11
+Values       12 5 12 11 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Values       10 2 5 14 1 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Level        3
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#END

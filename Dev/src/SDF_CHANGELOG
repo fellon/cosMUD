@@ -1,0 +1,237 @@
+//	Ok fellas. Let's log our changes here. Newest on top please..
+//
+// 	Please see the _rough_ file in this dir called REQUESTS for a more
+//	detailed log. 
+
+
+Oct 19 2002	Prage
+	Changed SET_BIT to REMOVE_BIT for immproof on login.
+		comm.c 2754
+
+Oct 18 2002	Chimerus
+	Changed showlayers so that it displays the wear names instead of
+	the bit vector numbers. Fixed the supp recall bug that prevented
+	clan members from supp recalling to the clan recall.
+		grub.c line 1647
+		deity.c line 1539
+
+Oct 17 2002	Chimerus
+	Added Guild to the do_area function. Soft levels 0-0 will display
+	GUILD in recommended levels. Also Trespin's potion quaff waitstate
+	was added. Potions can now have a liquid type. Object type appears
+	in olist.
+		act_info.c line 4490
+		misc.c line 979, 990
+		build.c line 7499
+
+Oct 16 2002	Chimerus
+	Added three new displays for mlist: level, class, and race.
+		build.c line 7557
+
+Oct 15 2002	Fellon and Chimerus
+	Added a new Nanny with menus and stat roller. Added nanny numbers
+	to the class and race files. Added the PK versus Peaceful level
+	gain rates. Tookout the stat check on Auth of character.
+		comm.c
+		tables.c
+		update.c
+		mud.h
+		mud_comm.c
+
+Oct 08 2002	Fellon
+	Worked on New password set up need to add a check for arg 3 to the
+	function. Make it force to check if its there and figure out how
+	the strcmp crypt command works.
+	act_info.c: 3789
+	
+Oct 08 2002	Chimerus
+	Added Area Flags NOSUMMON, DENYSUMMON, NONPCTELE.
+		mud.h line 2180
+		build.c line 128
+		magic.c line 3994, 4111
+
+Oct 07 2002	Fellon
+	Pipe functions fully tested. Much enjoyment.
+	Set corpse looting to only deadly and Clan players.
+	Will continue search for code placement for Clan eq only in hands of 
+	clan members.
+
+Oct 07 2002	Chimerus
+	Prevent NPCs from joining arena. Trans still works
+		arena.c line 253
+
+Oct 06 2002	Marten
+	Change to numobjsloaded data. DO NOT PUT THIS INTO PRODUCTION
+	UNTIL WE ARE SURE SHELL LIMITS DIDN'T FIX THE RESET OBJECTS 
+	PROBLEM. 
+		mud.h:3762	
+		db.c:116
+
+Oct 06 2002	Chimerus
+	Added the 'HIDDEN' area flag. This makes the area not show on
+	the do_area list.
+		mud.h line 2178
+		build.c line 128
+		act_info.c line 4493 & 4583
+
+Oct 05 2002	Chimerus
+	Modified do_area so that it shows 'ALL' and 'NONE' when level
+	ranges are set to 0 - 116 for soft and hard in aset.
+		act_info.c line 4449
+
+Oct 05 2002	Chimerus
+	Added do_zlist to the code.
+		mud.h line 4333
+		tables.c lines 775, 1432
+		act_info.c line 4544
+
+Oct 05 2002	Chimerus
+	Added soft level display to do_where.
+		act_info.c line 3341
+
+Oct 02 2002	Chimerus
+	Added variable for deity recall. Created If checks to use
+	deity recall and deity avatar variables.
+		mud.h line 1256
+		deity.c lines 160, 218, 436, 683, 983, 1309, 1485
+
+Oct 01 2002     Fellon
+        Edited some table alignments in various functions.
+        Zones db.c 6200
+	Areas act_info.c
+	Orders clans.c
+	Attempted installation of ack mapper. Failure.
+
+Oct 01 2002	Chimerus
+	Fixed the name, short, and long desc for the supp object. And
+	changed the modifier on the object stat to (ch->level / 10)
+		deity.c 1362, 1404
+
+	Added the Different Deity object snippet. null and defaults to #43
+	Also preped the variable for different avatar vnums.
+		mud.h 1256
+		deity.c 160, 212, 436, 683, 983, 1280
+
+Sep 30 2002	Chimerus
+	Wizinvis prevents the entrance and exit Info message.
+		act_comm.c 2326
+		comm.c 2492
+
+Sep 29 2002	Chimerus
+	Modified the do_deities function so that it gives more info.
+		mud.h 1244; added domains and detitle variable
+		deity.c 122, 220, 227, 431, 481, 921, 1121 
+
+Sep 27 2002     Chimerus
+       Added Sdtrap to setdeity and showdeity.
+		mud.h 1258
+		deity.c 148, 272, 435, 663, 942, 1445, 1475
+
+Sep 27 2002	Marten
+	Fixed Menu Quit Bug (pressing 0 works now without crashing the mud).
+		comm.c 2254
+	Chimerus's supp uplift favour fix. 
+		deity.c 1366
+
+Sep 26 2002	Marten
+	Trespin's corpse saving fix. 
+		act_obj.c 514 tresp pls ok thx
+	Alias;quit;logout;crash;burn;die bug finally fixed properly. phew.
+	Fixed switch (which i broke)
+		comm.c 724-ish
+
+Sep 24 3003	Prage
+	Changed MSL to MAX_STRING_LENGTH
+		player.c 1507
+
+Sep 23 3003	Marten
+	Fixed more scionware. Was cause of the alias;quit|logout bug
+		comm.c 712+
+
+Sep 17 2002 	Marten
+	Set timers on DT'd corpses to 48 hours (real time)
+		makeobjs.c 192
+	Fixed a bug that I created in do_last late one bleary eyed night. 
+		save.c	2369
+	Fixed a bug in "supp dt" that I *suspect* may bypass the 2500 favour under certain conditions.
+		deity.c 1067
+
+Sep 14 2002	Marten
+	Reworked do_beep. No more beep messages. No more bypassing silence flag.
+		act_comm.c 1434 
+
+Sep 14 2002	Prage
+	Removed wait states for immortals
+		mud.h 3530
+
+Sep 13 2002	Prage
+	Made frozen players forcable.
+		act_wiz.c 4682
+	Switch into frozen player bug fix.
+		act_wiz.c 2981
+	Added do_wimp function, it's in comments now though.
+		act_wiz.c 10049
+
+Sep 12 2002	Prage
+	Made pstealing impossible, as specified by cyph. goodnight.
+		skills.c 4577
+
+Sep 11 2002	Marten
+	DT's no longer purge corpses.
+		act_move.c 1235-1248
+	Corpse timers don't run out when in DT's.
+		makeobjs.c 192-193	
+
+Sep 10 2002	Marten
+	Started on DT reworking. Added supplicate dt command. Changes in do_supplicate.
+		deity.c 
+
+Sep 09 2002	Fellon
+	Added a Roster snippet so that Guild leaders can make lists of members without 
+	having to ask around. Works for all groups.
+		mud.h
+		fight.c
+		tables.c
+		clans.c
+
+Sep 09 2002    Prage
+	Added archive script to the base directory, tested seems to work ok.
+
+	Made furniture descriptions work.
+		act_info.c 618, 739
+
+Sep 05 2002	Marten
+	Beep <char> <message> now sends a beep like it should.
+		act_comm.c 1464
+	Rathkor's litterbug fix (was already done in misc.c)
+		act_obj.c  911
+
+Sep 04 2002	Prage
+	Quick and dirty dual wield missile bug fix(wear_obj).
+		act_obj.c 1918
+
+Sep 01 2002	Marten
+	Rathkor's shopkeeper wear all fix
+		update.c:  830  
+	Rathkor's poison weapon fix
+		fight.c:   3893  
+	Rathkor's corpse fix
+		magic.c:   5178  
+		skills.c:  5450  5457  5500  
+	Rathkor's diceformula enhancement
+		magic.c:   724-727
+	Rathkor's rescue fix. 
+		skills.c:  2553  
+	Trespin's ARENA anti-cheat fix.	
+		arena.c:   248  
+	Added "tech" channel
+		mud.h	   2131  
+		act_info.c 3932 - 3933 4052 4073 4103
+		act_comm.c 1167
+	Fixed "silence" command,  ( a good example of why complex expressions are bad )
+		act_comm.c 653 - 664
+		
+		  
+Aug 11 2002	Marten 
+	Started this file. SDF_CHANGELOG
+	Changed a bunch of specfunc breath related stuff. Forgot where (it does work though).

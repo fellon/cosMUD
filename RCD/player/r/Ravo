@@ -1,0 +1,60 @@
+#PLAYER
+Version      3
+Name         Ravo~
+Description  ~
+Sex          1
+Class        2
+Race         0
+Species      0
+Languages    1 1
+Level        2
+Played       4389
+Room         10315
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   32 32 100 100 110 110
+Gold         0
+Exp          2000
+Height          64
+Weight          141
+Act          570426952
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -17
+Password     Rar2JeIuDrwM6~
+Title         the Footpad~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 13 14 15 13 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

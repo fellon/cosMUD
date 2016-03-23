@@ -1,0 +1,170 @@
+#PLAYER
+Version      3
+Name         Johnny~
+Sex          1
+Class        6
+Race         9
+Languages    1 1
+Level        3
+Played       10782
+Room         6153
+HpManaMove   34 52 108 108 220 120
+Gold         4211
+Exp          13070
+Height          61
+Weight          164
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -852
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        6
+ICEListen ~
+Resistant    2
+Mentalstate  -59
+Password     JoC1KhoxA/XaU~
+Title         the Scout~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       36
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 14 14 14 13 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 13
+Site         (Link-Dead)
+Skill        18 'climb'
+Skill        18 'cook'
+Skill        18 'kick'
+Skill        18 'standard style'
+Weapon       18 'flexible arms'
+Weapon       18 'long blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       6103 1
+Killed       10345 1
+Killed       10301 1
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#END

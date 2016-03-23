@@ -1,0 +1,46 @@
+#PLAYER
+Version      3
+Name         Venba~
+Sex          0
+Class        5
+Race         14
+Languages    1 1
+Level        2
+Played       601
+Room         21194
+HpManaMove   19 28 120 120 110 110
+Gold         0
+Exp          1610
+Height          46
+Weight          106
+Act          570426952
+AffectedBy   528
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Password     VeZkR1uy8TDwU~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 17 18 13 13 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'armor' 473 -20  17 0
+End
+
+#END

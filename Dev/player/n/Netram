@@ -1,0 +1,283 @@
+#PLAYER
+Version      3
+Name         Netram~
+Sex          1
+Class        4
+Race         0
+Languages    1 1
+Level        3
+Played       13901
+Room         21037
+HpManaMove   59 46 112 100 216 120
+Gold         28069
+Exp          17197
+Height          63
+Weight          139
+Act          536872520
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     Ne.HjooZ8N1R6~
+Title         the Scholar of Blood~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       85
+MDeaths      2
+IllegalPK    0
+AttrPerm     13 14 14 15 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 13
+Site         205.200.61.252
+Spell        95 'chill touch'
+Spell        31 'float'
+Skill        95 'feed'
+Skill        19 'sneak'
+Skill        19 'standard style'
+Weapon       19 'long blades'
+Tongue       100 'common'
+AffectData   'armor' 205 -20  17 0
+AffectData   'bless' 868   6  18 0
+AffectData   'bless' 868  -6  24 0
+Killed       10407 1
+Killed       10409 1
+Killed       10303 1
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   1
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21006
+Level        1
+Values       2 95 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21005
+Level        1
+Values       1 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        3
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         1507
+WearLoc      3
+Level        3
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2423
+WearLoc      8
+Level        3
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         3427
+WearLoc      12
+Level        3
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10324
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       18 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10333
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#END

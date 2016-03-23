@@ -1,0 +1,46 @@
+#PLAYER
+Version      3
+Name         SirKillalot~
+Sex          1
+Class        2
+Race         0
+Languages    1 1
+Level        2
+Played       423
+Room         21194
+HpManaMove   29 29 100 100 110 110
+Gold         0
+Exp          1375
+Height          60
+Weight          163
+Act          570426952
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Password     Siic789ns80TM~
+Title         the Footpad~
+Flags        0
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 13 14 14 14 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'bless' 1112   6  18 0
+AffectData   'bless' 1112  -6  24 0
+End
+
+#END

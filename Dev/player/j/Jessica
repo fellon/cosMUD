@@ -1,0 +1,63 @@
+#PLAYER
+Version      3
+Name         Jessica~
+Sex          2
+Class        4
+Race         1
+Languages    1 1
+Level        2
+Played       2684
+Room         10347
+HpManaMove   27 27 110 110 110 110
+Gold         200
+Exp          2039
+Height          69
+Weight          102
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     JeVJ7VJAUwgNc~
+Title         the Blood Student~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 14 13 18 13 16 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 10
+Site         (Link-Dead)
+Weapon       19 'bludgeons'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10309 2
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         20
+Values       65 0 0 0 0 0
+End
+
+#END

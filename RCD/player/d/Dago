@@ -1,0 +1,252 @@
+#PLAYER
+Version      3
+Name         Dago~
+Sex          1
+Class        5
+Race         0
+Languages    1 1
+Level        5
+Played       4266
+Room         10319
+HpManaMove   90 90 120 96 165 50
+Gold         15640
+Exp          86400
+Height          65
+Weight          148
+Act          570427000
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       44
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     DarTE1lwvE4Do~
+Title         the Missionary~
+Deity	     Shar~
+Flags        32770
+PKills       0
+PDeaths      0
+MKills       34
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 13 17 13 13 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 33 33 25
+Site         207.231.3.18
+Spell        19 'armor'
+Spell        19 'bless'
+Spell        19 'blindness'
+Spell        19 'cause light'
+Spell        19 'cause serious'
+Spell        19 'continual light'
+Spell        19 'create food'
+Spell        19 'create water'
+Spell        19 'cure blindness'
+Spell        19 'cure light'
+Spell        19 'detect evil'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'faerie fire'
+Skill        19 'cook'
+Skill        19 'dig'
+Skill        19 'evasive style'
+Skill        19 'mount'
+Skill        19 'standard style'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+AffectData   'armor' 235 -20  17 0
+Killed       2411 1
+Killed       2407 2
+Killed       2071 1
+Killed       2070 1
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000
+WearLoc      22
+Level        2
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        2
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      2
+Level        4
+End
+
+#OBJECT
+Vnum         2074
+Level        1
+Values       9 40 9 126 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2072
+Level        4
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2427
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2405
+Level        3
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Vnum         2441
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#END

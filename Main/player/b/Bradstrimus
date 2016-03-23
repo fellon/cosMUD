@@ -1,0 +1,93 @@
+#PLAYER
+Version      3
+Name         Bradstrimus~
+Sex          1
+Class        23
+Race         27
+Languages    1 1
+Level        2
+Played       268
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   20 27 114 120 97 113
+Gold         501
+Exp          2000
+Height          54
+Weight          71
+Act          570426968
+AffectedBy   -2147483104
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    375
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -14
+Password     Br89362W9ddGI~
+Title         the Mind Apprentice~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 18 16 15 10 18 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 47 47 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#END

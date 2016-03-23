@@ -1,0 +1,13 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Count        3
+Vnum         46255
+Room         327685
+Values       2 2 0 0 0 0
+End
+
+#END

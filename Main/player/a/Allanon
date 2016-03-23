@@ -1,0 +1,76 @@
+#PLAYER
+Version      3
+Name         Allanon~
+Sex          1
+Class        5
+Race         0
+Languages    1 1
+Level        2
+Played       1688
+Room         10361
+HpManaMove   13 33 103 103 210 110
+Gold         364
+Exp          2543
+Height          67
+Weight          165
+Act          570426952
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     AlXIYrovXmGtE~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 13 17 13 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 34 26 10
+Site         209.183.154.179
+Tongue       100 'common'
+AffectData   'shield' 106 -20  17 0
+AffectData   'bless'  84   3  18 0
+AffectData   'bless'  84  -3  24 0
+Killed       10322 4
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#END

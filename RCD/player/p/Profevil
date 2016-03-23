@@ -1,0 +1,51 @@
+#PLAYER
+Version      3
+Name         ProfEvil~
+Sex          0
+Class        4
+Race         11
+Languages    1 1
+Level        2
+Played       6403
+Room         21000
+HpManaMove   30 30 112 112 59 110
+Gold         0
+Exp          1777
+Height          58
+Weight          83
+Act          570426952
+AffectedBy   16777728
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Deaf         16
+ICEListen ~
+Resistant    256
+Mentalstate  0
+Password     PrZ0nVaPzCqpQ~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      1
+IllegalPK    0
+AttrPerm     11 16 13 18 11 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 1
+Site         217.2.43.163
+Spell        19 'infravision'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#END

@@ -1,0 +1,58 @@
+#PLAYER
+Version      3
+Name         Ninsen~
+Sex          0
+Class        5
+Race         1
+Languages    1 1
+Level        2
+Played       2617
+Room         10303
+HpManaMove   28 28 114 114 110 110
+Gold         0
+Exp          2000
+Height          68
+Weight          103
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Ni.QyP4wQje7Y~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 15 16 13 12 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 15 15 10
+Site         207.202.214.132
+Spell        19 'armor'
+Spell        19 'create water'
+Spell        19 'cure light'
+Skill        19 'cook'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

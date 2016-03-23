@@ -1,0 +1,57 @@
+#PLAYER
+Version      3
+Name         Sumner~
+Sex          1
+Class        8
+Race         9
+Languages    1 2
+Level        2
+Played       15630
+Room         21168
+HpManaMove   35 35 105 105 110 110
+Gold         2240
+Exp          1496
+Height          59
+Weight          150
+Act          637535816
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Suwriqj7uW5t.~
+Title         the Keeper of Purity~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       21
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 14 13 15 12 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 22 22 12
+Site         (Link-Dead)
+Spell        54 'create food'
+Spell        18 'create water'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10314 2
+Killed       10321 6
+End
+
+#OBJECT
+Vnum         20
+Values       7 0 0 0 0 0
+End
+
+#END

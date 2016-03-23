@@ -1,0 +1,53 @@
+#PLAYER
+Version      3
+Name         Ferret~
+Sex          1
+Class        3
+Race         0
+Languages    1 1
+Level        2
+Played       2432
+Room         10325
+HpManaMove   34 34 100 100 110 110
+Gold         0
+Exp          2000
+Height          69
+Weight          152
+Act          637535816
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     FevZbXaB5YAl.~
+Title         the Recruit~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 13 12 13 15 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 36 36 12
+Site         207.202.214.132
+Tongue       100 'common'
+AffectData   'bless' 566   6  18 0
+AffectData   'bless' 566  -6  24 0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

@@ -1,0 +1,609 @@
+#PLAYER
+Version      3
+Name         Dundead~
+Description  ~
+Sex          1
+Class        15
+Race         1
+Species      0
+Languages    1 1
+Level        53
+Played       524716
+Room         45352
+Memorized		6000 0 0 0 0 0 0 0
+HpManaMove   306 498 383 1152 1136 776
+Gold         584412
+Exp          180882093
+Height          67
+Weight          110
+Act          570426952
+AffectedBy   552
+Position     104
+Style     2
+Practice     78
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       -2500
+Balance      0
+Glory        4
+MGlory       4
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        3
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     Du3NAqMnN1X2.~
+Rank         Falcon Legion~
+Title        &P <Commander, Legion of Falcon>~
+Lastname ~
+AuthedBy     Fairburn~
+Deity	     Soleran~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      3
+MKills       1527
+MDeaths      81
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  14
+IllegalPK    0
+AttrPerm     12 16 13 15 9 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 4 63
+Site         207.202.214.132
+Spell        20 'alertness'
+Spell        26 'antimagic shell'
+Spell        95 'armor'
+Spell        95 'benediction'
+Spell        95 'bless'
+Spell        47 'blindness'
+Spell        19 'call lightning'
+Spell        39 'cancelation'
+Spell        19 'cause critical'
+Spell        19 'cause light'
+Spell        95 'cause serious'
+Spell        19 'charged beacon'
+Spell        39 'charm person'
+Spell        68 'continual light'
+Spell        19 'create fire'
+Spell        95 'create food'
+Spell        95 'create spring'
+Spell        19 'create symbol'
+Spell        35 'create water'
+Spell        32 'cure blindness'
+Spell        46 'cure critical'
+Spell        19 'cure light'
+Spell        43 'cure poison'
+Spell        95 'cure serious'
+Spell        19 'curse'
+Spell        29 'detect evil'
+Spell        58 'detect hidden'
+Spell        95 'detect invis'
+Spell        22 'detect magic'
+Spell        19 'detect poison'
+Spell        19 'detect traps'
+Spell        23 'dispel evil'
+Spell        19 'dispel magic'
+Spell        29 'dream'
+Spell        95 'earthquake'
+Spell        37 'ethereal funnel'
+Spell        24 'faerie fire'
+Spell        67 'faerie fog'
+Spell        19 'fatigue'
+Spell        95 'flamestrike'
+Spell        38 'flash'
+Spell        76 'flight'
+Spell        86 'float'
+Spell        29 'fortify'
+Spell        88 'gate'
+Spell        46 'grounding'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        19 'holy sanctity'
+Spell        95 'identify'
+Spell        67 'indignation'
+Spell        43 'infravision'
+Spell        19 'knock'
+Spell        19 'know alignment'
+Spell        19 'lethargy'
+Spell        67 'locate object'
+Spell        83 'major invocation'
+Spell        19 'mass invis'
+Spell        19 'minor invocation'
+Spell        25 'poison'
+Spell        61 'protection'
+Spell        33 'recharge'
+Spell        19 'refresh'
+Spell        19 'remove curse'
+Spell        19 'remove trap'
+Spell        35 'resilience'
+Spell        19 'restoration'
+Spell        95 'sanctuary'
+Spell        33 'scry'
+Spell        44 'shockshield'
+Spell        38 'solar flight'
+Spell        19 'spiritual wrath'
+Spell        95 'summon'
+Spell        77 'transport'
+Spell        41 'true sight'
+Spell        19 'unravel defense'
+Spell        95 'uplift'
+Spell        95 'word of recall'
+Skill        29 'aid'
+Skill        19 'brew'
+Skill        19 'cook'
+Skill        80 'cuff'
+Skill        30 'dual wield'
+Skill        80 'fourth attack'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        19 'rescue'
+Skill        95 'scan'
+Skill        20 'search'
+Skill        95 'second attack'
+Skill        95 'second cast'
+Skill        85 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       40 'long blades'
+Weapon       19 'pugilism'
+Weapon       60 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'detect hidden' 498   0  26 32
+AffectData   'detect invis' 1117   0  26 8
+Killed       25508 1
+Killed       25507 16
+Killed       60855 1
+Killed       60881 1
+Killed       600 1
+Killed       60913 1
+Killed       60882 1
+Killed       60880 3
+Killed       60889 2
+Killed       60878 4
+Killed       14733 2
+Killed       14737 2
+Killed       14736 2
+Killed       14729 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        7
+Values       1 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      1
+Level        11
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      2
+Level        13
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        32
+Values       3 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      14
+Level        17
+Values       1 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        32
+Values       2 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15126
+WearLoc      8
+Level        39
+Values       6 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         14753
+WearLoc      12
+Level        47
+Values       10 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14757
+WearLoc      6
+Level        48
+Values       12 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        32
+Values       4 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        29
+Values       1 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        27
+Values       3 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        9
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        7
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         14754
+Level        46
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14755
+Level        48
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14756
+Level        46
+Values       12 14 41 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100001
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         809
+Level        19
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12581
+Level        45
+Values       4 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12580
+Level        48
+Values       24 24 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12579
+Level        47
+Values       7 14 40 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         800
+Level        37
+Values       12 4 32 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2072
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        3
+Values       11 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2073
+Level        4
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21070
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46009
+Level        18
+Values       11 5 20 2 0 0
+End
+
+#OBJECT
+Vnum         21071
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Name         iron mask rename~
+ShortDescr   An iron mask.~
+Description  The man's iron mask has been removed.~
+Vnum         1208
+Level        50
+Values       14 -300 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         24512
+Level        29
+Values       1 50 100 11 0 0
+End
+
+#ALIAS
+Name     dw~
+Commands get dragonskin rune ; drink water ; examine dragonskin ; put dragonskin rune~
+End
+
+#ALIAS
+Name     heal~
+Commands c 'heal' dundead~
+End
+
+#ALIAS
+Name     armor~
+Commands cast 'armor' dundead~
+End
+
+#ALIAS
+Name     food~
+Commands cast create food; eat mushroom~
+End
+
+#ALIAS
+Name     water~
+Commands cast create 'water' dragonskin; drink water~
+End
+
+#ALIAS
+Name     cs~
+Commands cast 'cause serious'~
+End
+
+#ALIAS
+Name     fire~
+Commands cast 'faerie fire'~
+End
+
+#ALIAS
+Name     blind~
+Commands cast 'blindness'~
+End
+
+#ALIAS
+Name     earth~
+Commands cast 'earthquake'~
+End
+
+#ALIAS
+Name     bless~
+Commands cast bless dundead~
+End
+
+#ALIAS
+Name     float~
+Commands cast 'float' dundead~
+End
+
+#ALIAS
+Name     sd~
+Commands w; w; w; w; w; s; s; s; s; s; s; e; e; e;~
+End
+
+#ALIAS
+Name     summon~
+Commands cast summon creature~
+End
+
+#ALIAS
+Name     cc~
+Commands cast 'cure critical' dundead~
+End
+
+#ALIAS
+Name     sc~
+Commands e se n~
+End
+
+#ALIAS
+Name     po~
+Commands cast poison~
+End
+
+#ALIAS
+Name     spring~
+Commands cast 'create spring';drink spring~
+End
+
+#ALIAS
+Name     flight~
+Commands cast 'flight' dundead~
+End
+
+#ALIAS
+Name     qu~
+Commands quaff potion~
+End
+
+#ALIAS
+Name     ss~
+Commands c 'flamestrike'~
+End
+
+#ALIAS
+Name     fog~
+Commands cast 'faerie fog' dundead~
+End
+
+#ALIAS
+Name     charm~
+Commands c 'charm person'~
+End
+
+#ALIAS
+Name     major~
+Commands c 'major invocation'~
+End
+
+#ALIAS
+Name     invis~
+Commands c 'detect invis' dundead~
+End
+
+#ALIAS
+Name     ben~
+Commands c 'benediction'~
+End
+
+#ALIAS
+Name     san~
+Commands c 'sanctuary' dundead;c 'protection' dundead~
+End
+
+#ALIAS
+Name     fury~
+Commands c 'indignation'~
+End
+
+#ALIAS
+Name     full~
+Commands c resilience dundead; c sanctuary dundead; c true sight; c shockshield dundead; c armor dundead; c bless dundead; c fortify dundead~
+End
+
+#ALIAS
+Name     dt~
+Commands c'detect magic' dundead; c'dispel magic' dundead; c'detect hidden' dundead; invis~
+End
+
+#ALIAS
+Name     fun~
+Commands c 'ethereal funnel'~
+End
+
+#ALIAS
+Name     hid~
+Commands c ' detect hidden' dundead~
+End
+
+#END

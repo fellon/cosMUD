@@ -1,0 +1,62 @@
+#PLAYER
+Version      3
+Name         Ydna~
+Description  ~
+Sex          1
+Class        14
+Race         0
+Species      2
+Languages    1 1
+Level        8
+Played       25726
+Room         913
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   10 10 100 100 191 191
+Gold         70374
+Exp          291553
+Height          65
+Weight          137
+Act          570426952
+Position     106
+Style     1
+Practice     9
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -24
+Password     Yd5TI7nJYpYFA~
+Title         the Snatcher~
+Lastname ~
+AuthedBy     Andy~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       81
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 13 12 13 13 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 18
+Site         (Link-Dead)
+Skill        73 'backstab'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        90 'kick'
+Skill        24 'scan'
+Tongue       100 'common'
+Killed       2411 1
+Killed       2410 1
+i3invis	0
+End
+
+#END

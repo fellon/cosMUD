@@ -1,0 +1,106 @@
+#PLAYER
+Version      3
+Name         Zeb~
+Description  ~
+Sex          1
+Class        25
+Race         30
+Species      2
+Languages    1 1
+Level        5
+Played       2200
+Room         21168
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   40082 40077 52128 52128 152 152
+Gold         502
+Exp          73600
+Height          63
+Weight          149
+Act          570426968
+AffectedBy   6815784
+Position     112
+Style     2
+Practice     20
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       1000
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        -200
+ICEListen (null)~
+Resistant    1060735
+Mentalstate  0
+Password     Zed6OtkFRtPsA~
+Title         the Mind Apprentice~
+Lastname (null)~
+AuthedBy     Chimerus~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 21 18 17 18 18 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 19 19 15
+Site         64.169.158.195
+Tongue       100 'common'
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Name         holy symbol faith sigil Aoskar~
+ShortDescr   a holy symbol of Aoskar~
+Description  A holy symbol of Aoskar has fallen here.~
+Vnum         43
+WearLoc      17
+Level        5
+Affect       -1 -1 0 31 0
+End
+
+#END

@@ -1,0 +1,192 @@
+#PLAYER
+Version      3
+Name         Cathane~
+Sex          2
+Class        8
+Race         9
+Languages    1 1
+Level        6
+Played       8624
+Room         2119
+HpManaMove   4 91 39 122 230 150
+Gold         41647
+Exp          192662
+Height          66
+Weight          164
+Act          570426968
+AffectedBy   512
+Position     104
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       5
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     CazByhaq4rr1.~
+Title         the Keeper of Justice~
+Prompt       (%h/%H %m/%M %v/%V)~
+FPrompt	     (%h/%Hhp %m/%Mmn %v/%Vmv %e)~
+Deity	     Mystra~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       100
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 16 11 14 11 14 14
+AttrMod      0 0 0 0 0 4 0
+Condition    0 7 7 16
+Site         213.119.20.247
+Spell        64 'armor'
+Spell        32 'bless'
+Spell        18 'continual light'
+Spell        24 'create food'
+Spell        18 'create water'
+Spell        25 'cure light'
+Spell        18 'refresh'
+Skill        90 'enhanced damage'
+Skill        90 'parry'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'inner warmth' 932   2  27 0
+AffectData   'elven beauty' 998   4  25 0
+AffectData   'bless'  37   0  18 0
+AffectData   'bless'  37   0  24 0
+Killed       10302 4
+Killed       10300 4
+Killed       10303 6
+Killed       10301 5
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1527
+Level        1
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        5
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         2104
+WearLoc      11
+Level        5
+Values       3 4 0 0 0 0
+Affect       -1 -1 -20 17 0
+End
+
+#END

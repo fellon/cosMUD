@@ -1,0 +1,139 @@
+#PLAYER
+Version      3
+Name         FreeMan~
+Sex          1
+Class        8
+Race         0
+Languages    1 1
+Level        6
+Played       50383
+Room         2082
+HpManaMove   95 95 96 121 150 150
+Gold         108012
+Exp          195619
+Height          66
+Weight          152
+Act          536872568
+AffectedBy   2097152
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen ~
+Mentalstate  0
+Password     Fr5t4dOXZwPrM~
+Title         the Keeper of Justice~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       319
+MDeaths      10
+IllegalPK    0
+AttrPerm     17 14 13 13 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 33 6 16
+Site         207.202.214.136
+Spell        90 'armor'
+Spell        55 'bless'
+Spell        61 'cure light'
+Spell        31 'refresh'
+Skill        18 'climb'
+Skill        18 'dig'
+Skill        90 'enhanced damage'
+Skill        18 'mount'
+Skill        90 'parry'
+Skill        18 'standard style'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       18 'long blades'
+Tongue       100 'common'
+AffectData   'bless' 377   6  18 0
+AffectData   'bless' 377  -6  24 0
+AffectData   'float' 650   0  26 2097152
+Killed       2072 1
+Killed       2070 1
+Killed       3603 1
+Killed       3604 3
+End
+
+#OBJECT
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21005
+Level        1
+Values       2 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         21005
+Level        1
+Values       1 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#END

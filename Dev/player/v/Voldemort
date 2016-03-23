@@ -1,0 +1,470 @@
+#PLAYER
+Version      3
+Name         Voldemort~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      0
+Languages    9 1
+Level        70
+Played       609652
+Room         100006
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   1782 767 964 556 1335 985
+Gold         24145432
+Exp          417903361
+Height          68
+Weight          155
+Act          570426952
+AffectedBy   524298
+Position     104
+Style     2
+Practice     195
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2369
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     VoMnjjBZX/UWE~
+Title        &Y Hungry &W now...~
+Lastname &R IS &B Really~
+Bio          Best score :
+You MUTILATE Hamspiced [1286] 
+sorry ham... 
+~
+Prompt       <#%h%m%v>~
+Deity	     Shaundakul~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      2
+MKills       2935
+MDeaths      39
+ArenaWins    8
+ArenaKills   21
+ArenaDeaths  13
+IllegalPK    0
+AttrPerm     13 16 14 13 13 13 13
+AttrMod      5 0 0 5 0 0 0
+Condition    0 47 4 80
+Site         202.169.37.138
+Spell        53 'acid blast'
+Spell        49 'antimagic shell'
+Spell        21 'aqua breath'
+Spell        95 'armor'
+Spell        19 'black fist'
+Spell        35 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        29 'blazeward'
+Spell        28 'blindness'
+Spell        56 'blur'
+Spell        19 'burning hands'
+Spell        51 'cancelation'
+Spell        31 'caustic fount'
+Spell        69 'charm person'
+Spell        19 'chill touch'
+Spell        19 'colour spray'
+Spell        95 'continual light'
+Spell        19 'control weather'
+Spell        19 'create fire'
+Spell        95 'create spring'
+Spell        20 'curse'
+Spell        95 'demonskin'
+Spell        77 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'detect traps'
+Spell        20 'dispel magic'
+Spell        19 'disruption'
+Spell        68 'dragon wit'
+Spell        34 'dragonskin'
+Spell        19 'dream'
+Spell        95 'eldritch sphere'
+Spell        30 'elven beauty'
+Spell        63 'enchant weapon'
+Spell        95 'energy drain'
+Spell        36 'ethereal fist'
+Spell        21 'ethereal funnel'
+Spell        95 'ethereal shield'
+Spell        19 'extradimensional portal'
+Spell        23 'faerie fire'
+Spell        22 'faerie fog'
+Spell        19 'farsight'
+Spell        19 'feather fall'
+Spell        95 'fireball'
+Spell        95 'flight'
+Spell        50 'float'
+Spell        28 'galvanic whip'
+Spell        53 'hand of chaos'
+Spell        94 'iceshield'
+Spell        95 'identify'
+Spell        46 'infravision'
+Spell        33 'inner warmth'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        56 'knock'
+Spell        20 'know alignment'
+Spell        95 'lightning bolt'
+Spell        35 'liquid skin'
+Spell        91 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        32 'mass invis'
+Spell        81 'ogrish hide'
+Spell        93 'pass door'
+Spell        95 'portal'
+Spell        95 'quantum spike'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        21 'refresh'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        66 'restore mana'
+Spell        74 'sagacity'
+Spell        28 'scry'
+Spell        39 'shadowform'
+Spell        95 'shield'
+Spell        19 'shocking grasp'
+Spell        75 'shockshield'
+Spell        32 'shockwave'
+Spell        19 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        95 'stone skin'
+Spell        37 'summon'
+Spell        19 'swordbait'
+Spell        31 'teleport'
+Spell        26 'transport'
+Spell        28 'trollish vigor'
+Spell        29 'true sight'
+Spell        93 'valiance'
+Spell        19 'ventriloquate'
+Spell        22 'weaken'
+Spell        19 'winter mist'
+Spell        94 'wizard eye'
+Spell        95 'word of recall'
+Skill        31 'aid'
+Skill        34 'brew'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        23 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        19 'levitate'
+Skill        77 'meditate'
+Skill        22 'pinch'
+Skill        35 'ruminate'
+Skill        95 'scan'
+Skill        28 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       40 'pixie'
+AffectData   'slink'  47   5   2 0
+AffectData   'flight' 136   0  26 524288
+AffectData   'kindred strength' 1498   5   1 0
+AffectData   'shield' 1500 -20  17 0
+AffectData   'wizard eye' 1716   0  26 8
+AffectData   'invis' 643   0   0 2
+Killed       14733 1
+Killed       14732 2
+Killed       6102 1
+Killed       14729 1
+Killed       14741 2
+Killed       262 14
+Killed       260 17
+Killed       263 12
+Killed       14700 1
+Killed       14706 4
+Killed       14703 1
+Killed       445 2
+Killed       437 1
+Killed       444 8
+Killed       438 13
+Killed       446 2
+Killed       439 2
+Killed       441 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+Level        10
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Weight       1
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Weight       1
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Weight       1
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Weight       1
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      14
+Level        18
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      15
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         100011
+ExtraFlags   133192
+WearLoc      5
+Level        46
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         70008
+WearLoc      12
+Level        48
+Values       15 15 0 0 0 0
+Affect       -1 -1 300 13 0
+End
+
+#OBJECT
+Vnum         236
+WearLoc      6
+Level        59
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         25066
+WearLoc      4
+Level        59
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      2
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60959
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60960
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60964
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         35
+Level        9
+Values       2 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         260
+Level        72
+Values       71 22 193 -1 0 0
+Spell 1      'bless'
+Spell 2      'shockshield'
+End
+
+#OBJECT
+Nest         1
+Vnum         48028
+Level        49
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         36
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Name         iron mask rdaf rename~
+ShortDescr   An iron mask~
+Description  The man's iron mask has been removed.~
+Vnum         1208
+ExtraFlags   524288
+WearLoc      23
+Level        50
+Values       14 -300 0 0 0 0
+End
+
+#OBJECT
+Vnum         25548
+WearLoc      20
+Level        47
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         1206
+ExtraFlags   525320
+WearLoc      16
+Level        61
+Values       12 50 150 3 0 0
+Affect       -1 -1 7 18 0
+Affect       -1 -1 7 19 0
+End
+
+#OBJECT
+Vnum         1206
+ExtraFlags   524288
+WearLoc      18
+Level        69
+Values       12 50 150 3 0 0
+End
+
+#ALIAS
+Name     bl~
+Commands cast 'black lightning~
+End
+
+#ALIAS
+Name     en~
+Commands 'c energy'~
+End
+
+#ALIAS
+Name     qs~
+Commands c quantum~
+End
+
+#ALIAS
+Name     rm~
+Commands c 'restore mana~
+End
+
+#ALIAS
+Name     sw~
+Commands c shockwave~
+End
+
+#ALIAS
+Name     se~
+Commands c shockwave~
+End
+
+#ALIAS
+Name     de~
+Commands c shockwave~
+End
+
+#ALIAS
+Name     sr~
+Commands c shockwave~
+End
+
+#MOBILE
+Vnum	21056
+Room	21307
+Description The hawk returns your stare with unfeeling eyes.  Its beak and talons
+appear as though they could rend even the toughest of flesh.
+A neck tag says 'I belong to Voldemort'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

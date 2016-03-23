@@ -1,0 +1,328 @@
+#PLAYER
+Version      3
+Name         Stefan~
+Description  ~
+Sex          1
+Class        2
+Race         0
+Languages    1 1
+Level        10
+Played       132572
+Room         1510
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   151 131 100 100 217 217
+Gold         41075
+Exp          649687
+Height          61
+Weight          159
+Act          570426992
+AffectedBy   32768
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        5
+MGlory       5
+Hitroll      0
+Damroll      0
+Armor        100
+Deaf         146833590
+ICEListen (null)~
+Mentalstate  0
+Password     StBCiDTVdu1lg~
+Title         the Rogue~
+Lastname  Broadkill~
+AuthedBy     Marten~
+Deity	     Thirian~
+Clan         Guild of Thieves~
+Flags        229376
+PKills       0
+PDeaths      0
+MKills       497
+MDeaths      24
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 14 12 17 13 13 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 22 4 19
+Site         4.36.192.9
+Skill        95 'backstab'
+Skill        17 'disarm'
+Skill        95 'discern'
+Skill        85 'hide'
+Skill        75 'pick lock'
+Skill        39 'second attack'
+Skill        95 'sneak'
+Skill        80 'steal'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       37 'pugilism'
+Weapon       100 'short blades'
+Tongue       100 'common'
+AffectData   'sneak'  30   0  26 32768
+Killed       1508 4
+Killed       1547 1
+Killed       60881 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         2101
+WearLoc      5
+Level        4
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        15
+Values       12 4 18 11 0 0
+End
+
+#OBJECT
+Vnum         21077
+WearLoc      7
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         60888
+WearLoc      15
+Level        2
+Values       2 2 2 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         36
+WearLoc      17
+Values       1 0 0 0 0 0
+ExtraDescr   _text_~ Should the thieves guild become more active
+and start sharing secrets we've discovered with
+other guilded thieves?
+ 
+Are there areas that collectively we know enough
+about to make it worth sharing?
+ 
+Just leaving a note here to see if that's something
+that we should begin doing. 
+ 
+ 
+Stefan Broadkill
+~
+End
+
+#OBJECT
+Vnum         60881
+WearLoc      2
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+WearLoc      8
+Level        5
+Values       8 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         60897
+Level        3
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         50160
+Level        6
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60915
+Level        9
+Values       13 60 59 -1 0 0
+Spell 1      'cure poison'
+Spell 2      'cure light'
+End
+
+#OBJECT
+Nest         1
+Vnum         60915
+Level        9
+Values       15 60 59 -1 0 0
+Spell 1      'cure poison'
+Spell 2      'cure light'
+End
+
+#OBJECT
+Nest         1
+Vnum         21071
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60924
+Values       6 5 12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60920
+Level        10
+Values       10 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60888
+Level        2
+Values       3 2 2 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60864
+Level        2
+Values       12 1 5 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60909
+Level        14
+Values       21 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         60909
+Level        14
+Values       18 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         60909
+Level        14
+Values       20 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60888
+Level        3
+Values       2 2 2 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        3
+Values       15 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        7
+Values       22 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 3 0 0 0 0
+End
+
+#END

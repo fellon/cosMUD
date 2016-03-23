@@ -1,0 +1,102 @@
+#PLAYER
+Version      3
+Name         Bloodstalker~
+Description  feed
+feed
+woe;
+wield all
+ 
+~
+Sex          1
+Class        14
+Race         5
+Languages    524289 1
+Level        29
+Played       227466
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   613 613 128 128 464 464
+Gold         330333
+Exp          16843611
+Height          56
+Weight          155
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     27
+SavingThrows 0 0 0 0 -6
+Alignment    -1000
+Favor	       1063
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        15
+ICEListen (null)~
+Resistant    256
+Mentalstate  -7
+Password     BlInu7bu/vndw~
+Title         the Master of Taste~
+Lastname ~
+AuthedBy     Relgar~
+Deity	     Shar~
+Flags        98304
+PKills       0
+PDeaths      2
+MKills       736
+MDeaths      11
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     13 14 11 16 15 10 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 16
+Site         207.202.214.132
+Skill        20 'aid'
+Skill        22 'backstab'
+Skill        95 'circle'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        37 'disarm'
+Skill        95 'discern'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        95 'feed'
+Skill        95 'gouge'
+Skill        60 'headbutt'
+Skill        26 'hide'
+Skill        90 'kick'
+Skill        70 'knee'
+Skill        25 'pick lock'
+Skill        90 'scan'
+Skill        28 'search'
+Skill        90 'second attack'
+Skill        18 'sneak'
+Skill        21 'spinkick'
+Skill        17 'steal'
+Skill        18 'track'
+Weapon       40 'bludgeons'
+Weapon       95 'flexible arms'
+Weapon       80 'long blades'
+Weapon       85 'pugilism'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       8 'gith'
+AffectData   'bless' 551  -6  24 0
+AffectData   'bless' 551   6  18 0
+Killed       10300 1
+Killed       10301 2
+Killed       10303 2
+Killed       10302 2
+Killed       24817 2
+Killed       24818 1
+Killed       24814 2
+Killed       24816 2
+i3invis	0
+End
+
+#END

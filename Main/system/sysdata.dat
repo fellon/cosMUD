@@ -1,0 +1,55 @@
+#SYSTEM
+MudName	     SDFmud: Alpha~
+Highplayers    35
+Highplayertime Thu Aug  1 04:38:55 2002~
+CheckImmHost   1
+Nameresolving  1
+Waitforauth    1
+Readallmail    114
+Readmailfree   101
+Writemailfree  1
+Takeothersmail 113
+IMCMailLevel   5
+IMCMailVnum    40001
+Staff          105
+Think          113
+Build          105
+Log            111
+Protoflag      106
+Overridepriv   114
+Msetplayer     113
+Stunplrvsplr   65
+Stunregular    15
+Gougepvp       0
+Gougenontank   0
+Bashpvp        0
+Bashnontank    0
+Dodgemod       2
+Parrymod       2
+Tumblemod      4
+Damplrvsplr    100
+Damplrvsmob    100
+Dammobvsplr    100
+Webport	     4011
+Dammobvsmob    100
+Forcepc        113
+Guildoverseer  Fellon~
+Guildadvisor   Cyph~
+Saveflags      2557
+Savefreq       20
+Bestowdif      15
+BanSiteLevel   0
+BanRaceLevel   0
+BanClassLevel  0
+MorphOpt       1
+PetSave	     1
+IdentTries     20
+Imm_arena	     1
+Crashguard	0
+WebServer		0
+NoTake         109
+Socials	     595
+Commands	     566
+End
+
+#END

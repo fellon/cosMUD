@@ -1,0 +1,139 @@
+#PLAYER
+Version      3
+Name         Slayer~
+Description  ~
+Sex          1
+Class        1
+Race         1
+Species      1
+Languages    1 1
+Level        5
+Played       14296
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   69 69 177 177 152 152
+Gold         18956
+Exp          85742
+Height          65
+Weight          106
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     Slchb.w/Mlyds~
+Title         the Layman Brother~
+Lastname (null)~
+AuthedBy     Rathkor~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       24
+MDeaths      3
+ArenaWins    1
+ArenaKills   1
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     13 11 16 15 13 13 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 35 15
+Site         207.202.214.132
+Spell        19 'armor'
+Spell        19 'bless'
+Spell        19 'blindness'
+Spell        19 'cause serious'
+Spell        19 'continual light'
+Spell        95 'create food'
+Spell        27 'create water'
+Spell        74 'cure light'
+Spell        19 'cure serious'
+Spell        20 'detect invis'
+Spell        19 'refresh'
+Skill        30 'dual wield'
+Skill        20 'kick'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 446 -20  17 0
+Killed       10397 1
+Killed       10396 8
+i3invis	0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      18
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#ALIAS
+Name     m~
+Commands c 'cure light'~
+End
+
+#ALIAS
+Name     nm~
+Commands c 'cure light'~
+End
+
+#ALIAS
+Name     mn~
+Commands cast 'create food'~
+End
+
+#ALIAS
+Name     as~
+Commands cast 'create water' dragonskin~
+End
+
+#ALIAS
+Name     sd~
+Commands give mush reaper~
+End
+
+#ALIAS
+Name     gh~
+Commands cast 'cure light' reaper~
+End
+
+#END

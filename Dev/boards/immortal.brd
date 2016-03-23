@@ -1,0 +1,496 @@
+Sender  Prage~
+Date    Fri Aug 23 12:59:53 2002~
+To      All~
+Subject Project Purgeration~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Trespin and i are ripping build to pieces. The main target are any pieces
+of equipment that don't match his standard. Anything that is considered
+unsalvagable will be deleted.
+~
+
+Sender  Fellon~
+Date    Mon Sep  2 20:25:01 2002~
+To      All~
+Subject Newcity~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I added in the newcity area file
+vnums 4000000 4999999
+Sorry Mart
+~
+
+Sender  Trespin~
+Date    Fri Sep  6 02:01:58 2002~
+To      Citybuilders~
+Subject newcity update~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+/q
+Newcity
+-------
+Rathkor has come up with a vnum plan see room: 4000999 for details.
+Rathkor's done most of the road layout and the map is available
+under: help map3
+ 
+I'm working on the park road.
+ 
+Trespie
+~
+
+Sender  Marten~
+Date    Mon Sep  9 21:42:03 2002~
+To      Prage + Rathkor~
+Subject Projects~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Howdy.
+ 
+First, I'd like to welcome Ashden to the build server. 
+ 
+Prage/Rathkor, can we have build tasks assigned to people here?
+Andy, Trespin and Ashden could use a little direction.
+ 
+My current build project is the slum north of the new city. It's 
+using the map from "Broken Steppes" as a skeleton. 
+http://redteam.ca/images/steppes.gif
+ 
+Thanks Fellas.
+~
+
+Sender  Prage~
+Date    Tue Sep 10 04:25:56 2002~
+To      All~
+Subject Task list~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Andy and Ashden are working on newhell.are
+Hamspiced and Trespin are free to help.
+ 
+Hamspiced says he can't build well, that's easily fixed.
+Trespin will without doubt find something to work on. (However if you want
+an area, just ask.)
+I'll be working on a bottle of scotch which is open to collaboration.
+ 
+If anyone else wants something to do, contact me and i'll find something.
+ 
+Prage.
+~
+
+Sender  Marten~
+Date    Fri Sep 13 23:49:23 2002~
+To      Prage~
+Subject Archive script~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Well you have more patience than me with shit like that.
+I would have put something like "tar czf backup.tgz $dirs" in 
+crontab and that would have been it.
+ 
+You are one of those sadomasochistic shell script guys... omg..
+ 
+Heh, btw it's nice to see stuff getting done though. Since we both
+started on sverige things have been steadily getting better. Now we
+just have to get Meth on board.
+ 
+~
+
+Sender  Ashden~
+Date    Sat Sep 14 04:43:08 2002~
+To      All~
+Subject New player~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Official request
+ 
+ 
+I wish that i will be allowed to play a vampire/vampire character.
+ 
+ 
+Yours truly, Ashden
+~
+
+Sender  Rathkor~
+Date    Sat Sep 14 15:54:19 2002~
+To      All~
+Subject Building Tasks on Taldon~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Sorry that I haven't been around much to work on this city, hopefully
+Me and Trespin have gotten it to a point of organization where it
+will be easy to start work on it. Right now what we need is room descs.
+Read help map3, go to 4000999 and read the vnum ranges, then start at
+the new recall point 4000000 and pick a section of the city that looks
+interesting to you and start writing in room descriptions. Please don't
+set room flags, we will set these all at once. The ??? buildings are
+unassigned, feel free to make them into anything you want. There is no
+organization for mobs or objs yet because we haven't started making them
+but if you want to make any I guess just try to pick a number in the
+same range that matches close to the room you want to put it in.
+~
+
+Sender  Fairburn~
+Date    Mon Sep 16 12:39:46 2002~
+To      Prage/rath~
+Subject warrior guild~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+prage sire,
+is there anything that i can do to help this new city?
+please list me what i can do with it then.
+plus add me a range of small vnums to build a warrior guild on it.
+(trespinator, trust me, i will follow your buildline :))
+ 
+i am waiting for a task list, really i do, i do sire, i do.
+leave a note for me, as a healing potion for my wounded heart ...
+ 
+Fairburn.
+~
+
+Sender  Ashden~
+Date    Wed Sep 18 19:36:34 2002~
+To      Prage~
+Subject New Area~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Hello Prage
+ 
+Fellon allowed me to build a romanians order so i would appreciate it
+if you could give me a range of vnums for the HQ.
+ 
+Yours truly, Ashden
+~
+
+Sender  Rathkor~
+Date    Thu Sep 19 01:12:02 2002~
+To      All~
+Subject Vnums and Rooms allocation~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Pick any room with a ??? on the map to start building your guild, then
+pick a range out of the extra vnums 4000400 - 4000799 and post the
+numbers you are using here so no one else will conflict with them.
+Use the ??? as the entry to the building and the extra rooms however
+you like (withing the logic of the map, i.e. building up or down and
+not into where other buildings may be) for your guild / building /
+special whatever.
+~
+
+Sender  Rathkor~
+Date    Thu Sep 19 01:19:47 2002~
+To      Prage~
+Subject forward request~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Anyway, I mailed fellon about grasp suspiria being unable to be learned from an
+ trainer. Now that I have it, it seems to be bugged.
+As you probably know, it is supposed to leech life, but it doesn't.
+Cyph said it was a problem with the targetting thingie.
+Fellon directed me to you, since you're in charge as skills guy now (he says) =
+So I'd greatly appreciate it, if you could try and fix it. :-)
+thx in advance
+Athmoz
+~
+
+Sender  Ashden~
+Date    Fri Sep 20 12:25:18 2002~
+To      All~
+Subject Backstab~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Due to Blade of Night's backstab capability, every fighter keeps asking
+for it or asks a higher level player to get one for them. Soon you will
+see every fighter backstab.
+ 
+Yours truly, Ashden
+~
+
+Sender  Ashden~
+Date    Sat Sep 21 15:49:42 2002~
+To      All~
+Subject The Romanian Order~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I started building the HQ.
+The entrance is nw from 4000028.
+I will use the vnums from 4000400 to 4000500
+The order's name is : &COrder of Sarmizegetusa
+~
+
+Sender  Rathkor~
+Date    Sat Sep 21 19:02:40 2002~
+To      All~
+Subject Romanian Order~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Aren't order/guild hqs supposed to take around 10 rooms? We have a few to
+build so if you don't use up all 100 let us know so we can use them
+for other guilds. In other news...the room descs for the city walls are
+complete . . . Woohoo :].
+~
+
+Sender  Ashden~
+Date    Sun Sep 22 08:08:12 2002~
+To      Rathkor~
+Subject Vnums~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+10 rooms is all i need
+~
+
+Sender  Trespin~
+Date    Wed Sep 25 01:41:59 2002~
+To      All~
+Subject Taldon stuff~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Worked a bit more on newcity.
+ 
+Started kitting out adventurers supplys in room: 4000131
+I haven't done the mob yet, but left the objects as resets in the 
+room.  I figured this is a good way to know what items belong in
+each store.
+ 
+Andy has started some pet mobs in room: 4000144
+I had to reallocate the petshop room to make sure the store room
+was in an adjacent vnum.
+ 
+Trespin
+~
+
+Sender  Chimerus~
+Date    Wed Sep 25 15:47:39 2002~
+To      All~
+Subject King's Castle Proposal~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+King's Castle Proposal
+ 
+A new area to be created that fills the space in 4k Mud where Taldon will be
+placed, above Darkhaven. Currently there is a road, called the King's Road,
+that leads to no where in the direction north of Darkhaven. Therefore the theme
+of the area could be a castle for some currently unknown King. This castle will
+be in the form of the newcity, Taldon.
+ 
+The reason for this is to give some history for the creation of the city of
+Taldon. The castle's ruins will be used to create its outer walls, lighthouse,
+and other stone structures. The stones from the ruins would be easily moved to
+new positions and towers could be converted to buildings inside the city and to
+create the light house.
+ 
+The Castle could be fully functioning, in ruins, or run by a hermit king. The
+main importance is that the stone structure has to have some resemblance to the
+city of Taldon. Magical properties can be created for future stories that
+originate within the old castle and permeate into the city of Taldon, such as:
+ghosts, curses, points of magical power, a magic stream, etc. This will help
+the players relate to the newcity as being created from something that may have
+once been familiar.
+ 
+(continued in another note)
+~
+
+Sender  Chimerus~
+Date    Wed Sep 25 15:52:46 2002~
+To      All~
+Subject King's Castle Proposal 2~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+(King's Castle Proposal continued)
+ 
+Two more areas could be created which are representations of the area as it
+gets changed from being a castle to being a port city. The first being right
+after the destruction of Darkhaven and the second as the construction period.
+Later on these areas can be converted into different places so that there
+construction is not wasted. There similarity will be related to a certain time
+period where this type of building was the norm i.e. gothic, victorian, modern.
+ 
+Name of the Area: kingcas.are
+Start room
+  Title: The King's Castle 
+  Vnums: 100 (rooms, objects, mobs)
+  Death Traps: none
+ 
+ 
+Please post your Ideas on this matter,
+Chimerus.
+ 
+~
+
+Sender  Marten~
+Date    Fri Sep 27 16:58:54 2002~
+To      Fellon~
+Subject Switch~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Is fixed here! Guess what! I broke it ! Do you like my yahoo! 
+impression!
+~
+
+Sender  Marten~
+Date    Fri Sep 27 21:13:35 2002~
+To      Builders~
+Subject shargrath.are~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Updated this area on Athmoz's request. Have a backup copy if you
+had work done on original.
+~
+
+Sender  Chimerus~
+Date    Sat Sep 28 17:41:02 2002~
+To      Fellon~
+Subject Vnums Sigil and King's Castle~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Vnum request for Sigil and King's Castle.
+kingcas.are   26900 to 26999
+sigil.are   4001000 to 4001999
+~
+
+Sender  Ashden~
+Date    Sun Sep 29 07:04:33 2002~
+To      All~
+Subject Hmm~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Can anyone give me something to do !?!?!
+ 
+doh
+~
+
+Sender  Chimerus~
+Date    Sun Sep 29 16:11:45 2002~
+To      Ashden~
+Subject Something to Do~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+umm you can build on Taldon and help me come up with a background
+for the King's Castle area.
+~
+
+Sender  Ashden~
+Date    Sun Sep 29 17:08:37 2002~
+To      Chimerus~
+Subject He he~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+You need like a story line or what ?
+~
+
+Sender  Rathkor~
+Date    Sun Sep 29 18:22:25 2002~
+To      All~
+Subject Castle Proposal~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Sounds cool. I don't see how we have time to work on so many projects
+at once, so I offer my suggestion that if you're going to try to add
+this one, keep it simple.
+~
+
+Sender  Chimerus~
+Date    Mon Sep 30 05:36:11 2002~
+To      All~
+Subject do_deities~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I put in the do_deities modification I mentioned that I was working
+on in the web forum. Check it out and tell me what you think.
+~
+
+Sender  Chimerus~
+Date    Mon Sep 30 20:52:37 2002~
+To      All~
+Subject Info Messages~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I added in an if check so that when you are wizinvised you do not
+trigger an Info message when you enter or leave the mud.
+ 
+Chimerus
+~
+

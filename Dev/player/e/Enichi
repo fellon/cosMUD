@@ -1,0 +1,90 @@
+#PLAYER
+Version      3
+Name         Enichi~
+Sex          1
+Class        6
+Race         1
+Languages    1 1
+Level        2
+Played       3191
+Room         10300
+HpManaMove   29 29 114 114 110 110
+Gold         0
+Exp          2000
+Height          56
+Weight          110
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     En1C5fQgp4BTI~
+Title         the Strider~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 13 12 15 13 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 7 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10313
+Level        1
+Values       12 3 6 3 0 0
+End
+
+#OBJECT
+Vnum         10333
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#END

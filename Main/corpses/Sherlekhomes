@@ -1,0 +1,12 @@
+#CORPSE
+Name         corpse Sherlekhomes~
+ShortDescr   the corpse of Sherlekhomes~
+Description  The corpse of Sherlekhomes is lying here.~
+Vnum         11
+Room         21026
+Timer        -1
+Values       0 0 5 0 3 0
+End
+
+#END
+

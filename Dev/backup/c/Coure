@@ -1,0 +1,71 @@
+#PLAYER
+Version      3
+Name         Coure~
+Description  ~
+Sex          2
+Class        5
+Race         4
+Languages    1 8
+Level        4
+Played       9173
+Room         10373
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   45 45 193 193 136 136
+Gold         21953
+Exp          64990
+Height          22
+Weight          38
+Act          570427000
+Position     112
+Style     4
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Susceptible  16
+Mentalstate  0
+Password     CosaiQ4ihdo6.~
+Title         the Novice~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       45
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 12 16 16 10 17 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 4 10
+Site         64.169.158.195
+Spell        22 'armor'
+Spell        19 'cause light'
+Spell        29 'continual light'
+Spell        19 'create food'
+Spell        19 'create water'
+Spell        68 'cure light'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        23 'faerie fire'
+Skill        19 'dual wield'
+Skill        80 'kick'
+Skill        60 'scan'
+Weapon       19 'bludgeons'
+Weapon       19 'pugilism'
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       10407 1
+Killed       10408 1
+i3invis	0
+End
+
+#END

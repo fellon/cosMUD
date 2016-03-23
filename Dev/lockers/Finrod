@@ -1,0 +1,294 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         2346
+Room         327685
+Level        24
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         2348
+Room         327685
+Level        25
+Values       12 4 12 3 0 0
+End
+
+#OBJECT
+Vnum         8905
+Room         327685
+Level        19
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Room         327685
+Level        17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         60964
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60961
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         60960
+Room         327685
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+Room         327685
+Level        42
+Values       1 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        59
+Values       49 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         21056
+Room         327685
+Level        13
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Room         327685
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21063
+Room         327685
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21059
+Room         327685
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21058
+Room         327685
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Room         327685
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         15149
+Room         327685
+Level        18
+Values       11 6 19 11 0 0
+End
+
+#OBJECT
+Vnum         8108
+Room         327685
+Level        58
+Values       12 16 48 8 0 0
+End
+
+#OBJECT
+Vnum         8107
+Room         327685
+Level        59
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         8107
+Room         327685
+Level        59
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8108
+Room         327685
+Level        57
+Values       12 15 47 8 0 0
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        57
+Values       50 20 20 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         8107
+Room         327685
+Level        56
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        57
+Values       50 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         8111
+Room         327685
+Level        52
+Values       13 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8107
+Room         327685
+Level        57
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8108
+Room         327685
+Level        57
+Values       11 18 46 8 0 0
+End
+
+#OBJECT
+Vnum         8110
+Room         327685
+Level        58
+Values       51 20 20 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         8101
+Room         327685
+Level        56
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+Room         327685
+Level        55
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         8118
+Room         327685
+Level        50
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         1537
+Room         327685
+Level        7
+Values       19 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         8118
+Room         327685
+Level        48
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         8108
+Room         327685
+Level        60
+Values       10 17 52 8 0 0
+End
+
+#OBJECT
+Vnum         8107
+Room         327685
+Level        59
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         48002
+Room         327685
+Level        55
+Values       9 10 10 5 0 0
+End
+
+#OBJECT
+Vnum         48026
+Room         327685
+Level        56
+Values       12 187 138 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'kindred strength'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         48026
+Room         327685
+Level        59
+Values       13 187 138 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'kindred strength'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         48009
+Room         327685
+Level        59
+Values       30 73 122 -1 0 0
+Spell 1      'dispel evil'
+Spell 2      'heal'
+End
+
+#OBJECT
+Vnum         2106
+Room         327685
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#END

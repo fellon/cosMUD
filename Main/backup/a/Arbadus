@@ -1,0 +1,249 @@
+#PLAYER
+Version      3
+Name         Arbadus~
+Description  ~
+Sex          1
+Class        21
+Race         30
+Languages    -1 1
+Level        115
+Played       30640
+Room         1200
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   32700 32700 30000 30000 30000 30000
+Gold         10002780
+Exp          1777852800
+Height          332
+Weight          2199
+Act          570426952
+Position     112
+Style     0
+Practice     296
+SavingThrows 0 0 0 0 0
+Alignment    579
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      -1915
+Damroll      65
+Armor        -295
+ICEListen (null)~
+Resistant    1
+Susceptible  4
+Mentalstate  -5
+Password     Ar5EKHUgdZIJE~
+Rank         &P Immortal~
+Title        ..~
+Lastname ..~
+Prompt       -=}{ Hp:%h/%H }{ Mn:%m/%M }{ Mv:%v/%V }{ In:%A }{ Gold:%g }{=-~
+WizInvis     115
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       15
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 18 18 18 18 18 18
+AttrMod      -5 0 0 0 0 0 0
+Condition    0 46 46 125
+Site         24.218.85.77
+Spell        19 'armor'
+Spell        19 'continual light'
+Spell        19 'create food'
+Spell        19 'create spring'
+Spell        19 'cure blindness'
+Spell        19 'cure critical'
+Spell        19 'cure poison'
+Spell        19 'demonskin'
+Spell        19 'dispel evil'
+Spell        19 'dispel magic'
+Spell        100 'dragon wit'
+Spell        19 'dragonskin'
+Spell        19 'dream'
+Spell        19 'ethereal shield'
+Spell        19 'iceshield'
+Spell        19 'inner warmth'
+Spell        19 'kindred strength'
+Spell        19 'restore mana'
+Spell        19 'sanctuary'
+Spell        19 'shield'
+Spell        19 'shockshield'
+Spell        19 'stone skin'
+Spell        19 'uplift'
+Skill        19 'aid'
+Skill        21 'berserk style'
+Skill        19 'eighth cast'
+Skill        52 'enhanced damage'
+Skill        19 'evasive style'
+Skill        71 'fifth attack'
+Skill        19 'fifth cast'
+Skill        74 'fourth attack'
+Skill        19 'fourth cast'
+Skill        19 'meditate'
+Skill        19 'nightvision'
+Skill        19 'rescue'
+Skill        79 'second attack'
+Skill        19 'second cast'
+Skill        19 'seventh cast'
+Skill        19 'sixth cast'
+Skill        19 'sneak'
+Skill        19 'standard style'
+Skill        76 'third attack'
+Skill        19 'third cast'
+Skill        19 'track'
+Skill        21 'vomica pravus'
+Weapon       83 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Killed       7003 1
+Killed       8910 1
+Killed       8911 1
+Killed       8909 1
+Killed       3501 6
+Killed       21069 1
+Killed       21068 1
+Killed       21067 2
+Killed       21066 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        11
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        11
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        12
+Values       10 4 16 3 0 0
+End
+
+#OBJECT
+Vnum         21073
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+WearLoc      11
+Level        12
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21073
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21070
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21072
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         36
+End
+
+#END

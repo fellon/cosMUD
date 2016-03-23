@@ -1,0 +1,50 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         21006
+Room         327685
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Vnum         21070
+Room         327685
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21073
+Room         327685
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         100017
+Room         327685
+Level        14
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Vnum         14716
+Room         327685
+Level        46
+Values       11 11 40 8 0 0
+End
+
+#OBJECT
+Vnum         14715
+Room         327685
+Level        46
+Values       11 12 0 0 0 0
+End
+
+#END

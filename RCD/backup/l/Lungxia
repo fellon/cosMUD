@@ -1,0 +1,79 @@
+#PLAYER
+Version      3
+Name         LungXia~
+Description  ~
+Sex          0
+Class        9
+Race         36
+Languages    1 1
+Level        8
+Played       18993
+Room         21002
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   19 199 137 137 191 191
+Gold         587113
+Exp          481917
+Height          365
+Weight          1984
+Act          536872568
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       198
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    1
+Susceptible  4
+Mentalstate  -2
+Password     LuSRgjHki0Q7k~
+Title         the Dragon Hatchling~
+Lastname  Li Pai~
+AuthedBy     Prage~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       121
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 13 13 11 13 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         63.169.107.252
+Spell        71 'armor'
+Spell        100 'dragon wit'
+Spell        45 'dragonskin'
+Spell        19 'float'
+Spell        60 'shield'
+Skill        95 'bite'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        40 'kick'
+Weapon       50 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+AffectData   'bless' 884   6  18 0
+AffectData   'bless' 884  -6  24 0
+AffectData   'armor' 237 -20  17 0
+Killed       7003 1
+Killed       2103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#END

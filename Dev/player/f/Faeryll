@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         Faeryll~
+Sex          1
+Class        2
+Race         3
+Languages    1 1
+Level        2
+Played       613
+Room         10304
+HpManaMove   31 31 110 110 110 110
+Gold         0
+Exp          2000
+Height          38
+Weight          68
+Act          570426952
+AffectedBy   32772
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     FaUl18E9dlp0c~
+Title         the Footpad~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 13 14 18 14 15 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 41 41 10
+Site         140.186.112.25
+Skill        17 'backstab'
+Skill        17 'dodge'
+Skill        17 'evasive style'
+Tongue       100 'common'
+Tongue       100 'halfling'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

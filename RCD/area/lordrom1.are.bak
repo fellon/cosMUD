@@ -1,0 +1,484 @@
+#AREA   Order of Chaos~
+
+
+
+#VERSION 1
+#AUTHOR Lordrom~
+
+#RANGES
+20 116 20 116
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 112200000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#30300
+Zaldine~
+Zaldine~
+Zaldine's icy glare pierces through your soul like a dagger
+~
+The first born of Soleran with an unknown father.  Zaldine is truly a
+bastard.  He brought havoc and mischief to darkhaven.  This provoked
+the gods to unleash the horrible balzhur upon him.  Since he has been
+brought back to this mortal plane by his mother, and teaches his
+tortorous ways here.
+~
+1089 369098792 0 C
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+18 18 18 18 18 18 18
+0 0 0 0 0
+1 0 0 0 1 1 0
+85 65 0 1058831 0 0 1084756224 1017603
+#30301
+Korin~
+Korin~
+Korin races about tending the wounded.
+~
+An abandoned cleric turned to the fight of evil.
+~
+67 0 0 C
+55 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 3
+85 65 0 0 0 0 0 0
+#30302
+faceless man~
+A faceless man~
+A faceless man
+~
+This man has cleary meet with an unfortunate accident.  All that remains
+of what was once his face are a few bumbs here and there.  Although he
+has been stripped of most of his senses you get the feeling that he is
+still very much aware of his surroundings.
+~
+67 4268036 -1000 C
+50 0 -300 0d0+0 0d0+0
+300000 0
+112 112 1
+17 17 17 17 17 17 17
+0 0 0 0 0
+0 3 0 0 1 1 8
+50 50 193 0 0 0 256 256
+#0
+
+
+#OBJECTS
+#30300
+Treasure box~
+A treasure box~
+A treasure box~
+~
+15 1073741824 0
+2000 0 0 0
+100 0 4
+#30301
+skull~
+A cracked skull~
+A cracked skull~
+~
+51 0 0
+0 0 0 0
+10 0 0
+#30302
+red skull~
+A red skull~
+A red skull~
+~
+37 36 0
+65536 30306 0 0
+1000 0 0
+#30303
+boiling brook spring~
+A boiling brook flows through here.~
+A boiling brook flows through here.~
+~
+17 0 0
+20 20 0 100
+1 0 0
+#30304
+dark ember~
+A dark ember~
+A dark ember~
+~
+1 512 8193 1
+0 0 0 0
+1 0 0
+A
+56 33
+A
+24 -15
+A
+26 8192
+#30305
+Touch of death~
+Touch of death~
+Touch of death~
+As you put on the touch of death you have a sudden urge to slaughter someone good.~
+9 512 129 8
+0 0 0 0
+1 1000000 100000
+A
+18 20
+A
+19 20
+A
+17 -20
+#30306
+Blackhole~
+Blackhole~
+Blackhole~
+~
+1 2097152 8193 2
+0 0 0 0
+1 40000 6000
+A
+26 65536
+A
+23 -10
+A
+24 -10
+A
+26 4
+#30307
+earring power~
+Earring of power (Chaos)~
+Earring of power (Chaos)~
+~
+9 2097152 65537 2
+10 0 0 0
+1 60000 6000
+A
+1 2
+A
+19 10
+#30308
+cursed sword~
+A cursed sword (Chaos)~
+A cursed sword (Chaos)~
+~
+5 2622088 8193
+10 50 2 2
+1 60000 6000
+A
+17 -20
+A
+13 30
+A
+12 30
+A
+30 17
+A
+18 10
+A
+19 10
+#30309
+stone heart~
+heart of stone (Chaos)~
+A heart of stone (Chaos)~
+~
+3 2097424 16385
+50 3 1 -1
+1 60000 6000
+'possess'
+A
+17 -75
+A
+5 2
+A
+1 2
+#30310
+snake belt~
+a snake belt~
+A snake lies curled up here~
+~
+9 2097176 2049 2
+0 0 0 0
+1 100000 10000
+A
+40 20
+A
+18 15
+A
+13 100
+A
+26 4
+#0
+
+
+#ROOMS
+#30300
+Entrance to the Clan of Chaos~
+This room is covered with a light cloud of fog.  Aside from the musty smell
+the first thing you notice is the strange layout of this cavern.  It has a
+painting of a large spider on the floor which stretches into the other rooms.
+You see a golden hue in the room to the north.  The rooms branching out in
+the other directions are to dark to determine what might be in them, but you
+sense a strange aura about this whole place.
+~
+0 1076887620 13
+D0
+~
+~
+0 -1 30301
+D4
+~
+~
+8390695 -1 1551
+D6
+~
+~
+0 -1 30302
+D7
+~
+~
+0 -1 30303
+D8
+~
+~
+0 -1 30304
+D9
+~
+~
+0 -1 30305
+> entry_prog 100~
+if clan($n) == Order of Chaos
+or isimmort($n)
+or isnpc($n)
+mpechoat $n &gThe &ROrder of Chaos&g welcomes you, &c$n&g.&w
+else
+mpechoat $n &gYou are not welcome here, &c$n&g.&w
+mpforce $n up
+endif
+~
+|
+S
+#30301
+Throne room of Soleran~
+A large throne sits at the back of this large room.  It is very hallowed
+and you can hear echoes of your very breathing in here.  Opened treasure
+boxes litter the floor filled with skulls.  Obviously Soleran has a 
+different idea on what treasure is.  The throne itself however is made
+of pure gold, adorned only with a small plaque.
+~
+0 1076887552 13
+D2
+~
+~
+0 -1 30300
+E
+plaque~
+Riches to those who know true treasure and take it.
+~
+S
+#30302
+Weapons keep~
+Racks of weapons and miscellaneous items surrond the cavern walls.
+This is the clan storage area where you can take or leave just about
+anything.  You can see all sorts of things new and used alike. There
+is even a rusted scimtar covered with blood.  You feel comfortable as
+if you were right at home.
+~
+0 3686400 13
+D9
+~
+~
+0 -1 30300
+S
+#30303
+Note room~
+People walk back and forth from this room posting and checking notes.
+The noteboard is hung against the western wall and seems to get alot
+of use.  Upon closer inspection of the board itself you realize that
+it isn't your typical noteboard.  It is the dried out hide of what 
+was once a rather large giant.  It doesn't pay to be on the bad side
+of the Clan of Chaos.
+~
+0 1076887552 13
+D8
+~
+~
+0 -1 30300
+S
+#30304
+The School of Hard Knocks.~
+Fireballs flying and the sounds of warcries are common place around
+here.  This is the clan training room, and from time to time a 
+battlefield.
+~
+0 1076887552 13
+D7
+~
+~
+0 -1 30300
+S
+#30305
+Health Spa~
+Although its called the health spa this is no place for relaxation or
+fun.  It's called such because of the boiling brook that runs through
+here.  The water serves to sterilize the equipment, and seems to be
+the cause of the fog hanging around here.
+~
+0 1076887552 13
+D6
+~
+~
+0 -1 30300
+S
+#30306
+Hall of Echoes~
+You find yourself at the end of a dust covered hallway.  Chandeliers hang
+from the ceiling all the way down the hall.  It would seem skulls were
+not the only treasures of Soleran.  Patterns of gold line each wall which
+reflect an almost blinding light around you.  It might be wise to take
+caution in a goddesses chamber, but you decide to throw caution to the
+wind regardless.
+~
+0 1076887552 1
+D2
+~
+~
+0 -1 30307
+S
+#30307
+Hall of Echoes~
+This room looks just like the last one. Nothing new here.
+~
+0 1076887552 1
+D0
+~
+~
+0 -1 30306
+D2
+~
+~
+0 -1 30308
+S
+#30308
+Merchants Niche~
+Here the hallway turns to the east.  Looking around the corner you can
+see a very big and grand room.  On the west side you see a niche in
+the wall that has been cut out.  It is a merchant stand, and there are
+actually items still being sold in this old place.
+~
+0 1076887552 1
+D0
+~
+~
+0 -1 30307
+D1
+~
+~
+0 -1 30309
+S
+#30309
+Room of Worship~
+This massive room is very different from the rest you have seen so far.
+Unlike the others there is no dust or signs of ageing in the walls.
+By far the most notable feature is a towering statue of Solearn.  She
+is made of marble yet looks somehow lifelike.  Dispite her evil nature
+she looks very beutiful.  That is except for her dark black opal eyes.
+All things in this room are centered around this statue.  You also
+see an altar for sacrifice.
+~
+0 1076887552 1
+D3
+~
+~
+0 -1 30308
+S
+#30310
+Floating in a void~
+~
+0 1073741828 1
+S
+#30311
+Floating in a void~
+~
+0 1073741828 1
+S
+#30312
+Floating in a void~
+~
+0 1073741828 1
+S
+#30313
+Floating in a void~
+~
+0 1073741828 1
+S
+#30314
+Floating in a void~
+~
+0 1073741828 1
+S
+#30315
+Floating in a void~
+~
+0 1073741828 1
+S
+#30316
+Floating in a void~
+~
+0 1073741828 1
+S
+#30317
+Floating in a void~
+~
+0 1073741828 1
+S
+#30318
+Floating in a void~
+~
+0 1073741828 1
+S
+#30319
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+O 1 30302 1 30301
+M 1 30300 1 30304
+E 1 30305 1 9
+M 1 30301 1 30305
+E 1 30304 1 0
+O 1 30303 1 30305
+M 1 30302 1 30308
+G 1 30306 1
+G 1 30310 1
+G 1 30307 1
+G 1 30308 1
+G 1 30309 1
+D 0 30300 4 2
+S
+
+
+#SHOPS
+ 30302    0  0  0  0  0   120  90         0 23    ; A faceless man
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  30300 spec_cast_mage
+M  30301 spec_cast_adept
+S
+
+
+#$

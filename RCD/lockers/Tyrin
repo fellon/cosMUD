@@ -1,0 +1,307 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         2422
+Room         327685
+Level        10
+Values       1 2 2 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         46263
+Room         327685
+Level        21
+Values       21 15 15 61 0 0
+Spell 3      'cure serious'
+End
+
+#OBJECT
+Vnum         2070
+Room         327685
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2439
+Room         327685
+Level        6
+Values       8 5 5 42 0 0
+Spell 3      'colour spray'
+End
+
+#OBJECT
+Vnum         2408
+Room         327685
+Level        5
+Values       16 3 3 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Vnum         2436
+Room         327685
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         800
+Room         327685
+Level        34
+Values       12 4 32 6 0 0
+End
+
+#OBJECT
+Vnum         24892
+Room         327685
+Level        26
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+Room         327685
+Level        53
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14704
+Room         327685
+Level        52
+Values       12 17 45 8 0 0
+End
+
+#OBJECT
+Vnum         100013
+Room         327685
+Level        31
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+Room         327685
+Level        62
+Values       12 16 52 11 0 0
+End
+
+#OBJECT
+Vnum         14700
+Room         327685
+Level        61
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+Room         327685
+Level        63
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         14725
+Room         327685
+Level        54
+Values       12 16 48 11 0 0
+End
+
+#OBJECT
+Vnum         14726
+Room         327685
+Level        55
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         7939
+Room         327685
+Level        49
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+Room         327685
+Level        39
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14747
+Room         327685
+Level        48
+Values       12 14 40 8 0 0
+End
+
+#OBJECT
+Vnum         14748
+Room         327685
+Level        48
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14746
+Room         327685
+Level        48
+Values       50 10 22 191 0 0
+Spell 1      'armor'
+Spell 2      'bless'
+Spell 3      'shield'
+End
+
+#OBJECT
+Vnum         37
+Room         327685
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         36
+Room         327685
+End
+
+#OBJECT
+Vnum         14745
+Room         327685
+Level        45
+Values       12 12 38 3 0 0
+End
+
+#OBJECT
+Vnum         14746
+Room         327685
+Level        45
+Values       49 10 22 191 0 0
+Spell 1      'armor'
+Spell 2      'bless'
+Spell 3      'shield'
+End
+
+#OBJECT
+Vnum         21060
+Room         327685
+Level        14
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Room         327685
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         5112
+Room         327685
+Level        21
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         645
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+Room         327685
+Level        5
+Values       4 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+Room         327685
+Level        10
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         647
+Room         327685
+Level        31
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Vnum         640
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+Room         327685
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+Room         327685
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+Room         327685
+Level        43
+Values       1 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+Room         327685
+Level        32
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14757
+Room         327685
+Level        49
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         22
+Room         327685
+Timer        54
+Values       100000 100000 0 0 0 0
+End
+
+#OBJECT
+Vnum         14755
+Room         327685
+Level        47
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+Room         327685
+Level        43
+Values       1 15 0 0 0 0
+End
+
+#END

@@ -1,0 +1,3357 @@
+#AREA Shargrath~
+
+#AUTHOR Athmoz~
+
+#RANGES
+0 40 0 116
+$
+
+#RESETMSG ~
+
+#FLAGS
+0 20
+
+#ECONOMY 0 0
+
+#MOBILES
+#80000
+white wolf~
+A white wolf~
+A white wolf is here, looking for something to eat.
+~
+This wolf looks quite dangerous with its huge fangs.  His white skin however,
+could earn you plenty of gold.~
+16777281 32 10 C
+5 0 -15 5d20+20 1d2+2
+0 1000
+8 8 0
+10 2 2 12 3 12 6
+0 0 0 0 0
+87 3 1 120 1 1 1
+2 1 525312 2 0 1 1 0
+#80001
+haze~
+A small haze~
+A small haze hops around here, looking for its lair.
+~
+This little fellow is looking for its lair, which is probably covered under the
+snow.  It's amazing how those creatures can survive here.~
+16842817 0 200 C
+3 0 -10 30d2+30 0d0+1
+0 600
+8 8 0
+4 3 2 13 6 15 18
+0 0 0 0 0
+87 3 0 20 1 1 2
+4 2 65536 2 0 17 32 2
+#80002
+crow~
+A black crow~
+A black crow is flying around here, looking at the snow.
+~
+This crow must be looking for some small insects that live between the rocks.~
+16777283 524320 0 C
+7 0 0 10d10+60 1d1+0
+0 1900
+8 8 0
+2 12 10 9 6 1 6
+0 0 0 0 0
+87 3 0 10 1 1 2
+1 0 32768 3 0 4 3 2
+> rand_prog 1~
+mpecho A black crow flies up in the air, dissapearing in the fog.
+mppurge crow~
+|
+#80003
+polar bear cub~
+A bear cub~
+A polar bear cub curiously wanders around here.
+~
+This looks like a very cute and cuddly little bear, but in a few years, you
+will probably think about it a lot diffrently.~
+16777281 0 0 C
+9 0 -20 5d5+100 2d2+1
+0 1500
+8 8 0
+14 4 3 9 16 18 10
+0 0 0 0 0
+87 3 1 80 1 1 1
+1 6 1 18 0 1048609 1 2
+> death_prog 10~
+mpoload 80000 5~
+|
+#80004
+polar bear~
+A polar bear~
+A polar bear charges towards you!
+~
+This polar bear is pretty damn big.  It has enormous claws which it will
+probably use to clog any opponent in no time.~
+97 0 -100 C
+13 0 -30 7d7+130 2d3+0
+0 1790
+8 8 0
+16 6 6 10 18 6 10
+0 0 0 0 0
+87 3 3 400 1 1 2
+3 9 134217736 18 2048 1 257 0
+> rand_prog 2~
+groan~
+> death_prog 6~
+mpoload 80000 7~
+|
+#80005
+rock spirit~
+A rock spirit~
+A rock spirit guards over the lower mountains here.
+~
+This ethereal looking spirit seems to be made from rocks.  It probably has a
+hard exterior, so beating it will not prove an easy task.~
+97 3145728 0 C
+16 0 -100 50d3+300 5d2+0
+0 2800
+8 8 0
+14 8 10 10 12 6 8
+0 0 0 0 0
+56 3 3 220 1 1 2
+4 10 0 7 2048 592 0 2
+> fight_prog 1~
+mpechoat $n The rock spirit throws some rocks in your direction.
+mpechoaround $ The rock spirit throws some rocks in the direction of $n.
+mpdamage $n 75~
+|
+#80006
+mountain spirit~
+A mountain spirit~
+A mountain spirit is here, defending Shargrath.
+~
+This mountain spirit seems as if it was made up from lumps of earth, rocks and
+dirt.  It has firey eyes that detect the presence of those who try to hide from
+it.~
+97 1048608 0 C
+20 0 0 20d6+400 3d3+1
+0 3500
+8 8 0
+16 10 10 8 12 10 9
+0 0 0 0 0
+56 3 4 280 1 1 3
+6 13 0 1048599 3072 960 8388608 1
+#80007
+snow spirit~
+A snow spirit~
+A snow spirit is here, watching over the untouched plains of snow.
+~
+This spirit is made up of snow and ice.  It looks quite strong, but perhaps,
+with a well aimed blow, you can shatter it into pieces.~
+97 3145728 0 C
+25 0 -150 10d10+500 3d8+0
+0 4900
+8 8 0
+18 12 10 12 13 14 9
+0 0 0 0 0
+56 3 4 300 1 1 3
+6 18 0 14 2048 17 64 1
+> fight_prog 10~
+cast 'chilling touch'~
+|
+#80008
+green dragon fly~
+a dragon fly~
+A green dragon fly is flying around here.
+~
+You never imagined to see dragon flies out here in these mountains.  Fortunatly,
+this is a green one, and they wont attack unless provoked.~
+67 524288 0 C
+30 0 0 20d10+600 3d6+1
+0 6000
+8 8 0
+10 12 10 16 11 16 18
+0 0 0 0 0
+31 3 2 160 1 1 3
+15 11 0 0 0 0 0 0
+#80009
+eel fish~
+an eel~
+A long snake-like creature swims along here.
+~
+This eel looks quite dangerous, like a snake, it is capable of strangling its
+target, and keep it in the water till it drowns.~
+16777281 2129920 0 C
+30 0 0 60d6+800 2d2+0
+0 10000
+8 8 0
+8 10 6 19 11 8 6
+0 0 0 0 0
+62 3 1 80 1 1 3
+17 3 524288 8790 3072 1048608 262149 2
+> fight_prog 6~
+mpechoat $n The eel tries to swim around your neck and choke you, but you dodge away just in time.
+mpechoaround $n The eel tries to swim around $n's neck.~
+> rand_prog 2~
+mpecho The eel wildly swims around in the water, annoyed by your presence.~
+> death_prog 10~
+mpoload 80014 1
+~
+|
+#80010
+lost mountain climber man~
+a lost mountain climber~
+A strange looking man stands here, almost frozen to death.
+~
+This man is holding some rope and a pick axe.  It is safe to assume he's a
+mountain climber.  He doesn't look too good tho, and could probably use your
+help.
+~
+65 65536 0 C
+40 0 -160 2d10+20 6d5+6
+0 15000
+8 8 1
+3 2 4 1 3 4 1
+0 0 0 0 0
+0 3 5 160 1 1 3
+6 10 26 0 0 66 48 3
+> rand_prog 6~
+say Please help me...
+emote stumbles towards you, reaching out his hands.~
+|
+#80011
+furbolg~
+A hairy furbolg~
+A huge furbolg tries to make its way through the way here.
+~
+This huge, hairy beast has a lot of trouble moving efficiently through the snow.
+It may look scary, but they are kind of nature.  Their hairy skin protects them
+from the cold.  It surely remind you of a mammoth.~
+16777281 8192 0 C
+23 0 0 10d20+800 2d2+0
+0 4500
+8 8 0
+18 6 7 10 16 12 13
+0 0 0 0 0
+76 3 6 2340 1 1 2
+3 19 70254592 8192 2050 33 128 1
+> rand_prog 2~
+growl~
+> fight_prog 2~
+mpechoat $n The hairy furbolg steps back, and then charges towards you.
+mpechoaround $n The hairy furbolg steps back, and then charges towards $n.
+if rand(50)
+mpechoat $n The furbolg rams into you and goes right over you!
+mpechoaround $n The furbolg rams $n and tramples $m!
+mpdamage $n 75
+else
+mpechoat $n Lucky, you are able to dodge the furbolg in time.
+mpechoaround $n $n manages to dodge the furbolgs attack in time.
+endif
+~
+|
+#80012
+blue dragon~
+A blue dragon~
+A blue dragon is here, flapping its massive wings.
+~
+This blue dragon is probably a frost dragon.  It's wings are as large as
+yourself.  The teeth are are made from ice.~
+35 1073741864 0 C
+60 0 -240 30d30+2500 5d6+1
+0 100000
+8 8 0
+20 11 13 16 18 10 12
+0 0 0 0 0
+31 3 12 2900 1 1 3
+30 9 32768 6 3072 8193 16385 1
+> death_prog 3~
+mpoload 80022 10
+~
+|
+#80013
+Isaac Reinhart man ranger~
+Isaac Reinhart~
+Isaac Reinhart the ranger is standing here.
+~
+This man is called Isaac Reinhart, he looks like a ranger.  He must be out here
+to seek the treasures hidden in these mountains.~
+67 8232 1000 C
+35 0 -450 30d40+1000 7d3+10
+325 200000
+8 8 1
+16 17 16 15 16 18 16
+0 0 0 0 0
+9 6 5 180 3 1 4
+20 30 1032 0 3072 2097152 1476657392 3
+> all_greet_prog 100~
+say Greetings fellow adventurers!
+say What brings you to these desolate mountains?
+say I must warn you, the mountain spirits are restless today.~
+> give_prog 80019~
+say Oh my god! My long lost spear!
+say I cannot believe you found it!
+hmm
+say Take this as a token of my gratitude
+mpoload 80020 60
+give band $n
+say I cannot use it myself, for it is evil, but you will probably find a use for it.
+wear spear
+smile $n
+~
+|
+#80014
+witch troll~
+A troll witch~
+A troll witch is here, crafting a necklace.
+~
+This hideous woman lives here in exile.  She keeps herself busy by crafting and
+enchanting various objects.
+~
+67108931 40 0 C
+40 0 0 0d0+10 0d0+10
+0 100000
+8 8 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+88 0 3 200 1 1 0
+0 0 0 0 0 0 0 0
+> speech_prog help~
+tell $n I will never refuse to help the needy, $n
+smile
+mpechoat $n _ble A bolt of shimmering blue floats towards you
+mpechoaround $n _ble A bolt of shimmering blue floats towards $n.
+mprestore $n 200
+c 'cure poison' $n
+c 'cure blindness' $n~
+> death_prog 100~
+say Argh!
+if level($n) > 60
+say Why dont you try and take someone of your own size!
+es
+mpecho The Troll Witch falls down with an evil grin on her face.
+mptransfer all 12800
+endif
+~
+> all_greet_prog 100~
+say Please state your business my friend, or leave, for I need to concentrate on my work.~
+> give_prog 80001~
+say aha, an emerald!
+say let me work!
+emote turns around and does something to the emerald.
+mppurge gem
+mpoload 80015 10
+say here, this will aid you well
+give emerald $n
+~
+> give_prog 80014~
+hmm
+say I have not seen a fang of this size in ages.
+say I shall enchant it for you!
+emote utters some strange words.
+mppurge fang
+mpoload 80016 5
+say may this protect you in future combat.
+give fang $n~
+> give_prog 80017~
+say Why this is dragondust, I think I can summon a spirit in it.
+emote scratches her head.
+mppurge dust
+mpoload 80018 40
+say use this with great care!
+give cloud $n~
+|
+#0
+
+#OBJECTS
+#80000
+polar bear skin~
+a polar bear skin~
+This beautiful skin came from a white polar bear.  It looks very warm.~
+~
+9 262144 5 0
+10 4 0 0
+1 1200 102
+#80001
+green gem~
+a green gem~
+This green gem looks very expensive.~
+~
+8 0 1 0
+0 0 0 0
+1 100000 10000
+#80002
+jacket~
+a warm jacket~
+An adventurers jacket, good for cold places.~
+~
+9 0 9 0
+16 6 0 0
+1 211 21
+A
+13 15
+#80003
+green shirt~
+a green shirt~
+A nice and warm green shirt.~
+~
+9 0 9 0
+10 5 0 0
+1 162 16
+A
+18 3
+A
+17 -6
+#80004
+pants~
+some pants~
+These pants are in bad condition, it it's better than nothing.~
+~
+9 0 33 0
+9 2 0 0
+1 201 20
+A
+13 5
+A
+19 2
+#80005
+pick axe~
+a pick axe~
+This pick axe is made to hit on rocks, but it will suit its job as fighting
+weapon just nicely.~
+~
+5 524288 40961 0
+12 3 9 7
+2 50 5
+A
+18 4
+A
+19 6
+#80006
+rope~
+a piece of rope~
+This is a long piece of strong rope, you can probably use it to fend off enemy
+attacks.~
+~
+9 262144 16385 0
+1 1 0 0
+1 24 2
+A
+48 5
+A
+22 -3
+#80007
+dragon egg~
+a dragon egg~
+A strange looking egg lies here.~
+~
+9 8192 16385 0
+4 3 0 0
+1 245000 24500
+A
+13 16
+A
+40 -5
+> get_prog 100~
+mpechoat $n As you pick up this egg, a massive dragon flies towards you, it must be the mother.
+mpechoaround $n As $n picks up the egg, a massive dragon flies in, it must be the mother.
+mpmload 80012 40~
+> rand_prog 1~
+if level($n) > 19
+if rand(1)
+if rand(1)
+mpechoat $n The egg begins to crack open, greatly amazed, you drop it on the ground.
+mpechoaround $n The egg $n is carrying begins to crack, and $n drops it on the ground full of amazement.
+mpforce $n remove egg
+mpforce $n drop egg
+mppurge egg
+mpoload 80008 20
+mpecho From the egg hatches a baby dragon.
+mpforce dragon say mama!
+mpforce dragon emote happily hops towards you.
+mpforce $n aww
+mpforce $n get dragon
+endif
+else
+mpechoat $n The egg makes a strange sound inside.
+endif
+endif
+~
+|
+#80008
+dragon hatchling~
+a dragon hatchling~
+A baby dragon is sitting here.~
+~
+28 270336 1048577 0
+5 3 0 0
+2 0 0
+A
+13 32
+A
+18 9
+> rand_prog 1~
+emote flies around here.~
+> rand_prog 1~
+if level($n) > 39
+if rand(1)
+if rand(1)
+mpechoat $n Your dragon hops on the ground.
+mpforce $n remove hatchling
+mpforce $n drop hatchling
+mppurge hatchling
+mpoload 80009 40
+mpecho The dragon hatchling sheds off its old skin.
+mpforce dragon smile
+mpforce dragon emote looks a bit diffrent now.
+mpforce $n look young
+mpforce $n get young
+endif
+else
+mpechoat $n The dragon hatchling hops around.
+endif
+endif
+~
+|
+#80009
+young dragon~
+a young dragon~
+A small blue dragon is flying here.~
+~
+9 270336 1048577 0
+6 3 0 0
+3 0 0
+A
+13 64
+A
+18 12
+A
+19 9
+> rand_prog 10~
+if isfight($n)
+growl
+emote reaches out and bites $t!
+mpdamage $t 100
+endif
+~
+> rand_prog 1~
+if level($n) >59
+if rand(1)
+if rand(1)
+mpechoat $n The young dragon lands on the ground.
+mpforce $n remove young
+mpforce $n drop young
+mppurge young
+mpoload 80010 60
+mpecho The young dragon sheds off its old skin and grows large teeth.
+mpforce frost es
+mpforce frost emote looks quite dangerous now.
+mpforce $n grin frost
+mpforce $n get frost
+endif
+else
+mpechoat $n The young dragon flies in a circle.
+endif
+endif~
+|
+#80010
+frost dragon~
+a frost dragon~
+A big frost dragon sits here.~
+~
+9 270336 1048577 0
+8 3 0 0
+1 0 0
+A
+13 128
+A
+18 19
+A
+19 21
+A
+25 -3
+> rand_prog 3~
+roar~
+> rand_prog 10~
+if isfight($n)
+roar
+emote reaches out and rips $t into pieces!
+mpdamage $t 120
+end if
+~
+> rand_prog 1~
+if level($n) > 79
+if rand(1)
+if rand(1)
+mpechoat $n Your frost dragon descents to the ground.
+mpforce $n remove frost
+mpforce $n drop frost
+mppurge frost
+mpoload 80011 80
+mpecho The frost dragons wings grow sharp hooks and its skin grows thicker.
+mpforce ice grin
+mpforce $n get ice
+endif
+else
+mpechoat $n The frost dragon soars in the sky.
+endif
+endif
+~
+|
+#80011
+huge ice dragon~
+a huge ice dragon~
+A huge ice dragon wanders around here, looking for a new master.~
+~
+9 270336 1048577 0
+12 3 0 0
+6 100 10
+A
+13 256
+A
+18 25
+A
+19 25
+A
+25 -6
+A
+17 -50
+A
+29 2
+> rand_prog 3~
+roar~
+> rand_prog 1~
+emote blows ice cold air out of its nose~
+> rand_prog 12~
+if isfight($n)
+roar
+emote flies down from the air and crashes into $t!
+mpdamage $t 150
+endif
+~
+|
+#80012
+brown backpack~
+a brown backpack~
+A brown backpack lies here.~
+~
+15 0 524289 0
+40 0 0 0
+1 0 0
+#80013
+bread~
+a small bread~
+A small bread lies here.~
+~
+19 0 1 0
+30 0 0 0
+1 0 0
+#80014
+fang eel~
+a fang~
+A fang lies here~
+~
+13 0 1 0
+0 0 0 0
+1 0 0
+#80015
+emerald necklace~
+an emerald necklace~
+A necklace with a shiny bright emerald lies here.~
+~
+9 65 5 0
+10 3 0 0
+1 0 0
+A
+27 128
+A
+17 -40
+#80016
+charmed fang~
+a charmed fang~
+A fang on a string with a strange glow lies here.~
+~
+9 65 4097 0
+6 2 0 0
+1 0 0
+A
+17 -15
+A
+31 2
+A
+18 3
+#80017
+green dragon dust~
+a pile of green dragondust~
+A small pile of greenish dust lies here.~
+~
+13 0 1 0
+0 0 0 0
+1 1000 100
+#80018
+cloud dragondust~
+a cloud of green dragondust~
+A greenish cloud of dust blocks your sight here.~
+~
+9 -2113929120 1033 0
+20 2 0 0
+1 0 0
+A
+56 231
+A
+29 256
+#80019
+spear isaac~
+the Spear of Isaac~
+A shiny spear lies here.~
+~
+5 0 8193 0
+12 2 8 2
+4 0 0
+A
+25 3
+#80020
+infernal band~
+an Infernal Band~
+A Band burning with the fires of hell lies here.~
+~
+9 -2147399087 4097 0
+10 3 0 0
+4 0 0
+A
+17 -50
+A
+27 8192
+A
+13 100
+A
+18 6
+A
+19 4
+#80021
+hammer thor~
+the Hammer of Thor~
+A huge hammer lies here.~
+~
+5 -2146891518 40961 0
+10 12 3 8
+4 0 0
+A
+5 3
+A
+13 200
+A
+12 100
+A
+19 6
+A
+18 6
+> rand_prog 1~
+mpechoaround $n A bright bolt of lighting comes down from the sky, and strikes on $n's weapon.
+mpechoat $n A bright bolt of lighting comes down from the sky, and is absorbed by the Hammer of Thor.
+mprestore $n 10~
+|
+#80022
+orb nature~
+an orb of nature~
+A weird green ball lies here.~
+~
+9 8506721 16385 0
+10 2 0 0
+1 0 0
+A
+5 2
+A
+17 -10
+> rand_prog 3~
+mpechoat $n Nature's powers shine upon you.
+if level($n) < 10
+mpheal $n 10
+else
+
+if level($n) < 20
+mprestore $n 25
+else
+
+if level($n) < 30
+mprestore $n 50
+else
+
+if level($n) < 60
+mprestore $n 75
+else
+
+if level($n) < 90
+mprestore $n 100
+else
+
+if level($n) < 101
+mprestore $n 150
+else
+
+endif
+endif
+endif
+endif
+endif
+endif~
+|
+#80023
+shovel~
+a muddy shovel~
+A muddy shovel lies here~
+~
+59 0 16385 0
+0 0 0 0
+2 0 0
+#0
+
+#ROOMS
+#80000
+A Rocky Road~
+This road leads towards the higher mountains of Shargrath.  Is keeps getting
+hard to climb up due to the many rocks that are on the ground.  A bone chilling
+wind comes from the snowy mountaintops ahead.
+~
+0 0 5 0 0 0
+D9
+TO THE DWARVES, CHANGE THIS~
+DWARVES~
+0 0 0 3
+D1
+Towards the Entrance of the Plateau
+~
+The Entance of the Plateau~
+128 0 80001 0
+> rand_prog 1~
+mpecho A small mouse runs swiftly between the rocks and dissapears in the rocks.~
+|
+S
+#80001
+The Entance to the Plateau~
+The road is becoming harder and harder to climb.  And weather is getting worse.
+>From afar you can see some adventurers climbing up the mountains, which are
+covered with a thick layer of snow.
+~
+0 4 5 0 0 0
+D3
+Towards A Rocky Road
+~
+A Rocky Road~
+0 0 80000 0
+D1
+~
+~
+0 0 80002 0
+D6
+~
+~
+0 0 80003 0
+S
+#80002
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D3
+Towards the Entrance of the Plateau
+~
+The Entrance of the Plateau~
+0 0 80001 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80003 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80005 0
+S
+#80003
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D9
+Towards The Entrance of the Plateau
+~
+The Entrance of the Plateau~
+0 0 80001 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80002 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80004 0
+S
+#80004
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80003 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80005 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80007 0
+D6
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80008 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80091 0
+S
+#80005
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80004 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80002 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80006 0
+> rand_prog 2~
+mppurge crow
+mpecho A black crow arrives from the air.
+mpmload 80002 10~
+|
+S
+#80006
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80005 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80007 0
+D8
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80009 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80010 0
+S
+#80007
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80006 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80004 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80008 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80011 0
+S
+#80008
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D9
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80004 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80007 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80012 0
+S
+#80009
+Shargrath Plateau~
+The wide plateau reaches far out to the north.  There are many rocks on the
+ground here, making travel quite difficult.  However there is also a small
+hole in the ground, giving shelter to the animals when a snowstorm would occur.
+~
+0 0 5 0 0 0
+D7
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80006 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80010 0
+D6
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80015 0
+D5
+The Icy Caves of Shargrath
+~
+An Icy Cave~
+0 0 80016 0
+S
+#80010
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80009 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80006 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80011 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80015 0
+S
+#80011
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80010 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80007 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80012 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80014 0
+> rand_prog 2~
+mppurge crow
+mpecho A black crow arrives from the air.
+mpmload 80002 15~
+|
+S
+#80012
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80011 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80008 0
+D1
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80013 0
+S
+#80013
+Shargrath Plateau~
+The plateau grows smaller here, turning into a thin path.  To the north east lie
+the great mountains of Shargrath.  The rocks make it hard to venture here.  Not
+many have challenged the mountain and lived to tell the tale.
+~
+0 0 5 0 0 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80012 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80014 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80050 0
+S
+#80014
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80013 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80011 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80015 0
+S
+#80015
+Shargrath Plateau~
+This is a wide flat plateau, it has been formed thousands of years ago.  It
+stretches out before the mighty mountains of Shargrath.  Various mountain
+animals come down here and search for food.
+~
+0 0 5 0 0 0
+D0
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80014 0
+D3
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80010 0
+D9
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80009 0
+S
+#80016
+The Icy Caves of Shargrath~
+This looks like an ancient cave.  Is it pleasant not having to worry about the
+snow and the wind here.  Other creatures might also be here seeking shelter.
+Perhaps they are not eager to share their new found home though.
+~
+0 4 13 0 0 0
+D4
+Shargrath Plateau
+~
+Shargrath Plateau~
+128 0 80009 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80017 0
+D9
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80018 0
+S
+#80017
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80016 0
+D3
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80018 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80020 0
+D8
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80021 0
+S
+#80018
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D1
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80017 0
+D6
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80016 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80019 0
+S
+#80019
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80018 0
+D1
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80020 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80025 0
+S
+#80020
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D3
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80019 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80017 0
+D1
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80021 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80024 0
+S
+#80021
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D3
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80020 0
+D7
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80017 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80022 0
+S
+#80022
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80021 0
+D2
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80023 0
+D3
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80024 0
+S
+#80023
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80022 0
+D7
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80024 0
+S
+#80024
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D8
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80023 0
+D1
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80022 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80020 0
+D3
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80025 0
+S
+#80025
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D0
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80019 0
+D1
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80024 0
+D3
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80026 0
+S
+#80026
+The Icy Caves of Shargrath~
+This a very cold cave.  Stalagmites are all over the place, showing how old the
+place really is.  The floor is very slippery, so it is advised not to run.
+Atleast there is no wind or snow here.  Drops of melting ice can be heard in
+the distance.
+~
+0 0 13 0 0 0
+D1
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80025 0
+D7
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80027 0
+S
+#80027
+The Icy Caves of Shargrath~
+Here you find yourself at what seems to be the end of the cave.  There is a
+small pond of ice cold water here.  It doesn't seem to go very deep.  You can
+see many tracks of creatures that have been gathering here to drink from the
+water.
+~
+0 0 13 0 0 0
+D8
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80026 0
+D5
+An ice cold Pool of Water
+~
+pool~
+16779272 0 80028 0
+S
+#80028
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 4 8 0 0 0
+D4
+The Icy Caves of Shargrath
+~
+The Icy Caves of Shargrath~
+0 0 80027 0
+D7
+An Underground River
+~
+An Underground River~
+0 0 80029 0
+> all_greet_prog 10~
+mpechoat $n You scratch yourself on the sharp walls of the underground river.
+mpechoaround $n $n scratches $mself as $e swims past the sharp walls.
+mpdamage $n 3~
+|
+S
+#80029
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D8
+An Underground River
+~
+An Underground River~
+0 0 80028 0
+D3
+An Underground River
+~
+An Underground River~
+0 0 80030 0
+S
+#80030
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D1
+An Underground River
+~
+An Underground River~
+0 0 80029 0
+D9
+An Underground River
+~
+An Underground River~
+0 0 80031 0
+S
+#80031
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D6
+An Underground River
+~
+An Underground River~
+0 0 80030 0
+D3
+An Underground River
+~
+An Underground River~
+0 0 80032 0
+S
+#80032
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D1
+An Underground River
+~
+An Underground River~
+0 0 80031 0
+D3
+An Underground River
+~
+An Underground River~
+0 0 80033 0
+D5
+~
+~
+17829128 0 80118 0
+> all_greet_prog 10~
+mpechoat $n You scratch yourself on the sharp walls of the underground river.
+mpechoaround $n $n scratches $mself as $e swims past the sharp walls.
+mpdamage $n 2~
+|
+S
+#80033
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D1
+An Underground River
+~
+An Underground River~
+0 0 80032 0
+D0
+A Dry Place
+~
+A Dry Place~
+0 0 80034 0
+D8
+An Underground River
+~
+An Underground River~
+0 0 80035 0
+S
+#80034
+Near an Underground River~
+This place has no water in it.  This looks like an excellent place to rest.  The
+skeleton on the ground makes you wonder if it is a safe thing to do.
+~
+0 4 13 0 0 0
+D2
+An Underground River
+~
+An Underground River~
+0 0 80033 0
+S
+#80035
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D7
+An Underground River
+~
+An Underground River~
+0 0 80033 0
+D8
+An Underground River
+~
+An Underground River~
+0 0 80036 0
+S
+#80036
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D7
+An Underground River
+~
+An Underground River~
+0 0 80035 0
+D1
+An Underground River
+~
+An Underground River~
+0 0 80037 0
+S
+#80037
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D3
+An Underground River
+~
+An Underground River~
+0 0 80036 0
+D2
+An Underground River
+~
+An Underground River~
+0 0 80038 0
+S
+#80038
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D0
+An Underground River
+~
+An Underground River~
+0 0 80037 0
+D2
+An Underground River
+~
+An Underground River~
+0 0 80039 0
+S
+#80039
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D0
+An Underground River
+~
+An Underground River~
+0 0 80038 0
+D3
+An Underground River
+~
+An Underground River~
+0 0 80040 0
+> all_greet_prog 10~
+mpechoat $n You scratch yourself on the sharp walls of the underground river.
+mpechoaround $n $n scratches $mself as $e swims past the sharp walls.
+mpdamage $n 2
+~
+|
+S
+#80040
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 0 8 0 0 0
+D1
+An Underground River
+~
+An Underground River~
+0 0 80039 0
+D2
+An Underground River
+~
+An Underground River~
+0 0 80041 0
+S
+#80041
+An Underground River~
+All there is around you is ice cold water, no sane person would be up for a swim
+in this river.  The current isn't very strong, so it is possible to move around.
+The walls around you are full of sharp, pointy rocks.
+~
+0 4 8 0 0 0
+D0
+An Underground River
+~
+An Underground River~
+0 0 80040 0
+D4
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80042 0
+S
+#80042
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D5
+An Underground River
+~
+An Underground River~
+16779272 0 80041 0
+D3
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80043 0
+D7
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80044 0
+S
+#80043
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D1
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80042 0
+D0
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80044 0
+D7
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80045 0
+S
+#80044
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D2
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80043 0
+D8
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80042 0
+D3
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80045 0
+D0
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80047 0
+S
+#80045
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D1
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80044 0
+D8
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80043 0
+D0
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80046 0
+S
+#80046
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D2
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80045 0
+D1
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80047 0
+D0
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80048 0
+S
+#80047
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D3
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80046 0
+D2
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80044 0
+D7
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80048 0
+S
+#80048
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 0 5 0 0 0
+D8
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80047 0
+D2
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80046 0
+D0
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80049 0
+S
+#80049
+The Frozen Plains~
+The Frozen Plains were once lucious green hills where cows used to graze
+peacefully.  Now the only thing there is, is white snow.  As far as the eye can
+see is a coat of perfect white.  It has probably been a while since anyone has
+been here.  Northwards lie the mighty mountains of Shargrath.
+~
+0 4 5 0 0 0
+D2
+The Frozen Plains
+~
+The Frozen Plains~
+0 0 80048 0
+D4
+A Mountain Path
+~
+A Mountain Path~
+128 0 80062 0
+S
+#80050
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80051 0
+D9
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80013 0
+S
+#80051
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+0 0 80050 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80052 0
+S
+#80052
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80051 0
+D3
+A Wooden Cabin
+~
+A Wooden Cabin~
+0 0 80053 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80054 0
+S
+#80053
+A Wooden Cabin~
+This cabin is made entirely from wood.  Suprisingly, it is still in good shape
+after standing here all those years.  It was probably a farmers house back in
+the days before the eternal winter decided to move to Shargrath.
+~
+0 135299084 0 0 0 0
+D1
+A Mountain Path
+~
+A Mountain Path~
+0 0 80052 0
+S
+#80054
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+0 0 80052 0
+D1
+A Mountain Path
+~
+A Mountain Path~
+128 0 80055 0
+S
+#80055
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D3
+A Mountain Path
+~
+A Mountain Path~
+0 0 80054 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+128 0 80056 0
+S
+#80056
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+0 0 80055 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+128 0 80057 0
+D0
+~
+~
+0 0 80068 0
+S
+#80057
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80056 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+128 0 80058 0
+S
+#80058
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80057 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+128 0 80059 0
+S
+#80059
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80058 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+128 0 80060 0
+S
+#80060
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80059 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+128 0 80061 0
+S
+#80061
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80060 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+128 0 80062 0
+S
+#80062
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.  Looking down there is a huge field, full of snow.
+~
+0 0 5 0 0 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80061 0
+D3
+A Mountain Path
+~
+A Mountain Path~
+128 0 80063 0
+S
+#80063
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D1
+A Mountain Path
+~
+A Mountain Path~
+0 0 80062 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+128 0 80064 0
+D0
+~
+~
+2056 0 80116 0
+S
+#80064
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80063 0
+D0
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80065 0
+S
+#80065
+The Top of Mount Assian~
+This is the top of Mount Assian, one of the mountains of Shargrath.  More to the
+north lies Mount Sidon.  It is even higher than Assian, and its top cannot even
+be seen through al the clouds.
+~
+0 4 5 0 0 0
+D0
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80066 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80064 0
+D6
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80067 0
+S
+#80066
+The Top of Mount Assian~
+This is the top of Mount Assian, one of the mountains of Shargrath.  More to the
+north lies Mount Sidon.  It is even higher than Assian, and its top cannot even
+be seen through al the clouds.
+~
+0 0 5 0 0 0
+D2
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80065 0
+D1
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80067 0
+S
+#80067
+The Top of Mount Assian~
+This is the top of Mount Assian, one of the mountains of Shargrath.  More to the
+north lies Mount Sidon.  It is even higher than Assian, and its top cannot even
+be seen through al the clouds.
+~
+0 0 5 0 0 0
+D3
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80066 0
+D9
+The Top of Mount Assian
+~
+The Top of Mount Assian~
+0 0 80065 0
+S
+#80068
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80056 0
+D0
+An Old Bridge
+~
+An Old Bridge~
+0 0 80069 0
+S
+#80069
+An Old Bridge~
+This bridge is very old.  Perhaps as old as it is dangerous.  The wood on it
+looks like it is about to fall in pieces any moment now.  To the north lies
+Mount Sidon.  Below this bridge lie the Fields of Frost.
+~
+0 4 5 0 0 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80068 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80070 0
+> all_greet_prog 100~
+if rand(50)
+mpechoat $n You almost fall through the bridge, but you quickly grab on to the side.
+mpechoaround $n $n almost falls through the bridge, but quickly grabs $mself to the side.
+else
+mpechoat $n As you walk on this bridge, you fall through a hole!
+mpechoaround $n $n falls through the bridge as $e walks on it.
+mptransfer $n 80095
+mpforce $n scream
+mpdamage $n 50
+mpechoat $n You hit the ground hard as you fall down from the bridge.
+mpechoaround $n $n falls from the sky and hits the ground with a terrible blow.
+endif
+~
+|
+S
+#80070
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D2
+An Old Bridge
+~
+An Old Bridge~
+0 0 80069 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80071 0
+S
+#80071
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80070 0
+D3
+A Mountain Path
+~
+A Mountain Path~
+0 0 80072 0
+S
+#80072
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D1
+A Mountain Path
+~
+A Mountain Path~
+0 0 80071 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80073 0
+S
+#80073
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80072 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80074 0
+S
+#80074
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80073 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80075 0
+S
+#80075
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+0 0 80074 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80076 0
+S
+#80076
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80075 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80077 0
+S
+#80077
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80076 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80078 0
+S
+#80078
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80077 0
+D6
+A Mountain Path
+~
+A Mountain Path~
+0 0 80079 0
+S
+#80079
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D9
+A Mountain Path
+~
+A Mountain Path~
+0 0 80078 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80080 0
+S
+#80080
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80079 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80081 0
+S
+#80081
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80080 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80082 0
+S
+#80082
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80081 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80083 0
+S
+#80083
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80082 0
+D3
+A Mountain Path
+~
+A Mountain Path~
+0 0 80084 0
+S
+#80084
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D1
+A Mountain Path
+~
+A Mountain Path~
+0 0 80083 0
+D3
+A Mountain Path
+~
+A Mountain Path~
+0 0 80085 0
+S
+#80085
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D1
+A Mountain Path
+~
+A Mountain Path~
+0 0 80084 0
+D7
+A Mountain Path
+~
+A Mountain Path~
+0 0 80086 0
+S
+#80086
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D8
+A Mountain Path
+~
+A Mountain Path~
+0 0 80085 0
+D0
+A Mountain Path
+~
+A Mountain Path~
+0 0 80087 0
+S
+#80087
+A Mountain Path~
+This thin rocky path leads high up to the mountains of Shargrath.  They have not
+been walked on for a long time, which is normal, because the path is filled with
+debris, rocks and snow.
+~
+0 0 5 0 0 0
+D2
+A Mountain Path
+~
+A Mountain Path~
+0 0 80086 0
+D1
+The Top of Mount Sidon
+~
+The Top of Mount Sidon~
+0 0 80088 0
+S
+#80088
+The Top of Mount Sidon~
+This is the top of Mount Sidon, the highest mountain of Shargrath.  The top
+reaches far above the clouds, blocking all sights down.  The cold in the plateau
+was a warm day in the summer compared to here.  Arctic winds roar past you from
+all directions.
+~
+0 0 5 0 0 0
+D3
+A Mountain Path
+~
+A Mountain Path~
+0 0 80087 0
+D1
+~
+~
+0 0 80089 0
+D8
+The Top of Mount Sidon
+~
+The Top of Mount Sidon~
+0 0 80090 0
+S
+#80089
+The Top of Mount Sidon~
+This is the top of Mount Sidon, the highest mountain of Shargrath.  The top
+reaches far above the clouds, blocking all sights down.  The cold in the plateau
+was a warm day in the summer compared to here.  Arctic winds roar past you from
+all directions.
+~
+0 0 5 0 0 0
+D3
+The Top of Mount Sidon
+~
+The Top of Mount Sidon~
+0 0 80088 0
+D2
+The Top of Mount Sidon
+~
+The Top of Mount Sidon~
+0 0 80090 0
+S
+#80090
+The Top of Mount Sidon~
+This is the top of Mount Sidon, the highest mountain of Shargrath.  The top
+reaches far above the clouds, blocking all sights down.  The cold in the plateau
+was a warm day in the summer compared to here.  Arctic winds roar past you from
+all directions.
+~
+0 0 5 0 0 0
+D0
+The Top of Mount Sidon
+~
+The Top of Mount Sidon~
+0 0 80089 0
+D7
+The Top of Mount Sidon
+~
+The Top of Mount Sidon~
+0 0 80088 0
+S
+#80091
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 4 2 0 0 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80092 0
+D2
+Shargrath Plateau
+~
+Shargrath Plateau~
+0 0 80004 0
+S
+#80092
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80091 0
+D6
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80093 0
+S
+#80093
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D9
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80092 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80094 0
+S
+#80094
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80093 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80095 0
+S
+#80095
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.  High
+above is a rusty old bridge.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80094 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80096 0
+S
+#80096
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80095 0
+D6
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80097 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80098 0
+S
+#80097
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D9
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80096 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80098 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80101 0
+S
+#80098
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80096 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80097 0
+D8
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80099 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80100 0
+S
+#80099
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D7
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80098 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80100 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80104 0
+S
+#80100
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80099 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80098 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80101 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80103 0
+S
+#80101
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80097 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80100 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80102 0
+S
+#80102
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80101 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80103 0
+D8
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80105 0
+S
+#80103
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80100 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80102 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80104 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80105 0
+S
+#80104
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80103 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80099 0
+D1
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80106 0
+D8
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80107 0
+S
+#80105
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80103 0
+D7
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80102 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80106 0
+S
+#80106
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80105 0
+D3
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80104 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80107 0
+S
+#80107
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80106 0
+D7
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80104 0
+D2
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80108 0
+S
+#80108
+The Fields of Frost~
+This lowland stretches out from east to west Shargrath.  It surrounds both
+mountains completely.  Rocks often tumble from above, so caution is advised.
+It is not possible to see very far here due to the mist and the snow.
+~
+0 0 2 0 0 0
+D0
+The Fields of Frost
+~
+The Fields of Frost~
+0 0 80107 0
+D2
+~
+~
+0 0 80109 0
+S
+#80109
+A Glacial Passage~
+Here is a small passage, the ground is covered with ice.  The path seems to go
+around Mount Assian.  It is also suspiciously quiet here.
+~
+0 4 5 0 0 0
+D2
+~
+~
+0 0 80110 0
+D0
+~
+~
+0 0 80108 0
+S
+#80110
+A Glacial Passage~
+Here is a small passage, the ground is covered with ice.  The path seems to go
+around Mount Assian.  It is also suspiciously quiet here.
+~
+0 0 5 0 0 0
+D0
+~
+~
+0 0 80109 0
+D8
+~
+~
+0 0 80111 0
+S
+#80111
+A Glacial Passage~
+Here is a small passage, the ground is covered with ice.  The path seems to go
+around Mount Assian.  It is also suspiciously quiet here.
+~
+0 0 5 0 0 0
+D7
+~
+~
+0 0 80110 0
+D2
+~
+~
+0 0 80112 0
+S
+#80112
+A Glacial Passage~
+Here is a small passage, the ground is covered with ice.  The path seems to go
+around Mount Assian.  It is also suspiciously quiet here.
+~
+0 0 5 0 0 0
+D0
+~
+~
+0 0 80111 0
+D2
+~
+~
+0 0 80113 0
+S
+#80113
+A Glacial Passage~
+Here is a small passage, the ground is covered with ice.  The path seems to go
+around Mount Assian.  It is also suspiciously quiet here.
+~
+0 0 5 0 0 0
+D0
+~
+~
+0 0 80112 0
+D1
+~
+~
+0 0 80114 0
+S
+#80114
+A Glacial Passage~
+Here is a small passage, the ground is covered with ice.  The path seems to go
+around Mount Assian.  It is also suspiciously quiet here.
+~
+0 0 5 0 0 0
+D3
+~
+~
+0 0 80113 0
+D1
+~
+~
+0 0 80115 0
+S
+#80115
+A Small House~
+This small house has been well hidden from the outside world, seeking cover
+behind the mountains of Shargrath.  It is a warm place, and would probably be
+a great place to recover for the lost wanderers.
+~
+0 3179532 0 0 0 0
+D3
+~
+~
+0 0 80114 0
+S
+#80116
+The Ice Lair~
+This place is a very well kept secret, so it seems.  It is amazing how well
+hidden it is, no matter how desolate this place is.  Tracks on the floor show
+the path of a mature dragon wandering about.  They look fresh.
+~
+0 137404421 0 0 0 0
+D0
+~
+~
+0 0 80117 0
+D2
+~
+~
+0 0 80063 0
+S
+#80117
+The Ice Lair~
+This is where the cave ends.  It looks like a breeding nest of a dragon.
+Luckily, he is not around, maybe it is a better idea to go right now, before
+it comes back.
+~
+0 137633793 0 0 0 0
+D2
+~
+~
+0 0 80116 0
+S
+#80118
+A Hidden Cave~
+This dark, dusty cave looks quite scary.  Better get out while you still can.
+~
+0 5 13 0 0 0
+D4
+~
+~
+0 0 80032 0
+S
+#0
+
+#RESETS
+M 0 80001 3 80002  ; Mob: #80001 A small haze => #80002 Shargrath Plateau
+M 0 80000 4 80003  ; Mob: #80000 A white wolf => #80003 Shargrath Plateau
+M 0 80000 4 80006  ; Mob: #80000 A white wolf => #80006 Shargrath Plateau
+M 0 80001 3 80007  ; Mob: #80001 A small haze => #80007 Shargrath Plateau
+M 0 80000 4 80009  ; Mob: #80000 A white wolf => #80009 Shargrath Plateau
+M 0 80000 4 80012  ; Mob: #80000 A white wolf => #80012 Shargrath Plateau
+M 0 80001 3 80014  ; Mob: #80001 A small haze => #80014 Shargrath Plateau
+M 0 80003 4 80017  ; Mob: #80003 A bear cub => #80017 The Icy Caves of Shargrath
+M 0 80003 4 80021  ; Mob: #80003 A bear cub => #80021 The Icy Caves of Shargrath
+M 0 80004 2 80022  ; Mob: #80004 A polar bear => #80022 The Icy Caves of Shargrath
+M 0 80003 4 80024  ; Mob: #80003 A bear cub => #80024 The Icy Caves of Shargrath
+M 0 80004 2 80026  ; Mob: #80004 A polar bear => #80026 The Icy Caves of Shargrath
+M 0 80003 4 80027  ; Mob: #80003 A bear cub => #80027 The Icy Caves of Shargrath
+M 0 80009 3 80030  ; Mob: #80009 an eel => #80030 An Underground River
+M 0 80009 3 80037  ; Mob: #80009 an eel => #80037 An Underground River
+M 0 80010 1 80044  ; Mob: #80010 a lost mountain climber => #80044 The Frozen Plains
+E 0 80012 0 17  ; -- Equip: #80012 a brown backpack (Hold)
+G 0 80013 0 ; -- Give:  #80013 a small bread
+G 0 80006 0 ; -- Give:  #80006 a piece of rope
+G 0 80005 0 ; -- Give:  #80005 a pick axe
+E 0 80004 0 7  ; -- Equip: #80004 some pants (Legs)
+E 0 80002 0 5  ; -- Equip: #80002 a warm jacket (Body)
+E 0 80003 0 5  ; -- Equip: #80003 a green shirt (Body)
+M 0 80005 15 80051  ; Mob: #80005 A rock spirit => #80051 A Mountain Path
+M 0 80013 1 80053  ; Mob: #80013 Isaac Reinhart => #80053 A Wooden Cabin
+G 0 80021 0 ; -- Give:  #80021 the Hammer of Thor
+O 0 80023 0 80053  ; Object: #80023 a muddy shovel => #80053 A Wooden Cabin
+M 0 80005 15 80054  ; Mob: #80005 A rock spirit => #80054 A Mountain Path
+M 0 80005 15 80057  ; Mob: #80005 A rock spirit => #80057 A Mountain Path
+M 0 80006 10 80059  ; Mob: #80006 A mountain spirit => #80059 A Mountain Path
+M 0 80005 15 80060  ; Mob: #80005 A rock spirit => #80060 A Mountain Path
+M 0 80006 10 80061  ; Mob: #80006 A mountain spirit => #80061 A Mountain Path
+M 0 80005 15 80062  ; Mob: #80005 A rock spirit => #80062 A Mountain Path
+M 0 80006 10 80064  ; Mob: #80006 A mountain spirit => #80064 A Mountain Path
+M 0 80008 2 80065  ; Mob: #80008 a dragon fly => #80065 The Top of Mount Assian
+M 0 80008 2 80067  ; Mob: #80008 a dragon fly => #80067 The Top of Mount Assian
+G 0 80001 0 ; -- Give:  #80001 a green gem
+M 0 80005 15 80070  ; Mob: #80005 A rock spirit => #80070 A Mountain Path
+M 0 80005 15 80072  ; Mob: #80005 A rock spirit => #80072 A Mountain Path
+M 0 80006 10 80073  ; Mob: #80006 A mountain spirit => #80073 A Mountain Path
+M 0 80006 10 80075  ; Mob: #80006 A mountain spirit => #80075 A Mountain Path
+M 0 80005 15 80075  ; Mob: #80005 A rock spirit => #80075 A Mountain Path
+M 0 80006 10 80077  ; Mob: #80006 A mountain spirit => #80077 A Mountain Path
+M 0 80006 10 80078  ; Mob: #80006 A mountain spirit => #80078 A Mountain Path
+M 0 80007 5 80080  ; Mob: #80007 A snow spirit => #80080 A Mountain Path
+M 0 80006 10 80082  ; Mob: #80006 A mountain spirit => #80082 A Mountain Path
+M 0 80007 5 80082  ; Mob: #80007 A snow spirit => #80082 A Mountain Path
+M 0 80007 5 80084  ; Mob: #80007 A snow spirit => #80084 A Mountain Path
+M 0 80007 5 80086  ; Mob: #80007 A snow spirit => #80086 A Mountain Path
+O 0 80017 0 80090  ; Object: #80017 a pile of green dragondust => #80090 The Top of Mount Sidon
+M 0 80011 16 80092  ; Mob: #80011 A hairy furbolg => #80092 The Fields of Frost
+M 0 80011 16 80094  ; Mob: #80011 A hairy furbolg => #80094 The Fields of Frost
+M 0 80011 16 80096  ; Mob: #80011 A hairy furbolg => #80096 The Fields of Frost
+M 0 80011 16 80098  ; Mob: #80011 A hairy furbolg => #80098 The Fields of Frost
+M 0 80011 16 80100  ; Mob: #80011 A hairy furbolg => #80100 The Fields of Frost
+M 0 80011 16 80102  ; Mob: #80011 A hairy furbolg => #80102 The Fields of Frost
+M 0 80011 16 80104  ; Mob: #80011 A hairy furbolg => #80104 The Fields of Frost
+M 0 80011 16 80106  ; Mob: #80011 A hairy furbolg => #80106 The Fields of Frost
+M 0 80011 16 80108  ; Mob: #80011 A hairy furbolg => #80108 The Fields of Frost
+M 0 80014 1 80115  ; Mob: #80014 A troll witch => #80115 A Small House
+O 0 80007 0 80117  ; Object: #80007 a dragon egg => #80117 The Ice Lair
+O 0 80019 0 80118  ; Object: #80019 the Spear of Isaac => #80118 A Hidden Cave
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 shargrath~
+Shargrath is the desolate wasteland north of the dwarven village.
+bla bla bla~
+0 $~
+
+#$
+

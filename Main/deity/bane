@@ -1,0 +1,51 @@
+#DEITY
+Filename		../deity/bane~
+Name		Bane~
+Description	Bane, The Black hand of Evil
+
+Domains Destruction, Evil, Hatred, Law, Tyranny
+Alignment  Ordered Evil
+
+Info 
+~
+Alignment		-350
+Worshippers	34
+Flee		-5
+Flee_npcrace	10
+Flee_npcfoe	-10
+Kill		5
+Kill_npcrace	-35
+Kill_npcfoe	35
+Kill_magic	20
+Sac		5
+Bury_corpse	10
+Aid_spell		10
+Aid		5
+Steal		-7
+Backstab		-7
+Die		-10
+Die_npcrace	-10
+Die_npcfoe	-50
+Spell_aid		10
+Dig_corpse	-10
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		0
+Npcfoe		89
+Suscept		0
+Race2		-1
+Susceptnum	500
+Elementnum	500
+Affectednum	500
+Objstat		1
+End
+
+#END

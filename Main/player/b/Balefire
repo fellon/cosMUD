@@ -1,0 +1,112 @@
+#PLAYER
+Version      3
+Name         Balefire~
+Sex          1
+Class        31
+Race         50
+Species      3
+Languages    1 1
+Level        4
+Played       2911
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   61 56 118 118 126 139
+Gold         4605
+Exp          49234
+Height          368
+Weight          1874
+Act          570426968
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    500
+Favor	       37
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1
+Susceptible  4
+Mentalstate  0
+Password     Baydnu.weUYcs~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Andy~
+Deity	     Mystra~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       10
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 13 11 15 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         66.19.162.42
+Spell        54 'cause light'
+Spell        19 'continual light'
+Spell        100 'dragon wit'
+Spell        50 'ventriloquate'
+Spell        19 'weaken'
+Skill        20 'kick'
+Skill        95 'scan'
+Tongue       100 'common'
+Killed       10396 7
+Killed       10303 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#END

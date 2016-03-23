@@ -1,0 +1,4 @@
+[*****] BUG: Mpforce - No such victim, Room #70104.
+[*****] BUG: Mpechoaround - victim does not exist, Object #80021.
+[*****] BUG: Mpechoat - victim does not exist, Object #80021.
+[*****] BUG: Mprestore: victim not in room, Object #80021.

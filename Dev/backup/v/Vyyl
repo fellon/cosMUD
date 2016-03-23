@@ -1,0 +1,121 @@
+#PLAYER
+Version      3
+Name         Vyyl~
+Sex          1
+Class        18
+Race         8
+Languages    1 1
+Level        5
+Played       19587
+Room         21042
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   84 104 135 129 252 152
+Gold         33037
+Exp          110685
+Height          126
+Weight          593
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    500
+Favor	       -8
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -15
+Password     VyZeW0XF.FXdA~
+Title         the Observist~
+Lastname  Haight~
+AuthedBy     Relgar~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       57
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 15 13 11 16 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         4.35.180.6
+Spell        19 'armor'
+Skill        19 'dual wield'
+Skill        21 'kick'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'trollese'
+Killed       6602 1
+Killed       6601 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6509
+Level        18
+Values       12 2 14 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21081
+Level        5
+Values       12 2 10 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#END

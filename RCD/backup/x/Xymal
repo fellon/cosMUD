@@ -1,0 +1,75 @@
+#PLAYER
+Version      3
+Name         Xymal~
+Description  ~
+Sex          0
+Class        9
+Race         36
+Languages    1 1
+Level        6
+Played       25119
+Room         6021
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   5 153 119 119 153 165
+Gold         17459
+Exp          175928
+Height          364
+Weight          1929
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    4
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        9
+ICEListen (null)~
+Mentalstate  -38
+Password     XydR8p1FugR3E~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Fairburn~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       85
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 15 9 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 7 16
+Site         65.34.75.21
+Spell        26 'armor'
+Spell        19 'cancelation'
+Spell        19 'create fire'
+Spell        19 'detect magic'
+Spell        100 'dragon wit'
+Spell        19 'dragonskin'
+Spell        28 'float'
+Spell        31 'shield'
+Skill        19 'bite'
+Skill        79 'enhanced damage'
+Skill        33 'fan'
+Weapon       19 'bludgeons'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       50 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+AffectData   'bless' 1072   6  18 0
+AffectData   'bless' 1072  -6  24 0
+Killed       6005 1
+Killed       6103 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,46 @@
+#PLAYER
+Version      3
+Name         Xdasnage~
+Sex          0
+Class        4
+Race         0
+Languages    1 1
+Level        2
+Played       1141
+Room         21194
+HpManaMove   31 31 100 100 110 110
+Gold         0
+Exp          1750
+Height          72
+Weight          156
+Act          637535816
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Password     XdknZckbzqzaI~
+Title         the Blood Student~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 13 14 17 14 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 1
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'bless' 1155   6  18 0
+AffectData   'bless' 1155  -6  24 0
+End
+
+#END

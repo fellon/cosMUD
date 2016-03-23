@@ -1,0 +1,51 @@
+#DEITY
+Filename		../deity/stetha~
+Name		Hanali~
+Detitle	Celanil, Goddess of Romantic Love and Beauty~
+Domains	Romance, Beauty, Charm~
+Description	A beautiful young woman.
+The queen of the elves. She watches over and protects
+the wellbeing of the Sylvan races.
+~
+Alignment		700
+Worshippers	0
+Flee		-25
+Flee_npcrace	-35
+Flee_npcfoe	-35
+Kill		5
+Kill_npcrace	-150
+Kill_npcfoe	35
+Kill_magic	7
+Sac		5
+Bury_corpse	10
+Aid_spell		7
+Aid		0
+Steal		-10
+Backstab		-10
+Die		-50
+Die_npcrace	-35
+Die_npcfoe	-35
+Spell_aid		7
+Dig_corpse	-15
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Sdtrap		0
+Race		1
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		1
+Npcfoe		13
+Suscept		0
+Race2		9
+Susceptnum	500
+Elementnum	500
+Affectednum	1250
+Objstat		5
+End
+
+#END

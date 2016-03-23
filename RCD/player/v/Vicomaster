@@ -1,0 +1,146 @@
+#PLAYER
+Version      3
+Name         Vicomaster~
+Description  Hairy and muscular, this is an animal, err man, um werebeast, not to
+be trifled with...
+sc
+~
+Sex          0
+Class        11
+Race         10
+Species      0
+Languages    87 1
+Level        56
+Played       296017
+Room         8905
+Memorized		3000265 3000263 0 0 0 0 0 0
+HpManaMove   1118 1166 74 485 843 815
+Gold         2083572
+Exp          201534946
+Height          70
+Weight          156
+Act          570427000
+AffectedBy   268435464
+Position     104
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    950
+Favor	       354
+Balance      0
+Glory        31
+MGlory       31
+Hitroll      11
+Damroll      7
+Armor        10
+ICEListen (null)~
+Mentalstate  -23
+Password     ViJti5AslvHrA~
+Title         shiny green bong rests here~
+Extraname &G(magic)~
+Lastname 's~
+AuthedBy     Prage~
+Prompt       <&R%h&php &B%m&bm &O%X&YTNL> %k~
+FPrompt	     <&R%h&php &B%m&bm>&g%c~
+Deity	     Selune~
+Clan         Werewolf~
+Flags        98304
+PKills       0
+PDeaths      4
+MKills       2486
+MDeaths      50
+ArenaWins    1
+ArenaKills   4
+ArenaDeaths  10
+IllegalPK    0
+AttrPerm     13 10 12 18 12 9 12
+AttrMod      7 0 0 6 0 0 0
+Condition    0 0 20 66
+Site         67.217.179.40
+Spell        95 'plant pass'
+Skill        42 'aid'
+Skill        29 'bash'
+Skill        95 'bite'
+Skill        17 'cook'
+Skill        51 'disarm'
+Skill        95 'discern'
+Skill        85 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        95 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        95 'frenzy'
+Skill        40 'gouge'
+Skill        37 'grip'
+Skill        90 'headbutt'
+Skill        95 'hide'
+Skill        27 'hitall'
+Skill        95 'howl'
+Skill        45 'kick'
+Skill        60 'limber'
+Skill        90 'lunge'
+Skill        95 'nightvision'
+Skill        85 'parry'
+Skill        17 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        85 'search'
+Skill        95 'second attack'
+Skill        94 'serenity'
+Skill        95 'sneak'
+Skill        85 'stun'
+Skill        95 'third attack'
+Skill        85 'track'
+Weapon       60 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       95 'long blades'
+Weapon       95 'pugilism'
+Weapon       60 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+Tongue       99 'elvish'
+Tongue       100 'gith'
+Tongue       77 'ogre'
+Tongue       99 'trollese'
+AffectData   'howl' 621   1   2 0
+AffectData   'howl' 621   1   1 0
+AffectData   'howl'  61  11  18 0
+AffectData   'howl'  61   7  19 0
+AffectData   'forcefield' 2169 -50  17 0
+AffectData   'iceshield'  81   0  26 268435456
+AffectData   'armor' 677 -20  17 0
+AffectData   'limber' 237   5   2 0
+AffectData   'shield' 2078 -20  17 0
+AffectData   'kindred strength' 2079   6   1 0
+Killed       8903 1
+Killed       8314 1
+Killed       8303 1
+Killed       8908 4
+Killed       2804 1
+Killed       3000253 2
+Killed       2108 4
+Killed       2103 2
+Killed       24816 1
+Killed       41431 1
+Killed       41409 1
+Killed       41410 2
+Killed       41408 1
+Killed       41405 1
+i3invis	0
+End
+
+#MOBILE
+Vnum	21058
+Room	21170
+Description The black steed snorts as you examine him.  His fine black coat shines
+brightly regardless of light and the warhorse seems as though it could
+run tirelessly for days.
+A neck tag says 'I belong to Vicomaster'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

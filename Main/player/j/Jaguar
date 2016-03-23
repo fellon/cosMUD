@@ -1,0 +1,437 @@
+#PLAYER
+Version      3
+Name         Jaguar~
+Description  ~
+Sex          1
+Class        3
+Race         0
+Species      2
+Languages    1572871 1
+Level        54
+Played       309995
+Room         14731
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   949 928 210 100 827 789
+Gold         567605
+Exp          175310031
+Height          70
+Weight          156
+Act          570427000
+Position     112
+Style     2
+Practice     41
+SavingThrows 0 0 0 0 0
+Alignment    -667
+Favor	       -1001
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        220
+ICEListen (null)~
+Mentalstate  -1
+Password     JaEVyyON1CIK.~
+Title         the Commander~
+Lastname  sub-zero~
+AuthedBy     Marten~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+Deity	     Soleran~
+Flags        98306
+PKills       0
+PDeaths      3
+MKills       845
+MDeaths      33
+ArenaWins    0
+ArenaKills   2
+ArenaDeaths  4
+IllegalPK    0
+AttrPerm     14 13 13 14 11 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 6 10 60
+Site         207.202.214.132
+Skill        31 'aid'
+Skill        27 'bash'
+Skill        17 'cook'
+Skill        46 'disarm'
+Skill        31 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        20 'grip'
+Skill        90 'headbutt'
+Skill        18 'hitall'
+Skill        95 'kick'
+Skill        33 'lunge'
+Skill        100 'parry'
+Skill        49 'pummel'
+Skill        17 'rescue'
+Skill        22 'roundhouse'
+Skill        45 'scan'
+Skill        30 'search'
+Skill        95 'second attack'
+Skill        38 'shoulder'
+Skill        85 'stun'
+Skill        95 'third attack'
+Skill        85 'track'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       89 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+Tongue       99 'elvish'
+Tongue       99 'gith'
+Tongue       99 'gnome'
+Killed       14730 2
+Killed       14729 1
+Killed       14741 3
+Killed       14732 2
+Killed       21037 1
+Killed       21064 1
+Killed       21067 1
+Killed       8911 2
+Killed       8910 3
+Killed       8907 1
+Killed       8902 2
+Killed       8906 1
+Killed       8909 5
+Killed       8908 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         2106
+Level        5
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        30
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        29
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        30
+Values       7 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        29
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        27
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        54
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8108
+Level        59
+Values       12 15 50 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         647
+Level        30
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       7 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        19
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        54
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         flask potion cancelation~
+ShortDescr   a cancelation potion~
+Description  A strange potion labelled 'cancelation' sizzles in a glass flask.~
+Vnum         35
+Level        8
+Values       33 29 -1 -1 0 0
+Spell 1      'cancelation'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         647
+Level        31
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        14
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+Level        48
+Values       12 13 42 11 0 0
+End
+
+#OBJECT
+Vnum         8118
+WearLoc      0
+Level        47
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        17
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+Level        48
+Values       12 14 40 11 0 0
+End
+
+#OBJECT
+Vnum         8911
+Level        18
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         46900
+WearLoc      18
+Level        52
+Values       9 12 144 6 0 0
+End
+
+#OBJECT
+Vnum         14742
+Level        50
+Values       12 14 43 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        14
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         14741
+Level        48
+Values       12 15 43 8 0 0
+End
+
+#ALIAS
+Name     hd~
+Commands head butt~
+End
+
+#ALIAS
+Name     ld~
+Commands headbutt~
+End
+
+#ALIAS
+Name     lh~
+Commands headbutt~
+End
+
+#ALIAS
+Name     ro~
+Commands roundhouse~
+End
+
+#ALIAS
+Name     bo~
+Commands bash~
+End
+
+#ALIAS
+Name     pu~
+Commands pummel~
+End
+
+#ALIAS
+Name     pl~
+Commands pummel~
+End
+
+#ALIAS
+Name     ds~
+Commands disarm~
+End
+
+#ALIAS
+Name     m~
+Commands disarm master~
+End
+
+#ALIAS
+Name     cx~
+Commands supp corpse~
+End
+
+#ALIAS
+Name     ry~
+Commands track rayden~
+End
+
+#ALIAS
+Name     hk~
+Commands hitall~
+End
+
+#ALIAS
+Name     sd~
+Commands stun~
+End
+
+#END

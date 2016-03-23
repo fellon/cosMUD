@@ -1,0 +1,56 @@
+#DEITY
+Filename		../deity/tyr~
+Name		Tyr~
+Detitle	Lord of Justice~
+Domains	Justice, Law, Good~
+Description	When he is depicted in religious art, Tyr appears as a noble warrior missing
+his right hand, lost in battles to prove his reslieance and strength
+of spirit. In recent years he has been shown as blinded. After incuring
+a superiour gods wrath. Tyrs nature is Justice through benevolent force and
+armed vigilance. He opposes all beings who deal in trickery, rule-breaking
+, and unjust destruction or misdeeds.
+ 
+Tyr Expects his faithful to be Just, Honorable, Honest, and Righteous.
+~
+Alignment		900
+Worshippers	41
+Flee		-50
+Flee_npcrace	10
+Flee_npcfoe	-50
+Kill		5
+Kill_npcrace	-50
+Kill_npcfoe	75
+Kill_magic	7
+Sac		5
+Bury_corpse	10
+Aid_spell		5
+Aid		7
+Steal		-25
+Backstab		-30
+Die		-100
+Die_npcrace	-35
+Die_npcfoe	-100
+Spell_aid		5
+Dig_corpse	-15
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Sdtrap		0
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		0
+Npcfoe		43
+Suscept		0
+Race2		-1
+Susceptnum	500
+Elementnum	750
+Affectednum	500
+Objstat		0
+End
+
+#END

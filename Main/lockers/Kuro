@@ -1,0 +1,281 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         24899
+Room         327685
+Level        32
+Values       4 4 2 0 0 0
+End
+
+#OBJECT
+Vnum         24899
+Room         327685
+Level        1
+Cost         0
+Values       4 4 2 0 0 0
+End
+
+#OBJECT
+Vnum         14757
+Room         327685
+Level        47
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         1539
+Room         327685
+Level        5
+Values       14 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Vnum         649
+Room         327685
+Level        1
+Cost         0
+Values       50 50 3 0 0 0
+End
+
+#OBJECT
+Vnum         14757
+Room         327685
+Level        49
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+Room         327685
+Level        56
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+Room         327685
+Level        39
+Values       9 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         24807
+Room         327685
+Level        32
+Values       12 11 31 11 0 0
+End
+
+#OBJECT
+Vnum         7939
+Room         327685
+Level        47
+Values       10 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24803
+Room         327685
+Level        38
+Values       12 11 33 1 0 0
+End
+
+#OBJECT
+Vnum         14750
+Room         327685
+Level        50
+Values       12 14 43 3 0 0
+End
+
+#OBJECT
+Vnum         100008
+Room         327685
+Level        30
+Values       12 9 28 2 0 0
+End
+
+#OBJECT
+Vnum         24806
+Room         327685
+Level        36
+Values       11 10 33 10 0 0
+End
+
+#OBJECT
+Vnum         14743
+Room         327685
+Level        42
+Values       12 10 38 7 0 0
+End
+
+#OBJECT
+Vnum         8108
+Room         327685
+Level        60
+Values       12 19 50 8 0 0
+End
+
+#OBJECT
+Vnum         235
+Room         327685
+Level        78
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         25513
+Room         327685
+Level        42
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+Room         327685
+Level        54
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+Room         327685
+ExtraFlags   514
+Level        47
+Values       12 14 41 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         7957
+Room         327685
+Level        46
+Values       12 10 60 2 0 0
+End
+
+#OBJECT
+Vnum         7939
+Room         327685
+Level        49
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         25540
+Room         327685
+Level        43
+Values       12 11 39 8 0 0
+End
+
+#OBJECT
+Vnum         219
+Room         327685
+Level        79
+Values       12 10 100 3 0 0
+End
+
+#OBJECT
+Vnum         7308
+Room         327685
+Level        51
+Cost         0
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         9865
+Room         327685
+Level        10
+Values       90 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         9866
+Room         327685
+Level        10
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Vnum         24802
+Room         327685
+Level        34
+Values       9 10 31 7 0 0
+End
+
+#OBJECT
+Vnum         25552
+Room         327685
+Level        46
+Values       12 13 40 4 0 0
+End
+
+#OBJECT
+Vnum         14757
+Room         327685
+Level        50
+Values       13 14 0 0 0 0
+End
+
+#OBJECT
+Count        3
+Vnum         24892
+Room         327685
+Level        27
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Room         327685
+Level        29
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Room         327685
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Room         327685
+Level        29
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         24892
+Room         327685
+Level        29
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         8107
+Room         327685
+Level        59
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         9830
+Room         327685
+Level        10
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2859
+Room         327685
+Level        42
+Values       14 14 0 0 0 0
+End
+
+#END

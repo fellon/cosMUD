@@ -1,0 +1,60 @@
+#PLAYER
+Version      3
+Name         Terri~
+Sex          2
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        6
+Played       2822
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   78 145 100 100 250 165
+Gold         13254
+Exp          179584
+Height          113
+Weight          341
+Act          570427000
+AffectedBy   512
+Position     106
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 0
+Alignment    351
+Favor	       -8
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Password     Te5THPGV5n.2c~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       25
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 11 11 15 15 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         207.202.214.132
+Skill        100 'enhanced damage'
+Skill        100 'parry'
+Tongue       100 'common'
+AffectData   'armor' 496 -20  17 0
+Killed       3501 5
+Killed       3506 5
+i3invis	0
+End
+
+#END

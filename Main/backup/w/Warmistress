@@ -1,0 +1,137 @@
+#PLAYER
+Version      3
+Name         Warmistress~
+Description  ~
+Sex          2
+Class        3
+Race         15
+Species      5
+Languages    1 1
+Level        15
+Played       22098
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   151 352 100 100 282 282
+Gold         143398
+Exp          3355307
+Height          108
+Weight          381
+Act          570427256
+AffectedBy   512
+Position     112
+Style     2
+Practice     43
+SavingThrows 0 0 0 0 0
+Alignment    -921
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Wa/r/4CVTmiM2~
+Title         the Private~
+Lastname  the Baroness~
+AuthedBy     Andy~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       195
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     19 11 11 13 16 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 30 19
+Site         207.202.214.132
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        100 'parry'
+Skill        95 'second attack'
+Weapon       17 'bludgeons'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Killed       6506 2
+Killed       6500 1
+Killed       6501 3
+Killed       10397 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      18
+Level        6
+Values       12 3 10 3 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#END

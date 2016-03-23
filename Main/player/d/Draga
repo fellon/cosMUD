@@ -1,0 +1,607 @@
+#PLAYER
+Version      3
+Name         Draga~
+Description  Frightening to  behold, His fiery eyes seem to
+burn straight through to the depths
+of your soul. And yet, Seem rather
+friendly and gentle at the same time.
+~
+Sex          1
+Class        10
+Race         5
+Species      0
+Languages    540679 1
+Level        64
+Played       1184612
+Room         3030
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   1279 2171 759 209 836 772
+Gold         7849819
+Exp          225611024
+Height          63
+Weight          153
+Act          637539912&4
+AffectedBy   512
+Position     112
+Style     4
+Practice     55
+SavingThrows 0 0 0 0 0
+Alignment    -782
+Favor	       2500
+Balance      0
+Glory        30
+MGlory       35
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Resistant    256
+Mentalstate  0
+Password     Dr9NTVqP08Q2g~
+Bestowments  immtalk~
+Title         the Demon Master~
+Lastname ~
+Bio          Draga Knows Not From Whence He Came
+Only That He Exists.
+Life Before Shadows Is Not Even
+A Concern To Him, He Is A Rogue Doomed To 
+Feed From The Living, Lacking A Mortal Soul.
+Despite His Fiendish Appearance, 
+Draga Is Good By Nature, And
+More Than Willing To Assist Those In Need.
+~
+Prompt       &B-=&W}{ Hp:%h/%H &W}{ &RBp:%b/%B &W}{ &BMv:%v/%V &W}{ &YGold:%g &W}{ &BIn:%A &W}{ XP:%x/%X &W}{&B=- &W~
+FPrompt	     -=}{ Hp:%h/%H }{ Bp:%b/%B }{ Mv:%v/%V }{ %c }{=-~
+Deity	     Soleran~
+Clan         Vampire~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       4729
+MDeaths      32
+ArenaWins    1
+ArenaKills   1
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     18 18 18 18 18 18 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 54
+Site         24.218.84.48
+Spell        100 'alertness'
+Spell        100 'armor'
+Spell        100 'blazeward'
+Spell        100 'blindness'
+Spell        100 'burning hands'
+Spell        100 'cancelation'
+Spell        19 'cover of darkness'
+Spell        100 'curse'
+Spell        100 'demonskin'
+Spell        100 'detect magic'
+Spell        100 'devils might'
+Spell        100 'dispel magic'
+Spell        100 'enchant weapon'
+Spell        100 'energy drain'
+Spell        100 'extradimensional portal'
+Spell        100 'faerie fire'
+Spell        100 'farsight'
+Spell        100 'festering wounds'
+Spell        100 'fireball'
+Spell        100 'fireshield'
+Spell        100 'hand of chaos'
+Spell        100 'harm'
+Spell        95 'identify'
+Spell        100 'invis'
+Spell        100 'locate object'
+Spell        100 'magic missile'
+Spell        100 'pass door'
+Spell        100 'poison'
+Spell        100 'possess'
+Spell        100 'power word kill'
+Spell        100 'scry'
+Spell        100 'shield'
+Spell        100 'shockshield'
+Spell        100 'sleep'
+Spell        100 'stone skin'
+Spell        100 'transport'
+Spell        100 'true sight'
+Spell        100 'weaken'
+Spell        100 'word of recall'
+Skill        100 'aid'
+Skill        100 'bloodlet'
+Skill        100 'climb'
+Skill        100 'dig'
+Skill        100 'disarm'
+Skill        100 'dodge'
+Skill        100 'drowfire'
+Skill        100 'dual wield'
+Skill        100 'enhanced damage'
+Skill        100 'feed'
+Skill        100 'fifth attack'
+Skill        100 'fly'
+Skill        100 'fourth attack'
+Skill        100 'grasp suspiria'
+Skill        100 'grip'
+Skill        100 'hide'
+Skill        100 'jump'
+Skill        100 'kick'
+Skill        100 'lore'
+Skill        100 'mount'
+Skill        100 'occulutus visum'
+Skill        100 'parry'
+Skill        100 'peek'
+Skill        100 'poison weapon'
+Skill        100 'punch'
+Skill        100 'scan'
+Skill        100 'search'
+Skill        100 'second attack'
+Skill        100 'sneak'
+Skill        100 'talonslash'
+Skill        100 'taunt'
+Skill        100 'third attack'
+Skill        100 'track'
+Skill        100 'vision'
+Skill        100 'vomica pravus'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'dwarven'
+Tongue       100 'elvish'
+Tongue       100 'gith'
+Tongue       100 'gnome'
+Tongue       100 'goblin'
+Tongue       100 'halfling'
+Tongue       100 'ogre'
+Killed       3015 1
+Killed       3009 2
+Killed       3013 1
+Killed       3014 1
+Killed       3008 1
+Killed       8105 1
+Killed       8119 1
+Killed       8110 1
+Killed       8127 1
+Killed       8129 1
+Killed       8118 1
+Killed       8103 1
+Killed       8112 2
+Killed       8132 1
+Killed       8122 4
+Killed       8121 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         60501
+WearFlags    16385
+WearLoc      0
+Weight       1
+End
+
+#OBJECT
+Vnum         12571
+WearLoc      5
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         25520
+WearLoc      3
+Level        37
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         15131
+WearLoc      23
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         49997
+WearLoc      22
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         49811
+WearLoc      26
+Values       1 1 1 -1 0 0
+End
+
+#OBJECT
+Vnum         25541
+WearLoc      19
+Level        45
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         466
+Values       10000 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25513
+Level        42
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25521
+Level        38
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25517
+Level        42
+Values       12 12 36 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21140
+Level        30
+Values       30 138 -1 -1 0 0
+Spell 1      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         25507
+Level        35
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25540
+Level        43
+Values       12 11 40 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25546
+Level        46
+Values       12 12 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25507
+Level        38
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25537
+Level        43
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         13027
+Level        17
+Values       157 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         13046
+Level        17
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12501
+Level        53
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12502
+Level        53
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12503
+Level        53
+Values       33 33 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12520
+Values       34 34 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12581
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46921
+ExtraFlags   25395264
+Level        53
+Values       26 32 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7939
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12505
+Level        50
+Values       12 12 42 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46922
+Level        54
+Values       11 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15163
+Values       12 2 5 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        8
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3042
+Level        35
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3018
+Level        37
+Values       12 12 33 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3023
+Level        30
+Values       39 190 218 5 0 0
+Spell 1      'shadowform'
+Spell 2      'valiance'
+Spell 3      'alertness'
+End
+
+#OBJECT
+Nest         1
+Vnum         3050
+Level        41
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3050
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3051
+Level        41
+Values       50 4 4 193 0 0
+Spell 3      'shockshield'
+End
+
+#OBJECT
+Nest         1
+Vnum         3052
+Level        41
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3053
+Level        43
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3054
+Level        42
+Values       12 11 35 11 0 0
+End
+
+#OBJECT
+Vnum         12508
+WearLoc      12
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         49815
+WearLoc      12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         49816
+WearLoc      12
+Level        46
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         49814
+WearLoc      12
+Level        46
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         2859
+WearLoc      12
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         12507
+WearLoc      2
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         49817
+WearLoc      25
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         49817
+WearLoc      24
+Level        60
+End
+
+#OBJECT
+Vnum         12507
+WearLoc      1
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         46923
+WearLoc      9
+Level        55
+Values       15 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         49803
+ExtraFlags   2051
+WearLoc      18
+Values       7 150 450 0 0 0
+End
+
+#OBJECT
+Vnum         25507
+WearLoc      12
+Level        36
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         12503
+WearLoc      20
+Level        54
+Values       33 33 0 0 0 0
+End
+
+#OBJECT
+Vnum         12501
+WearLoc      12
+Level        53
+Values       18 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         46900
+WearLoc      16
+Level        55
+Values       9 12 144 6 0 0
+End
+
+#OBJECT
+Vnum         25538
+WearLoc      15
+Level        43
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25518
+WearLoc      12
+Level        41
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25514
+WearLoc      7
+Level        42
+Values       18 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         25515
+WearLoc      6
+Level        42
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         25538
+WearLoc      14
+Level        43
+Values       11 12 0 0 0 0
+End
+
+#MOBILE
+Vnum	21058
+Room	21139
+Description The black steed snorts as you examine him.  His fine black coat shines
+brightly regardless of light and the warhorse seems as though it could
+run tirelessly for days.
+A neck tag says 'I belong to Draga'.
+~
+Position 4
+Flags 262403
+EndMobile
+
+#END

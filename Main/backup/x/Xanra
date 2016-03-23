@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Xanra~
+Description  ~
+Sex          1
+Class        0
+Race         19
+Species      1
+Languages    1 1
+Level        6
+Played       13012
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   58 58 222 222 265 165
+Gold         33262
+Exp          239958
+Height          62
+Weight          116
+Act          536872536
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        15
+ICEListen (null)~
+Mentalstate  -1
+Password     XajN4A8jhi43Q~
+Title         the Apprentice Mage~
+Lastname  loves kids~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       48
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 18 15 13 10 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 1 10
+Site         63.169.107.252
+Spell        19 'armor'
+Spell        95 'black hand'
+Spell        25 'detect invis'
+Spell        25 'detect magic'
+Spell        19 'faerie fire'
+Spell        95 'galvanic whip'
+Spell        25 'invis'
+Spell        19 'weaken'
+Spell        19 'word of recall'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10396 7
+Killed       10303 3
+i3invis	0
+End
+
+#END

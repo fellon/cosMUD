@@ -1,0 +1,64 @@
+#PLAYER
+Version      3
+Name         Mudsnail~
+Description  ~
+Sex          1
+Class        21
+Race         3
+Species      6
+Languages    1 1
+Level        4
+Played       15513
+Room         28002
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   58 58 123 123 139 139
+Gold         6659
+Exp          42062
+Height          32
+Weight          59
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        7
+Deaf         146833655
+ICEListen (null)~
+Mentalstate  0
+Password     MuJcg4/OGtHJE~
+Title         the Pick-Pocket~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98320
+PKills       0
+PDeaths      0
+MKills       21
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 14 12 17 15 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 3 10
+Site         207.202.214.132
+Skill        19 'scan'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'halfling'
+AffectData   'armor' 281 -20  17 0
+Killed       10303 1
+Killed       10302 1
+i3invis	0
+End
+
+#END

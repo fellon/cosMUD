@@ -1,0 +1,124 @@
+#PLAYER
+Version      3
+Name         Bender~
+Description  ~
+Sex          1
+Class        8
+Race         9
+Languages    1 1
+Level        2
+Played       13274
+Room         10325
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   36 36 107 107 110 110
+Gold         1700
+Exp          8228
+Height          65
+Weight          140
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  -1
+Password     BeFfojtNIuFZY~
+Title         the Keeper of Purity~
+Lastname ~
+FPrompt	     <%h/%H %m/M %v/%V %e>~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       8
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 13 13 14 13 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 16 12
+Site         (Link-Dead)
+Spell        50 'armor'
+Skill        18 'cook'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 628  -6  24 0
+AffectData   'bless' 628   6  18 0
+AffectData   'armor'  74 -20  17 0
+Killed       10344 1
+Killed       10345 7
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         3000111
+Values       125 28 0 0 0 0
+End
+
+#END

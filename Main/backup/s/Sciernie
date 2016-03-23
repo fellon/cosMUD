@@ -1,0 +1,230 @@
+#PLAYER
+Version      3
+Name         Sciernie~
+Description  ~
+Sex          1
+Class        14
+Race         5
+Species      4
+Languages    1 1
+Level        7
+Played       10782
+Room         10395
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   152 140 118 106 278 178
+Gold         41578
+Exp          253916
+Height          60
+Weight          145
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    -513
+Favor	       98
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     Sc2arTr8HGFWY~
+Title         the Cut-Purse~
+Lastname ~
+AuthedBy     Andy~
+Deity	     Soleran~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       95
+MDeaths      0
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     14 11 13 16 14 9 17
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 17
+Site         207.202.214.132
+Skill        69 'backstab'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        58 'feed'
+Skill        18 'hide'
+Skill        59 'kick'
+Skill        17 'pick lock'
+Skill        21 'scan'
+Skill        17 'search'
+Skill        20 'sneak'
+Skill        17 'steal'
+Weapon       40 'bludgeons'
+Weapon       17 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 193  -3  24 0
+AffectData   'bless' 193   3  18 0
+AffectData   'shield' 424 -20  17 0
+Killed       10396 15
+Killed       10301 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         644
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        3
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      18
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#END

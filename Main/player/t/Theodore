@@ -1,0 +1,777 @@
+#PLAYER
+Version      3
+Name         Theodore~
+Description  e
+e
+s
+d
+//c
+~
+Sex          1
+Class        0
+Race         1
+Species      0
+Languages    1 1
+Level        37
+Played       242427
+Room         21050
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   610 305 899 795 636 568
+Gold         2151
+Exp          60435411
+Height          67
+Weight          101
+Act          570427000&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     40
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       411
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     Th.9SUVooWm72~
+Title         seville~
+Lastname ~
+Bio          You politely ask the Executioner to remove his pants.
+The Executioner growls.
+The Executioner says 'Theodore, you are trying my patience.'
+The Executioner gently strokes his torch.
+The Executioner winks suggestively at you.
+You wink suggestively at the Executioner.
+You enjoy a magic mushroom.
+Your Galvanic Whip **** SMITES **** a small bunny! [35]
+Your Caustic Fount **** SMITES **** a harmless snake! [257]
+Your Caustic Fount **** SMITES **** the matron mother! [546]
+The matron mother is DEAD!!
+~
+AuthedBy     Arbadus~
+Deity	     Aoskar~
+Clan         Guild of Mages~
+Flags        98560
+PKills       0
+PDeaths      1
+MKills       501
+MDeaths      36
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  8
+IllegalPK    0
+AttrPerm     11 18 14 16 13 13 16
+AttrMod      3 0 0 0 0 0 0
+Condition    0 21 9 47
+Site         66.19.162.53
+Spell        95 'armor'
+Spell        95 'black fist'
+Spell        51 'black hand'
+Spell        28 'blazeward'
+Spell        19 'blindness'
+Spell        40 'burning hands'
+Spell        35 'cancelation'
+Spell        95 'caustic fount'
+Spell        74 'charm person'
+Spell        21 'chill touch'
+Spell        68 'continual light'
+Spell        31 'create fire'
+Spell        84 'create spring'
+Spell        62 'demonskin'
+Spell        95 'detect invis'
+Spell        82 'dragon wit'
+Spell        66 'dragonskin'
+Spell        19 'enchant weapon'
+Spell        19 'energy drain'
+Spell        19 'ethereal fist'
+Spell        49 'extradimensional portal'
+Spell        19 'faerie fog'
+Spell        66 'flight'
+Spell        95 'galvanic whip'
+Spell        66 'iceshield'
+Spell        95 'identify'
+Spell        50 'invis'
+Spell        95 'kindred strength'
+Spell        85 'lightning bolt'
+Spell        24 'liquid skin'
+Spell        53 'locate object'
+Spell        72 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        44 'pass door'
+Spell        95 'portal'
+Spell        19 'razorbait'
+Spell        26 'recharge'
+Spell        65 'sagacity'
+Spell        72 'shield'
+Spell        88 'shocking grasp'
+Spell        19 'sleep'
+Spell        84 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        84 'stone skin'
+Spell        95 'summon'
+Spell        19 'swordbait'
+Spell        29 'teleport'
+Spell        95 'trollish vigor'
+Spell        56 'ventriloquate'
+Spell        19 'weaken'
+Spell        95 'word of recall'
+Skill        42 'aid'
+Skill        39 'brew'
+Skill        19 'cook'
+Skill        29 'cuff'
+Skill        30 'dual wield'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        81 'meditate'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        42 'trance'
+Weapon       80 'bludgeons'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'kindred strength'   6   3   1 0
+Killed       21037 3
+Killed       24819 1
+Killed       24818 1
+Killed       24820 1
+Killed       24815 2
+Killed       24814 2
+Killed       24817 1
+Killed       24808 1
+Killed       24844 2
+Killed       24843 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         42947
+ExtraFlags   596
+WearLoc      20
+Level        28
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         42934
+WearLoc      1
+Level        21
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42978
+WearLoc      19
+Level        25
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      3
+Level        27
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         42934
+WearLoc      2
+Level        23
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      4
+Level        24
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24802
+WearLoc      16
+Level        32
+Values       12 11 32 7 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         15131
+ExtraFlags   0
+WearLoc      23
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+WearLoc      8
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24802
+WearLoc      18
+Level        35
+Values       9 9 33 7 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        37
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         647
+Level        30
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         645
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         639
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         620
+Level        32
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         647
+Level        32
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        9
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8914
+Level        11
+Values       16 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         1
+Vnum         8916
+Level        10
+Values       3 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        10
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8919
+Level        9
+Values       6 -1 60 165 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8917
+Level        9
+Values       16 -1 -1 68 0 0
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         1
+Vnum         8918
+Level        18
+Values       6 -1 -1 59 0 0
+Spell 3      'cure light'
+End
+
+#OBJECT
+Nest         1
+Vnum         8919
+Level        19
+Values       5 -1 60 165 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        12
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8914
+Level        11
+Values       14 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         1
+Vnum         8916
+Level        11
+Values       5 -1 138 165 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         5105
+Level        20
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5101
+Level        12
+Values       12 3 15 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5103
+Level        15
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5102
+Level        14
+Values       12 2 12 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        11
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8919
+Level        11
+Values       5 -1 60 165 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         8917
+Level        12
+Values       15 -1 -1 68 0 0
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         1
+Vnum         8910
+Level        18
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8911
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8913
+Level        18
+Values       15 -1 -1 22 0 0
+Spell 3      'bless'
+End
+
+#OBJECT
+Nest         1
+Vnum         8915
+Level        18
+Values       6 -1 -1 23 0 0
+Spell 3      'blindness'
+End
+
+#OBJECT
+Nest         1
+Vnum         5104
+Level        22
+Values       12 2 16 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5111
+Level        21
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        15
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21063
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        14
+Values       10 3 16 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10318
+Level        7
+Values       12 3 11 3 0 0
+End
+
+#OBJECT
+Nest         1
+Count        17
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        7
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24806
+Level        37
+Values       12 11 31 10 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1504
+Level        10
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1505
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14717
+Level        45
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14716
+Level        47
+Values       12 14 43 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14715
+Level        46
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       15 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Name         flask potion caustic fount~
+ShortDescr   a caustic fount potion~
+Description  A strange potion labelled 'caustic fount' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       37 34 -1 -1 0 0
+Spell 1      'caustic fount'
+End
+
+#OBJECT
+Nest         1
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         35
+Level        15
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        12
+Name         flask potion quantum spike~
+ShortDescr   a quantum spike potion~
+Description  A strange potion labelled 'quantum spike' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       66 171 -1 -1 0 0
+Spell 1      'quantum spike'
+End
+
+#OBJECT
+Vnum         44
+Level        66
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Count        4
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21020
+Values       10 0 0 0 0 0
+End
+
+#END

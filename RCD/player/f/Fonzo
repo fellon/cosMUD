@@ -1,0 +1,208 @@
+#PLAYER
+Version      3
+Name         Fonzo~
+Sex          1
+Class        2
+Race         14
+Languages    1 1
+Level        3
+Played       8753
+Room         10319
+HpManaMove   37 37 118 118 220 120
+Gold         10219
+Exp          9910
+Height          41
+Weight          109
+Act          637535816
+AffectedBy   528
+Position     112
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        60
+Wimpy        5
+ICEListen ~
+Resistant    8
+Susceptible  1
+Mentalstate  0
+Password     FouxViH3kJ3AI~
+Title         the Filcher~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       47
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 16 14 16 12 12 13
+AttrMod      0 0 0 3 0 0 0
+Condition    0 40 29 13
+Site         207.202.214.132
+Tongue       100 'common'
+AffectData   'shield' 364 -20  17 0
+AffectData   'slink' 466   3   2 0
+AffectData   'bless' 380   3  18 0
+AffectData   'bless' 380  -3  24 0
+AffectData   'armor' 233 -20  17 0
+Killed       10300 3
+Killed       10301 1
+Killed       10302 1
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10322
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       20 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       19 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       11 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         20
+Values       66 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10316
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#END

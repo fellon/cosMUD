@@ -1,0 +1,899 @@
+#PLAYER
+Version      3
+Name         Nicremog~
+Description  as you look at him you see he is the one to save the world
+as you look more closely
+you see you thought wrong :)
+~
+Sex          1
+Class        3
+Race         6
+Species      0
+Languages    16423 1
+Level        87
+Played       1064402
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   1249 1989 882 100 1382 1218
+Gold         35276678
+Exp          738599694
+Height          108
+Weight          604
+Act          570426952&4
+AffectedBy   524800
+Position     112
+Style     2
+Practice     78
+SavingThrows 0 0 0 0 0
+Alignment    -782
+Favor	       801
+Balance      0
+Glory        26
+MGlory       26
+Hitroll      0
+Damroll      0
+Armor        90
+ICEListen (null)~
+Resistant    32
+Mentalstate  0
+Password     NidoYtz0aWL36~
+Title         the Corporal~
+Lastname ~
+Bio          A silent corner
+This room is used as a death trap. Do you know what is a death trap ?
+Well .. you will, someday :)
+ 
+Your blast **** SMITES **** a warg! [1046]
+Your blast PULVERIZES a citizen of Luskan! [1089]
+Your blast **** SMITES **** an assassin! [1200]
+You injure The Hierophant! [7]
+Your blast **** SMITES **** A Tomb Raider! [1029]
+Your blast **** SMITES **** A Tomb Raider! [1116]
+The corpse of the Executioner lies here.
+Your blast _demolishes_ The Master Servant! [1300]
+~
+AuthedBy     Relgar~
+Pagerlen     26
+Deity	     Soleran~
+Clan         Guild of Warriors~
+Flags        98562
+PKills       4
+PDeaths      3
+MKills       10311
+MDeaths      175
+ArenaWins    10
+ArenaKills   39
+ArenaDeaths  26
+IllegalPK    0
+AttrPerm     18 11 11 11 16 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 14 95
+Site         144.122.171.62
+Skill        41 'adrenaline'
+Skill        34 'aid'
+Skill        85 'bash'
+Skill        95 'bearhug'
+Skill        17 'cook'
+Skill        85 'disarm'
+Skill        85 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        90 'grip'
+Skill        90 'headbutt'
+Skill        95 'hitall'
+Skill        95 'kick'
+Skill        90 'lunge'
+Skill        100 'parry'
+Skill        80 'pummel'
+Skill        20 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        84 'search'
+Skill        95 'second attack'
+Skill        90 'shoulder'
+Skill        85 'stun'
+Skill        95 'third attack'
+Skill        85 'track'
+Weapon       100 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+Tongue       99 'elvish'
+Tongue       99 'goblin'
+Tongue       100 'ogre'
+Tongue       16 'orcish'
+AffectData   'flight' 1619   0  26 524288
+Killed       21037 1
+Killed       215 1
+Killed       216 1
+Killed       237 2
+Killed       236 2
+Killed       235 3
+Killed       234 3
+Killed       229 2
+Killed       228 2
+Killed       225 2
+Killed       60879 1
+Killed       60889 2
+Killed       60881 2
+Killed       619 2
+Killed       21065 1
+Killed       21064 1
+Killed       42909 1
+Killed       7900 1
+Killed       21069 1
+Killed       21068 1
+Killed       231 1
+Killed       233 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         25559
+WearLoc      6
+Level        47
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         25538
+WearLoc      14
+Level        43
+Values       9 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25538
+WearLoc      15
+Level        43
+Cost         0
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         15165
+WearLoc      8
+Level        58
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         12508
+WearLoc      12
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         12501
+WearLoc      12
+Level        52
+Cost         0
+Values       16 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         25518
+WearLoc      12
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25507
+WearLoc      12
+Level        35
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         25568
+WearLoc      5
+Level        53
+Values       39 40 0 0 0 0
+End
+
+#OBJECT
+Vnum         12502
+WearLoc      19
+Level        52
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        53
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         25514
+WearLoc      7
+Level        42
+Values       18 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         237
+WearLoc      10
+Level        80
+Values       18 21 0 0 0 0
+End
+
+#OBJECT
+Vnum         235
+WearLoc      13
+Level        77
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         12503
+WearLoc      20
+Level        52
+Values       32 33 0 0 0 0
+End
+
+#OBJECT
+Vnum         46923
+WearLoc      9
+Level        51
+Values       13 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         46900
+WearLoc      16
+Level        53
+Values       10 12 144 6 0 0
+End
+
+#OBJECT
+Vnum         46900
+WearLoc      18
+Level        51
+Values       10 12 144 6 0 0
+End
+
+#OBJECT
+Vnum         13027
+WearLoc      22
+Level        15
+Values       157 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        37
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         13035
+Level        7
+Values       1 1 1 -1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         235
+Level        95
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         232
+Level        76
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46266
+Level        20
+Values       12 3 18 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        59
+Values       50 19 14 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         234
+Level        92
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25565
+Level        47
+Values       12 14 41 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         46942
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25554
+Level        46
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25538
+Level        45
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25538
+Level        44
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         60911
+Level        4
+Values       35 187 206 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         2461
+Level        7
+Values       3 138 109 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'flight'
+End
+
+#OBJECT
+Nest         1
+Vnum         25560
+Level        47
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25559
+Level        47
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25551
+Level        46
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2461
+Level        7
+Values       7 138 109 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'flight'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         60911
+Level        4
+Values       36 187 206 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Vnum         25534
+Level        44
+Values       21 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25527
+Level        44
+Values       9 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25531
+Level        42
+Values       1 12 36 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25530
+Level        40
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25507
+Level        36
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25508
+Level        36
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         201
+Level        67
+Values       11 15 14 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Nest         1
+Vnum         60911
+Level        4
+Values       33 187 206 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         60911
+Level        4
+Values       34 187 206 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        58
+Values       50 20 17 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         25537
+Level        42
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25555
+Level        48
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25551
+Level        46
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         235
+Level        91
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        57
+Values       50 20 16 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         201
+Level        67
+Values       12 16 16 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Nest         1
+Vnum         201
+Level        69
+Values       10 14 14 278 0 0
+Spell 3      'fly'
+End
+
+#OBJECT
+Nest         1
+Vnum         232
+Level        77
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25541
+Level        44
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25551
+Level        44
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48009
+Level        57
+Values       30 73 122 -1 0 0
+Spell 1      'dispel evil'
+Spell 2      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         48009
+Level        57
+Values       29 73 122 -1 0 0
+Spell 1      'dispel evil'
+Spell 2      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        57
+Values       50 21 14 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         9939
+Level        32
+Values       2 25 625 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24505
+Level        52
+Values       16 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         235
+Level        94
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         235
+Level        93
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         235
+Level        92
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        11
+Name         flask potion flight~
+ShortDescr   a flight potion~
+Description  A strange potion labelled 'flight' sizzles in a glass flask.~
+Vnum         35
+Level        15
+Values       50 109 -1 -1 0 0
+Spell 1      'flight'
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         2461
+Level        7
+Values       6 138 109 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'flight'
+End
+
+#OBJECT
+Nest         1
+Vnum         25559
+Level        46
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         234
+Level        95
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         233
+Level        96
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        70
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        26
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Count        111
+Vnum         60909
+Level        12
+Values       20 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        56
+Vnum         60909
+Level        12
+Values       21 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         60909
+Level        12
+Values       18 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         60909
+Level        12
+Values       22 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        77
+Vnum         60909
+Level        12
+Values       19 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        19
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Count        5
+Vnum         2461
+Level        7
+Values       5 138 109 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'flight'
+End
+
+#OBJECT
+Count        4
+Vnum         2461
+Level        7
+Values       4 138 109 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'flight'
+End
+
+#OBJECT
+Vnum         235
+Level        93
+Values       1 1 0 0 0 0
+End
+
+#ALIAS
+Name     1~
+Commands bearhug undead~
+End
+
+#ALIAS
+Name     8~
+Commands supp uplift~
+End
+
+#ALIAS
+Name     9~
+Commands flee~
+End
+
+#ALIAS
+Name     =~
+Commands wear all~
+End
+
+#ALIAS
+Name     -~
+Commands get all Nicremog~
+End
+
+#ALIAS
+Name     7~
+Commands roundhouse~
+End
+
+#ALIAS
+Name     3~
+Commands elbow~
+End
+
+#ALIAS
+Name     2~
+Commands hitall~
+End
+
+#ALIAS
+Name     4~
+Commands disarm~
+End
+
+#ALIAS
+Name     5~
+Commands stun~
+End
+
+#ALIAS
+Name     6~
+Commands headbutt~
+End
+
+#ALIAS
+Name     0~
+Commands pummel~
+End
+
+#ALIAS
+Name     11~
+Commands get blackrazor ; wear blackrazor ;get blackrazor ; wear blackrazor~
+End
+
+#ALIAS
+Name     qq~
+Commands q heal por~
+End
+
+#ALIAS
+Name     111~
+Commands put all por~
+End
+
+#ALIAS
+Name     55~
+Commands drop 1 coin~
+End
+
+#ALIAS
+Name     ~
+Commands drop 1 gold~
+End
+
+#ALIAS
+Name     77~
+Commands buy 15 heal ; get all shop ; drop shop ; put all por ; sac shop~
+End
+
+#END

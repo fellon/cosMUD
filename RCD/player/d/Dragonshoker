@@ -1,0 +1,367 @@
+#PLAYER
+Version      3
+Name         Dragonshoker~
+Description  A big lizard man that could be easily mistaken by a fire dragon, his body
+irradiates healing energy.
+~
+Sex          1
+Class        1
+Race         13
+Species      0
+Languages    5 1
+Level        37
+Played       551565
+Room         3000102
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   588 508 47 272 505 505
+Gold         7551156
+Exp          42331403
+Height          81
+Weight          226
+Act          637535816&4
+AffectedBy   -2147483648
+Position     112
+Style     4
+Practice     54
+SavingThrows 0 0 0 0 0
+Alignment    -950
+Favor	       1653
+Balance      0
+Glory        8
+MGlory       8
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        50
+ICEListen ~
+Resistant    64
+Mentalstate  -4
+Password     DrECm6ZIbQxQw~
+Title         the Deacon~
+Lastname &C Braveheart~
+Bio          Dragonshoker Braveheart was born 18 years before 
+the Cataclysm, he managed to get out thanx to a friend of him
+named pyroshoker a dragon who made a magic portal and saved a few
+but the portal had an astral mistake so everybody was 
+sent to diferent dimensions, Dragonshoker arrived Darkhaven
+where he enlisted in the RDAF order.
+He spends every second of his life searching Pyroshoker.
+ 
+ 
+ 
+Michael Jackson is DEAD!!
+You receive 60500 experience points.
+Michael Jackson hits the ground ... DEAD
+~
+Prompt       &Y%h/%Hhp &C%m/%Mm &G%v/%Vmv &W%X TNL~
+FPrompt	     &Y%h/%Hhp &C%m/%Mm &G%v/%Vmv &W%X TNL %c~
+Pagerlen     25
+Deity	     Sikkuh~
+Clan         Guild of Clerics~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       1147
+MDeaths      37
+ArenaWins    0
+ArenaKills   2
+ArenaDeaths  9
+IllegalPK    0
+AttrPerm     14 14 14 14 16 9 10
+AttrMod      4 4 0 0 0 0 0
+Condition    0 0 0 44
+Site         200.64.220.79
+Spell        19 'alertness'
+Spell        35 'aqua breath'
+Spell        60 'armor'
+Spell        95 'benediction'
+Spell        62 'bless'
+Spell        95 'blindness'
+Spell        80 'call lightning'
+Spell        29 'cancelation'
+Spell        95 'cause critical'
+Spell        19 'cause light'
+Spell        95 'cause serious'
+Spell        35 'charged beacon'
+Spell        71 'continual light'
+Spell        95 'control weather'
+Spell        95 'create food'
+Spell        39 'create symbol'
+Spell        95 'create water'
+Spell        56 'cure blindness'
+Spell        95 'cure critical'
+Spell        95 'cure light'
+Spell        36 'cure poison'
+Spell        95 'cure serious'
+Spell        36 'curse'
+Spell        19 'detect evil'
+Spell        57 'detect hidden'
+Spell        75 'detect invis'
+Spell        34 'detect magic'
+Spell        19 'detect poison'
+Spell        27 'detect traps'
+Spell        63 'dispel evil'
+Spell        95 'dream'
+Spell        95 'earthquake'
+Spell        95 'faerie fire'
+Spell        26 'faerie fog'
+Spell        19 'fatigue'
+Spell        95 'flamestrike'
+Spell        79 'flight'
+Spell        59 'float'
+Spell        20 'fortify'
+Spell        19 'grounding'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        95 'identify'
+Spell        72 'indignation'
+Spell        44 'infravision'
+Spell        33 'know alignment'
+Spell        19 'lethargy'
+Spell        59 'locate object'
+Spell        32 'major invocation'
+Spell        87 'mass invis'
+Spell        95 'midas touch'
+Spell        28 'minor invocation'
+Spell        44 'poison'
+Spell        42 'protection'
+Spell        55 'refresh'
+Spell        95 'remove curse'
+Spell        19 'remove trap'
+Spell        19 'restoration'
+Spell        46 'sanctuary'
+Spell        64 'scry'
+Spell        28 'shockshield'
+Spell        95 'summon'
+Spell        49 'transport'
+Spell        50 'unravel defense'
+Spell        34 'uplift'
+Spell        95 'word of recall'
+Skill        21 'aid'
+Skill        27 'climb'
+Skill        19 'cook'
+Skill        80 'cuff'
+Skill        22 'dig'
+Skill        30 'dual wield'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        43 'mount'
+Skill        19 'rescue'
+Skill        19 'scan'
+Skill        43 'search'
+Skill        50 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Weapon       95 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       95 'long blades'
+Weapon       50 'pugilism'
+Weapon       60 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       60 'dwarven'
+AffectData   'dragon wit' 121   4   3 0
+AffectData   'kindred strength' 121   4   1 0
+Killed       15102 1
+Killed       15106 1
+Killed       15121 1
+Killed       15101 2
+Killed       15110 8
+Killed       15116 7
+Killed       15109 1
+Killed       24819 1
+Killed       24820 1
+Killed       24837 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        8
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        16
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         3000111
+Values       125 102 0 0 0 0
+End
+
+#OBJECT
+Vnum         5112
+WearLoc      1
+Level        25
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+WearLoc      5
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      2
+Level        33
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        33
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         271
+Level        69
+Values       600 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21004
+Level        8
+Values       22 182 182 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        17
+Vnum         3000112
+Level        15
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        16
+Vnum         3000112
+Level        15
+Values       48 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         3509
+WearLoc      8
+Level        7
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         25509
+WearLoc      18
+Level        34
+Values       12 11 32 6 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        9
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24876
+Values       30 15 10 0 0 0
+End
+
+#OBJECT
+Vnum         14753
+Level        46
+Values       10 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24804
+ExtraFlags   8438273
+WearLoc      16
+Level        32
+Values       11 10 31 8 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         2329
+Level        27
+Values       11 6 18 6 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         15127
+WearLoc      6
+Level        37
+Values       11 11 0 0 0 0
+End
+
+#END

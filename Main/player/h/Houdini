@@ -1,0 +1,108 @@
+#PLAYER
+Version      3
+Name         Houdini~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      1
+Languages    1 1
+Level        5
+Played       9938
+Room         10378
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   4 51 169 169 152 152
+Gold         27051
+Exp          108926
+Height          60
+Weight          116
+Act          570427000
+AffectedBy   513
+Position     104
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       -2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      -4
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -84
+Password     Ho9.jshuvJy9g~
+Title         the Apprentice Mage~
+Lastname ~
+AuthedBy     Andy~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       55
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 17 14 15 11 15 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         207.202.214.132
+Spell        89 'black hand'
+Spell        19 'detect invis'
+Spell        19 'galvanic whip'
+Spell        19 'invis'
+Spell        95 'magic missile'
+Spell        19 'weaken'
+Skill        19 'dual wield'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'blindness' 226  -4  18 1
+Killed       10397 1
+Killed       10396 14
+i3invis	0
+End
+
+#ALIAS
+Name     mm~
+Commands cast magic~
+End
+
+#ALIAS
+Name     ll~
+Commands cast 'black hand'~
+End
+
+#ALIAS
+Name     kk~
+Commands detect invis~
+End
+
+#ALIAS
+Name     pp~
+Commands dual wield~
+End
+
+#ALIAS
+Name     i~
+Commands invis~
+End
+
+#ALIAS
+Name     w~
+Commands weaken~
+End
+
+#ALIAS
+Name     ii~
+Commands invis~
+End
+
+#ALIAS
+Name     ww~
+Commands weaken~
+End
+
+#END

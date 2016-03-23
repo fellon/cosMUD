@@ -1,0 +1,63 @@
+#PLAYER
+Version      3
+Name         Saffron~
+Description  ~
+Sex          0
+Class        0
+Race         4
+Species      8
+Languages    1 1
+Level        2
+Played       2329
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   27 22 123 123 203 113
+Gold         2617
+Exp          6074
+Height          21
+Weight          37
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Susceptible  16
+Mentalstate  0
+Password     Sas628Z.XcaKU~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Relgar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       6
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 15 15 15 11 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 21 21 10
+Site         63.169.107.252
+Spell        65 'magic missile'
+Spell        19 'ventriloquate'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'shield' 274 -20  17 0
+Killed       10344 1
+Killed       10320 2
+i3invis	0
+End
+
+#END

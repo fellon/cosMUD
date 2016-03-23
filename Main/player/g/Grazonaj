@@ -1,0 +1,964 @@
+#PLAYER
+Version      3
+Name         Grazonaj~
+Description  ~
+Sex          1
+Class        6
+Race         9
+Species      0
+Languages    655373 1
+Level        56
+Played       335625
+Room         21002
+Memorized		60658 60660 0 0 0 0 0 0
+HpManaMove   733 957 600 579 814 815
+Gold         2748124
+Exp          193822077
+Height          71
+Weight          159
+Act          570426952&4
+AffectedBy   3244604
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -7
+Alignment    1000
+Favor	       2429
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      7
+Damroll      0
+Armor        60
+Wimpy        219
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     Gr6Eo60hwbfz2~
+Title        , last of the Sindar~
+Lastname  Caranthir~
+AuthedBy     Fellon~
+Prompt       ^x&C<&R%h&C.&r%H&Chp &B%m&C.&c%M&Cmn &w&W%v&C.&w%V&Cmv [%a] &Y%g&Cgp -&G%X&Cxp &p%A&C> &g~
+FPrompt	     ^x&C<^X&R%h^x&C.&r%H&Chp ^X&B%m^x&C.&c%M&Cmn &w&W%v&C.&w%V&Cmv [%a] &Y%g&Cgp -^X&G%X^x&Cxp &R%C&C> &g~
+Pagerlen     28
+Deity	     Corellon~
+Clan         Guild of Rangers~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1451
+MDeaths      16
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     15 13 12 13 11 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 18 2 66
+Site         207.202.214.132
+Spell        64 'aqua breath'
+Spell        85 'armor'
+Spell        95 'barkskin'
+Spell        80 'bless'
+Spell        65 'blindness'
+Spell        62 'cancelation'
+Spell        85 'charm person'
+Spell        90 'continual light'
+Spell        47 'control weather'
+Spell        90 'create fire'
+Spell        90 'create spring'
+Spell        62 'create water'
+Spell        51 'cure blindness'
+Spell        85 'cure critical'
+Spell        85 'cure light'
+Spell        66 'cure poison'
+Spell        80 'cure serious'
+Spell        90 'detect evil'
+Spell        90 'detect hidden'
+Spell        85 'detect invis'
+Spell        80 'detect magic'
+Spell        44 'detect poison'
+Spell        55 'dream'
+Spell        90 'faerie fire'
+Spell        38 'fletch'
+Spell        80 'float'
+Spell        75 'identify'
+Spell        65 'infravision'
+Spell        80 'invis'
+Spell        90 'kindred strength'
+Spell        56 'know alignment'
+Spell        77 'locate object'
+Spell        80 'pass door'
+Spell        85 'poison'
+Spell        29 'refresh'
+Spell        43 'remove invis'
+Spell        90 'shield'
+Spell        18 'sleep'
+Spell        80 'stone skin'
+Spell        95 'word of recall'
+Skill        18 'aid'
+Skill        18 'cook'
+Skill        95 'cuff'
+Skill        18 'detrap'
+Skill        90 'disarm'
+Skill        90 'dual wield'
+Skill        80 'elbow'
+Skill        75 'enhanced damage'
+Skill        70 'fourth attack'
+Skill        75 'grip'
+Skill        90 'hide'
+Skill        90 'kick'
+Skill        90 'parry'
+Skill        60 'pick lock'
+Skill        94 'pigeon'
+Skill        18 'rescue'
+Skill        65 'roundhouse'
+Skill        90 'scan'
+Skill        89 'search'
+Skill        90 'second attack'
+Skill        80 'shoulder'
+Skill        90 'sneak'
+Skill        90 'third attack'
+Skill        90 'track'
+Weapon       80 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       85 'long blades'
+Weapon       18 'missile weapons'
+Weapon       90 'pugilism'
+Weapon       40 'short blades'
+Weapon       90 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'dwarven'
+Tongue       100 'elvish'
+Tongue       99 'gith'
+Tongue       99 'halfling'
+Tongue       54 'pixie'
+AffectData   'sneak' 743   0  26 32768
+AffectData   'detect invis' 829   0  26 8
+AffectData   'float' 832   0  26 2097152
+AffectData   'detect hidden' 833   0  26 32
+AffectData   'detect evil' 834   0  26 4
+AffectData   'armor' 260 -20  17 0
+AffectData   'bless' 989  -7  24 0
+AffectData   'bless' 989   7  18 0
+AffectData   'shield' 1103 -20  17 0
+AffectData   'detect magic' 1106   0  26 16
+AffectData   'pass door' 199   0   0 1048576
+Killed       14744 1
+Killed       14710 4
+Killed       14722 6
+Killed       14746 1
+Killed       14739 2
+Killed       1202 7
+Killed       14732 1
+Killed       14729 2
+Killed       14741 4
+Killed       14742 4
+Killed       3506 1
+Killed       3501 3
+Killed       21052 1
+Killed       15125 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         8900
+WearLoc      9
+Level        20
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         9829
+WearLoc      6
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         654
+WearLoc      5
+Level        20
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2832
+WearLoc      19
+Level        32
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         41423
+WearLoc      1
+Level        26
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+WearLoc      13
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         637
+WearLoc      11
+Level        24
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         48007
+WearLoc      21
+Level        49
+Values       12 6 42 14 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        27
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         5230
+WearLoc      17
+Level        1
+Cost         0
+End
+
+#OBJECT
+Vnum         14750
+WearLoc      16
+Level        51
+Values       12 14 44 3 0 0
+End
+
+#OBJECT
+Vnum         15143
+WearLoc      3
+Level        28
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        65
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#ALIAS
+Name     5~
+Commands hide;sneak~
+End
+
+#ALIAS
+Name     55~
+Commands hide;sneak;cast invis~
+End
+
+#ALIAS
+Name     11~
+Commands c c~
+End
+
+#ALIAS
+Name     78~
+Commands pick n;unl n;op n~
+End
+
+#ALIAS
+Name     8~
+Commands n~
+End
+
+#ALIAS
+Name     6~
+Commands e~
+End
+
+#ALIAS
+Name     88~
+Commands u~
+End
+
+#ALIAS
+Name     66~
+Commands drink spring~
+End
+
+#ALIAS
+Name     33~
+Commands get meat pouch;eat meat~
+End
+
+#ALIAS
+Name     72~
+Commands pick s;unl s;op s~
+End
+
+#ALIAS
+Name     2~
+Commands s~
+End
+
+#ALIAS
+Name     722~
+Commands unl d;op d;op floor~
+End
+
+#ALIAS
+Name     22~
+Commands d~
+End
+
+#ALIAS
+Name     4~
+Commands w~
+End
+
+#ALIAS
+Name     3~
+Commands se~
+End
+
+#ALIAS
+Name     1~
+Commands sw~
+End
+
+#ALIAS
+Name     74~
+Commands pic w;unl w;op w~
+End
+
+#ALIAS
+Name     9~
+Commands ne~
+End
+
+#ALIAS
+Name     48~
+Commands scan n~
+End
+
+#ALIAS
+Name     46~
+Commands scan e~
+End
+
+#ALIAS
+Name     44~
+Commands scan w~
+End
+
+#ALIAS
+Name     422~
+Commands scan d~
+End
+
+#ALIAS
+Name     42~
+Commands scan s~
+End
+
+#ALIAS
+Name     63~
+Commands cast 'create spring'~
+End
+
+#ALIAS
+Name     12~
+Commands c kind~
+End
+
+#ALIAS
+Name     89~
+Commands kic~
+End
+
+#ALIAS
+Name     98~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     87~
+Commands elb~
+End
+
+#ALIAS
+Name     7~
+Commands nw~
+End
+
+#ALIAS
+Name     65~
+Commands drink dragonskin~
+End
+
+#ALIAS
+Name     62~
+Commands fill dragonskin spring~
+End
+
+#ALIAS
+Name     64~
+Commands get dragonskin pouch~
+End
+
+#ALIAS
+Name     61~
+Commands put dragonskin pouch~
+End
+
+#ALIAS
+Name     0~
+Commands look~
+End
+
+#ALIAS
+Name     00~
+Commands inv~
+End
+
+#ALIAS
+Name     05~
+Commands eq~
+End
+
+#ALIAS
+Name     04~
+Commands l i pouch~
+End
+
+#ALIAS
+Name     99~
+Commands hide;sac corpse;save~
+End
+
+#ALIAS
+Name     97~
+Commands look in corpse~
+End
+
+#ALIAS
+Name     06~
+Commands att~
+End
+
+#ALIAS
+Name     03~
+Commands worth~
+End
+
+#ALIAS
+Name     09~
+Commands score~
+End
+
+#ALIAS
+Name     51~
+Commands c invis~
+End
+
+#ALIAS
+Name     52~
+Commands hide~
+End
+
+#ALIAS
+Name     53~
+Commands sneak~
+End
+
+#ALIAS
+Name     488~
+Commands scan u~
+End
+
+#ALIAS
+Name     17~
+Commands c armor~
+End
+
+#ALIAS
+Name     18~
+Commands c bless~
+End
+
+#ALIAS
+Name     19~
+Commands c shield~
+End
+
+#ALIAS
+Name     14~
+Commands c 'detect i~
+End
+
+#ALIAS
+Name     15~
+Commands c 'detect h~
+End
+
+#ALIAS
+Name     16~
+Commands c 'detect e~
+End
+
+#ALIAS
+Name     10~
+Commands a~
+End
+
+#ALIAS
+Name     54~
+Commands hide;cast invis~
+End
+
+#ALIAS
+Name     76~
+Commands pick e;unl e;op e~
+End
+
+#ALIAS
+Name     1.~
+Commands c a~
+End
+
+#ALIAS
+Name     0.~
+Commands grou~
+End
+
+#ALIAS
+Name     50~
+Commands vis~
+End
+
+#ALIAS
+Name     08~
+Commands st~
+End
+
+#ALIAS
+Name     07~
+Commands sit~
+End
+
+#ALIAS
+Name     02~
+Commands sle~
+End
+
+#ALIAS
+Name     01~
+Commands res~
+End
+
+#ALIAS
+Name     13~
+Commands c wo~
+End
+
+#ALIAS
+Name     84~
+Commands shoul~
+End
+
+#ALIAS
+Name     85~
+Commands cuf~
+End
+
+#ALIAS
+Name     86~
+Commands roundhouse~
+End
+
+#ALIAS
+Name     sacg~
+Commands sac torch;sac ring;sac crested;sac leggings;sac boots;sac gauntlets;sac sleeves;sac longsword;sac iron;sac iron;sac iron;sac iron;sac iron;sac iron~
+End
+
+#ALIAS
+Name     111~
+Commands c 'cure c~
+End
+
+#ALIAS
+Name     49~
+Commands scan ne~
+End
+
+#ALIAS
+Name     41~
+Commands scan sw~
+End
+
+#ALIAS
+Name     [a~
+Commands !~
+End
+
+#ALIAS
+Name     1+~
+Commands c barkskin~
+End
+
+#ALIAS
+Name     67~
+Commands c cr~
+End
+
+#ALIAS
+Name     68~
+Commands c cont;drop ball~
+End
+
+#ALIAS
+Name     69~
+Commands get meat pouch;drop meat~
+End
+
+#ALIAS
+Name     333~
+Commands get meat rune-covered;eat meat~
+End
+
+#ALIAS
+Name     699~
+Commands get meat rune-covered;drop meat~
+End
+
+#ALIAS
+Name     644~
+Commands get dragonskin rune-covered~
+End
+
+#ALIAS
+Name     611~
+Commands put dragonskin rune-covered~
+End
+
+#ALIAS
+Name     044~
+Commands l  i rune-covered~
+End
+
+#ALIAS
+Name     47~
+Commands scan nw~
+End
+
+#ALIAS
+Name     3.~
+Commands get pot pou;q pot~
+End
+
+#ALIAS
+Name     43~
+Commands scan se~
+End
+
+#ALIAS
+Name     3..~
+Commands get pot rune-covered;q pot~
+End
+
+#ALIAS
+Name     787~
+Commands get key;unl n;open n;drop key~
+End
+
+#ALIAS
+Name     1-~
+Commands c stone~
+End
+
+#ALIAS
+Name     pyr~
+Commands w;w;w;s;s;w;s;e;s;s;e;n;open stone~
+End
+
+#ALIAS
+Name     83~
+Commands disarm~
+End
+
+#ALIAS
+Name     81~
+Commands disarm~
+End
+
+#ALIAS
+Name     meatt~
+Commands buy 20 meat;drop bag;get 5 meat bag;put 5 meat pou;get 5 meat bag;put 5 meat pou;get 5 meat bag;put 5 meat pou;get 5 meat bag;put 5 meat pou;sac bag~
+End
+
+#ALIAS
+Name     60~
+Commands drop 1 coin~
+End
+
+#ALIAS
+Name     166~
+Commands c 'detect m~
+End
+
+#ALIAS
+Name     ow~
+Commands c 'cure c' hag~
+End
+
+#ALIAS
+Name     0..~
+Commands who~
+End
+
+#ALIAS
+Name     fletch~
+Commands get flint;cast fletch~
+End
+
+#ALIAS
+Name     456~
+Commands save~
+End
+
+#ALIAS
+Name     31~
+Commands get violet pou;q violet~
+End
+
+#ALIAS
+Name     32~
+Commands get blue pou;q blue~
+End
+
+#ALIAS
+Name     20~
+Commands who~
+End
+
+#ALIAS
+Name     21~
+Commands whe~
+End
+
+#ALIAS
+Name     121~
+Commands c float~
+End
+
+#ALIAS
+Name     788~
+Commands op u~
+End
+
+#ALIAS
+Name     123~
+Commands c 'cure s~
+End
+
+#ALIAS
+Name     95~
+Commands hide;save~
+End
+
+#ALIAS
+Name     meat~
+Commands buy 5 meat;drop bag;get 5 meat bag;sac bag~
+End
+
+#ALIAS
+Name     96~
+Commands save~
+End
+
+#ALIAS
+Name     654~
+Commands c 'create water' dragonskin~
+End
+
+#ALIAS
+Name     57~
+Commands c pass~
+End
+
+#ALIAS
+Name     zx~
+Commands gl argon~
+End
+
+#ALIAS
+Name     xc~
+Commands c 'cure c' argon~
+End
+
+#ALIAS
+Name     zc~
+Commands smie~
+End
+
+#ALIAS
+Name     999~
+Commands hide;sac corpse;save;c invis~
+End
+
+#ALIAS
+Name     bp~
+Commands get 8 meat bag;put 8 meat pou~
+End
+
+#ALIAS
+Name     camp~
+Commands c cr;sit;,warms his hands by the campfire.~
+End
+
+#ALIAS
+Name     square~
+Commands e;e;e;e;e;e;e;e;e;e~
+End
+
+#ALIAS
+Name     gf~
+Commands w;w;w;w;w;w;w;w;w;w~
+End
+
+#ALIAS
+Name     mtdoom~
+Commands e;e;e;e;s;s;s;s;nw;n;n;n~
+End
+
+#ALIAS
+Name     ng~
+Commands e;e;e;e;n;n;n;n;n;n;e;e;e;e;e~
+End
+
+#ALIAS
+Name     ngxr~
+Commands e;e;e;e;e;s;s;s;s;s;s;e;e;flip graz~
+End
+
+#ALIAS
+Name     roc1~
+Commands s;s;e;e;e;e;e;e;e;e;e;e~
+End
+
+#ALIAS
+Name     roc2~
+Commands e;e;e;e;e;e;e;e;e;e;e;e;s~
+End
+
+#ALIAS
+Name     hoch~
+Commands s;w;w;s;s;e;e;s~
+End
+
+#ALIAS
+Name     ii~
+Commands c infrav~
+End
+
+#ALIAS
+Name     100~
+Commands c canc~
+End
+
+#ALIAS
+Name     art~
+Commands e;e;e;e;e;e;s;s;s;s;e;e;n;n~
+End
+
+#ALIAS
+Name     622~
+Commands c 'create water' dragonskin~
+End
+
+#ALIAS
+Name     26~
+Commands sleep;save~
+End
+
+#ALIAS
+Name     name1~
+Commands con a;con b;con c;con d;con e; con f;con 2.g;con h;con i;con j;con k;con l;con m~
+End
+
+#ALIAS
+Name     name2~
+Commands con n;con o;con p;con q;con r;con s;con t;con u;con v;con w;con x;con y;con z~
+End
+
+#END

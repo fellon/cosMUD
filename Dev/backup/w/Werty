@@ -1,0 +1,91 @@
+#PLAYER
+Version      3
+Name         Werty~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Languages    1 1
+Level        6
+Played       52405
+Room         6626
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   39 95 136 130 165 165
+Gold         39556
+Exp          169566
+Height          62
+Weight          155
+Act          570427000
+Position     112
+Style     2
+Practice     10
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     WeZK8kW8n8NiY~
+Title         the Tracker~
+Lastname ~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       163
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 14 12 12 13 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 16 16
+Site         207.202.214.132
+Tongue       100 'common'
+Killed       6609 1
+Killed       10301 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#END

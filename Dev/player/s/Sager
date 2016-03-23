@@ -1,0 +1,586 @@
+#PLAYER
+Version      3
+Name         Sager~
+Description  ~
+Sex          1
+Class        3
+Race         0
+Species      0
+Languages    1 1
+Level        45
+Played       760709
+Room         21000
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   666 656 130 100 543 543
+Gold         168993
+Exp          101003686
+Height          71
+Weight          150
+Act          570431048
+Position     112
+Style     4
+Practice     85
+SavingThrows 0 0 0 0 -14
+Alignment    1000
+Favor	       0
+Balance      0
+Glory        5
+MGlory       5
+Hitroll      14
+Damroll      0
+Armor        60
+ICEListen ~
+Mentalstate  0
+Password     SaeAZWUGFw2vY~
+Bestowments  bestow~
+Title         ac: -0102 devout    HR:40, DR:25~
+Lastname ~
+Prompt       <&Y%A &C%h/%Hhp &O%m/%Mman &G%v/%Vmv &w %a &p %X TNL &Y &r%r&w%S&w>~
+FPrompt	     <&Y%A %c&C%h/%Hhp &O%m/%Mman &G%v/%Vmv &P%X TNL &w%S> ~
+Clan         Guild of Warriors~
+Flags        229376
+PKills       0
+PDeaths      0
+MKills       4999
+MDeaths      18
+ArenaWins    2
+ArenaKills   6
+ArenaDeaths  2
+IllegalPK    0
+AttrPerm     16 13 13 13 13 13 14
+AttrMod      7 7 7 7 7 6 0
+Condition    0 21 12 55
+Site         65.33.76.252
+Skill        31 'aid'
+Skill        85 'bash'
+Skill        85 'climb'
+Skill        17 'cook'
+Skill        95 'dig'
+Skill        85 'disarm'
+Skill        100 'dodge'
+Skill        85 'doorbash'
+Skill        92 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        85 'fifth attack'
+Skill        90 'fourth attack'
+Skill        29 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        90 'lunge'
+Skill        17 'mount'
+Skill        100 'parry'
+Skill        80 'pummel'
+Skill        90 'punch'
+Skill        66 'rescue'
+Skill        70 'roundhouse'
+Skill        85 'search'
+Skill        95 'second attack'
+Skill        90 'shoulder'
+Skill        95 'third attack'
+Skill        68 'track'
+Weapon       95 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       100 'long blades'
+Weapon       17 'pugilism'
+Weapon       60 'short blades'
+Weapon       80 'talonous arms'
+Tongue       100 'common'
+AffectData   'trollish vigor' 1963  -1  25 0
+AffectData   'trollish vigor' 1963   7   5 0
+AffectData   'elven beauty' 1964   7  25 0
+AffectData   'sagacity' 1965   7   4 0
+AffectData   'slink' 1966   7   2 0
+AffectData   'dragon wit' 1967   7   3 0
+AffectData   'kindred strength' 1968   7   1 0
+AffectData   'bless' 1856  14  18 0
+AffectData   'bless' 1856 -14  24 0
+AffectData   'armor' 394 -20  17 0
+AffectData   'shield' 1977 -20  17 0
+Killed       24801 4
+Killed       24803 3
+Killed       24824 2
+Killed       24822 2
+Killed       24823 3
+Killed       5201 9
+Killed       10302 1
+Killed       10303 3
+Killed       3402 1
+Killed       3605 1
+Killed       3604 2
+Killed       24835 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         1511
+Level        9
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9846
+Level        16
+Values       1 138 206 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         21000
+Level        14
+Values       25 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        7
+Vnum         21000
+Level        13
+Values       24 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        19
+Vnum         21000
+Level        13
+Values       25 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        10
+Vnum         21000
+Level        13
+Values       26 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Vnum         1511
+Level        10
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         7207
+Level        11
+Values       20 8 6 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Vnum         1511
+Level        10
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24817
+ExtraFlags   64
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7207
+Level        9
+Values       19 7 1 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         7217
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24529
+Level        53
+Values       12 14 44 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24801
+Level        34
+Values       12 10 32 3 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         20
+Timer        88
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+WearLoc      20
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         9829
+WearLoc      6
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3506
+WearLoc      12
+Level        14
+Values       8 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      2
+Level        9
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         816
+WearLoc      7
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         3508
+WearLoc      17
+Level        13
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         2421
+WearLoc      5
+Level        11
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        7
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         8900
+WearLoc      9
+Level        19
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         21000
+Level        10
+Values       26 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         21070
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24892
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9842
+Level        20
+Values       2 23 210 62 0 0
+Spell 1      'blindness'
+Spell 2      'teleport'
+Spell 3      'curse'
+End
+
+#OBJECT
+Nest         1
+Vnum         7207
+Level        12
+Values       999 999 998 58 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21072
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24807
+Level        34
+Values       12 11 31 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         2424
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2435
+Level        2
+Values       2 68 278 10 0 0
+Spell 1      'detect magic'
+Spell 2      'fly'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        8
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2417
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2424
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         20
+Values       33 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        42
+Values       999 999 999 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         9845
+Level        7
+Values       1 66 67 68 0 0
+Spell 1      'detect hidden'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         20
+Values       65 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         9848
+Level        7
+Values       2 187 206 191 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'shield'
+End
+
+#OBJECT
+Nest         1
+Vnum         9848
+Level        7
+Values       1 187 206 191 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'shield'
+End
+
+#OBJECT
+Nest         1
+Vnum         9848
+Level        1
+Values       999999 187 206 191 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'shield'
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Values       13 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Name         flask potion antimagic shell~
+ShortDescr   an antimagic shell potion~
+Description  A strange potion labelled 'antimagic shell' sizzles in a glass flask.~
+Vnum         35
+Level        13
+Values       53 7 -1 -1 0 0
+Spell 1      'antimagic shell'
+End
+
+#OBJECT
+Name         flask potion pass door~
+ShortDescr   a pass door potion~
+Description  A strange potion labelled 'pass door' sizzles in a glass flask.~
+Vnum         35
+Level        13
+Values       53 161 -1 -1 0 0
+Spell 1      'pass door'
+End
+
+#OBJECT
+Name         mono atomic monoatomic filiment rename~
+ShortDescr   monoatomic filiment blade~
+Description  monoatomic filiment blade lies here~
+Vnum         2454
+WearLoc      16
+Weight       2
+Level        40
+Values       12 100 200 3 0 0
+Affect       -1 -1 7 18 0
+Affect       -1 -1 7 19 0
+End
+
+#OBJECT
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#END

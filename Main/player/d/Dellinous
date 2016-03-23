@@ -1,0 +1,70 @@
+#PLAYER
+Version      3
+Name         Dellinous~
+Description  ~
+Sex          1
+Class        10
+Race         5
+Species      0
+Languages    1 1
+Level        6
+Played       13972
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   149 149 133 133 165 165
+Gold         62600
+Exp          146918
+Height          56
+Weight          157
+Act          570426952
+AffectedBy   512
+Position     106
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 -6
+Alignment    -3
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     Fo3JV4jGUTUZo~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       135
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 12 14 14 13 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 3
+Site         207.202.214.132
+Spell        19 'burning hands'
+Spell        21 'demonskin'
+Spell        19 'devils might'
+Spell        19 'faerie fire'
+Skill        65 'feed'
+Skill        50 'kick'
+Weapon       19 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 992  -6  24 0
+AffectData   'bless' 992   6  18 0
+AffectData   'armor' 346 -20  17 0
+Killed       10397 1
+Killed       10396 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,331 @@
+Sender  Marten~
+Date    Wed Jul 17 18:04:47 2002~
+To      Elders~
+Subject RDAF pkilling wing~
+Voting 1
+Yesvotes Marten Cyph Rathkor~
+Novotes Fairburn~
+Abstentions Andy~
+Text
+Creation of a Pkilling clan for RDAF members to join. Yay or nay.
+~
+
+Sender  Rathkor~
+Date    Fri Jul 19 18:26:07 2002~
+To      All~
+Subject Stupid config options~
+Voting 1
+Yesvotes Rathkor Prage Andy~
+Novotes Cyph~
+Abstentions Marten~
+Text
+I think that mortals (or anyone, for there is no use for it) should not
+be able to set config +immproof or config +anonymous because they
+are stupid.
+~
+
+Sender  Arbadus~
+Date    Mon Jul 22 22:48:24 2002~
+To      Fellon~
+Subject Newbie Council~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I have made a website for the newbie council (not totally complete yet)
+and am hosting it on my unix box for the time being. I haven't been around
+lately because my cable got shut off and the company really sucks so i have
+to wait 3 - 5 business days for the internet (i stole an aol acct for now).
+ 
+I have to find a good host for the site, (any ideas?). As soon as thats 
+done i can upload it and it can be available. I WOULD just host it off my
+box but i'm not the only one to use this computer and people like to switch
+between winblowz and unix, so it wouldn't always be up. As soon as i get my
+own appt. I will have it hosted on my box and it WILL be up 24/7.
+ 
+Whats going on with the council anyway? I know you killed it but i'm not sure
+exactly why. And wether you have plans to re-implement it. 
+ 
+-- Arby
+~
+
+Sender  Rathkor~
+Date    Mon Jul 29 19:52:37 2002~
+To      Fellon~
+Subject Evil Shopkeepers~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+The problem with shopkeepers saying this all the time is line 810 in
+update.c which says:
+if (ch->last_carrying &&&& find_keeper(ch)!=ch)
+which is BAD because find_keeper is meant to be called only when
+people try to use the mob not every tick. The reason for this check
+is to ensure that shopkeepers don't hold their inventory, something
+which it obviously isn't very sucessful in doing because it doesn't work
+for some reason. To fix the problem, change the line to:
+if(ch->last_carrying &&&& IS_NPC(ch) &&&& ch->pIndexData->pShop == NULL)
+which avoids calling the find keeper func and takes only the one check
+from it that the condition is actually interested in. I'm not so sure this
+will fix the shopkeepers' holding inventory anymore, but with a bit of luck
+it will do that too.
+~
+
+Sender  Rathkor~
+Date    Tue Jul 30 19:10:32 2002~
+To      Fellon~
+Subject More Code Fixing~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+fight.c, line 3855:
+sprintf( buf1, "$n's poisoned %s %s $N%c", attack, vp, punct );
+sprintf( buf2, "Your poisoned %s %s $N%c", attack, vp, punct );
+sprintf( buf3, "$n's poisoned %s %s you%c", attack, vp, punct ); 
+should be:
+sprintf( buf1, "$n's poisoned %s %s $N%c &R[&Y%d&R]&W", attack, vp, punct, dam 
+sprintf( buf2, "Your poisoned %s %s $N%c &R[&Y%d&R]&W", attack, vp, punct, dam 
+sprintf( buf3, "$n's poisoned %s %s you%c &R[&Y%d&R]&W", attack, vp, punct, dam
+(without the end truncated :]) this makes the [damage] show up for poisoned
+weapons too since this one was forgotten in the addition. ([%d] should be:
+&&R[&&Y%d&&R]&&W)
+~
+
+Sender  Cyph~
+Date    Wed Jul 31 01:34:18 2002~
+To      All~
+Subject Immortal~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Hm, I just noticed something. Terri has created a (yet another) new character
+except this time, the new character race is Immortal (30). Anyone has any idea
+how that happened?
+~
+
+Sender  Cyph~
+Date    Wed Jul 31 01:41:55 2002~
+To      All~
+Subject Immortal Update~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+After talking to Terri, I was able to recreate the Immortal race issue.
+When you create a new character, select Humans and then the next choice that
+is presented to you is either Human or Immortal. After you select Immortal, you
+are able to select from a few different classes, most of which are classes
+starting with Were*.
+Immortal race starts off with 10020 hp, but the base hp is still set to 20. 
+There are a bunch of useful aff_bys provided to the Immortal race though, so 
+it would be nice if the race was pulled off the list.
+~
+
+Sender  Cyph~
+Date    Wed Jul 31 02:00:54 2002~
+To      All~
+Subject Immortal Update 2~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I just modified the Immortal race so that no class can be used with the race.
+Naturally, the race still has to be removed from the "Humans" list.
+~
+
+Sender  Marten~
+Date    Wed Jul 31 02:26:13 2002~
+To      Crew~
+Subject Necro.are~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Necro.are is offline; as is Reign.are.
+Both had stupidly powerful weapons (like doing 3500+ damage, etc).
+And Necro.are had a slay program that I don't like either.
+Are our builders getting guidelines for power levels?
+ 
+Thanks,
+-MTR
+~
+
+Sender  Prage~
+Date    Wed Jul 31 14:51:42 2002~
+To      All~
+Subject helps~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+is someone editing help files and not saving?
+I heard players saying something about it, and i am certain there
+where m/o/rtriggers help files before.
+oh also there are a heap of imm help files at smaug levels 50-65.
+~
+
+Sender  Prage~
+Date    Wed Jul 31 17:02:42 2002~
+To      All~
+Subject act progs~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+act progs that use tell as in
+ 
+act_prog p tells you 'purge us'
+ 
+seem to crash the mud
+~
+
+Sender  Rathkor~
+Date    Thu Aug  1 19:48:36 2002~
+To      All~
+Subject Removing Annoying Spam Quit~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I suggest comment comm.c lines 1290-1292 to remove the restriction that
+you can't enter the same command more than 20 times. I think this should
+be done, since it makes people quit all the time while using commands like
+"kick" "meditate" etc which are perfectly valid and has no effect on real
+spam where people abuse the channels.
+~
+
+Sender  Rathkor~
+Date    Thu Aug  1 20:13:42 2002~
+To      All~
+Subject Art Gallery~
+Voting 1
+Yesvotes Rathkor Prage Andy Fairburn Marten~
+Novotes ~
+Abstentions ~
+Text
+Everyone in this game is in welmar's painting in the art gallery levelling
+all together and no where else. They are all fighting over who gets to
+kill them every time. In the interest of encouraging exploration, since
+most new players don't eevn know where any area is except the art gallery,
+I propose giving welmar a bit more bang for the exp he gives. <eg>
+~
+
+Sender  Andy~
+Date    Thu Aug  1 21:11:18 2002~
+To      All~
+Subject Mortalize command~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+i think mortals have the mortalize command....
+ 
+short i know lol
+ 
+-Andy
+~
+
+Sender  Prage~
+Date    Thu Aug  1 21:20:52 2002~
+To      All~
+Subject mortalize~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+[Immtalk] Andy: what is the mortalize command supposed to do...and are mortals 
+upposed to have it
+[Immtalk] Andy: hammy did it
+[Immtalk] Andy: it make it say <name of person> has just become a demi-g
+od! then it makes them say dont *NOT* disturb me again! then <player nam
+e here> has escaped the realm
+ 
+ 
+what's his trust?
+~
+
+Sender  Arbadus~
+Date    Sat Aug  3 13:38:51 2002~
+To      Crew~
+Subject Absense~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+As of today I believe, i will be absent for an undetermined amount of time.
+I'm getting kicked out of my house and don't exactly have anywhere to go,
+but i do have 8 computers so wherever i end up, you can bet i'll be back
+here just as promptly as possible.
+ 
+Ciao
+-- Arby
+~
+
+Sender  Andy~
+Date    Sun Aug  4 06:11:58 2002~
+To      Fellon~
+Subject Possess bug~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+i was using possess just messing arround and i came to town meastrom
+had been bringing mobs into town so there was lots of eq so i though
+i wish i had the purg command (still switched) i though i would see
+if i could do mppurg i didnt really think i could but i gave it a
+shot...IT WORKED! i did some more testing i can aso slay, and force
+i havent tried advance but thats what im most concerned about if
+someone from ooc found out about those commands it woulend be good
+ 
+-Andy
+~
+
+Sender  Andy~
+Date    Sun Aug  4 06:13:48 2002~
+To      Fellon~
+Subject possess bug updatee~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+i just tried mpoload and mpmload both worked.
+ 
+-Andy
+~
+
+Sender  Prage~
+Date    Sun Aug  4 12:38:38 2002~
+To      All~
+Subject re:possess bug~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+That would be right, tested as a mortal same effect.
+I'm surprised no one thought of this before, but i'd be amazed if argon
+hadn't, all in all, if he has, he's handled pretty well ( no gavels).
+ 
+for now i changed possess to charm, and now i really don't think possess is rea
+dy.
+ 
+~
+

@@ -1,0 +1,296 @@
+#PLAYER
+Version      3
+Name         Simpler~
+Description  ~
+Sex          1
+Class        7
+Race         14
+Languages    1 1
+Level        8
+Played       11647
+Room         3000105
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   87 99 348 151 275 170
+Gold         138020
+Exp          463050
+Height          45
+Weight          116
+Act          570427000
+AffectedBy   530
+Position     112
+Style     3
+Practice     17
+SavingThrows 0 0 0 0 -3
+Alignment    -57
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    8
+Susceptible  1
+Mentalstate  0
+Password     SiJbBSq3liXio~
+Title         the Entrancer~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       101
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 17 10 12 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 48 23 17
+Site         64.169.158.195
+Spell        52 'armor'
+Spell        19 'chill touch'
+Spell        19 'continual light'
+Spell        41 'create food'
+Spell        28 'create spring'
+Spell        41 'create water'
+Spell        49 'shocking grasp'
+Spell        19 'weaken'
+Skill        19 'cook'
+Skill        19 'dig'
+Skill        90 'kick'
+Skill        19 'mount'
+Skill        85 'scan'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Weapon       90 'pugilism'
+Weapon       79 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+AffectData   'bless' 416   3  18 0
+AffectData   'bless' 416  -3  24 0
+AffectData   'armor' 147 -20  17 0
+AffectData   'invis' 631   0   0 2
+Killed       10302 1
+Killed       21066 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10400
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       21 59 61 175 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       19 59 61 175 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       9 176 60 229 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         20
+Values       9 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2073
+Level        5
+End
+
+#OBJECT
+Nest         1
+Vnum         6632
+Level        3
+Values       29 61 191 175 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        1
+Values       12 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        1
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      2
+Level        1
+End
+
+#OBJECT
+Vnum         6634
+WearLoc      16
+Level        1
+Values       12 2 6 12 0 0
+End
+
+#END

@@ -1,0 +1,230 @@
+#PLAYER
+Version      3
+Name         Koronike~
+Description  ~
+Sex          1
+Class        8
+Race         0
+Species      2
+Languages    1 1
+Level        15
+Played       54767
+Room         21113
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   270 259 178 172 322 282
+Gold         6163
+Exp          3538510
+Height          68
+Weight          142
+Act          570426952
+Position     112
+Style     2
+Practice     16
+SavingThrows 0 0 0 0 0
+Alignment    -987
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Deaf         146833655
+ICEListen (null)~
+Mentalstate  0
+Password     KojuKEWYHTgKw~
+Title         the Defender of Valor~
+Lastname ~
+AuthedBy     Andy~
+Pagerlen     10
+Deity	     Aoskar~
+Clan         RDAF~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       238
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 14 13 14 12 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 29 2 25
+Site         (Link-Dead)
+Spell        23 'armor'
+Spell        18 'bethsaidean touch'
+Spell        49 'bless'
+Spell        18 'continual light'
+Spell        43 'create food'
+Spell        18 'create water'
+Spell        90 'cure light'
+Spell        18 'detect evil'
+Spell        18 'detect hidden'
+Spell        18 'detect poison'
+Spell        37 'dispel evil'
+Spell        18 'expurgation'
+Spell        18 'float'
+Spell        21 'hezekiahs cure'
+Spell        18 'refresh'
+Spell        31 'solomonic invocation'
+Skill        18 'aid'
+Skill        90 'dual wield'
+Skill        90 'enhanced damage'
+Skill        95 'kick'
+Skill        90 'parry'
+Skill        18 'rescue'
+Skill        95 'scan'
+Skill        18 'search'
+Skill        90 'second attack'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       95 'long blades'
+Weapon       18 'pugilism'
+Weapon       60 'short blades'
+Tongue       100 'common'
+Killed       2002020 1
+Killed       24817 1
+Killed       24837 2
+Killed       24815 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        10
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        14
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        13
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+WearLoc      6
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        13
+Values       10 4 15 3 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        37
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         100013
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         42918
+Level        1
+Cost         0
+Values       0 0 120 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        9
+Values       4 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         7219
+Level        10
+Cost         0
+Values       8 8 0 0 0 0
+End
+
+#END

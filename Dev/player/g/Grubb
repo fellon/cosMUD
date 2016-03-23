@@ -1,0 +1,57 @@
+#PLAYER
+Version      3
+Name         Grubb~
+Sex          1
+Class        3
+Race         8
+Languages    1 1
+Level        2
+Played       2390
+Room         10319
+HpManaMove   44 44 91 91 110 110
+Gold         900
+Exp          3939
+Height          108
+Weight          321
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     GrtwP8GC.i1lM~
+Title         the Recruit~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 16 11 12 16 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 15 14 10
+Site         (Link-Dead)
+Skill        49 'enhanced damage'
+Skill        17 'parry'
+Tongue       100 'common'
+Tongue       100 'trollese'
+Killed       10300 1
+Killed       10314 2
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

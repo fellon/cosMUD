@@ -1,0 +1,86 @@
+#PLAYER
+Version      3
+Name         Xavier~
+Description  ~
+Sex          1
+Class        9
+Race         31
+Species      2
+Languages    1 1
+Level        6
+Played       6886
+Room         41823
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   115 115 122 122 40 165
+Gold         43905
+Exp          197597
+Height          340
+Weight          2135
+Act          570427000
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -3
+Alignment    -3
+Favor	       -2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    2097408
+Susceptible  512
+Mentalstate  -100
+Password     XaRYQ.gNa1HaQ~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Andy~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       92
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 11 12 13 15 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 25 10
+Site         66.57.18.52
+Spell        19 'armor'
+Spell        100 'dragon wit'
+Skill        100 'dual wield'
+Skill        87 'enhanced damage'
+Weapon       50 'long blades'
+Weapon       50 'short blades'
+Tongue       100 'common'
+AffectData   'bless'   6   3  18 0
+AffectData   'bless'   6  -3  24 0
+Killed       6604 2
+Killed       10303 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        3
+Values       12 2 8 3 0 0
+End
+
+#END

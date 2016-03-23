@@ -1,0 +1,316 @@
+#PLAYER
+Version      3
+Name         Zed~
+Description  ~
+Sex          1
+Class        3
+Race         26
+Languages    1 1
+Level        10
+Played       8666
+Room         10319
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   78 189 112 100 317 217
+Gold         155964
+Exp          933215
+Height          62
+Weight          158
+Act          570427000
+AffectedBy   512
+Position     104
+Style     2
+Practice     13
+SavingThrows 0 0 0 0 -3
+Alignment    -171
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     Zed6OtkFRtPsA~
+Title         the Private~
+Lastname  Dead~
+AuthedBy     Zebeid~
+Deity	     Chimerus~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       241
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 12 13 15 13 10 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 8 10
+Site         64.169.158.195
+Skill        17 'aid'
+Skill        17 'cook'
+Skill        17 'doorbash'
+Skill        100 'enhanced damage'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        95 'second attack'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 223 -20  17 0
+AffectData   'bless' 543   3  18 0
+AffectData   'bless' 543  -3  24 0
+Killed       6506 1
+Killed       6501 2
+Killed       10301 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       9 176 60 229 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        5
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2429
+Level        8
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2428
+Level        5
+Values       12 2 12 4 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2405
+Level        4
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10323
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      2
+Level        4
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        3
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2429
+WearLoc      5
+Level        7
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2446
+WearLoc      11
+Level        7
+Cost         0
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2447
+WearLoc      12
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2402
+WearLoc      16
+Level        11
+Values       12 2 10 0 0 0
+End
+
+#END

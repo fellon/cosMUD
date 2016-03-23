@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Zultar~
+Sex          1
+Class        0
+Race         12
+Languages    1 1
+Level        2
+Played       719
+Room         10319
+HpManaMove   25 25 112 112 110 110
+Gold         0
+Exp          2000
+Height          69
+Weight          113
+Act          570426952
+AffectedBy   -2147483632
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    600
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     ZuQmOd7sazFkc~
+Title         the Spell Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     10 18 13 15 12 13 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 39 12 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 257 -20  17 0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

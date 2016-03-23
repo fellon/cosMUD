@@ -1,0 +1,73 @@
+#PLAYER
+Version      3
+Name         Terri~
+Description  ~
+Sex          2
+Class        0
+Race         1
+Species      1
+Languages    1 1
+Level        20
+Played       21550
+Room         10303
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   98 191 184 208 239 260
+Gold         293520
+Exp          8573750
+Height          64
+Weight          106
+Act          570427208&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     53
+SavingThrows 0 0 0 0 0
+Alignment    918
+Favor	       1629
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -9
+Password     Te5THPGV5n.2c~
+Title         the Magician~
+Lastname  Arch Magus~
+AuthedBy     Andy~
+Deity	     Aoskar~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       105
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 15 13 15 11 12 13
+AttrMod      0 2 0 0 7 -1 0
+Condition    0 10 0 31
+Site         207.202.214.132
+Spell        19 'acid blast'
+Spell        19 'disruption'
+Spell        19 'spectral furor'
+Spell        19 'weaken'
+Spell        19 'word of recall'
+Skill        19 'second cast'
+Skill        19 'third cast'
+Tongue       100 'common'
+AffectData   'dragon wit' 111   2   3 0
+AffectData   'trollish vigor' 2088  -1  25 0
+AffectData   'trollish vigor' 2088   7   5 0
+Killed       24814 1
+Killed       24837 5
+Killed       18 1
+Killed       24823 2
+Killed       24817 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,75 @@
+#PLAYER
+Version      3
+Name         Anakagon~
+Description  ~
+Sex          1
+Class        9
+Race         35
+Species      3
+Languages    1 1
+Level        7
+Played       64664
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   131 131 128 128 178 178
+Gold         21334
+Exp          288416
+Height          321
+Weight          2093
+Act          570426968
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    -3
+Favor	       229
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1
+Susceptible  2
+Mentalstate  -100
+Password     AnqIUEin1jvTM~
+Title         the Dragon Hatchling~
+Lastname  mi~
+AuthedBy     Andy~
+Deity	     Soleran~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       184
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 10 9 13 14 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 30 30 17
+Site         (Link-Dead)
+Spell        87 'armor'
+Spell        51 'create fire'
+Spell        100 'dragon wit'
+Spell        77 'float'
+Spell        87 'shield'
+Skill        95 'bite'
+Skill        28 'dual wield'
+Skill        95 'enhanced damage'
+Skill        40 'kick'
+Skill        81 'scan'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       26 'short blades'
+Tongue       100 'common'
+AffectData   'bless'  74   6  18 0
+AffectData   'bless'  74  -6  24 0
+Killed       21045 2
+Killed       6005 1
+i3invis	0
+End
+
+#END

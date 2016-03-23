@@ -1,0 +1,213 @@
+#PLAYER
+Version      3
+Name         BinLaden~
+Sex          1
+Class        4
+Race         1
+Languages    1 1
+Level        6
+Played       36498
+Room         21043
+HpManaMove   75 75 110 110 165 153
+Gold         17887
+Exp          194007
+Height          64
+Weight          116
+Act          570427000
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -21
+Favor	       -258
+Glory        1
+MGlory       1
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        12
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     BiBLbFYzaNK8U~
+Title         Rocks!!~
+Prompt       <%hhp %b %X>~
+FPrompt	     <%hhp %b %X %e>~
+Deity	     Soleran~
+Flags        33026
+PKills       0
+PDeaths      3
+MKills       106
+MDeaths      5
+IllegalPK    0
+AttrPerm     12 14 11 17 12 15 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 3
+Site         (Link-Dead)
+Spell        86 'chill touch'
+Spell        19 'float'
+Spell        20 'poison'
+Skill        19 'aggressive style'
+Skill        95 'enhanced damage'
+Skill        91 'feed'
+Skill        22 'sneak'
+Skill        19 'standard style'
+Skill        21 'steal'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       21055 1
+Killed       10396 1
+Killed       10301 1
+Killed       10300 1
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       6 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21005
+Level        1
+Values       2 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        5
+Values       3 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21085
+WearLoc      17
+Level        1
+Values       12 3 6 14 0 0
+End
+
+#OBJECT
+Vnum         21062
+WearLoc      10
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21082
+Level        5
+Values       12 3 8 8 0 0
+End
+
+#OBJECT
+Vnum         8805
+Level        4
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#END

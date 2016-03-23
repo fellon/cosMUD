@@ -1,0 +1,46 @@
+#PLAYER
+Version      3
+Name         Elmaniaco~
+Sex          1
+Class        3
+Race         0
+Languages    1 1
+Level        2
+Played       1784
+Room         21194
+HpManaMove   31 31 100 100 110 110
+Gold         0
+Exp          1575
+Height          66
+Weight          164
+Act          536872520
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Password     El2QbqHKJlv06~
+Title         the Recruit~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 13 15 12 12 13 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'bless' 1141   6  18 0
+AffectData   'bless' 1141  -6  24 0
+End
+
+#END

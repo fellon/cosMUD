@@ -1,0 +1,164 @@
+#PLAYER
+Version      3
+Name         Mondeo~
+Description  ~
+Sex          1
+Class        2
+Race         8
+Species      5
+Languages    1 1
+Level        6
+Played       24694
+Room         2002035
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   -6 123 110 110 156 165
+Gold         27472
+Exp          134498
+Height          120
+Weight          511
+Act          570426968&4
+AffectedBy   512
+Position     101
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    500
+Favor	       52
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -6
+Password     MoBNZeRMwO9.s~
+Title         the Pincher~
+Lastname (null)~
+AuthedBy     Andy~
+Prompt       < &R%hhp &B%mmp &G%X TNL &w >~
+Deity	     Azuth~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       73
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 15 11 15 15 9 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 16 10
+Site         207.202.214.132
+Skill        19 'backstab'
+Skill        63 'dual wield'
+Skill        17 'hide'
+Skill        25 'kick'
+Skill        17 'scan'
+Skill        17 'steal'
+Weapon       17 'long blades'
+Weapon       51 'short blades'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless'  84   6  18 0
+AffectData   'bless'  84  -6  24 0
+Killed       2002020 1
+Killed       10317 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   525316
+WearLoc      16
+Level        4
+Values       12 7 14 11 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   525316
+WearLoc      18
+Level        4
+Values       12 7 14 11 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#ALIAS
+Name     pp~
+Commands push rope;pull rope~
+End
+
+#ALIAS
+Name     xz~
+Commands exam sac~
+End
+
+#ALIAS
+Name     zg~
+Commands get all corpse;wear all~
+End
+
+#END

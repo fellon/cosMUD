@@ -1,0 +1,155 @@
+#PLAYER
+Version      3
+Name         Bhuji~
+Description  ~
+Sex          1
+Class        31
+Race         49
+Species      3
+Languages    1 1
+Level        2
+Played       4234
+Room         10339
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   30 30 109 109 113 113
+Gold         2401
+Exp          6338
+Height          376
+Weight          2089
+Act          570426968
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1
+Susceptible  4
+Mentalstate  0
+Password     BhBjUxKQ.kQNQ~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Fellon~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       9
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 12 14 10 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 12
+Site         (Link-Dead)
+Spell        100 'dragon wit'
+Skill        19 'cook'
+Skill        20 'kick'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Killed       10307 6
+Killed       10345 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       4 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

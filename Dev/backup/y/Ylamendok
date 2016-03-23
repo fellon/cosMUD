@@ -1,0 +1,83 @@
+#PLAYER
+Version      3
+Name         Ylamendok~
+Description  Ylamendok is a huge white dragon, with truly fearsome teeth. His breath alone
+causes you to shiver uncontrollably. Weighing over a ton, this dragon is very
+huge. Not only great in size, Ylamendok is the father of many of the 
+world's white dragons including the so-called king of white dragons,
+Ingeloakastamizilian, or Icingdeath as humans call him.
+~
+Sex          1
+Class        9
+Race         33
+Languages    1 1
+Level        6
+Played       9794
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   22 163 120 120 165 165
+Gold         42591
+Exp          206336
+Height          361
+Weight          2134
+Act          570426952&4
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -45
+Favor	       39
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -18
+Password     YlhlYZg8P417M~
+Title        &R the Wyrmking~
+Lastname &C Frostbite~
+Bio          Thousands of millenia ago, a great being known as the Dragon-God created that
+which we known as dragons. It had 9 heads: Red,White,Blue,Green,Black,Copper
+Bronze,Silver, and Gold. From each of these heads it pulled a scale and 
+from those scales the first dragons of each species were born. From the white
+scale Ylamendok was born. From the red scale Pyroshoker was born. No one knows
+the names of the other 7 dragon patriarchs, or Wyrmkings as they have dubbed
+themselves.
+~
+AuthedBy     Marten~
+Prompt       &R%h/%H hp &C%m/%M m &W%X TNL &Y%c~
+FPrompt	     &R%h/%H hp &C%m/%M m &W%X TNL &Y%c~
+Deity	     Soleran~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       106
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 11 11 15 11 11 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 10
+Site         172.154.185.30
+Spell        53 'armor'
+Spell        22 'detect magic'
+Spell        100 'dragon wit'
+Spell        25 'dragonskin'
+Spell        21 'float'
+Spell        26 'shield'
+Skill        95 'bite'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        33 'fan'
+Skill        40 'kick'
+Tongue       100 'common'
+Killed       1537 1
+Killed       1536 1
+i3invis	0
+End
+
+#END

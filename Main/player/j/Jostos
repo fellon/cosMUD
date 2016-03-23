@@ -1,0 +1,471 @@
+#PLAYER
+Version      3
+Name         Jostos~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      1
+Languages    1 1
+Level        58
+Played       312827
+Room         42921
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   637 485 758 1200 875 841
+Gold         927571
+Exp          232157126
+Height          63
+Weight          115
+Act          570426952&4
+AffectedBy   335544848
+Position     104
+Style     2
+Practice     126
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       2500
+Balance      0
+Glory        21
+MGlory       21
+Hitroll      0
+Damroll      0
+Armor        -10
+ICEListen (null)~
+Resistant    9266
+Mentalstate  0
+Password     Jo5bJMT5jYiuY~
+Title         the Magus~
+Extraname  O/S~
+Lastname ~
+Bio          jostOS lives! Soon all will be completed.
+http://www.snakebyte.biz/progboss/
+~
+AuthedBy     Andy~
+Deity	     Azuth~
+Clan         Guild of Mages~
+Flags        98304
+PKills       1
+PDeaths      1
+MKills       1490
+MDeaths      61
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  4
+IllegalPK    0
+AttrPerm     13 15 14 13 11 12 13
+AttrMod      0 3 0 0 0 -1 0
+Condition    0 21 9 67
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        95 'blindness'
+Spell        84 'blur'
+Spell        95 'burning hands'
+Spell        19 'cancelation'
+Spell        95 'caustic fount'
+Spell        46 'charm person'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        41 'create fire'
+Spell        95 'create spring'
+Spell        95 'detect invis'
+Spell        54 'dragon wit'
+Spell        87 'dragonskin'
+Spell        43 'dream'
+Spell        35 'eldritch sphere'
+Spell        19 'enchant weapon'
+Spell        95 'energy drain'
+Spell        31 'extradimensional portal'
+Spell        61 'farsight'
+Spell        56 'feather fall'
+Spell        95 'fireball'
+Spell        95 'flight'
+Spell        95 'galvanic whip'
+Spell        95 'hand of chaos'
+Spell        82 'iceshield'
+Spell        95 'identify'
+Spell        47 'infravision'
+Spell        43 'inner warmth'
+Spell        95 'invis'
+Spell        73 'kindred strength'
+Spell        19 'knock'
+Spell        95 'lightning bolt'
+Spell        78 'liquid skin'
+Spell        67 'locate object'
+Spell        95 'magnetic thrust'
+Spell        51 'ogrish hide'
+Spell        88 'pass door'
+Spell        95 'portal'
+Spell        19 'recharge'
+Spell        19 'remove trap'
+Spell        85 'sagacity'
+Spell        21 'scry'
+Spell        76 'shadowform'
+Spell        95 'shield'
+Spell        75 'shockshield'
+Spell        56 'slink'
+Spell        95 'sonic resonance'
+Spell        94 'stone skin'
+Spell        95 'summon'
+Spell        95 'teleport'
+Spell        64 'transport'
+Spell        66 'trollish vigor'
+Spell        35 'true sight'
+Spell        19 'valiance'
+Spell        95 'word of recall'
+Skill        40 'aid'
+Skill        67 'brew'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        68 'meditate'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'dragon wit' 906   3   3 0
+AffectData   'detect magic' 1098   0  26 16
+AffectData   'shield' 910 -20  17 0
+AffectData   'armor' 463 -20  17 0
+AffectData   'stone skin' 1218 -40  17 0
+AffectData   'liquid skin' 1335  16  27 0
+AffectData   'ogrish hide' 1337  -1  25 0
+AffectData   'ogrish hide' 1337 -30  17 0
+AffectData   'dragonskin' 1222  32  27 0
+AffectData   'shadowform' 472 8192  27 0
+AffectData   'iceshield' 135   0  26 268435456
+AffectData   'shockshield'  84   0  26 67108864
+Killed       42926 1
+Killed       616 1
+Killed       3401 3
+Killed       3411 1
+Killed       7932 1
+Killed       803 1
+Killed       2327 1
+Killed       20016 1
+Killed       20004 1
+Killed       20005 1
+Killed       46226 3
+Killed       46227 1
+Killed       438 3
+Killed       437 3
+Killed       439 8
+i3invis	0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        44
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      3
+Level        27
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         25559
+WearLoc      6
+Level        47
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         14730
+WearLoc      14
+Level        50
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        8
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         25544
+WearLoc      7
+Level        46
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         25545
+WearLoc      13
+Level        45
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         60888
+WearLoc      15
+Level        4
+Values       2 2 2 0 0 0
+End
+
+#OBJECT
+Vnum         228
+WearLoc      19
+Level        1
+Values       1 -100 0 0 0 0
+End
+
+#OBJECT
+Vnum         7927
+WearLoc      5
+Level        49
+Cost         0
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         46921
+WearLoc      12
+Level        53
+Values       32 32 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         30309
+WearLoc      17
+Level        35
+Values       51 3 3 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Vnum         42974
+WearLoc      1
+Level        23
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         46925
+WearLoc      2
+Level        48
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         46923
+WearLoc      9
+Level        52
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         46922
+WearLoc      10
+Level        51
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         13027
+WearLoc      22
+Level        16
+Values       157 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2111
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60881
+Level        17
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2111
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46243
+Level        1
+Cost         0
+Values       750 0 0 50 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21070
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         46288
+Level        48
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         46289
+Level        48
+Values       12 14 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14715
+Level        45
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         25551
+Level        46
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         48021
+Level        13
+Values       24 -1 -1 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         2
+Vnum         48021
+Level        12
+Values       24 -1 -1 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         2
+Vnum         48021
+Level        14
+Values       25 -1 -1 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         2
+Vnum         25547
+Level        45
+Values       27 30 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        3
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8101
+Level        55
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48028
+Level        48
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         814
+Level        19
+Values       20 175 -1 -1 0 0
+Spell 1      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         14751
+Level        46
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24826
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2313
+WearLoc      11
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         25546
+WearLoc      16
+Level        46
+Values       12 13 40 11 0 0
+End
+
+#END

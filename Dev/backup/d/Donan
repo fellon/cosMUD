@@ -1,0 +1,264 @@
+#PLAYER
+Version      3
+Name         Donan~
+Description  ~
+Sex          1
+Class        11
+Race         11
+Languages    1 1
+Level        6
+Played       8880
+Room         2408
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   35 99 187 175 262 162
+Gold         26248
+Exp          167588
+Height          57
+Weight          93
+Act          570427000
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -43
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    256
+Mentalstate  -100
+Password     Dod/6Ii6g/zoM~
+Title         the Werewolf Cub~
+Lastname ~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       65
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 14 15 18 12 9 14
+AttrMod      1 0 0 1 0 0 0
+Condition    0 14 16 13
+Site         64.169.158.195
+Skill        17 'aid'
+Skill        17 'discern'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        56 'howl'
+Skill        45 'kick'
+Skill        17 'nightvision'
+Skill        85 'parry'
+Skill        17 'scan'
+Skill        95 'second attack'
+Skill        25 'sneak'
+Skill        17 'track'
+Weapon       95 'pugilism'
+Weapon       19 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'howl'  88   1   2 0
+AffectData   'howl'  88   1   1 0
+AffectData   'howl'  28   0  18 0
+AffectData   'howl'  28   0  19 0
+Killed       1537 2
+Killed       1533 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         6634
+Level        1
+Values       12 2 6 12 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      2
+Level        1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6634
+Level        1
+Values       12 2 6 12 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        5
+Values       12 2 8 3 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+Level        5
+Values       12 2 9 3 0 0
+End
+
+#OBJECT
+Vnum         1502
+Level        6
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Vnum         1539
+Level        3
+Values       15 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Vnum         1539
+Level        5
+Values       14 1 1 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Vnum         127
+WearLoc      18
+Level        1
+Values       12 1 7 3 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       2 7 0 0 0 0
+End
+
+#END

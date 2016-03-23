@@ -1,0 +1,53 @@
+#PLAYER
+Version      3
+Name         Claudiu~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        2
+Played       1731
+Room         10301
+HpManaMove   40 40 94 94 110 110
+Gold         0
+Exp          2000
+Height          56
+Weight          136
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     ClLjD4COKCNaI~
+Title         the Recruit~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 13 14 13 12 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 23 23 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'dwarven'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

@@ -1,0 +1,77 @@
+#PLAYER
+Version      3
+Name         Haarm~
+Description  ~
+Sex          1
+Class        6
+Race         13
+Languages    1 1
+Level        8
+Played       18356
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   186 139 158 127 278 191
+Gold         11786
+Exp          523043
+Height          78
+Weight          205
+Act          536872536
+AffectedBy   -2147483648
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 0
+Alignment    3
+Favor	       579
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    64
+Mentalstate  -45
+Password     HaI8gaQpdJTtI~
+Title         the Pathfinder~
+Lastname (null)~
+AuthedBy     Arbadus~
+Deity	     Semuanya~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       157
+MDeaths      1
+ArenaWins    2
+ArenaKills   2
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 9 7 10 14 11 9
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 17
+Site         (Link-Dead)
+Skill        18 'dual wield'
+Skill        27 'kick'
+Skill        18 'scan'
+Skill        18 'search'
+Skill        18 'track'
+Weapon       80 'bludgeons'
+Weapon       85 'long blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+Killed       10302 1
+Killed       10303 5
+i3invis	0
+End
+
+#OBJECT
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#ALIAS
+Name     z~
+Commands zap~
+End
+
+#END

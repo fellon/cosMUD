@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         RIpper~
+Sex          1
+Class        5
+Race         1
+Languages    1 1
+Level        2
+Played       2362
+Room         21001
+HpManaMove   12 27 113 113 110 110
+Gold         0
+Exp          0
+Height          69
+Weight          101
+Act          637535816
+AffectedBy   16
+Position     112
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -11
+Password     RI9hhLKwz83Pc~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      1
+IllegalPK    0
+AttrPerm     10 15 17 15 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 799   6  18 0
+AffectData   'bless' 799  -6  24 0
+AffectData   'armor' 158 -20  17 0
+End
+
+#END

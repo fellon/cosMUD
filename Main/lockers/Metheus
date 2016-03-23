@@ -1,0 +1,20 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         60505
+Room         393222
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24518
+Room         393222
+Level        52
+Values       12 15 46 11 0 0
+End
+
+#END

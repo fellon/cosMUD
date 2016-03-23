@@ -1,0 +1,215 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         478
+Room         327685
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         25507
+Room         327685
+Level        38
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         7940
+Room         327685
+Level        46
+Values       50 187 170 137 0 0
+Spell 1      'sanctuary'
+Spell 2      'protection'
+Spell 3      'invis'
+End
+
+#OBJECT
+Vnum         12596
+Room         327685
+Level        42
+Values       12 12 36 8 0 0
+End
+
+#OBJECT
+Vnum         7957
+Room         327685
+Level        47
+Values       11 10 60 2 0 0
+End
+
+#OBJECT
+Vnum         60910
+Room         327685
+Level        13
+Values       21 187 -1 -1 0 0
+Spell 1      'sanctuary'
+End
+
+#OBJECT
+Vnum         238
+Room         327685
+Level        89
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         267
+Room         327685
+Level        88
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Vnum         267
+Room         327685
+Level        90
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Vnum         236
+Room         327685
+Level        88
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21000
+Room         327685
+Level        15
+Values       26 122 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Vnum         226
+Room         327685
+Level        83
+Values       9 9 -1 -1 0 0
+Spell 1      'aqua breath'
+End
+
+#OBJECT
+Vnum         24521
+Room         327685
+Level        50
+Values       20 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         235
+Room         327685
+Level        92
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         48610
+Room         327685
+Level        14
+Values       10 57 58 -1 0 0
+Spell 1      'cure blindness'
+Spell 2      'cure critical'
+End
+
+#OBJECT
+Vnum         60911
+Room         327685
+Level        2
+Values       34 187 206 10 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         25534
+Room         327685
+Level        44
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Vnum         212
+Room         327685
+Level        76
+Values       25 5 5 60 0 0
+End
+
+#OBJECT
+Vnum         25536
+Room         327685
+Level        41
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         25554
+Room         327685
+Level        46
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         25553
+Room         327685
+Level        45
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Vnum         25536
+Room         327685
+Level        40
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         25544
+Room         327685
+Level        46
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         2823
+Room         327685
+Level        29
+Values       11 8 27 6 0 0
+End
+
+#OBJECT
+Vnum         125
+Room         327685
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         234
+Room         327685
+Level        92
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Vnum         21009
+Room         327685
+Values       10 2 5 0 0 0
+End
+
+#OBJECT
+Vnum         7969
+Room         327685
+Level        48
+Values       48 60 22 122 0 0
+Spell 1      'cure poison'
+Spell 2      'bless'
+Spell 3      'heal'
+End
+
+#END

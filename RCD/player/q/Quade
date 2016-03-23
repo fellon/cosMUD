@@ -1,0 +1,292 @@
+#PLAYER
+Version      3
+Name         Quade~
+Description  Quade is a cool mother fucker.
+You see dead in his eyes
+~
+Sex          1
+Class        10
+Race         10
+Species      0
+Languages    131157 1
+Level        54
+Played       795539
+Room         21002
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   733 733 277 227 754 654
+Gold         1526183
+Exp          136156319
+Height          63
+Weight          138
+Act          570426952
+AffectedBy   32776
+Position     112
+Style     2
+Practice     45
+SavingThrows 0 0 0 0 0
+Alignment    -858
+Favor	       2356
+Balance      0
+Glory        28
+MGlory       28
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -1
+Password     Quo33rXsdYfuo~
+Title         the Evil Champion~
+Lastname  Leviathan~
+Bio          &c Seth musics 'I'm burning, I'm burning, I'm burning for you..
+&r You hear someone's death cry.
+&c The cathedral priestess says 'Seth, you have chosen the path of the
+&c Farewell.'
+&G She gives Seth the finger!
+&g Seth has left the game.
+~
+FPrompt	     <&Yhp:%h &rbp:%b &gmv:%v &cEnemy:%e>~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       3761
+MDeaths      25
+ArenaWins    1
+ArenaKills   2
+ArenaDeaths  0
+IllegalPK    1
+AttrPerm     12 14 12 18 10 10 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 21 0 64
+Site         (Link-Dead)
+Spell        35 'alertness'
+Spell        29 'armor'
+Spell        19 'blazeward'
+Spell        34 'blindness'
+Spell        19 'burning hands'
+Spell        19 'cancelation'
+Spell        26 'curse'
+Spell        35 'demonskin'
+Spell        19 'detect magic'
+Spell        42 'devils might'
+Spell        74 'dispel magic'
+Spell        63 'enchant weapon'
+Spell        95 'energy drain'
+Spell        25 'extradimensional portal'
+Spell        24 'faerie fire'
+Spell        30 'farsight'
+Spell        20 'festering wounds'
+Spell        95 'fireball'
+Spell        90 'hand of chaos'
+Spell        95 'harm'
+Spell        95 'identify'
+Spell        29 'invis'
+Spell        59 'locate object'
+Spell        19 'magic missile'
+Spell        31 'pass door'
+Spell        95 'poison'
+Spell        38 'scry'
+Spell        95 'shield'
+Spell        43 'sleep'
+Spell        95 'stone skin'
+Spell        24 'transport'
+Spell        38 'true sight'
+Spell        95 'weaken'
+Spell        95 'word of recall'
+Skill        23 'aid'
+Skill        37 'bloodlet'
+Skill        30 'climb'
+Skill        19 'dig'
+Skill        40 'disarm'
+Skill        95 'dodge'
+Skill        95 'dual wield'
+Skill        100 'enhanced damage'
+Skill        100 'feed'
+Skill        100 'fifth attack'
+Skill        95 'fourth attack'
+Skill        23 'grip'
+Skill        95 'hide'
+Skill        64 'mount'
+Skill        92 'occulutus visum'
+Skill        95 'parry'
+Skill        95 'peek'
+Skill        19 'scan'
+Skill        24 'search'
+Skill        95 'second attack'
+Skill        95 'sneak'
+Skill        95 'third attack'
+Skill        19 'track'
+Skill        45 'vomica pravus'
+Weapon       19 'bludgeons'
+Weapon       100 'flexible arms'
+Weapon       85 'long blades'
+Weapon       95 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       10 'dwarven'
+Tongue       100 'gith'
+Tongue       8 'halfling'
+Tongue       10 'ogre'
+AffectData   'shield' 335 -20  17 0
+AffectData   'sneak' 423   0  26 32768
+Killed       18 2
+Killed       24823 1
+Killed       24827 3
+Killed       24803 1
+Killed       21055 1
+Killed       60882 1
+Killed       60880 1
+Killed       60878 1
+Killed       60881 1
+Killed       60879 1
+Killed       600 1
+Killed       2071 1
+Killed       2073 2
+Killed       21066 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        44
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        45
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        44
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24824
+WearLoc      5
+Level        43
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        11
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         7308
+WearLoc      11
+Level        33
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+WearLoc      6
+Level        44
+Values       1 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         5105
+WearLoc      16
+Level        21
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         6631
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Count        4
+Vnum         21019
+Values       2 1 6 0 0 0
+End
+
+#OBJECT
+Count        6
+Vnum         21019
+Values       2 2 6 0 0 0
+End
+
+#OBJECT
+Count        6
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#END

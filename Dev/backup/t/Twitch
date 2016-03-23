@@ -1,0 +1,94 @@
+#PLAYER
+Version      3
+Name         Twitch~
+Description  ~
+Sex          1
+Class        29
+Race         17
+Species      8
+Languages    1 1
+Level        5
+Played       4120
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   61 61 155 155 152 152
+Gold         19293
+Exp          78993
+Height          32
+Weight          54
+Act          536872536
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -1
+Password     Twehfi1yKfIBg~
+Title         the Apprentice Harper~
+Lastname (null)~
+AuthedBy     Relgar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       30
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     11 16 13 15 11 14 18
+AttrMod      0 0 0 0 0 0 0
+Condition    17 4 4 13
+Site         63.169.107.252
+Spell        90 'discord'
+Skill        70 'dual wield'
+Skill        17 'hide'
+Skill        17 'pick lock'
+Skill        17 'scan'
+Skill        29 'sneak'
+Weapon       17 'flexible arms'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'armor' 366 -20  17 0
+AffectData   'bless' 1033  -6  24 0
+AffectData   'bless' 1033   6  18 0
+Killed       10396 4
+Killed       10302 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

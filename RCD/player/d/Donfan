@@ -1,0 +1,322 @@
+#PLAYER
+Version      3
+Name         Donfan~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      0
+Languages    147493 1
+Level        60
+Played       571982
+Room         8181
+Memorized		21000 8137 0 0 0 0 0 0
+HpManaMove   677 442 326 1164 866 867
+Gold         2208831
+Exp          260270158
+Height          66
+Weight          108
+Act          536874616
+AffectedBy   2097664
+Position     112
+Style     2
+Practice     20
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       -2004
+Balance      0
+Glory        2
+MGlory       2
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -67
+Password     DaNbTOEXGPNBQ~
+Title         the Wizard~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Aoskar~
+Clan         Guild of Mages~
+Flags        100368
+PKills       1
+PDeaths      0
+MKills       3362
+MDeaths      240
+ArenaWins    3
+ArenaKills   7
+ArenaDeaths  14
+IllegalPK    0
+AttrPerm     12 17 14 17 12 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 20 70
+Site         200.217.169.146
+Spell        95 'acid blast'
+Spell        59 'antimagic shell'
+Spell        29 'aqua breath'
+Spell        95 'armor'
+Spell        95 'astral walk'
+Spell        37 'black fist'
+Spell        46 'black hand'
+Spell        95 'black lightning'
+Spell        33 'blazeward'
+Spell        83 'blindness'
+Spell        65 'blur'
+Spell        92 'cancelation'
+Spell        95 'caustic fount'
+Spell        94 'charm person'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        71 'control weather'
+Spell        95 'create fire'
+Spell        95 'create spring'
+Spell        74 'curse'
+Spell        86 'demonskin'
+Spell        75 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'detect traps'
+Spell        22 'dispel magic'
+Spell        22 'disruption'
+Spell        77 'dragon wit'
+Spell        54 'dream'
+Spell        89 'eldritch sphere'
+Spell        95 'elven beauty'
+Spell        59 'enchant weapon'
+Spell        95 'energy drain'
+Spell        25 'ethereal funnel'
+Spell        70 'ethereal shield'
+Spell        85 'extradimensional portal'
+Spell        94 'faerie fire'
+Spell        95 'faerie fog'
+Spell        95 'farsight'
+Spell        60 'feather fall'
+Spell        95 'fireball'
+Spell        95 'flight'
+Spell        95 'float'
+Spell        41 'galvanic whip'
+Spell        42 'iceshield'
+Spell        85 'identify'
+Spell        70 'infravision'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        72 'know alignment'
+Spell        95 'lightning bolt'
+Spell        25 'liquid skin'
+Spell        63 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        95 'pass door'
+Spell        95 'portal'
+Spell        37 'razorbait'
+Spell        68 'refresh'
+Spell        19 'remove trap'
+Spell        49 'scry'
+Spell        61 'shadowform'
+Spell        95 'shield'
+Spell        46 'shocking grasp'
+Spell        41 'shockshield'
+Spell        65 'sleep'
+Spell        76 'slink'
+Spell        95 'sonic resonance'
+Spell        30 'spectral furor'
+Spell        59 'stone skin'
+Spell        95 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        52 'transport'
+Spell        81 'trollish vigor'
+Spell        19 'true sight'
+Spell        89 'valiance'
+Spell        95 'weaken'
+Spell        19 'winter mist'
+Spell        19 'wizard eye'
+Spell        95 'word of recall'
+Skill        73 'aid'
+Skill        82 'brew'
+Skill        19 'cook'
+Skill        34 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        49 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        32 'levitate'
+Skill        95 'meditate'
+Skill        72 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        95 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       53 'talonous arms'
+Tongue       100 'common'
+Tongue       20 'dwarven'
+Tongue       100 'elvish'
+Tongue       10 'goblin'
+Tongue       40 'halfling'
+Tongue       19 'orcish'
+AffectData   'feather fall' 1280   0  26 2097152
+Killed       8121 3
+Killed       8122 2
+Killed       8120 3
+Killed       8124 3
+Killed       8125 2
+Killed       48505 1
+Killed       48504 1
+Killed       48506 7
+Killed       48502 1
+Killed       48500 2
+Killed       24825 1
+Killed       24822 1
+Killed       24824 1
+Killed       24823 1
+Killed       24819 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+WearLoc      9
+Level        56
+Values       15 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         46921
+WearLoc      12
+Level        53
+Values       32 32 0 0 0 0
+End
+
+#OBJECT
+Vnum         46922
+WearLoc      10
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         12597
+WearLoc      6
+Level        42
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         280
+WearLoc      8
+Level        57
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         12595
+WearLoc      5
+Level        42
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         100004
+WearLoc      23
+Level        56
+Values       16 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         2338
+WearLoc      7
+Level        57
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         25049
+WearLoc      13
+Level        43
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         25045
+WearLoc      20
+Level        39
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        12
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         46024
+WearLoc      14
+Level        42
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         46025
+WearLoc      16
+Level        44
+Values       12 13 39 3 0 0
+End
+
+#OBJECT
+Name         flask potion detect invis~
+ShortDescr   a detect invis potion~
+Description  A strange potion labelled 'detect invis' sizzles in a glass flask.~
+Vnum         35
+WearLoc      17
+Level        3
+Values       60 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         8103
+Level        47
+Values       12 12 41 11 0 0
+End
+
+#MOBILE
+Vnum	60895
+Room	60857
+Description The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Donfan'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

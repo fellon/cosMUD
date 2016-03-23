@@ -1,0 +1,174 @@
+#PLAYER
+Version      3
+Name         Drakkano~
+Sex          1
+Class        0
+Race         9
+Languages    1 1
+Level        3
+Played       18008
+Room         10380
+HpManaMove   20 37 22 112 220 120
+Gold         11929
+Exp          25307
+Height          62
+Weight          161
+Act          637535816
+AffectedBy   512
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        1
+ICEListen ~
+Resistant    2
+Mentalstate  -4
+Password     Dr9NTVqP08Q2g~
+Title         the Scholar of Magic~
+Prompt       -=}{ hp:%h/%H }{ mana:%m/%M }{ mv:%v/%V }{ gold:%g }{ in:%A }{ exp:%x/%X }{=-~
+FPrompt	     -=}{ hp:%h/%H }{ mana:%m/%M }{ mv:%v/%V }{ exp:%x/X }{ Enemy:%e }{=-~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       44
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 18 13 15 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 0 13
+Site         24.218.85.77
+Spell        63 'weaken'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10302 2
+Killed       10301 3
+Killed       10300 4
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   1
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21003
+Level        3
+Values       1 41 -1 -1 0 0
+Spell 1      'cure light'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21005
+Level        1
+Values       2 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         10314
+Values       15 7 0 0 0 0
+End
+
+#END

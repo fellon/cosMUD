@@ -1,0 +1,52 @@
+#PLAYER
+Version      3
+Name         Smaug~
+Sex          0
+Class        2
+Race         3
+Languages    1 1
+Level        2
+Played       2567
+Room         21001
+HpManaMove   27 27 110 110 110 110
+Gold         0
+Exp          929
+Height          33
+Weight          61
+Act          536872520
+AffectedBy   32772
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     SmqNFrj0P2kjo~
+Title         the Footpad~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 13 12 17 14 12 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 14 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'halfling'
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#END

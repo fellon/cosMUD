@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Bodahk~
+Description  ~
+Sex          1
+Class        7
+Race         8
+Languages    1 1
+Level        5
+Played       6813
+Room         3516
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   53 102 133 133 120 152
+Gold         25771
+Exp          115982
+Height          123
+Weight          535
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -6
+Alignment    500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     BoUVNC2lJQpsE~
+Title         the Observist~
+Lastname  Sund~
+AuthedBy     Arbadus~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       51
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 15 14 11 13 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 7 10
+Site         63.169.107.252
+Spell        54 'armor'
+Spell        37 'chill touch'
+Spell        19 'continual light'
+Spell        19 'create food'
+Skill        19 'dual wield'
+Skill        19 'scan'
+Skill        19 'search'
+Weapon       19 'bludgeons'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless' 1001   6  18 0
+AffectData   'bless' 1001  -6  24 0
+AffectData   'armor' 418 -20  17 0
+Killed       7003 2
+Killed       2071 1
+i3invis	0
+End
+
+#END

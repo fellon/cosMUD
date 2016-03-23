@@ -1,0 +1,95 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         14756
+Room         327685
+Level        48
+Values       11 16 41 4 0 0
+End
+
+#OBJECT
+Vnum         42979
+Room         327685
+Level        38
+Values       12 11 34 7 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Vnum         14739
+Room         327685
+Level        49
+Values       52 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         8914
+Room         327685
+Level        11
+Values       15 -1 -1 36 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Vnum         14757
+Room         327685
+Level        48
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Room         327685
+Level        1
+Values       20 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         14737
+Room         327685
+Level        50
+Values       53 1 1 208 0 0
+Spell 3      'summon'
+End
+
+#OBJECT
+Vnum         10314
+Room         327685
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+Room         327685
+Level        44
+Values       -50 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24857
+Room         327685
+Level        43
+Values       43 4 4 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         24830
+Room         327685
+Level        44
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         42923
+Room         327685
+Level        26
+Values       5 5 0 0 0 0
+End
+
+#END

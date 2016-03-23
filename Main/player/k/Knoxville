@@ -1,0 +1,234 @@
+#PLAYER
+Version      3
+Name         Knoxville~
+Description  ~
+Sex          1
+Class        22
+Race         0
+Species      0
+Languages    1 1
+Level        7
+Played       54456
+Room         10319
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   161 161 137 137 178 178
+Gold         76957
+Exp          303095
+Height          63
+Weight          160
+Act          570426952&4
+Position     104
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        20
+ICEListen (null)~
+Mentalstate  0
+Password     KnwIqcswfOUaQ~
+Title         the Fallen~
+Lastname  Johnny~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       200
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 15 14 16 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 6 17
+Site         207.202.214.136
+Spell        95 'armor'
+Spell        70 'bless'
+Spell        31 'continual light'
+Spell        95 'create food'
+Spell        28 'create water'
+Spell        90 'cure light'
+Spell        95 'cure serious'
+Spell        91 'faerie fire'
+Spell        50 'invis'
+Spell        73 'protection'
+Spell        21 'refresh'
+Spell        24 'uplift'
+Skill        19 'aid'
+Skill        40 'dual wield'
+Skill        20 'kick'
+Skill        88 'scan'
+Weapon       50 'long blades'
+Weapon       60 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 230 -20  17 0
+Killed       10302 2
+Killed       10303 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+WearLoc      21
+Values       10 2 6 14 1 0
+End
+
+#ALIAS
+Name     1~
+Commands cast faerie fire~
+End
+
+#ALIAS
+Name     2~
+Commands cast cure~
+End
+
+#ALIAS
+Name     0~
+Commands cast create food~
+End
+
+#ALIAS
+Name     9~
+Commands eat mushroom~
+End
+
+#ALIAS
+Name     7~
+Commands cast armor~
+End
+
+#ALIAS
+Name     8~
+Commands cast 'create water' dragonskin~
+End
+
+#ALIAS
+Name     kk~
+Commands kick~
+End
+
+#ALIAS
+Name     oo~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     3~
+Commands cast 'cure serious'~
+End
+
+#ALIAS
+Name     6~
+Commands cast bless~
+End
+
+#ALIAS
+Name     5~
+Commands cast protection~
+End
+
+#ALIAS
+Name     dd~
+Commands drink dragonskin~
+End
+
+#ALIAS
+Name     ff~
+Commands flee~
+End
+
+#ALIAS
+Name     4~
+Commands cast invis~
+End
+
+#END

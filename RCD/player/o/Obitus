@@ -1,0 +1,80 @@
+#PLAYER
+Version      3
+Name         Obitus~
+Description  ~
+Sex          0
+Class        5
+Race         12
+Species      0
+Languages    1 1
+Level        5
+Played       73895
+Room         24689
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   65 68 124 124 140 140
+Gold         0
+Exp          108547
+Height          56
+Weight          114
+Act          570427002
+AffectedBy   -2147483632
+Position     106
+Style     4
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        3
+ICEListen ~
+Resistant    2
+Mentalstate  -56
+Password     Objgkin4dbSEA~
+Title         the Missionary~
+Lastname ~
+AuthedBy     Cyph~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       133
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 14 13 15 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 14
+Site         (Link-Dead)
+Spell        50 'armor'
+Spell        44 'cause serious'
+Spell        22 'create food'
+Spell        19 'create water'
+Spell        95 'cure light'
+Weapon       19 'flexible arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 572   6  18 0
+AffectData   'bless' 572  -6  24 0
+Killed       7005 1
+Killed       7001 1
+i3invis	0
+End
+
+#MOBILE
+Vnum	21070
+Room	21126
+Description This fat, lumbering creature is dirty and unkept. You find yourself
+wondering what it carries.
+A neck tag says 'I belong to Obitus'.
+~
+Position 12
+Flags 262403
+EndMobile
+
+#END

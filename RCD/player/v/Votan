@@ -1,0 +1,58 @@
+#PLAYER
+Version      3
+Name         Votan~
+Sex          1
+Class        4
+Race         9
+Languages    1 1
+Level        2
+Played       2556
+Room         10301
+HpManaMove   33 33 103 103 110 110
+Gold         0
+Exp          1500
+Height          65
+Weight          147
+Act          637535816
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     VoH73uz59Gn0.~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 14 16 17 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 21 21 10
+Site         207.202.214.136
+Spell        19 'float'
+Spell        19 'infravision'
+Skill        19 'dig'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

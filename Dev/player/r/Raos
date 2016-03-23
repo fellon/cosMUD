@@ -1,0 +1,516 @@
+#PLAYER
+Version      3
+Name         Raos~
+Description  ~
+Sex          1
+Class        3
+Race         10
+Languages    3 1
+Level        29
+Played       251607
+Room         8312
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   520 523 296 296 335 464
+Gold         912564
+Exp          25482960
+Height          75
+Weight          159
+Act          570427000
+AffectedBy   -2130173816
+Position     112
+Style     2
+Practice     35
+SavingThrows 0 0 0 0 -4
+Alignment    -1000
+Favor	       501
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      4
+Damroll      0
+Armor        100
+Wimpy        120
+Deaf         146833653
+ICEListen (null)~
+Mentalstate  0
+Password     RabMU9AowrQow~
+Title         the Sergeant~
+Lastname  Rabbelz~
+AuthedBy     Rathkor~
+Deity	     Borrin~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       1036
+MDeaths      23
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 13 15 11 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 41 9 38
+Site         207.202.214.132
+Skill        29 'aid'
+Skill        17 'cook'
+Skill        85 'disarm'
+Skill        67 'doorbash'
+Skill        100 'dual wield'
+Skill        90 'elbow'
+Skill        100 'enhanced damage'
+Skill        22 'grip'
+Skill        90 'headbutt'
+Skill        95 'kick'
+Skill        90 'lunge'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        70 'roundhouse'
+Skill        45 'scan'
+Skill        75 'search'
+Skill        95 'second attack'
+Skill        90 'shoulder'
+Skill        95 'third attack'
+Weapon       100 'bludgeons'
+Weapon       48 'flexible arms'
+Weapon       100 'long blades'
+Weapon       100 'pugilism'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Tongue       8 'elvish'
+Tongue       100 'gith'
+AffectData   'aqua breath' 897   0  26 -2147483648
+AffectData   'scry' 897   0  26 16777216
+AffectData   'flight' 936   0  26 524288
+AffectData   'minor invocation' 897  -4  24 0
+AffectData   'minor invocation' 897   4  18 0
+AffectData   'major invocation'  39   0  26 128
+AffectData   'benediction'  39   0  26 8192
+Killed       8306 1
+Killed       8321 2
+Killed       8302 2
+Killed       8314 4
+Killed       6102 1
+Killed       6100 1
+Killed       6117 1
+Killed       6103 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      1
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+WearLoc      20
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+WearLoc      2
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      3
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        15
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        13
+Values       0 0 16 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21072
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         5105
+WearLoc      16
+Level        23
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         5105
+WearLoc      18
+Level        18
+Values       11 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         6510
+WearLoc      6
+Level        19
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2375
+WearLoc      10
+Level        24
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2374
+WearLoc      7
+Level        26
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         24801
+Level        34
+Values       11 10 30 3 0 0
+End
+
+#OBJECT
+Vnum         24801
+Level        35
+Values       12 12 32 3 0 0
+End
+
+#OBJECT
+Vnum         24805
+Level        38
+Values       12 12 34 5 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         8307
+Level        13
+Values       43 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         8307
+Level        13
+Values       41 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#ALIAS
+Name     knn~
+Commands kill naga~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corp~
+End
+
+#ALIAS
+Name     kaa~
+Commands kill ant~
+End
+
+#ALIAS
+Name     kc~
+Commands kill city~
+End
+
+#ALIAS
+Name     ee~
+Commands elb yoc~
+End
+
+#ALIAS
+Name     kcc~
+Commands kill cent~
+End
+
+#ALIAS
+Name     eh~
+Commands get head ; eat head~
+End
+
+#ALIAS
+Name     ef~
+Commands get foot ; eat foot~
+End
+
+#ALIAS
+Name     el~
+Commands elbow life~
+End
+
+#ALIAS
+Name     kr~
+Commands kill rat~
+End
+
+#ALIAS
+Name     et~
+Commands get tail ; eat tail~
+End
+
+#ALIAS
+Name     ds~
+Commands drink spring~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin ; put skin bag~
+End
+
+#ALIAS
+Name     fb~
+Commands get skin bag ; fill skin ; put skin bag~
+End
+
+#ALIAS
+Name     ab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     waa~
+Commands wear all~
+End
+
+#ALIAS
+Name     ks~
+Commands kill slug~
+End
+
+#ALIAS
+Name     kww~
+Commands kill wolf~
+End
+
+#ALIAS
+Name     earm~
+Commands get arm ; eat arm~
+End
+
+#ALIAS
+Name     ehh~
+Commands get heart ; eat heart~
+End
+
+#ALIAS
+Name     df~
+Commands drink fountain~
+End
+
+#ALIAS
+Name     gc~
+Commands get all corp~
+End
+
+#ALIAS
+Name     ehand~
+Commands get hand ; eat hand~
+End
+
+#ALIAS
+Name     sacsw~
+Commands sac sword~
+End
+
+#ALIAS
+Name     ett~
+Commands get turkey bag ; eat turkey~
+End
+
+#ALIAS
+Name     btt~
+Commands buy turkey~
+End
+
+#ALIAS
+Name     drr~
+Commands drop all ; get bag~
+End
+
+#ALIAS
+Name     baw~
+Commands door west~
+End
+
+#ALIAS
+Name     kl~
+Commands kill soul~
+End
+
+#ALIAS
+Name     kmm~
+Commands kick mouth~
+End
+
+#ALIAS
+Name     ell~
+Commands elbow yev~
+End
+
+#ALIAS
+Name     bas~
+Commands door south~
+End
+
+#ALIAS
+Name     dis~
+Commands foot~
+End
+
+#ALIAS
+Name     ddd~
+Commands disarm mel~
+End
+
+#ALIAS
+Name     dd~
+Commands disarm envy~
+End
+
+#ALIAS
+Name     elo~
+Commands elbow city~
+End
+
+#ALIAS
+Name     repo~
+Commands rem all ; repair all ; wear all~
+End
+
+#ALIAS
+Name     hh~
+Commands head envy~
+End
+
+#ALIAS
+Name     bbl~
+Commands buy lett~
+End
+
+#ALIAS
+Name     hhh~
+Commands head life~
+End
+
+#ALIAS
+Name     heal~
+Commands get potion bag ; quaff potion~
+End
+
+#ALIAS
+Name     hc~
+Commands head city~
+End
+
+#ALIAS
+Name     hj~
+Commands head jan~
+End
+
+#ALIAS
+Name     sacg~
+Commands sac gau~
+End
+
+#ALIAS
+Name     hg~
+Commands head ghoul~
+End
+
+#ALIAS
+Name     scn~
+Commands scan n~
+End
+
+#ALIAS
+Name     das~
+Commands disarm life~
+End
+
+#ALIAS
+Name     ddm~
+Commands disarm mel~
+End
+
+#ALIAS
+Name     ddi~
+Commands disarm innoc~
+End
+
+#ALIAS
+Name     ddc~
+Commands disarm confusion~
+End
+
+#END

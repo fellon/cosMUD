@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         Haladej~
+Sex          1
+Class        0
+Race         1
+Languages    1 1
+Level        2
+Played       1603
+Room         10301
+HpManaMove   26 26 112 112 109 110
+Gold         0
+Exp          2000
+Height          63
+Weight          121
+Act          570426952
+AffectedBy   16
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     HaZhdP9Ppu1wM~
+Title         the Spell Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 17 15 14 12 13 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 34 34 12
+Site         207.202.214.132
+Spell        19 'black hand'
+Spell        19 'magic missile'
+Spell        19 'weaken'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#END

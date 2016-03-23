@@ -1,0 +1,460 @@
+#PLAYER
+Version      3
+Name         Zel~
+Description  Zel The Harper
+ 
+For a soldier, the lad seem a little bit strange
+and seem doesnt fits to be a soldier
+But nevertheless he is one of the best from RDAF
+ 
+~
+Sex          1
+Class        19
+Race         9
+Species      0
+Languages    655385 1
+Level        80
+Played       311468
+Room         207
+Memorized		100033 0 0 0 0 0 0 0
+HpManaMove   2123 1501 1772 893 1458 1127
+Gold         32960646
+Exp          419214842
+Height          54
+Weight          154
+Act          570426984
+AffectedBy   -2128576000
+Position     112
+Style     2
+Practice     270
+SavingThrows 0 0 0 0 -9
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      17
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     ZeLwBbAJhL0vo~
+Title        &P <Legion of Griffith>~
+Lastname  Ixious~
+Bio          &W Zel Ixious &B the Harper &W
+ 
+Usually known as Zenital, but getting bored playing 
+a role as a ranger and so he's reborn as Zel the
+&B Harper &W 
+Although he's appereance doesnt fit a soldier, he's
+still one of the best from RDAF
+ 
+"Let me &G sing a &R song &W for you all!!" :)
+---------------------------------------------------
+record : you &R sing a song of blazing fire
+         &W your &R firesong &W mauls the giant [400]
+ 
+record : you ***SMITE*** the avenger of the lost gods [1070]
+~
+AuthedBy     Prage~
+Deity	     Shaundakul~
+Clan         RDAF~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       2249
+MDeaths      17
+ArenaWins    6
+ArenaKills   13
+ArenaDeaths  10
+IllegalPK    0
+AttrPerm     15 15 14 16 14 10 12
+AttrMod      1 0 0 0 1 0 5
+Condition    0 27 4 89
+Site         202.95.133.37
+Spell        95 'bless'
+Spell        95 'bringaround ballad'
+Spell        70 'cancelation'
+Spell        46 'cat eyes'
+Spell        66 'charm person'
+Spell        95 'colour spray'
+Spell        95 'discord'
+Spell        90 'earthsong'
+Spell        47 'enchant weapon'
+Spell        95 'faerie fire'
+Spell        71 'feather fall'
+Spell        95 'firesong'
+Spell        34 'float'
+Spell        95 'fortissimmo'
+Spell        95 'hand of chaos'
+Spell        90 'leprechaun fortune'
+Spell        65 'pianissimmo'
+Spell        95 'quickfire'
+Spell        95 'riversong'
+Spell        60 'visitation'
+Spell        95 'windsong'
+Spell        95 'witherfist'
+Spell        95 'word of recall'
+Skill        28 'aid'
+Skill        95 'bandage'
+Skill        60 'bash'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        90 'disarm'
+Skill        70 'dual wield'
+Skill        55 'enhanced damage'
+Skill        71 'focus'
+Skill        30 'fourth attack'
+Skill        95 'fourth cast'
+Skill        85 'hide'
+Skill        40 'kick'
+Skill        70 'knee'
+Skill        26 'meditate'
+Skill        95 'pick lock'
+Skill        74 'pigeon'
+Skill        28 'pinch'
+Skill        90 'scan'
+Skill        84 'search'
+Skill        90 'second attack'
+Skill        95 'second cast'
+Skill        67 'sneak'
+Skill        95 'steal'
+Skill        70 'third attack'
+Skill        95 'third cast'
+Skill        85 'track'
+Skill        17 'tumble'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       85 'pugilism'
+Weapon       95 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'gith'
+Tongue       99 'halfling'
+Tongue       99 'ogre'
+Tongue       99 'pixie'
+AffectData   'sneak' 383   0  26 32768
+AffectData   'windsong' 149   4  18 16777216
+AffectData   'riversong' 150   4  18 -2147483648
+AffectData   'bless' 390   9  18 0
+AffectData   'bless' 390  -9  24 0
+AffectData   'feather fall' 551   0  26 2097152
+AffectData   'leprechaun fortune' 474   5  31 0
+AffectData   'fortissimmo' 160   1   5 0
+AffectData   'fortissimmo' 160   1   1 0
+Killed       212 5
+Killed       208 12
+Killed       207 5
+Killed       205 1
+Killed       6100 1
+Killed       6005 1
+Killed       6102 2
+Killed       3416 3
+Killed       3401 5
+Killed       3409 1
+Killed       3413 1
+Killed       3402 3
+Killed       3400 5
+Killed       438 1
+Killed       441 1
+Killed       444 1
+Killed       24842 1
+Killed       24823 2
+Killed       24819 1
+Killed       200 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         100019
+WearLoc      22
+Values       150 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48019
+Level        33
+Values       23 -1 -1 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         48009
+Level        57
+Values       28 73 122 -1 0 0
+Spell 1      'dispel evil'
+Spell 2      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        14
+Vnum         21007
+Level        5
+Values       4 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Nest         1
+Vnum         36
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         7930
+Level        56
+Values       50 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        20
+Vnum         7931
+Level        56
+Values       49 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21006
+Level        1
+Values       1 131 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         100018
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         41403
+WearLoc      14
+Level        17
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2801
+WearLoc      3
+Level        39
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         46921
+WearLoc      12
+Level        51
+Values       29 32 0 0 0 0
+End
+
+#OBJECT
+Vnum         236
+WearLoc      6
+Level        61
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      2
+Level        6
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         25066
+WearLoc      4
+Level        60
+Values       12 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         25045
+WearLoc      20
+Level        41
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         237
+WearLoc      10
+Level        60
+Values       14 16 0 0 0 0
+End
+
+#OBJECT
+Name         iron mask rdaf rename~
+ShortDescr   An iron mask~
+Description  The man's iron mask has been removed.~
+Vnum         1208
+WearLoc      23
+Level        50
+Values       14 -300 0 0 0 0
+End
+
+#OBJECT
+Vnum         7222
+WearLoc      8
+Level        42
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         223
+WearLoc      9
+Level        77
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         46015
+WearLoc      5
+Level        57
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Vnum         42936
+WearLoc      7
+Level        57
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+Level        58
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2332
+WearLoc      13
+Level        59
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         5025
+WearLoc      15
+Level        57
+Values       2 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         60853
+Values       12 11 7 0 0 0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       42 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        14
+Vnum         7930
+Level        56
+Values       49 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Vnum         70034
+Level        73
+Values       12 30 90 3 0 0
+End
+
+#OBJECT
+Vnum         2436
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+ExtraFlags   1026
+Level        47
+Values       12 12 40 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         70001
+Level        66
+Values       11 50 150 0 0 0
+End
+
+#ALIAS
+Name     cf~
+Commands c fir; c fir; c fir; c fir; c fir~
+End
+
+#ALIAS
+Name     tm~
+Commands track 'michael jackson~
+End
+
+#ALIAS
+Name     cw~
+Commands c wi; c wi; c wi; c wi~
+End
+
+#MOBILE
+Vnum	60895
+Room	100037
+Description The wolf looks like a strong, fearless fighter.
+A neck tag says 'I belong to Zel'.
+~
+Position 8
+Flags 259
+EndMobile
+
+#END

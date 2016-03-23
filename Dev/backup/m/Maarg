@@ -1,0 +1,565 @@
+#PLAYER
+Version      3
+Name         Maarg~
+Description  ~
+Sex          1
+Class        0
+Race         14
+Species      0
+Languages    524289 1
+Level        62
+Played       370090
+Room         2307
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   741 396 1110 1259 913 893
+Gold         4178461
+Exp          289176676
+Height          47
+Weight          118
+Act          570427000
+AffectedBy   -2147483120
+Position     112
+Style     2
+Practice     71
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        -10
+Wimpy        50
+ICEListen (null)~
+Resistant    1056872
+Susceptible  1
+Mentalstate  0
+Password     Ma7W6pT3JbM.Q~
+Title         the Wizard~
+Lastname  The Merciless~
+Bio          Your Magnetic Thrust DESTROYS Welmar's Left Foot! [575]
+Your Caustic Fount mauls Aram-Dol! [608]
+Your Black Lightning MUTILATES a water elemental! [939]
+Your pound *** ANNIHILATES *** an elite guard! [2480]
+~
+AuthedBy     Fairburn~
+Deity	     Mystra~
+Clan         Guild of Mages~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3249
+MDeaths      77
+ArenaWins    1
+ArenaKills   1
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 15 13 12 11 14
+AttrMod      0 0 0 0 0 -1 0
+Condition    0 12 10 71
+Site         207.202.214.132
+Spell        95 'acid blast'
+Spell        35 'antimagic shell'
+Spell        77 'aqua breath'
+Spell        95 'armor'
+Spell        95 'black fist'
+Spell        95 'black hand'
+Spell        95 'black lightning'
+Spell        19 'blazebane'
+Spell        87 'blazeward'
+Spell        95 'blindness'
+Spell        95 'blur'
+Spell        95 'burning hands'
+Spell        95 'cancelation'
+Spell        95 'caustic fount'
+Spell        34 'charm person'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        95 'control weather'
+Spell        95 'create fire'
+Spell        95 'create spring'
+Spell        75 'curse'
+Spell        95 'demonskin'
+Spell        19 'detect invis'
+Spell        95 'detect magic'
+Spell        85 'detect traps'
+Spell        19 'dispel magic'
+Spell        95 'disruption'
+Spell        95 'dragon wit'
+Spell        95 'dragonskin'
+Spell        26 'dream'
+Spell        95 'eldritch sphere'
+Spell        49 'elven beauty'
+Spell        89 'enchant weapon'
+Spell        35 'energy drain'
+Spell        95 'ethereal fist'
+Spell        34 'ethereal funnel'
+Spell        95 'ethereal shield'
+Spell        95 'extradimensional portal'
+Spell        95 'faerie fire'
+Spell        95 'faerie fog'
+Spell        95 'farsight'
+Spell        95 'feather fall'
+Spell        95 'fireball'
+Spell        53 'flight'
+Spell        38 'float'
+Spell        95 'galvanic whip'
+Spell        95 'hand of chaos'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        19 'infravision'
+Spell        95 'inner warmth'
+Spell        95 'invis'
+Spell        19 'kindred strength'
+Spell        95 'knock'
+Spell        19 'know alignment'
+Spell        95 'lightning bolt'
+Spell        95 'liquid skin'
+Spell        64 'locate object'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        95 'mass invis'
+Spell        73 'ogrish hide'
+Spell        51 'pass door'
+Spell        91 'portal'
+Spell        23 'razorbait'
+Spell        19 'recharge'
+Spell        61 'refresh'
+Spell        95 'remove invis'
+Spell        31 'remove trap'
+Spell        95 'sagacity'
+Spell        95 'scry'
+Spell        95 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        95 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        95 'stone skin'
+Spell        94 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        44 'transport'
+Spell        95 'trollish vigor'
+Spell        35 'true sight'
+Spell        95 'valiance'
+Spell        95 'ventriloquate'
+Spell        95 'weaken'
+Spell        54 'winter mist'
+Spell        95 'wizard eye'
+Spell        95 'word of recall'
+Skill        31 'aid'
+Skill        19 'brew'
+Skill        19 'cook'
+Skill        60 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        95 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        24 'levitate'
+Skill        95 'meditate'
+Skill        95 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        95 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'gith'
+Tongue       100 'gnome'
+AffectData   'aqua breath'   9   0  26 -2147483648
+AffectData   'armor' 345 -20  17 0
+AffectData   'demonskin' 1189  64  27 0
+AffectData   'dragonskin' 1190  32  27 0
+AffectData   'stone skin' 1190 -40  17 0
+AffectData   'ethereal shield' 1198   8  27 0
+AffectData   'ogrish hide' 1505 -30  17 0
+AffectData   'ogrish hide' 1505  -1  25 0
+AffectData   'shield' 1444 -20  17 0
+AffectData   'eldritch sphere' 173 8192  27 0
+AffectData   'eldritch sphere' 173 1048576  27 0
+AffectData   'shadowform' 594 8192  27 0
+Killed       2300 1
+Killed       14706 1
+Killed       14714 1
+Killed       14701 3
+Killed       14703 1
+Killed       14728 1
+Killed       14726 1
+Killed       14727 1
+Killed       14716 1
+Killed       14704 1
+Killed       14732 1
+Killed       14729 2
+Killed       14711 2
+Killed       14700 3
+Killed       3403 1
+Killed       42908 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        6
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+WearLoc      1
+Level        29
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+WearLoc      6
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      3
+Level        10
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        27
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         100001
+WearLoc      4
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         60881
+WearLoc      2
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60961
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60959
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60960
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21071
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2431
+Level        1
+Values       65 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         3601
+Level        3
+Values       10 9 5 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         60854
+Values       12 12 8 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         800
+Level        37
+Values       12 4 32 6 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         30234
+Level        41
+Values       30 10 278 135 0 0
+Spell 1      'armor'
+Spell 2      'fly'
+Spell 3      'infravision'
+End
+
+#OBJECT
+Nest         2
+Vnum         30237
+Level        53
+Values       0 1 -1 11 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         24892
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         8902
+Level        1
+Cost         0
+Values       5 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         3
+Vnum         8903
+Level        1
+Values       -2 0 0 0 0 0
+End
+
+#OBJECT
+Nest         3
+Vnum         8904
+Level        1
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        9
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         3
+Vnum         21009
+Values       10 3 5 0 0 0
+End
+
+#OBJECT
+Nest         3
+Vnum         21009
+Values       10 10 5 0 0 0
+End
+
+#OBJECT
+Nest         3
+Vnum         21009
+Values       10 8 5 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         14720
+WearLoc      23
+Level        39
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         15104
+WearLoc      24
+Level        33
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        44
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        43
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        43
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        42
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        44
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        44
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         46024
+WearLoc      15
+Level        44
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         12588
+WearLoc      5
+Values       40 40 0 0 0 0
+End
+
+#OBJECT
+Vnum         660
+WearLoc      11
+Level        20
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         3425
+WearLoc      17
+Level        10
+Values       9 2 2 38 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Vnum         2454
+WearLoc      16
+Values       12 50 2480 7 0 0
+Affect       -1 -1 150 13 0
+Affect       -1 -1 5 2 0
+Affect       -1 -1 100 14 0
+End
+
+#OBJECT
+Vnum         14732
+WearLoc      0
+Level        48
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         14704
+Level        55
+Values       12 13 48 8 0 0
+End
+
+#OBJECT
+Vnum         14705
+Level        53
+Values       14 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14715
+Level        47
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14716
+Level        47
+Values       12 12 42 8 0 0
+End
+
+#OBJECT
+Vnum         14717
+Level        48
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+Level        64
+Values       12 19 54 11 0 0
+End
+
+#OBJECT
+Vnum         14703
+Level        64
+Values       19 19 0 0 0 0
+End
+
+#OBJECT
+Vnum         2346
+Level        24
+Values       10 10 0 0 0 0
+End
+
+#ALIAS
+Name     gogal~
+Commands s ; s ; s ; s ; w ; n ; n ; give 100 coin recep ; un n ; op n ; n'~
+End
+
+#END

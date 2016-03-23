@@ -1,0 +1,327 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\b\f0\fs20 Species snippet -\par
+\b0\par
+act_wiz.c\tab showrace, setrace\par
+mud.h\tab\tab varibables\par
+tables.c\tab\tab race file\par
+save.c\tab\tab player file\par
+comm.c\tab\tab nanny\par
+\par
+\b Setup the Species flag for the P-file, Race-file. Use a name and a number.\par
+\tab - setrace and showrace (later)\par
+\par
+Problems : had to put the char * const species_name [MAX_SPECIES] ... inside the nanny function. May move it to mud.h so that the species names can be used in showrace, mstat, etc...\par
+\par
+\par
+ mud.h line 255\tab\tab definitions\par
+\b0 /*\par
+ * Game parameters.\par
+ * Increase the max'es if you add more of something.\par
+ * Adjust the pulse numbers to suit yourself.\par
+ */\par
+#define MAX_EXP_WORTH\tab        500000\par
+#define MIN_EXP_WORTH\tab\tab    20\par
+\par
+#define MAX_REXITS\tab\tab    20\tab /* Maximum exits allowed in 1 room */\par
+#define MAX_SKILL\tab\tab   400\par
+#define MAX_CLASS           \tab   24\par
+#define MAX_NPC_CLASS\tab\tab    26\par
+/*#define MAX_RACE                 20  Trying to fix a bunch of problems-- Scryn*/  \par
+#define MAX_RACE                   41      /* (was 19)  added more 3/25/99 Scion */\par
+#define MAX_NPC_RACE\tab\tab    91\par
+#define\tab MAX_SPECIES\tab\tab\tab 5\tab /* added this in for species */\par
+#define MAX_LEVEL\tab\tab    116\par
+#define MAX_CLAN\tab\tab    50\par
+#define MAX_DEITY\tab\tab    50\b\par
+\par
+mud.h line 724\tab\tab connected state for a channel\par
+\par
+\b0 /*\par
+ * Connected state for a channel.\par
+ */\par
+typedef enum \{\par
+  CON_GET_NAME = -100,\par
+  CON_GET_OLD_PASSWORD,\par
+  CON_CONFIRM_NEW_NAME,\par
+  CON_GET_NEW_PASSWORD,\par
+  CON_CONFIRM_NEW_PASSWORD,\par
+  CON_GET_NEW_SPECIES,\tab\tab /* added in this part for species */\par
+  CON_GET_NEW_SEX,\par
+  CON_GET_NEW_CLASS,\par
+  CON_READ_MOTD,\par
+  CON_GET_NEW_RACE,\par
+  CON_GET_EMULATION,\par
+  CON_GET_WANT_RIPANSI,\par
+  CON_TITLE,\par
+  CON_PRESS_ENTER,\par
+  CON_WAIT_1,\par
+  CON_WAIT_2,\b\par
+\par
+ mud.h line 1110\tab struct\tab race_type \par
+\b0 /* race dedicated stuff */\par
+struct\tab race_type\par
+\{\par
+    char \tab race_name\tab [16];\tab /* Race name\tab\tab\tab */\par
+    EXT_BV\tab affected;\tab\tab /* Default affect bitvectors\tab */\par
+    sh_int\tab species;\tab\tab /* added this in for species */\par
+    sh_int\tab str_plus;\tab\tab /* Str bonus/penalty\tab\tab */\par
+    sh_int\tab dex_plus;\tab\tab /* Dex      "\tab\tab\tab */\par
+    sh_int\tab wis_plus;\tab\tab /* Wis      "\tab\tab\tab */\par
+    sh_int\tab int_plus;\tab\tab /* Int      "\tab\tab\tab */\par
+    sh_int\tab con_plus;\tab\tab /* Con      "\tab\tab\tab */\par
+    sh_int\tab cha_plus;\tab\tab /* Cha      "\tab\tab\tab */\par
+    sh_int\tab lck_plus;\tab\tab /* Lck \tab     "\tab\tab\tab */\par
+    sh_int      hit;\par
+    sh_int      mana;\par
+    sh_int      resist;\par
+    sh_int      suscept;\par
+    int\tab\tab class_restriction;\tab /* Flags for illegal classes\tab */\par
+    int         language;               /* Default racial language      */\par
+    sh_int      ac_plus;               \par
+    sh_int      alignment;               \par
+    EXT_BV      attacks;\b\par
+\b0\par
+\b  mud.h line 2300\tab\tab struct\tab char_data\tab (can be used later for P-files)\par
+\b0\par
+    sh_int\tab\tab num_fighting;\par
+    sh_int\tab\tab substate;\par
+    sh_int\tab\tab sex;\par
+    sh_int\tab\tab class;\par
+    sh_int\tab\tab species;\tab /* added this in for species */\par
+    sh_int\tab\tab race;\par
+    sh_int\tab\tab level;\par
+    sh_int\tab\tab trust;\par
+    int\tab\tab\tab played;\par
+    time_t\tab\tab logon;\par
+\par
+\b Put this into either mud.h or to the nanny function where the other variables are declared\par
+\b0\par
+char *\tab const\tab species_name\tab [MAX_SPECIES] =\par
+\{\par
+"human", "elf", "orc", "lizardman", "pixie"\par
+\};\par
+\par
+\b  tables.c line 1717 \tab void write_race_file( int ra )\par
+\b0\par
+    fprintf( fpout, "Name        %s~\\n",\tab race->race_name\tab\tab );\par
+    fprintf( fpout, "Race        %d\\n",\tab\tab ra  \tab\tab\tab );\par
+    fprintf( fpout, "Classes     %d\\n",\tab\tab race->class_restriction );\par
+    fprintf( fpout, "Species     %d\\n",\tab\tab race->species\tab\tab );\tab /* add in for species */\par
+    fprintf( fpout, "Str_Plus    %d\\n",\tab\tab race->str_plus\tab\tab );\par
+    fprintf( fpout, "Dex_Plus    %d\\n",\tab\tab race->dex_plus\tab\tab );\par
+    fprintf( fpout, "Wis_Plus    %d\\n",\tab\tab race->wis_plus\tab\tab );\par
+    fprintf( fpout, "Int_Plus    %d\\n",\tab\tab race->int_plus\tab\tab );\par
+    fprintf( fpout, "Con_Plus    %d\\n",\tab\tab race->con_plus\tab\tab );\par
+\par
+\par
+\b  tables.c line 1787\tab bool load_race_file( char *fname ) \par
+\b0\par
+\tab case 'S':\par
+\tab     KEY( "Species",\tab race->species,\tab\tab fread_number( fp )\tab );\tab /* added in for species */\par
+\tab     KEY( "Str_Plus",\tab race->str_plus,\tab\tab fread_number( fp )\tab );\par
+\tab     KEY( "Suscept",\tab race->suscept,\tab\tab fread_number( fp )\tab );\par
+\tab     if ( !str_cmp( word, "Skill" ) )\par
+\tab     \{\par
+\par
+\b save.c line 284\tab\tab fwrite_char( CHAR_DATA *ch, FILE *fp )\par
+\b0\par
+void fwrite_char( CHAR_DATA *ch, FILE *fp )\par
+\{\par
+    AFFECT_DATA *paf;\par
+    int sn, track;\par
+    sh_int pos;\par
+    SKILLTYPE *skill = NULL;\par
+\par
+    fprintf( fp, "#PLAYER\\n"\tab\tab );\par
+\par
+    fprintf( fp, "Version      %d\\n",   SAVEVERSION\tab\tab );\par
+    fprintf( fp, "Name         %s~\\n",\tab ch->name\tab\tab );\par
+    if ( ch->description )\par
+      fprintf( fp, "Description  %s~\\n",\tab ch->description\tab );\par
+    fprintf( fp, "Sex          %d\\n",\tab ch->sex\tab\tab\tab );\par
+    fprintf( fp, "Class        %d\\n",\tab ch->class\tab\tab );\par
+    fprintf( fp, "Race         %d\\n",\tab ch->race\tab\tab );\par
+    fprintf( fp, "Species     %d\\n",\tab ch->species\tab\tab );\tab\tab /* added in for species */\par
+    fprintf( fp, "Languages    %d %d\\n", ch->speaks, ch->speaking );\par
+    fprintf( fp, "Level        %d\\n",\tab ch->level\tab\tab );\par
+\par
+\b  save.c line 1627\tab\tab fread_char( CHAR_DATA *ch, FILE *fp, bool preload )\par
+\b0\par
+  \tab case 'S':\par
+\tab     KEY( "Sex",\tab\tab ch->sex,\tab\tab fread_number( fp ) );\par
+\tab     KEY( "ShortDescr",\tab ch->short_descr,\tab fread_string( fp ) );\par
+\tab     KEY( "Species",\tab ch->species,\tab fread_number( fp ) );\tab\tab /* added in for species */\par
+\tab     KEY( "Style",\tab ch->style,\tab\tab fread_number( fp ) );\par
+\tab     KEY( "Susceptible",\tab ch->susceptible,\tab fread_number( fp ) );\par
+\tab     if ( !strcmp( word, "SavingThrow" ) )\par
+\tab     \{\par
+\tab\tab ch->saving_wand \tab = fread_number( fp );\par
+\tab\tab ch->saving_poison_death = ch->saving_wand;\par
+\tab\tab ch->saving_para_petri \tab = ch->saving_wand;\par
+\tab\tab ch->saving_breath \tab = ch->saving_wand;\par
+\tab\tab ch->saving_spell_staff \tab = ch->saving_wand;\par
+\tab\tab fMatch = TRUE;\par
+\tab\tab break;\par
+\tab     \}\par
+\par
+\b comm.c line 1970 or something close to it\tab inside nanny\par
+\b0\par
+/* create the prompt and selection process for species in nanny */\par
+\par
+\tab write_to_buffer( d, "\\n\\rYou may choose from the following species, or type help [species] to learn more:\\n\\r[", 0 );\par
+\tab buf[0] = '\\0';\par
+\tab for ( iSpec = 0; iSpec < MAX_SPECIES; iSpec++ )\par
+\tab\{\par
+\tab\tab if (iSpec <= 4)\tab\tab /* change this number to MAX_SPECIES - 1 to include all your species */ \par
+\par
+\tab\tab\{\par
+            if ( iSpec > 0 )\par
+\tab\tab\tab\{\par
+           \par
+\tab\tab\tab\tab if ( strlen(buf)+strlen(species_name[iSpec]) > 77 )\par
+\tab\tab\tab\tab\{\par
+\tab\tab\tab\tab\tab strcat( buf, "\\n\\r" );\par
+\tab\tab\tab\tab\tab write_to_buffer( d, buf, 0 );\par
+\tab\tab\tab\tab\tab buf[0] = '\\0';\par
+\tab\tab\tab\tab\}\par
+\tab\tab else\par
+\tab\tab    strcat( buf, " " );\par
+\tab\tab\tab\}\par
+\tab\tab\tab strcat( buf, species_name[iSpec] );\par
+\tab\tab\}\par
+    \}\par
+\tab strcat( buf, "]\\n\\r: " );\par
+\tab write_to_buffer( d, buf, 0 );\par
+\tab d->connected = CON_GET_NEW_SPECIES;\par
+\tab break;\par
+\par
+case CON_GET_NEW_SPECIES:\par
+\tab argument = one_argument(argument, arg);\par
+        if (!str_cmp( arg, "help") )\par
+\tab\{\par
+          for ( iSpec = 0; iSpec < MAX_SPECIES; iSpec++ )\par
+\tab   \{\par
+ \par
+\tab     if ( toupper(argument[0]) == toupper(species_name[iSpec][0])\par
+\tab     &&  !str_prefix( argument, species_name[iSpec]) && iSpec < 5)\tab\tab /* change to iSpec < MAX_SPECIES */\par
+\tab     \{\par
+\tab       do_help(ch, argument);\par
+      \tab       write_to_buffer( d, "Please choose a species: ", 0);\par
+\tab       return;\par
+\tab     \}\par
+\tab   \}\par
+   \tab   write_to_buffer( d, "No help on that topic.  Please choose a species: ", 0 );\par
+\tab   return;\par
+\tab\}\par
+\tab\par
+\par
+\tab for ( iSpec = 0; iSpec < MAX_SPECIES; iSpec++ )\par
+\tab\{\par
+\tab     if ( toupper(arg[0]) == toupper(species_name[iSpec][0])\par
+\tab     &&   !str_prefix( arg, species_name[iSpec] ) && iSpec <= 4)\tab /* change to iSpec <= (MAX_SPECIES - 1) */\par
+\tab     \{\par
+\tab\tab ch->species = iSpec;\par
+\tab\tab break;\par
+\tab     \}\par
+\tab\}\par
+\par
+    if ( iSpec == MAX_SPECIES\par
+    ||  !species_name[iSpec] || species_name[iSpec][0] == '\\0'\par
+    ||   !str_cmp(species_name[iSpec],"unused") || iSpec >= 5\tab /* change to iSpec >= MAX_SPECIES */\par
+       )\par
+\tab\{\par
+\tab     write_to_buffer( d,\par
+\tab\tab "That's not a species.\\n\\rWhat IS your species? ", 0 );\par
+\tab     return;\par
+\tab\}\par
+  \par
+\par
+\par
+ /* Nanny modified section of Case get CON_GET_NEW_RACE */\par
+\par
+ \tab write_to_buffer( d, "\\n\\rYou may choose from the following races, or type help [race] to learn more:\\n\\r[", 0 );\par
+\tab buf[0] = '\\0';\par
+\tab for ( iRace = 0; iRace < MAX_RACE; iRace++ )\par
+\tab\{\par
+\tab\tab if (iRace <=6 && race_table[iRace]->race_name\tab\tab /* make sure you take out the iRace <=6 */\par
+\tab\tab\tab && (race_table[iRace]->species == ch->species)\par
+\tab\tab\tab && race_table[iRace]->race_name[0] != '\\0'\par
+\tab\tab\tab && str_cmp(race_table[iRace]->race_name,"unused"))\par
+\par
+\tab\tab\{\par
+            if ( iRace > 0 )\par
+\tab\tab\tab\{\par
+           \par
+\tab\tab\tab\tab if ( strlen(buf)+strlen(race_table[iRace]->race_name) > 77 )\par
+\tab\tab\tab\tab\{\par
+\tab\tab\tab\tab\tab strcat( buf, "\\n\\r" );\par
+\tab\tab\tab\tab\tab write_to_buffer( d, buf, 0 );\par
+\tab\tab\tab\tab\tab buf[0] = '\\0';\par
+\tab\tab\tab\tab\}\par
+\tab\tab else\par
+\tab\tab    strcat( buf, " " );\par
+\tab\tab\tab\}\par
+\tab     strcat( buf, race_table[iRace]->race_name );\par
+\tab\tab\}\par
+    \}\par
+\tab strcat( buf, "]\\n\\r: " );\par
+\tab write_to_buffer( d, buf, 0 );\par
+\tab d->connected = CON_GET_NEW_RACE;\par
+\tab break;\par
+\par
+    case CON_GET_NEW_RACE:\par
+\tab argument = one_argument(argument, arg);\par
+        if (!str_cmp( arg, "help") )\par
+        \{\par
+          for ( iRace = 0; iRace < MAX_RACE; iRace++ )\par
+\tab   \{\par
+ \par
+\tab     if ( toupper(argument[0]) == toupper(race_table[iRace]->race_name[0])\par
+\tab     &&  !str_prefix( argument, race_table[iRace]->race_name) && iRace <= 6\tab /* take out the iRace <= 6 */\par
+\tab\tab &&\tab (race_table[iRace]->species == ch->species))\par
+\tab     \{\par
+\tab       do_help(ch, argument);\par
+      \tab       write_to_buffer( d, "Please choose a race: ", 0);\par
+\tab       return;\par
+\tab     \}\par
+\tab   \}\par
+   \tab   write_to_buffer( d, "No help on that topic.  Please choose a race: ", 0 );\par
+\tab   return;\par
+\tab\}\par
+\tab\par
+\par
+\tab for ( iRace = 0; iRace < MAX_RACE; iRace++ )\par
+\tab\{\par
+\tab     if ( toupper(arg[0]) == toupper(race_table[iRace]->race_name[0])\par
+\tab     &&   !str_prefix( arg, race_table[iRace]->race_name ) && iRace <= 6\tab /* take out iRace <= 6 */\par
+\tab\tab &&\tab (race_table[iRace]->species == ch->species))\par
+\tab     \{\par
+\tab\tab ch->race = iRace;\par
+\tab\tab break;\par
+\tab     \}\par
+\tab\}\par
+\par
+    if ( iRace == MAX_RACE\par
+    ||  !race_table[iRace]->race_name || race_table[iRace]->race_name[0] == '\\0'\par
+    ||   !str_cmp(race_table[iRace]->race_name,"unused") || iRace >= 7\tab\tab /* take out iRace >= 7 */\par
+       )\par
+\tab\{\par
+\tab     write_to_buffer( d,\par
+\tab\tab "That's not a race.\\n\\rWhat IS your race? ", 0 );\par
+\tab     return;\par
+\tab\}\par
+        if ( check_bans( ch, BAN_RACE ) )\par
+        \{\par
+          write_to_buffer (d,\par
+            "That race is not currently available.\\n\\rWhat is your race? ", 0);\par
+          return;\par
+        \}\par
+\par
+\tab write_to_buffer( d, echo_on_str, 0 );\par
+\tab write_to_buffer( d, "\\n\\rWhat is your sex (M/F/N)? ", 0 );\par
+\tab d->connected = CON_GET_NEW_SEX;\par
+\tab break;\par
+\par
+\b I put in comments to help you find the spots i used to restrict certain races and species from the nanny, take them out or change the number however you see fit.\b0\par
+}
+ 

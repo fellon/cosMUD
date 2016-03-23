@@ -1,0 +1,110 @@
+#PLAYER
+Version      3
+Name         Sandri~
+Sex          1
+Class        16
+Race         17
+Languages    1 1
+Level        2
+Played       4882
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   41 31 113 113 113 113
+Gold         1502
+Exp          2000
+Height          31
+Weight          53
+Act          570427000
+AffectedBy   65536
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     SafNKotTJruTo~
+Title         the Spell Student~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 14 14 16 11 15 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 23 23 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+WearLoc      17
+Level        1
+Values       2 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         105
+WearLoc      16
+Level        9
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      2
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#END

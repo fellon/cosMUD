@@ -1,0 +1,95 @@
+#PLAYER
+Version      3
+Name         Effervesence~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Species      1
+Languages    1 1
+Level        8
+Played       64416
+Room         21038
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   82 88 135 135 263 191
+Gold         20454
+Exp          448741
+Height          61
+Weight          144
+Act          570426968
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    -3
+Favor	       653
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  -5
+Password     Efz4vVuCbICmY~
+Title         the Apprentice Mage~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Aoskar~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       183
+MDeaths      14
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  3
+IllegalPK    0
+AttrPerm     11 18 12 12 15 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 18
+Site         207.202.214.132
+Spell        36 'continual light'
+Spell        95 'galvanic whip'
+Spell        75 'invis'
+Spell        32 'magic missile'
+Skill        19 'cook'
+Skill        30 'dual wield'
+Skill        20 'kick'
+Skill        33 'scan'
+Skill        19 'search'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       19 'pugilism'
+Weapon       59 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Killed       8907 2
+Killed       8908 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         21055
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#MOBILE
+Vnum	21059
+Room	6540
+Description The black cat appears frightened out of its mind...
+A neck tag says 'I belong to Effervesence'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

@@ -1,0 +1,95 @@
+Sender  Haroun~
+Date    Wed Jul 10 20:03:13 2002~
+To      Immortal~
+Subject bug?~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+a strange doubleing in 'gr' command:
+[35 PsiWarrior] Haroun           ????/???? hp ????/???? mana ????/???? mv ?????
+is above the regular readout
+[35    Psi]  Haroun         721/721     389/389   ===    617  human  1955100
+character seems to act normally. Good luck/s
+~
+
+Sender  Metheus~
+Date    Sat Jul 20 19:35:21 2002~
+To      Imms~
+Subject Skills~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+What's up with all the skills becoming secret skills? Now no one can
+practice stuff like climb, dodge, fireshield, etc. . . where are they
+all going???
+~
+
+Sender  Chimerus~
+Date    Mon Sep 23 12:50:14 2002~
+To      All~
+Subject GTown + BInterface~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Ghost Town might be linked to the Builder Interface area. At room
+8102. This is on the SDFmud port 4000.
+ 
+Chimerus
+~
+
+Sender  Nightwish~
+Date    Sun Sep 29 11:19:52 2002~
+To      Marty~
+Subject one box i admin~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+sit0      Link encap:IPv6-in-IPv4
+          inet6 addr: ::193.226.89.133/96 Scope:Compat
+          inet6 addr: ::193.226.89.129/96 Scope:Compat
+          inet6 addr: ::193.231.122.29/96 Scope:Compat
+          inet6 addr: ::193.231.122.30/96 Scope:Compat
+          inet6 addr: ::193.226.89.141/96 Scope:Compat
+          inet6 addr: ::193.226.89.99/96 Scope:Compat
+          inet6 addr: ::127.0.0.1/96 Scope:Unknown
+          inet6 addr: ::193.226.89.152/96 Scope:Compat
+          inet6 addr: ::193.226.89.138/96 Scope:Compat
+          UP RUNNING NOARP  MTU:1480  Metric:1
+          RX packets:18 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+sit1      Link encap:IPv6-in-IPv4
+          inet6 addr: fe80::c1e2:5985/10 Scope:Link
+          inet6 addr: fe80::c1e2:5981/10 Scope:Link
+          inet6 addr: fe80::c1e7:7a1d/10 Scope:Link
+          inet6 addr: fe80::c1e7:7a1e/10 Scope:Link
+          inet6 addr: fe80::c1e2:598d/10 Scope:Link
+          inet6 addr: fe80::c1e2:5963/10 Scope:Link
+          inet6 addr: 2001:470:1f00:ffff::37b/127 Scope:Global
+          inet6 addr: fe80::c1e2:5998/10 Scope:Link
+          inet6 addr: fe80::c1e2:598a/10 Scope:Link
+~
+
+Sender  Nightwish~
+Date    Sun Sep 29 11:20:56 2002~
+To      Marty~
+Subject the final~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+  UP POINTOPOINT RUNNING NOARP  MTU:1480  Metric:1
+          RX packets:649 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:685 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+~
+

@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Neil~
+Description  ~
+Sex          1
+Class        25
+Race         14
+Species      7
+Languages    1 1
+Level        5
+Played       33196
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   51 51 176 176 152 152
+Gold         26209
+Exp          103408
+Height          39
+Weight          114
+Act          570426968
+AffectedBy   528
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen (null)~
+Resistant    8
+Susceptible  1
+Mentalstate  -4
+Password     NeLOrHtO542JM~
+Title         the Mind Apprentice~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       60
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 18 14 13 12 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 11 15
+Site         207.202.214.132
+Spell        39 'cause light'
+Spell        20 'detect invis'
+Spell        21 'detect magic'
+Spell        19 'elven beauty'
+Spell        47 'faerie fire'
+Spell        20 'invis'
+Spell        19 'ventriloquate'
+Skill        20 'kick'
+Tongue       100 'common'
+Tongue       100 'gnome'
+AffectData   'bless' 1124   6  18 0
+AffectData   'bless' 1124  -6  24 0
+Killed       10302 1
+Killed       10345 1
+i3invis	0
+End
+
+#END

@@ -1,0 +1,109 @@
+#PLAYER
+Version      3
+Name         Hulk~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      5
+Languages    1 1
+Level        35
+Played       22640
+Room         21044
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   865 865 168 168 542 542
+Gold         82476
+Exp          48093967
+Height          120
+Weight          538
+Act          570426952&4
+AffectedBy   512
+Position     112
+Style     2
+Practice     51
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        30
+ICEListen (null)~
+Mentalstate  -21
+Password     HuAbPICSQ2MSU~
+Title         the Berserker~
+Lastname ~
+AuthedBy     Andy~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Aoskar~
+Flags        360448
+PKills       0
+PDeaths      0
+MKills       138
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     19 13 11 11 15 8 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 22
+Site         210.212.228.77
+Skill        17 'aid'
+Skill        17 'disarm'
+Skill        19 'doorbash'
+Skill        100 'dual wield'
+Skill        27 'elbow'
+Skill        100 'enhanced damage'
+Skill        17 'fourth attack'
+Skill        17 'grip'
+Skill        90 'headbutt'
+Skill        100 'parry'
+Skill        17 'rescue'
+Skill        17 'scan'
+Skill        17 'search'
+Skill        95 'second attack'
+Skill        95 'third attack'
+Weapon       100 'long blades'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless' 505   6  18 0
+AffectData   'bless' 505  -6  24 0
+Killed       8134 1
+Killed       8104 3
+Killed       8123 4
+Killed       8132 2
+Killed       8100 2
+Killed       8118 7
+Killed       8115 1
+Killed       8112 10
+Killed       8111 2
+i3invis	0
+End
+
+#ALIAS
+Name     ddd~
+Commands pp;pp;pp;pp;pp;pp;pp~
+End
+
+#ALIAS
+Name     pp~
+Commands dri spri~
+End
+
+#ALIAS
+Name     as~
+Commands elbow~
+End
+
+#ALIAS
+Name     sd~
+Commands headbutt~
+End
+
+#END

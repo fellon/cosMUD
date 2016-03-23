@@ -1,0 +1,65 @@
+#PLAYER
+Version      3
+Name         Renagade~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Languages    1 1
+Level        2
+Played       11281
+Room         21084
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   28 28 102 102 110 110
+Gold         2900
+Exp          1527
+Height          65
+Weight          141
+Act          570426984
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Mentalstate  -13
+Password     Re2btnxAmDJPY~
+Title         the Spell Student~
+Lastname ~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       23
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 15 13 12 15 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    4 0 2 12
+Site         207.202.214.132
+Skill        19 'cook'
+Weapon       19 'long blades'
+Tongue       100 'common'
+AffectData   'bless' 570   6  18 0
+AffectData   'bless' 570  -6  24 0
+Killed       10320 4
+Killed       10313 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         21009
+Values       10 9 5 0 0 0
+End
+
+#END

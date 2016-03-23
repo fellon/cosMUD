@@ -1,0 +1,61 @@
+#PLAYER
+Version      3
+Name         Andrei~
+Description  ~
+Sex          1
+Class        13
+Race         42
+Species      1
+Languages    1 1
+Level        2
+Played       14014
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   27 27 122 122 113 113
+Gold         1245
+Exp          3932
+Height          69
+Weight          100
+Act          570426968
+AffectedBy   16
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -5
+Password     An4KcHLjZYM7o~
+Title         the Understudy of Magic~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       21
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 18 14 13 12 15 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Skill        19 'scan'
+Weapon       19 'bludgeons'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10327 4
+Killed       10320 12
+i3invis	0
+End
+
+#END

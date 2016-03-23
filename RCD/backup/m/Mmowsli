@@ -1,0 +1,195 @@
+#PLAYER
+Version      3
+Name         Mmowsli~
+Description  ~
+Sex          0
+Class        0
+Race         4
+Species      8
+Languages    1 1
+Level        5
+Played       7988
+Room         10380
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   35 30 36 205 252 152
+Gold         16085
+Exp          99762
+Height          21
+Weight          36
+Act          570427000
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       517
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        100
+ICEListen (null)~
+Susceptible  16
+Mentalstate  0
+Password     MmPnI1xMpEX3E~
+Title         the Apprentice Mage~
+Lastname  LawnJockey~
+AuthedBy     Andy~
+Deity	     Ci'Diys~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       38
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 16 12 16 12 15 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 23 14
+Site         207.202.214.132
+Spell        88 'chill touch'
+Spell        46 'detect invis'
+Spell        45 'galvanic whip'
+Spell        33 'invis'
+Spell        30 'word of recall'
+Skill        95 'scan'
+Weapon       19 'long blades'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 129   3  18 0
+AffectData   'bless' 129  -3  24 0
+Killed       10301 3
+Killed       10303 1
+i3invis	0
+End
+
+#ALIAS
+Name     waa~
+Commands wear all~
+End
+
+#ALIAS
+Name     gc~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     bb~
+Commands exam bag~
+End
+
+#ALIAS
+Name     ab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     cts~
+Commands c 'chill touch' s~
+End
+
+#ALIAS
+Name     ctw~
+Commands c 'chill touch' w~
+End
+
+#ALIAS
+Name     ctn~
+Commands c 'chill touch' n~
+End
+
+#ALIAS
+Name     mn~
+Commands c invis~
+End
+
+#ALIAS
+Name     ds~
+Commands drink spring~
+End
+
+#ALIAS
+Name     scn~
+Commands scan n~
+End
+
+#ALIAS
+Name     scne~
+Commands scan ne~
+End
+
+#ALIAS
+Name     sce~
+Commands scan e~
+End
+
+#ALIAS
+Name     scse~
+Commands scan se~
+End
+
+#ALIAS
+Name     scs~
+Commands scan s~
+End
+
+#ALIAS
+Name     scsw~
+Commands scan sw~
+End
+
+#ALIAS
+Name     scw~
+Commands scan w~
+End
+
+#ALIAS
+Name     gwc~
+Commands c 'galvanic whip' c~
+End
+
+#ALIAS
+Name     scnw~
+Commands scan nw~
+End
+
+#ALIAS
+Name     df~
+Commands drink fountain~
+End
+
+#ALIAS
+Name     scd~
+Commands scan d~
+End
+
+#ALIAS
+Name     scu~
+Commands scan u~
+End
+
+#ALIAS
+Name     ff~
+Commands flee~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corpse~
+End
+
+#ALIAS
+Name     emm~
+Commands get meat bag ; eat meat~
+End
+
+#ALIAS
+Name     ree~
+Commands c 'word of recall'~
+End
+
+#END

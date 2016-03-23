@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Fzadov~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        2
+Played       2008
+Room         21194
+HpManaMove   37 37 94 94 110 110
+Gold         0
+Exp          1592
+Height          52
+Weight          134
+Act          570426952
+AffectedBy   512
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  0
+Password     Fzi/9/836ct3g~
+Title         the Recruit~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      1
+IllegalPK    0
+AttrPerm     18 14 14 14 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 9 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'bless' 1114   6  18 0
+AffectData   'bless' 1114  -6  24 0
+AffectData   'armor' 469 -20  17 0
+End
+
+#END

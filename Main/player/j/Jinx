@@ -1,0 +1,56 @@
+#PLAYER
+Version      3
+Name         Jinx~
+Sex          1
+Class        0
+Race         0
+Languages    1 1
+Level        4
+Played       89232
+Room         21194
+HpManaMove   40 40 109 109 130 130
+Gold         44532
+Exp          45848
+Height          71
+Weight          142
+Act          637535832
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -100
+Password     JiwmEejesZBrU~
+Title         the Delver in Spells~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       170
+MDeaths      20
+IllegalPK    0
+AttrPerm     14 16 13 12 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 14
+Site         (Link-Dead)
+Spell        91 'black hand'
+Spell        47 'chill touch'
+Spell        34 'detect invis'
+Spell        22 'detect magic'
+Spell        95 'magic missile'
+Spell        35 'weaken'
+Tongue       100 'common'
+AffectData   'bless'   4   6  18 0
+AffectData   'bless'   4  -6  24 0
+Killed       10302 1
+Killed       10301 1
+Killed       10300 1
+End
+
+#END

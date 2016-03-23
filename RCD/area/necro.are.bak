@@ -1,0 +1,490 @@
+#AREA   Necromancer Guild Hall~
+
+
+
+#VERSION 1
+#AUTHOR Animaniax ashden~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG ~
+
+#FLAGS
+4 15
+
+#ECONOMY 0 51200000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#12201
+Christian the Healer~
+Chrisian the Healer~
+Christian the Healer is here.
+~
+~
+67108867 0 0 C
+55 0 0 0d30000+30000 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 2
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+glare $n
+kneel
+say What can I do for you my master.
+~
+> speech_prog heal me~
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+c heal $n
+~
+|
+#12202
+Oldenth trainer~
+Oldenth~
+Oldenth keenly awaits new bodies.
+~
+~
+67109889 0 0 S
+54 0 0 0d30000+30000 0d0+0
+0 0
+112 112 0
+> all_greet_prog 100~
+tell $n What knowledge do you seek?
+cackle
+~
+|
+#0
+
+
+#OBJECTS
+#12200
+not used~
+A large not used~
+An unknown object has been left here~
+~
+13 0 0
+0 0 0 0
+10000 0 0
+#12201
+shield of ashden~
+a shield of Ashden~
+The great shield of Ashden is here giving of a strange glow.~
+~
+9 25412608 513
+0 0 0 0
+7 0 0
+A
+13 20
+A
+18 10
+A
+19 5
+A
+27 16
+A
+27 128
+#12202
+bed~
+a bed~
+Some god dropped a newly created bed here.~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+#12204
+sword decay~
+a sword of decay~
+A sword of decay has been left here.~
+~
+5 25411584 8193
+0 0 0 0
+2 100000 10000
+A
+2 2
+A
+25 -2
+A
+31 -2
+A
+4 1
+> wear_prog 100~
+say YES $n TAKE ME OUT TO KILL STUFF!!!!
+mpforce $n say yeah lets go
+mpforce $n cackle
+,Grins so evily eveyones alignment drops to -1000!~
+|
+#12205
+necro bone chair~
+a Bone Chair~
+A chair made of bones stands unused.~
+~
+12 0 0
+1 0 144 0
+1 0 0
+E
+chair bone~
+The chair is constructed out of the remains of a servant who betrayed
+the leader.  The chairs serves as a reminder to the guild members
+that in both life and death you belong to him.
+~
+#12206
+Desk~
+a desk~
+A rather large dusty oak desk stands here~
+~
+15 0 0
+705032704 0 0 0
+1 0 0
+#12207
+shield necroshield~
+A necroshield~
+A shield with the necromancers symbol has been left here.~
+~
+9 25411584 513
+0 0 0 0
+2 10000 1000
+A
+17 8
+A
+1 2
+A
+2 -1
+#12208
+heal potion~
+heal potion~
+A heal potion from the necromancer guild is here.~
+~
+10 25411584 0
+0 -1 122 122
+1 0 0
+'heal' 'heal' 'heal'
+#0
+
+
+#ROOMS
+#12201
+Entrance into the Guild~
+To the north stands a large gate with the symbols of necromancers carved
+into the surface. Tracks of blood have been left on the ground leading to
+the gate. The air is filled with a sense of decay.
+~
+0 2097156 0
+D0
+~
+gate~
+3 -1 12202
+S
+#12202
+Inside the Tower of Necromancers~
+This room is a large dark hall filled with smoke, blood stains can be
+seen around the room along side the symbols of necromancy which have
+been engraved into the walls. There are five exits from this room.
+~
+0 2097164 0
+D0
+~
+~
+0 -1 12205
+D1
+~
+~
+0 -1 12204
+D2
+~
+gate~
+1 -1 12201
+D3
+~
+~
+0 -1 12203
+D4
+~
+~
+0 -1 12206
+> sleep_prog 100~
+wake $n
+~
+> rand_prog 50~
+mpecho Something drops onto your head from above...
+mpecho You put your hand on your head to feel what it is....
+mpecho Its a liquid....its red....its blood~
+|
+S
+#12203
+The Undead Workshop~
+You have entered the classroom of Oldenth, an aged man skilled in all 
+the dark arts.  Regular workshops are run for the benefit of the guild.  
+The room is well lit and has many educational posters on the wall, these 
+include a colourful poster describing the hows and whys of charming fluffy 
+rabbits.  The exit east leads back to the entrance hall.
+~
+0 2097164 0
+D1
+~
+~
+0 -1 12202
+S
+#12204
+The Healer~
+For those who work so close to death, there is always a risk of finding it.
+This room has been set aside for a healer to ease the many pains which the
+members of the guild find in their study. The main hall is to the west.
+~
+0 2097164 0
+D3
+~
+~
+0 -1 12202
+S
+#12205
+Donation Room~
+This room is littered with trophies and the bones of past victories, 
+unlike thieves who steal to survive, necromancers will often keep items 
+from those who they have possessed and slain as symbols of their power 
+and for use by their fellow guild members.  There is a an exit south
+back to the guild entrance.
+~
+0 2637828 0
+D2
+~
+~
+0 -1 12202
+S
+#12206
+The Quarters~
+The air has a thin quality of height beyond the imagination here in this 
+large hall. Eight of the exits from this hall lead into the rooms which
+are left for the use of the elder members of the guild of necromancers.
+The exit down leads to the main hall, and up is the guild master's office.
+~
+0 2097164 0
+D0
+~
+~
+0 -1 12207
+D1
+~
+~
+0 -1 12212
+D2
+~
+~
+0 -1 12211
+D3
+~
+~
+0 -1 12209
+D4
+~
+~
+0 -1 12215
+D5
+~
+~
+0 -1 12202
+D6
+~
+~
+0 -1 12214
+D7
+~
+~
+0 -1 12208
+D8
+~
+~
+0 -1 12213
+D9
+~
+~
+0 -1 12210
+S
+#12207
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D2
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12208
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D8
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12209
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D1
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+You see a mist of red swirling in chaos outside.
+You see a mist of red swirling in chaos outside.
+~
+S
+#12210
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D6
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12211
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D0
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12212
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D3
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12213
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D7
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12214
+The Room of a Necromancer~
+This room has been left for the use of the elder members of the guild. The  
+room is made of finely cut stone with a wooden window frame on one wall that 
+has been painted with a delightful flower design. The exit leads to the hall.
+~
+0 2097164 0
+D9
+~
+~
+0 -1 12206
+E
+window~
+You see a mist of red swirling in chaos outside.
+~
+S
+#12215
+Masters Office~
+The top floor of the tower is the leaders room, there is little sign of 
+any real use.  Theres a few bones and tomes of arcane knowledge scattered 
+around.  At pride of place is the leaders chair, this has been carefully 
+constructed using the body of a past servant.  The only exit is down 
+back to the living quarters.
+~
+0 2097156 0
+D5
+~
+~
+0 -1 12206
+S
+#0
+
+
+#RESETS
+M 0 12202 1 12203
+M 0 12201 1 12204
+O 0 12207 1 12207
+O 0 12207 1 12208
+O 0 12207 1 12209
+O 0 12207 1 12210
+O 0 12207 1 12211
+O 0 12207 1 12212
+O 0 12207 1 12213
+O 0 12207 1 12214
+O 1 12205 1 12215
+O 1 17 1 12215
+D 0 12201 0 1
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  12201 spec_cast_adept
+S
+
+
+#$

@@ -1,0 +1,58 @@
+#PLAYER
+Version      3
+Name         DANZIG~
+Description  ~
+Sex          1
+Class        10
+Race         40
+Languages    1 1
+Level        2
+Played       13061
+Room         21174
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   51 51 100 100 113 113
+Gold         2210
+Exp          4214
+Height          69
+Weight          169
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    -500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    256
+Mentalstate  -79
+Password     DA2fkLXtayXqM~
+Title         the Imp~
+Lastname (null)~
+AuthedBy     Relgar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       17
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 14 16 14 16 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 1
+Site         (Link-Dead)
+Tongue       100 'common'
+Killed       104 15
+Killed       103 2
+i3invis	0
+End
+
+#END

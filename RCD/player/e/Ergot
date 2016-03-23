@@ -1,0 +1,361 @@
+#PLAYER
+Version      3
+Name         Ergot~
+Sex          1
+Class        7
+Race         11
+Languages    9 1
+Level        20
+Played       537202
+Room         6000
+HpManaMove   296 261 247 194 340 290
+Gold         471513
+Exp          9307107
+Height          57
+Weight          84
+Act          637666890
+AffectedBy   16777736
+Position     104
+Style     4
+Practice     36
+SavingThrows 0 0 0 0 -6
+Alignment    -1000
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        15
+ICEListen ~
+Resistant    256
+Mentalstate  -1
+Password     ErJ7XHf/iGmB.~
+Title         the Warlock~
+Pagerlen     22
+Flags        33312
+PKills       0
+PDeaths      1
+MKills       1010
+MDeaths      36
+IllegalPK    0
+AttrPerm     11 15 17 14 12 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 26 6 30
+Site         207.202.214.132
+Spell        43 'aqua breath'
+Spell        90 'armor'
+Spell        85 'bless'
+Spell        95 'cause critical'
+Spell        77 'cause serious'
+Spell        95 'chill touch'
+Spell        55 'continual light'
+Spell        95 'create food'
+Spell        95 'create spring'
+Spell        28 'create water'
+Spell        75 'cure light'
+Spell        43 'detect hidden'
+Spell        92 'detect invis'
+Spell        33 'detect magic'
+Spell        19 'dispel magic'
+Spell        90 'earthquake'
+Spell        24 'energy drain'
+Spell        38 'float'
+Spell        90 'identify'
+Spell        24 'inner warmth'
+Spell        95 'invis'
+Spell        25 'lightning bolt'
+Spell        23 'midas touch'
+Spell        44 'poison'
+Spell        33 'refresh'
+Spell        28 'remove invis'
+Spell        34 'shocking grasp'
+Spell        42 'sleep'
+Spell        80 'weaken'
+Skill        60 'aggressive style'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        90 'cuff'
+Skill        69 'defensive style'
+Skill        40 'dig'
+Skill        80 'dual wield'
+Skill        59 'evasive style'
+Skill        48 'hide'
+Skill        90 'kick'
+Skill        95 'meditate'
+Skill        58 'mount'
+Skill        19 'rescue'
+Skill        85 'scan'
+Skill        37 'search'
+Skill        33 'second attack'
+Skill        34 'sneak'
+Skill        30 'standard style'
+Skill        90 'strike'
+Weapon       75 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       45 'long blades'
+Weapon       90 'pugilism'
+Weapon       85 'short blades'
+Weapon       40 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Tongue       99 'pixie'
+AffectData   'armor' 248 -20  17 0
+AffectData   'detect invis' 306   0  26 8
+AffectData   'bless' 1064   6  18 0
+AffectData   'bless' 1064  -6  24 0
+Killed       24826 1
+Killed       24827 2
+Killed       24839 1
+Killed       24841 1
+Killed       24838 1
+Killed       8904 1
+Killed       8908 1
+Killed       1537 2
+Killed       1503 3
+Killed       1530 1
+Killed       1532 1
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        7
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2423
+WearLoc      8
+Level        11
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000
+Level        3
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         9829
+WearLoc      6
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         1544
+WearLoc      12
+Level        16
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1523
+ExtraFlags   1
+Level        11
+Values       33 89 19 126 0 0
+Spell 1      'heal'
+Spell 2      'bless'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         9834
+WearLoc      5
+Level        15
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000016
+WearLoc      22
+Level        1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000014
+WearLoc      23
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000015
+WearLoc      24
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2000015
+WearLoc      25
+Level        1
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         1511
+WearLoc      17
+Level        18
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       1 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         2071
+Level        7
+Values       12 5 10 5 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21001
+Level        10
+Values       24 40 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21001
+Level        10
+Values       25 40 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2419
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9852
+WearLoc      3
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         9852
+WearLoc      4
+Level        12
+Values       5 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         2071
+WearLoc      16
+Level        8
+Values       12 5 14 5 0 0
+End
+
+#OBJECT
+Vnum         9846
+Level        7
+Values       1 100 150 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'stone skin'
+End
+
+#OBJECT
+Vnum         809
+Level        11
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         1539
+Level        4
+Values       15 1 1 150 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Vnum         10302
+ExtraFlags   32
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+ExtraFlags   32
+WearLoc      15
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+ExtraFlags   524384
+WearLoc      2
+Level        7
+Values       5 5 0 0 0 0
+End
+
+#MOBILE
+Vnum	21057
+Room	21339
+Description This white mare sports a brilliant white coat and whinnies at your approach.
+She appears ready to serve anyone.
+A neck tag says 'I belong to Ergot'.
+~
+Position 4
+Flags 262403
+EndMobile
+#END

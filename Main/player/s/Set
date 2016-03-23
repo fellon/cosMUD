@@ -1,0 +1,283 @@
+#PLAYER
+Version      3
+Name         Set~
+Sex          1
+Class        0
+Race         4
+Languages    1 1
+Level        13
+Played       223179
+Room         1508
+HpManaMove   108 108 66 181 245 220
+Gold         78762
+Exp          2258032
+Height          23
+Weight          42
+Act          570426968
+AffectedBy   524288
+Position     112
+Style     4
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    3
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Susceptible  16
+Mentalstate  0
+Password     Se37SmaydJ/GI~
+Title         die~
+Bio          i am jacks complete lack of surprise
+~
+AuthedBy     Cyph~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       496
+MDeaths      4
+IllegalPK    0
+AttrPerm     9 15 13 16 12 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 20 36 10
+Site         216.166.204.3
+Spell        95 'armor'
+Spell        95 'black hand'
+Spell        95 'burning hands'
+Spell        95 'chill touch'
+Spell        27 'colour spray'
+Spell        95 'continual light'
+Spell        95 'control weather'
+Spell        95 'create spring'
+Spell        46 'detect invis'
+Spell        95 'disruption'
+Spell        19 'energy drain'
+Spell        78 'fly'
+Spell        95 'galvanic whip'
+Spell        88 'identify'
+Spell        89 'invis'
+Spell        78 'lightning bolt'
+Spell        37 'locate object'
+Spell        49 'shield'
+Spell        95 'shocking grasp'
+Spell        95 'weaken'
+Skill        75 'defensive style'
+Skill        80 'evasive style'
+Skill        95 'mount'
+Skill        63 'search'
+Skill        45 'second attack'
+Skill        60 'standard style'
+Skill        80 'swat'
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       1503 1
+Killed       1527 5
+Killed       1504 1
+Killed       1532 2
+Killed       1531 1
+Killed       2460 1
+Killed       2072 1
+Killed       6604 1
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   1
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21020
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2435
+Level        1
+Values       3 49 80 9 0 0
+Spell 1      'detect magic'
+Spell 2      'fly'
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Vnum         2448
+Level        6
+Cost         0
+Values       10 2 2 29 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         21005
+Level        1
+Values       2 166 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         2434
+Level        7
+Values       12 3 13 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        11
+Values       15 40 40 100 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        12
+Values       16 40 40 100 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Count        16
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2070
+WearLoc      17
+Level        4
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2421
+WearLoc      5
+Level        5
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2432
+WearLoc      20
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        12
+Values       10 5 15 3 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      14
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2417
+WearLoc      1
+Level        10
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2442
+WearLoc      6
+Level        10
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2443
+WearLoc      11
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#END

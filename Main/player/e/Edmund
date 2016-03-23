@@ -1,0 +1,321 @@
+#PLAYER
+Version      3
+Name         Edmund~
+Description  ~
+Sex          1
+Class        0
+Race         11
+Species      1
+Languages    1 1
+Level        6
+Played       9332
+Room         2462
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   64 64 248 224 265 165
+Gold         16206
+Exp          220920
+Height          65
+Weight          111
+Act          536872520&4
+AffectedBy   16777728
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -9
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    256
+Mentalstate  -100
+Password     EdVsbc0kgJgds~
+Title         the Apprentice Mage~
+Lastname ~
+AuthedBy     Edmund~
+Deity	     Mystra~
+Flags        98322
+PKills       0
+PDeaths      0
+MKills       66
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 18 15 16 12 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 0 16
+Site         (Link-Dead)
+Spell        62 'armor'
+Spell        95 'black hand'
+Spell        45 'burning hands'
+Spell        19 'continual light'
+Spell        19 'detect invis'
+Spell        19 'float'
+Spell        95 'galvanic whip'
+Spell        45 'invis'
+Spell        19 'locate object'
+Spell        19 'trollish vigor'
+Spell        45 'weaken'
+Spell        39 'word of recall'
+Skill        66 'scan'
+Weapon       19 'pugilism'
+Weapon       71 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       2462 1
+Killed       2073 6
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+WearLoc      17
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       9 176 60 229 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        2
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3606
+Level        1
+Values       7 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         3611
+Level        2
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        3
+Values       15 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        2
+Values       9 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        1
+Values       11 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         2074
+Level        2
+Values       10 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        1
+Values       8 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        1
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      2
+Level        4
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         3612
+WearLoc      4
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#END

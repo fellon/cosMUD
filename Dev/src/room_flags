@@ -1,0 +1,481 @@
+act_comm.c:    &&   vch->in_room->area != ch->in_room->area )
+act_comm.c:		||   (IS_SET(ch->in_room->room_flags, ROOM_SILENCE)) 
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c:            ||   ( channel == CHANNEL_YELL && vch->in_room->area != ch->in_room->area )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c:    for ( vch = ch->in_room->first_person; vch; vch = vch->next_in_room )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c:    if ( ch->in_room && IS_SET( ch->in_room->room_flags, ROOM_AMPLIFY ) )
+act_comm.c:	for ( pexit = was_in_room->first_exit; pexit; pexit = pexit->next )
+act_comm.c:    if ( !IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c:            ch_printf(victim, "&W^z%s beeps you from '%s'^x&w\a\n\r", PERS(ch, victim), ch->in_room->name);
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c:    || (!IS_NPC(victim)&&IS_SET(victim->in_room->room_flags, ROOM_SILENCE ) ) )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c:    || ( !IS_NPC(victim) && IS_SET( victim->in_room->room_flags, ROOM_SILENCE ) ) )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c:	if(IS_SET(ch->in_room->room_flags, ROOM_SILENCE))
+act_comm.c:		IS_SET(victim->in_room->room_flags, ROOM_SILENCE)))
+act_comm.c:	if(IS_SET(ch->in_room->room_flags, ROOM_LOGSPEECH))
+act_comm.c:	for ( vch = ch->in_room->first_person; vch; vch = vch->next_in_room )
+act_comm.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c:	( ch->in_room ? ch->in_room->vnum : -1 ) );
+act_comm.c:    for ( och = ch->in_room->first_person; och; och = och_next )
+act_comm.c:        for ( rch = ch->in_room->first_person; rch; rch = rch->next_in_room )
+act_comm.c:    for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+act_comm.c:    for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+act_comm.c:        && !IS_SET(original->in_room->room_flags, ROOM_SILENCE) && !NOT_AUTHED(original))
+act_comm.c:		for ( sch = ch->in_room->first_person; sch; sch = sch->next_in_room )
+act_comm.c.good:    &&   vch->in_room->area != ch->in_room->area )
+act_comm.c.good:         ||   (IS_SET(ch->in_room->room_flags, ROOM_SILENCE)) 
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c.good:            ||   ( channel == CHANNEL_YELL && vch->in_room->area != ch->in_room->area )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c.good:    for ( vch = ch->in_room->first_person; vch; vch = vch->next_in_room )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c.good:    if ( ch->in_room && IS_SET( ch->in_room->room_flags, ROOM_AMPLIFY ) )
+act_comm.c.good:	for ( pexit = was_in_room->first_exit; pexit; pexit = pexit->next )
+act_comm.c.good:    if ( !IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c.good:	        ch_printf(victim, "&W^z%s beeps you from '%s'^x&w\a\n\r", PERS(ch, victim), ch->in_room->name);
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c.good:    || (!IS_NPC(victim)&&IS_SET(victim->in_room->room_flags, ROOM_SILENCE ) ) )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_SILENCE ) )
+act_comm.c.good:    || ( !IS_NPC(victim) && IS_SET( victim->in_room->room_flags, ROOM_SILENCE ) ) )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c.good:	if(IS_SET(ch->in_room->room_flags, ROOM_SILENCE))
+act_comm.c.good:		IS_SET(victim->in_room->room_flags, ROOM_SILENCE)))
+act_comm.c.good:	if(IS_SET(ch->in_room->room_flags, ROOM_LOGSPEECH))
+act_comm.c.good:	for ( vch = ch->in_room->first_person; vch; vch = vch->next_in_room )
+act_comm.c.good:    if ( IS_SET( ch->in_room->room_flags, ROOM_LOGSPEECH ) )
+act_comm.c.good:	( ch->in_room ? ch->in_room->vnum : -1 ) );
+act_comm.c.good:    for ( och = ch->in_room->first_person; och; och = och_next )
+act_comm.c.good:        for ( rch = ch->in_room->first_person; rch; rch = rch->next_in_room )
+act_comm.c.good:    for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+act_comm.c.good:    for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+act_comm.c.good:        && !IS_SET(original->in_room->room_flags, ROOM_SILENCE) && !NOT_AUTHED(original))
+act_comm.c.good:		for ( sch = ch->in_room->first_person; sch; sch = sch->next_in_room )
+act_info.c:        if ( ( victim->in_room->sector_type == SECT_UNDERWATER )
+act_info.c:	if ( victim->in_room->sector_type == SECT_UNDERWATER )
+act_info.c:	if ( ( victim->in_room->sector_type == SECT_OCEANFLOOR )
+act_info.c:	if ( victim->in_room->sector_type == SECT_OCEANFLOOR )
+act_info.c:	show_char_to_char( ch->in_room->first_person, ch );
+act_info.c:        	ch_printf(ch,"[%d] ",ch->in_room->vnum);
+act_info.c:	send_to_char( ch->in_room->name, ch );
+act_info.c:	    send_to_char( ch->in_room->description, ch );
+act_info.c:	    if(ch->in_room->map != NULL)
+act_info.c:	show_list_to_char( ch->in_room->first_content, ch, FALSE, FALSE );
+act_info.c:	show_char_to_char( ch->in_room->first_person,  ch );
+act_info.c:	    for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_info.c:    if ( (pdesc=get_extra_descr(arg1, ch->in_room->first_extradesc)) != NULL )
+act_info.c:    for ( obj = ch->in_room->last_content; obj; obj = obj->prev_content )
+act_info.c:    for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_info.c:	temp = (ch->in_room->area->weather->temp + 3*weath_unit - 1)/
+act_info.c:	precip = (ch->in_room->area->weather->precip + 3*weath_unit - 1)/
+act_info.c:	wind = (ch->in_room->area->weather->wind + 3*weath_unit - 1)/
+act_info.c:        pager_printf( ch, "\n\rPlayers near you in %s:\n\r", ch->in_room->area->name );
+act_info.c:	    &&   victim->in_room->area == ch->in_room->area
+act_info.c:		pager_printf_color( ch, "&P%s\n\r", victim->in_room->name );
+act_info.c:	    &&   victim->in_room->area == ch->in_room->area
+act_info.c:		    PERS(victim, ch), victim->in_room->name );
+act_info.c:	for ( mob = ch->in_room->first_person; mob; mob = mob->next_in_room )
+act_move.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_NOFLOOR )
+act_move.c:	   bug( "Falling (in a loop?) more than 80 rooms: vnum %d", ch->in_room->vnum );
+act_move.c:    int virtual=in_room->virtual;
+act_move.c:	serial = in_room->vnum;
+act_move.c:	roomnum = in_room->tele_vnum;
+act_move.c:	int r1 = in_room->vnum;
+act_move.c:	room->area	  = in_room->area;
+act_move.c:	room->sector_type = in_room->sector_type;
+act_move.c:	room->room_flags  = in_room->room_flags;
+act_move.c:	&&   ch->in_room->sector_type != SECT_WATER_SWIM
+act_move.c:	&&   ch->in_room->sector_type != SECT_WATER_NOSWIM
+act_move.c:	&&   ch->in_room->sector_type != SECT_UNDERWATER
+act_move.c:	&&   ch->in_room->sector_type != SECT_OCEANFLOOR )
+act_move.c:    &&  ch->in_room->area != to_room->area )
+act_move.c:        &&   !IS_SET( ch->in_room->area->flags, AFLAG_NOPKILL )
+act_move.c:	if ( in_room->sector_type == SECT_AIR
+act_move.c:	if ( in_room->sector_type == SECT_WATER_NOSWIM
+act_move.c:	    move = movement_loss[UMIN(SECT_MAX-1, in_room->sector_type)];
+act_move.c:	    move = encumbrance( ch, movement_loss[UMIN(SECT_MAX-1, in_room->sector_type)] );
+act_move.c:    &&  ch->in_room->area != to_room->area )
+act_move.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_DEATH ) && !IS_IMMORTAL( ch ) )
+act_move.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_DEATH ) && !IS_IMMORTAL( ch ) )
+act_move.c:		     ch->name, ch->in_room->vnum );
+act_move.c:    if ( ch->in_room->first_content )
+act_move.c:	for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_move.c:	   for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+act_move.c:	obj = get_obj_list(ch, arg,ch->in_room->first_content);
+act_move.c:		obj = get_obj_list(ch, arg,ch->in_room->first_content);
+act_move.c:        	obj = get_obj_list(ch, arg,ch->in_room->first_content);
+act_move.c:        	obj = get_obj_list(ch, arg,ch->in_room->first_content);
+act_move.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_DEATH ) && !IS_IMMORTAL( ch ) )
+act_move.c:		     ch->name, ch->in_room->vnum );
+act_move.c:	for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_move.c:	for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_move.c:	if ( ch->in_room->sector_type != SECT_INSIDE && IS_OUTSIDE(ch) )
+act_move.c:	    for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_move.c:	for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_move.c:	if ( ch->in_room->sector_type == SECT_INSIDE || !IS_OUTSIDE(ch) )
+act_move.c:	    for ( pexit = ch->in_room->first_exit; pexit; pexit = pexit->next )
+act_move.c:	        if ( IS_SET( ch->in_room->room_flags, ROOM_NO_ASTRAL ) )
+act_move.c:                ch->pcdata->memorize[ch->tempnum] = ch->in_room->vnum;
+act_obj.c:    if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) 
+act_obj.c:	  if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c:	    obj = get_obj_list( ch, arg1, ch->in_room->first_content );
+act_obj.c:	    if ( IS_SET( ch->in_room->room_flags, ROOM_DONATION ) )
+act_obj.c:	    for ( obj = ch->in_room->last_content; obj; obj = obj_next )
+act_obj.c:	if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) 
+act_obj.c:	      if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c:        if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) 
+act_obj.c:	     if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_NODROP )
+act_obj.c:	    for ( obj = ch->in_room->first_content; obj; obj = obj_next )
+act_obj.c:	if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) )
+act_obj.c: 	      if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c:	if ( IS_SET( ch->in_room->room_flags, ROOM_NODROPALL ) 
+act_obj.c:        ||   IS_SET( ch->in_room->room_flags, ROOM_CLANSTOREROOM ) )
+act_obj.c:    if ( obj->in_room && ( ch = obj->in_room->first_person ) != NULL )
+act_obj.c:	    bug( "wear_obj: uknown/unused item_wear bit %d. %s room %d", bit, ch->name, ch->in_room->vnum );
+act_obj.c:    obj = get_obj_list_rev( ch, arg, ch->in_room->last_content );
+act_obj.c:    switch( ch->in_room->sector_type )
+act_obj.c:    obj = get_obj_list_rev( ch, arg, ch->in_room->last_content );
+act_obj.c:	for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+act_obj.c:        contents = ch->in_room->last_content;
+act_obj.c:     if ( IS_SET( obj->in_room->room_flags, ROOM_NOFLOOR )
+act_obj.c:	if (obj->in_room->first_person)
+act_obj.c:			obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c:			obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c:	if (obj->in_room->first_person)
+act_obj.c:			obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c:			obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c: 	if (!IS_SET( obj->in_room->room_flags, ROOM_NOFLOOR ) && through )
+act_obj.c:		if ( obj->in_room->first_person && number_percent() > 15 )
+act_obj.c:			for ( rch = obj->in_room->first_person; rch;
+act_obj.c:   			if (obj->in_room->first_person)
+act_obj.c:				obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c:				obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c:	              if (obj->in_room->first_person)
+act_obj.c:			    	obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c:		    		obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_CLANSTOREROOM ) )
+act_obj.c:	    if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c.bak:    if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) 
+act_obj.c.bak:	  if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c.bak:	    obj = get_obj_list( ch, arg1, ch->in_room->first_content );
+act_obj.c.bak:	    if ( IS_SET( ch->in_room->room_flags, ROOM_DONATION ) )
+act_obj.c.bak:	    for ( obj = ch->in_room->last_content; obj; obj = obj_next )
+act_obj.c.bak:	if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) 
+act_obj.c.bak:	      if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c.bak:        if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) 
+act_obj.c.bak:	     if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c.bak:    if ( IS_SET( ch->in_room->room_flags, ROOM_NODROP )
+act_obj.c.bak:	    for ( obj = ch->in_room->first_content; obj; obj = obj_next )
+act_obj.c.bak:	if ( IS_SET(ch->in_room->room_flags, ROOM_CLANSTOREROOM) )
+act_obj.c.bak: 	      if ( clan->storeroom == ch->in_room->vnum )
+act_obj.c.bak:	if ( IS_SET( ch->in_room->room_flags, ROOM_NODROPALL ) 
+act_obj.c.bak:        ||   IS_SET( ch->in_room->room_flags, ROOM_CLANSTOREROOM ) )
+act_obj.c.bak:    if ( obj->in_room && ( ch = obj->in_room->first_person ) != NULL )
+act_obj.c.bak:	    bug( "wear_obj: uknown/unused item_wear bit %d. %s room %d", bit, ch->name, ch->in_room->vnum );
+act_obj.c.bak:    obj = get_obj_list_rev( ch, arg, ch->in_room->last_content );
+act_obj.c.bak:    switch( ch->in_room->sector_type )
+act_obj.c.bak:    obj = get_obj_list_rev( ch, arg, ch->in_room->last_content );
+act_obj.c.bak:	for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+act_obj.c.bak:        contents = ch->in_room->last_content;
+act_obj.c.bak:     if ( IS_SET( obj->in_room->room_flags, ROOM_NOFLOOR )
+act_obj.c.bak:	if (obj->in_room->first_person)
+act_obj.c.bak:			obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c.bak:			obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c.bak:	if (obj->in_room->first_person)
+act_obj.c.bak:			obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c.bak:			obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c.bak: 	if (!IS_SET( obj->in_room->room_flags, ROOM_NOFLOOR ) && through )
+act_obj.c.bak:		if ( obj->in_room->first_person && number_percent() > 15 )
+act_obj.c.bak:			for ( rch = obj->in_room->first_person; rch;
+act_obj.c.bak:   			if (obj->in_room->first_person)
+act_obj.c.bak:				obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c.bak:				obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c.bak:	              if (obj->in_room->first_person)
+act_obj.c.bak:			    	obj->in_room->first_person, obj, NULL, TO_ROOM );
+act_obj.c.bak:		    		obj->in_room->first_person, obj, NULL, TO_CHAR );
+act_obj.c.bak:    if ( IS_SET( ch->in_room->room_flags, ROOM_CLANSTOREROOM ) )
+act_obj.c.bak:	    if ( clan->storeroom == ch->in_room->vnum )
+act_wiz.c:    victim->retran = victim->in_room->vnum;
+act_wiz.c:    switch( ch->in_room->sector_type ) {
+act_wiz.c:    ch_printf_color( ch, "&cIn room: &w%d  ", obj->in_room == NULL ? 0 : obj->in_room->vnum );
+act_wiz.c:	victim->in_room == NULL    ?        0 : victim->in_room->vnum,
+act_wiz.c:		victim->in_room->vnum,
+act_wiz.c:		victim->in_room->name );
+act_wiz.c:		victim->level, victim->name, victim->in_room->vnum, victim->in_room->area->name, victim->in_room->name );
+act_wiz.c:                victim->level, victim->name, victim->in_room->vnum, victim->in_room->area->name, victim->in_room->name );
+act_wiz.c:		victim->in_room->area->name, victim->in_room == NULL ? 0 : victim->in_room->vnum );
+act_wiz.c:                victim->in_room->area->name, victim->in_room == NULL ? 0 : victim->in_room->vnum );
+act_wiz.c:		victim->hating->who->pIndexData->vnum : 0, victim->in_room->area->name, victim->in_room == NULL ? 0 :
+act_wiz.c:		victim->in_room->vnum );
+act_wiz.c:                victim->in_room->area->name, victim->in_room == NULL ? 0 : victim->in_room->vnum );
+act_wiz.c:                obj->in_room->area->name,
+act_wiz.c:                obj->in_room->vnum,
+act_wiz.c:                obj->in_room->vnum, obj->in_room->name);
+act_wiz.c:                  obj->in_room->vnum, obj->in_room->name);
+act_wiz.c:                  obj->in_room->vnum, obj->in_room->name);
+act_wiz.c:	for ( victim = ch->in_room->first_person; victim; victim = vnext )
+act_wiz.c:	for ( obj = ch->in_room->first_content; obj; obj = obj_next )
+act_wiz.c:    for ( rch = ch->in_room->first_person; rch; rch = rch->next_in_room )
+act_wiz.c:        old_room_vnum = d->character->in_room->vnum;
+act_wiz.c:        old_room_vnum = d->character->in_room->vnum;
+act_wiz.c:          (ech->in_room && ech->in_room->area == pArea) )
+act_wiz.c:    if ( ech->in_room && ech->in_room->area == pArea )
+act_wiz.c:        (eobj->in_room && eobj->in_room->area == pArea) )
+act_wiz.c:	for (rch = ch->in_room->first_person; rch && (rch != ch);rch = 
+act_wiz.c:  if ( victim->in_room->vnum != 8
+act_wiz.c:  &&   victim->in_room->vnum != 1206
+act_wiz.c:  &&   victim->in_room->vnum != 6 )
+act_wiz.c:  if ( victim->in_room->vnum != ROOM_VNUM_HELL)
+act_wiz.c:		( ( in_obj->in_room ) ? in_obj->in_room->vnum : 0 ),
+act_wiz.c:		"somewhere" : in_obj->in_room->name );
+act_wiz.c:          t->tm_mon+1, t->tm_mday, ch->in_room ? ch->in_room->vnum : 0,
+act_wiz.c:          if ( inarea && ch->in_room->area != d->character->in_room->area )
+arena.c:		    ch->retran = ch->in_room->vnum;
+arena.c:			victim->in_room->vnum );
+axsmaug.c:    	tarea=ch->in_room->area;	
+bank.c:  for ( banker = ch->in_room->first_person; banker; banker = banker->next_in_room )
+boards.c:    for ( obj = ch->in_room->first_content;
+bsnip.c:    tarea = ch->in_room->area;
+bsnip.c:    tarea = ch->in_room->area;
+build.c:	for ( fch = in_room->first_person; fch; fch = fch_next ) 
+build.c:    ch->regoto = ch->in_room->vnum;
+build.c:    for ( fch = ch->in_room->first_person; fch; fch = fch_next ) 
+build.c:    for ( fch = in_room->first_person; fch; fch = fch_next )
+build.c:      rvnum = ch->in_room->vnum;
+build.c:        tarea = ch->in_room->area;
+build.c:    mprog = ch->in_room->mudprogs;
+build.c:		xCLEAR_BITS(ch->in_room->progtypes);
+build.c:		   xSET_BIT(ch->in_room->progtypes, mprg->type);
+build.c:	   mprg_next = ch->in_room->mudprogs;
+build.c:	   ch->in_room->mudprogs = mprg_next->next;
+build.c:		xREMOVE_BIT( ch->in_room->progtypes, mptype );
+build.c:	   xSET_BIT(ch->in_room->progtypes, mptype);
+build.c:	   ch->in_room->mudprogs = mprg;
+build.c:		xSET_BIT(ch->in_room->progtypes, mptype);
+build.c:	  ch->in_room->mudprogs	= mprg;
+build.c:	xSET_BIT(ch->in_room->progtypes, mptype);
+build.c:	else if(!ch->in_room->area)
+build.c:	else if(!ch->in_room->area->weather)
+build.c:	area = ch->in_room->area;
+build.c:    tarea = ch->in_room->area;
+build.c:    tarea = ch->in_room->area;
+clans.c:    if ( IS_SET(victim->in_room->room_flags, ROOM_SAFE)
+clans.c:    if (ch->in_room->area != to_room->area
+clans.c:    if ( IS_SET(ch->in_room->room_flags, ROOM_SAFE)   
+clans.c:    if ( IS_SET(victim->in_room->room_flags, ROOM_SAFE)
+clans.c:    if (ch->in_room->area != to_room->area
+comm.c:    		ch->name, ch->in_room->vnum );
+comm.c:	    if ( ch->in_room->vnum == 6 )
+comm.c:             || !IS_SET( ch->in_room->room_flags, ROOM_PROTOTYPE ) ) )
+comm.c:      to = ch->in_room->first_person;
+comm.c:/*	to = vch->in_room->first_person;*/
+comm.c:      for ( to_obj = to->in_room->first_content; to_obj;
+comm.c:          stat = ch->in_room->vnum;
+comm.c:          sprintf( pbuf, "%s", flag_string( ch->in_room->room_flags, r_flags) );
+comm.c:          sprintf(pbuf, "<#%d> ", ch->in_room->vnum);
+db.c:		&&   pch->in_room->area == pArea
+db.c:	    ch->in_room ? ch->in_room->vnum : 0, ch->name, str );
+deity.c:	if ( IS_SET( ch->in_room->room_flags, ROOM_CLANSTOREROOM ) )
+deity.c:		if ( IS_SET( obj->in_room->room_flags, (ROOM_NOSUPPLICATE) || (ROOM_DEATH) ) || (obj->timer > 35) )
+deity.c:      if ( IS_SET( ch->in_room->room_flags, ROOM_NOSUPPLICATE ) )
+deity.c:	if ( IS_SET( ch->in_room->room_flags, ROOM_NOSUPPLICATE ) )
+deity.c:	if ( IS_SET( ch->in_room->room_flags, ROOM_CLANSTOREROOM ) )
+deity.c:		if ( !IS_SET( obj->in_room->room_flags, ROOM_DEATH ) )
+fight.c:	if ( IS_SET(ch->in_room->room_flags, ROOM_SAFE ) )
+fight.c:	for ( rch = ch->in_room->first_person; rch; rch = rch_next )
+fight.c:                        for ( vch = ch->in_room->first_person; vch; vch = vch->next )
+fight.c:	  move = encumbrance( ch, movement_loss[UMIN(SECT_MAX-1, ch->in_room->sector_type)] );
+fight.c:    &&  !IS_SET(victim->in_room->room_flags, ROOM_NO_MAGIC) )
+fight.c:    &&  !IS_SET(victim->in_room->room_flags, ROOM_NO_MAGIC) )
+fight.c:    if ( IS_SET(victim->in_room->room_flags, ROOM_SAFE) )
+fight.c:	for (gch = ch->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:	for (gch = victim->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:		    for (gch = ch->in_room->first_person; gch;
+fight.c:		for (gch = ch->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:		    for (gch = victim->in_room->first_person; gch;
+fight.c:		for (gch = victim->in_room->first_person; gch;
+fight.c:	for (gch = ch->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:	for (gch = victim->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:		for (gch = ch->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:		for (gch = victim->in_room->first_person; gch; gch = gch->next_in_room)
+fight.c:	for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+fight.c:	for ( gch = victim->in_room->first_person; gch; gch = gch->next_in_room )
+fight.c:		victim->in_room->vnum );
+fight.c:                  ch->in_room->area->name );
+fight.c:    if ( IS_SET( victim->in_room->room_flags, ROOM_SAFE ) )
+fight.c:    &&   IS_SET( victim->in_room->area->flags, AFLAG_NOPKILL ) ) 
+fight.c:	  ch->in_room->area->mkills++;
+fight.c:	  ch->in_room->area->pkills++;
+fight.c:	victim->in_room->area->mdeaths++;
+fight.c:      ch->in_room->area->illegal_pk++;
+fight.c:      victim->in_room->area->pdeaths++;
+fight.c:    for ( pexit = was_in_room->first_exit; pexit; pexit = pexit->next )
+fight.c:    if ( victim->in_room->sector_type == SECT_OCEANFLOOR
+fight.c:    ||   victim->in_room->sector_type == SECT_UNDERWATER
+fight.c:    ||   victim->in_room->sector_type == SECT_WATER_SWIM
+fight.c:    ||   victim->in_room->sector_type == SECT_WATER_NOSWIM )
+fight.c:    else if ( victim->in_room->sector_type == SECT_AIR )
+fight.c:    for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+fight.c:    for ( gch = ch->in_room->first_person; gch; gch = gch->next_in_room )
+fight.c:		dt, ch->name, ch->in_room->vnum );
+fight.c:                dt, ch->name, ch->in_room->vnum );
+fight.c:                dt, ch->name, ch->in_room->vnum );
+fight.c:    if ( IS_SET(ch->in_room->room_flags, ROOM_ARENA) )
+fight.c:    if ( IS_SET(ch->in_room->area->flags, AFLAG_FREEKILL) )
+fight.c:    if ( ch->in_room->vnum >= 29 && ch->in_room->vnum <= 43 )
+fight.c:    if ( !str_cmp(ch->in_room->area->filename, "arena.are") )
+fight.c:		victim->in_room->vnum );
+fight.c:	    last_pkroom = victim->in_room->vnum;
+handler.c:	if ( IS_SET(ch->in_room->room_flags, ROOM_NO_MAGIC)
+handler.c:	    for (paf = ch->in_room->first_affect; paf; paf = paf->next)
+handler.c:	--ch->in_room->area->nplayer;
+handler.c:    &&   ch->in_room->light > 0 )
+handler.c:	--ch->in_room->light;
+handler.c:	for ( paf = ch->in_room->first_affect; paf; paf = paf->next )
+handler.c:    UNLINK( ch, ch->in_room->first_person, ch->in_room->last_person,
+handler.c:	bug( "Equip_char: already equipped %s->%s Room %d.", obj->short_descr, ch->name, ch->in_room->vnum );
+handler.c:	++ch->in_room->light;
+handler.c:    &&   ch->in_room->light > 0 )
+handler.c:	--ch->in_room->light;
+handler.c:    UNLINK( obj, in_room->first_content, in_room->last_content,
+handler.c:	  obj->in_room->light -= obj->count;
+handler.c:    for (fch = obj->in_room->first_person; fch != NULL; fch = fch->next_in_room)
+handler.c:    for ( rch = ch->in_room->first_person; rch; rch = rch->next_in_room )
+handler.c:    for ( rch = ch->in_room->first_person; rch; rch = rch->next_in_room )
+handler.c:    for ( wch = ch->in_room->first_person; wch; wch = wch->next_in_room )
+handler.c:    for ( wch = ch->in_room->first_person; wch; wch = wch->next_in_room )
+handler.c:    obj = get_obj_list_rev( ch, argument, ch->in_room->last_content );
+handler.c:    if ( !ch->in_room || !ch->in_room->first_content )
+handler.c:    for ( check = ch->in_room->first_content; check; check = check->next_content )
+handler.c:  ||   IS_SET( victim->in_room->room_flags, ROOM_PRIVATE )
+handler.c:  ||   IS_SET( victim->in_room->room_flags, ROOM_SOLITARY )
+handler.c:  ||   IS_SET( victim->in_room->room_flags, ROOM_NO_ASTRAL )
+handler.c:  ||   IS_SET( victim->in_room->room_flags, ROOM_DEATH )
+handler.c:  ||   IS_SET( victim->in_room->room_flags, ROOM_PROTOTYPE )
+handler.c:  ||   IS_SET( ch->in_room->room_flags, ROOM_NO_RECALL )
+handler.c:  || ( IS_SET( victim->in_room->area->flags, AFLAG_NOPKILL )
+handler.c:	LINK( rest, obj->in_room->first_content, obj->in_room->last_content,
+handler.c:    tarea = mob->in_room->area;
+imc-mercdefs.h:		       IS_SET(ch->in_room->room_flags, ROOM_SILENCE))
+imc-mercdefs.h:		       IS_SET(ch->in_room->room_flags, ROOM_SILENCE))
+imc-mercdefs.h:             IS_SET((ch)->in_room->room_flags, ROOM_CONE_OF_SILENCE)))
+imc-mercdefs.h:		       IS_SET(ch->in_room->room_flags, ROOM_QUIET))
+interp.c:		ch->in_room ? ch->in_room->vnum : 0,
+interp.c:		ch->in_room ? ch->in_room->vnum : 0,
+interp.c:    for(victim = ch->in_room->first_person;victim;
+locker.c:                ch->pcdata->locker_vnum = ch->in_room->vnum;
+locker.c:        for( obj = ch->in_room->first_content; obj; obj = obj->next_content )
+locker.c:        for( obj = ch->in_room->first_content; obj; obj = obj->next_content )
+locker.c:        if(!IS_SET(ch->in_room->room_flags, ROOM_LOCKER))
+locker.c:        for( obj = ch->in_room->first_content; obj; obj = obj->next_content )
+locker.c:    int vnum = in_room->vnum;
+locker.c:	room->area	  = in_room->area;
+locker.c:  if( !IS_SET( ch->in_room->room_flags, ROOM_LOCKER ) )
+magic.c:    for ( rch = ch->in_room->first_person; rch; rch = rch->next_in_room )
+magic.c:	if ( IS_SET( ch->in_room->room_flags, ROOM_NO_MAGIC ) )
+magic.c:	    for ( tmp = ch->in_room->first_person; tmp; tmp = tmp->next_in_room )
+magic.c:		for ( tmp = ch->in_room->first_person; tmp; tmp = tmp->next_in_room )
+magic.c:		for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+magic.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_NO_MAGIC ) )
+magic.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SAFE ) && 
+magic.c:	for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+magic.c:    if ( ch->in_room->area->weather->precip <= 0 )
+magic.c:	&&   vch->in_room->area == ch->in_room->area
+magic.c:    weath = ch->in_room->area->weather;
+magic.c:    weath = ch->in_room->area->weather;
+magic.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SAFE ) )
+magic.c:	if ( !ch_died && vch->in_room->area == ch->in_room->area )
+magic.c:    for ( ich = ch->in_room->first_person; ich; ich = ich->next_in_room )
+magic.c:		    ? "somewhere" : in_obj->in_room->name );
+magic.c:    if ( !ch->in_room->first_content )
+magic.c:    for ( obj = ch->in_room->first_content; obj; obj = obj->next_content )
+magic.c:    ||  (victim != ch && IS_SET(victim->in_room->room_flags, ROOM_SAFE))
+magic.c:    ||   IS_SET(ch->in_room->room_flags,     ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SAFE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_SUMMON)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||   !in_hard_range( victim, ch->in_room->area )
+magic.c:    ||  (IS_SET(ch->in_room->area->flags, AFLAG_NOPKILL) && IS_PKILL(victim))
+magic.c:    if ( ch->in_room->area != victim->in_room->area )
+magic.c:					     ch->in_room->vnum );
+magic.c:    ||   !in_hard_range(ch, victim->in_room->area) )
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:					     victim->in_room->vnum );
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:					     victim->in_room->vnum );
+magic.c:    for ( vch = ch->in_room->first_person; vch; vch = vch->next_in_room )
+magic.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SAFE ) )
+magic.c:    for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_DEATH)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    targetRoomVnum = victim->in_room->vnum;
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_DEATH)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_DEATH)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||  (victim->in_room->sector_type != SECT_FOREST
+magic.c:    &&   victim->in_room->sector_type != SECT_FIELD)
+magic.c:    ||  (ch->in_room->sector_type     != SECT_FOREST
+magic.c:    &&   ch->in_room->sector_type     != SECT_FIELD)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||  !in_hard_range( ch, victim->in_room->area )
+magic.c:    ||  (IS_SET(victim->in_room->area->flags, AFLAG_NOPKILL) && IS_PKILL(ch)))
+magic.c:    if ( ch->in_room->sector_type == SECT_FOREST )
+magic.c:    if ( ch->in_room->sector_type == SECT_FOREST )
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_DEATH)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||  !in_hard_range( ch, victim->in_room->area )
+magic.c:    ||  (IS_SET(victim->in_room->area->flags, AFLAG_NOPKILL) && IS_PKILL(ch)))
+magic.c:    WEATHER_DATA *weath = ch->in_room->area->weather;
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_DEATH)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||  !in_hard_range( ch, victim->in_room->area )
+magic.c:    ||  (IS_SET(victim->in_room->area->flags, AFLAG_NOPKILL) && IS_PKILL(ch)))
+magic.c:    for (corpse = ch->in_room->first_content; corpse; corpse = corpse_next)
+magic.c:      victim->in_room->area != ch->in_room->area )
+magic.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SAFE ) )   
+magic.c:    for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PRIVATE)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_SOLITARY)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_NO_ASTRAL)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_DEATH)
+magic.c:    ||   IS_SET(victim->in_room->room_flags, ROOM_PROTOTYPE)
+magic.c:    ||   IS_SET(ch->in_room->room_flags, ROOM_NO_RECALL)
+magic.c:    ||  !in_hard_range( ch, victim->in_room->area )
+magic.c:    ||  (IS_SET(victim->in_room->area->flags, AFLAG_NOPKILL) && IS_PKILL(ch)))
+magic.c:    if ( IS_SET( ch->in_room->room_flags, ROOM_SAFE ) )
+magic.c:    for ( vch = ch->in_room->first_person; vch; vch = vch_next )
+magic.c:	  victim = victim->in_room->first_pe

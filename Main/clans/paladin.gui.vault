@@ -1,0 +1,2000 @@
+#OBJECT
+Vnum         60510
+Values       10000 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        47
+Values       12 14 41 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3002
+Level        44
+Values       23 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3002
+Level        48
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        46
+Values       12 15 39 2 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         3002
+Level        46
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3059
+Level        47
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        47
+Values       12 13 41 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3004
+Level        46
+Values       12 11 41 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24522
+Level        100
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46931
+Level        47
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12645
+Level        53
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12642
+Level        51
+Values       34 34 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2808
+Level        47
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         212
+Level        79
+Values       25 5 5 60 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25546
+Level        44
+Values       11 13 41 11 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24538
+Level        52
+Values       21 21 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25551
+Level        46
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         236
+Level        88
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         25559
+Level        46
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         267
+Level        88
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25559
+Level        47
+Values       19 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         267
+Level        86
+Values       88 88 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24531
+Level        41
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         271
+Level        70
+Values       600 1 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         260
+Level        71
+Values       72 22 193 -1 0 0
+Spell 1      'bless'
+Spell 2      'shockshield'
+End
+
+#OBJECT
+Nest         1
+Vnum         46913
+Level        40
+Values       12 12 35 13 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2800
+Level        38
+Values       12 12 33 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2800
+Level        38
+Values       12 12 34 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24528
+Level        53
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25563
+Level        1
+Values       11 4 7 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25549
+Level        46
+Values       11 13 41 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24506
+Level        51
+Values       11 14 45 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24506
+Level        51
+Values       12 15 46 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24506
+Level        52
+Values       12 13 44 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2857
+Level        42
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3047
+Level        34
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         220
+Level        89
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         233
+Level        95
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2859
+Level        45
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24527
+Level        55
+Values       15 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25549
+Level        45
+Values       12 11 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46916
+Level        40
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46919
+Level        46
+Cost         0
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24506
+Level        53
+Values       12 16 44 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24506
+Level        51
+Values       10 14 43 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         235
+Level        77
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         207
+Level        78
+Values       12 5 50 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25518
+Level        42
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46914
+Level        40
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42980
+Level        38
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46034
+WearFlags    8321
+Level        51
+Values       12 15 44 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46035
+Level        52
+Values       12 14 46 11 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46035
+Level        52
+Values       11 14 43 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46034
+Level        52
+Values       10 14 45 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2861
+Level        45
+Values       10 13 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2861
+Level        43
+Values       12 13 38 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2861
+Level        45
+Values       12 13 38 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2861
+Level        43
+Values       11 11 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2861
+Level        45
+Values       12 12 39 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2861
+Level        44
+Values       12 14 41 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24521
+Level        51
+Values       21 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         268
+Level        80
+Values       92 92 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24528
+Level        54
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12592
+Level        47
+Values       32 33 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2860
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2860
+Level        45
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         270
+Level        80
+Values       70 70 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2801
+Level        38
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2801
+Level        38
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12659
+Level        48
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46925
+Level        48
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46925
+Level        49
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25551
+Level        45
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24527
+Level        51
+Values       15 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3003
+Level        47
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3003
+Level        46
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46031
+Level        51
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24518
+Level        51
+Values       12 15 42 11 0 0
+End
+
+#OBJECT
+Vnum         60510
+Values       10000 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14714
+Level        51
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12569
+Level        45
+Values       12 12 38 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12525
+Level        46
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12527
+Level        46
+Values       16 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12596
+Level        40
+Values       12 12 36 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12527
+Level        49
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12560
+Level        47
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12546
+Level        47
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12567
+Level        46
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12548
+Level        47
+Values       12 14 40 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2832
+ExtraFlags   1121
+Level        34
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12531
+Level        50
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12531
+Level        53
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46926
+Level        49
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         812
+Level        33
+Values       12 10 30 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14701
+ExtraFlags   1058
+Level        64
+Values       12 19 55 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12593
+Level        34
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12575
+Level        43
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12574
+Level        44
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12573
+Level        44
+Values       6 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12572
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12571
+Level        43
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12570
+Level        44
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25572
+Level        47
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25573
+Level        49
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25554
+Level        43
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25553
+Level        44
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12515
+Level        48
+Values       12 13 40 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2807
+Level        48
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25512
+Level        42
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25513
+Level        40
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25514
+Level        41
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25515
+Level        41
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25516
+Level        41
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25517
+Level        40
+Values       12 14 37 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25537
+Level        41
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25511
+Level        50
+Values       12 14 43 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12545
+Level        46
+Values       1 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12503
+Level        52
+Values       31 33 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12501
+Level        52
+Values       18 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         12503
+Level        54
+Values       33 33 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12500
+Level        53
+Values       12 14 44 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12500
+Level        52
+Values       10 15 44 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12500
+Level        54
+Values       12 14 46 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12614
+Level        47
+Values       10 15 40 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12614
+Level        48
+Values       12 15 41 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12500
+Level        52
+Values       12 15 46 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12601
+Level        50
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25548
+Level        46
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2853
+Level        48
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         12520
+Level        50
+Values       34 34 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25057
+Level        44
+End
+
+#OBJECT
+Nest         1
+Vnum         12501
+Level        54
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12502
+Level        55
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12500
+Level        55
+Values       12 14 46 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24529
+Level        54
+Values       12 14 47 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3042
+Level        33
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3011
+Level        41
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3008
+Level        47
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        47
+Values       10 14 41 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3002
+Level        46
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         3003
+Level        46
+Values       17 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3003
+Level        45
+Values       16 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3030
+Level        40
+Values       27 27 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3029
+Level        39
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3024
+Level        40
+Values       12 13 36 0 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3050
+Level        43
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3050
+Level        42
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3018
+Level        35
+Values       12 10 31 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3047
+Level        41
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        44
+Values       9 13 39 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3003
+Level        47
+Values       16 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3010
+Level        41
+Values       19 19 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24830
+ExtraFlags   33
+Level        43
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3010
+Level        40
+Values       19 19 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3011
+Level        40
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3058
+Level        48
+Values       12 14 44 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3003
+Level        44
+Values       17 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3002
+Level        45
+Values       24 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        46
+Values       9 14 40 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3001
+Level        47
+Values       10 14 40 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3047
+Level        43
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24527
+Level        53
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24528
+Level        53
+Values       30 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24525
+Level        53
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24519
+Level        49
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24511
+Level        51
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24510
+Level        50
+Values       12 15 42 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24509
+Level        52
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3000111
+Values       125 117 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         261
+Level        78
+Values       12 12 48 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46923
+Level        54
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46922
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21011
+Level        98
+Values       9 5 40 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25518
+Level        41
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12566
+Level        46
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24516
+Level        97
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2804
+Level        38
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25572
+Level        51
+Values       8 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25573
+Level        51
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12508
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2800
+Level        38
+Values       12 10 34 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25570
+Level        52
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25550
+Level        44
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24516
+Level        49
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2857
+Level        38
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2859
+Level        44
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24529
+Level        54
+Values       12 15 45 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15104
+ExtraFlags   0
+Level        24
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         15104
+ExtraFlags   0
+Level        26
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         266
+ExtraFlags   524289
+Level        100
+Values       140 140 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         266
+ExtraFlags   524289
+Level        99
+Values       140 140 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25559
+Level        45
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24521
+Level        53
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2856
+Level        40
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25519
+Level        38
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2803
+Level        37
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24510
+Level        50
+Values       12 14 44 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24509
+Level        50
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24511
+Level        50
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46029
+Level        46
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         24520
+Level        51
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70099
+Level        99
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70099
+Level        97
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24529
+Level        52
+Values       12 15 45 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46028
+Level        45
+Values       20 20 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         12507
+Level        46
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         12507
+Level        47
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46922
+ExtraFlags   9011297
+Level        52
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46921
+Level        53
+Values       32 32 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46923
+Level        52
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12613
+ExtraFlags   112
+Level        47
+Values       18 18 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3057
+Level        47
+Values       11 15 41 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2860
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         60510
+Values       10000 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12508
+Level        45
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         12508
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46902
+ExtraFlags   25740297
+Weight       55
+Level        78
+Values       12 21 64 8 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46902
+ExtraFlags   25740297
+Weight       55
+Level        79
+Values       12 21 65 8 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         239
+Level        88
+Values       25 25 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24529
+Level        53
+Values       12 13 46 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25560
+Level        47
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24517
+Level        49
+Values       12 14 44 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24527
+Level        54
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24525
+Level        52
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24525
+Level        55
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24816
+Level        50
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24816
+Level        50
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         266
+ExtraFlags   524289
+Level        100
+Values       140 140 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2860
+ExtraFlags   525408
+Level        42
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2860
+ExtraFlags   525408
+Level        45
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         60510
+Values       10000 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12508
+Level        47
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70051
+Level        95
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70050
+Level        95
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70080
+Level        85
+Values       12 67 134 8 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70054
+Level        95
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70046
+Level        96
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70094
+ExtraFlags   525312
+Level        95
+Values       12 67 134 4 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70048
+Level        98
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70071
+Level        84
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70082
+Level        73
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70049
+Level        93
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70008
+Level        76
+Values       21 21 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70095
+ExtraFlags   527360
+Level        94
+Values       11 69 138 4 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70030
+Level        73
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70062
+Level        73
+Values       12 47 94 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70039
+ExtraFlags   525312
+Level        51
+Values       12 45 90 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70029
+Level        74
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70034
+ExtraFlags   525328
+Level        73
+Values       12 30 90 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70058
+ExtraFlags   525312
+Level        73
+Values       12 49 98 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70028
+Level        78
+Values       12 25 100 8 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70040
+ExtraFlags   525312
+Level        73
+Values       12 40 80 11 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70020
+ExtraFlags   525313
+Level        70
+Values       12 40 80 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         42933
+Level        79
+Values       12 22 65 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70065
+Level        74
+Values       12 49 98 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70086
+Level        78
+Values       12 63 126 3 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46921
+Level        52
+Values       32 32 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12508
+Level        45
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25571
+Level        52
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25564
+Level        1
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25566
+Level        46
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2801
+Level        37
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25548
+Level        45
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25565
+Level        45
+Values       12 11 39 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25549
+Level        46
+Values       11 14 38 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         70043
+Level        92
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         228
+Level        1
+Values       1 -100 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24816
+Level        51
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24528
+Level        51
+Values       27 30 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         12507
+Level        46
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46035
+Level        51
+Values       10 14 44 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         46034
+Level        52
+Values       11 16 43 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         25503
+Level        100
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         70052
+ExtraFlags   526368
+Level        98
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         70052
+Level        98
+Values       12 12 0 0 0 0
+End
+
+#END

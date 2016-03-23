@@ -1,0 +1,60 @@
+#PLAYER
+Version      3
+Name         RatcZ~
+Sex          0
+Class        5
+Race         0
+Languages    1 1
+Level        2
+Played       17943
+Room         21194
+HpManaMove   31 31 105 105 110 110
+Gold         2803
+Exp          1651
+Height          64
+Weight          164
+Act          570426952
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        6
+ICEListen ~
+Mentalstate  -65
+Password     RaYoUbItx2AcE~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       28
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 12 16 13 14 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 12
+Site         212.45.24.130
+Spell        19 'armor'
+Spell        19 'create water'
+Skill        19 'cook'
+Weapon       19 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 386   6  18 0
+AffectData   'bless' 386  -6  24 0
+AffectData   'armor' 301 -20  17 0
+Killed       10315 6
+Killed       10308 3
+End
+
+#OBJECT
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#END

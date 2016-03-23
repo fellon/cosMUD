@@ -1,0 +1,268 @@
+#PLAYER
+Version      3
+Name         Xhar~
+Sex          0
+Class        9
+Race         35
+Languages    1 1
+Level        6
+Played       7047
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   161 161 138 126 265 165
+Gold         141373
+Exp          203262
+Height          356
+Weight          2056
+Act          536872536
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -108
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    1
+Susceptible  2
+Mentalstate  -100
+Password     XhV35KIIV56V6~
+Title         the Dragon Hatchling~
+Lastname (null)~
+AuthedBy     Relgar~
+Prompt       <%h(%H)hp %mm %vmv> ~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       84
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 13 11 13 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 37 10
+Site         4.35.180.6
+Spell        26 'armor'
+Spell        100 'dragon wit'
+Spell        35 'dragonskin'
+Spell        19 'float'
+Spell        19 'shield'
+Skill        19 'bite'
+Skill        100 'dual wield'
+Skill        64 'enhanced damage'
+Weapon       19 'pugilism'
+Weapon       50 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Killed       2070 1
+Killed       2071 3
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        11
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         10345
+Level        3
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2070
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2070
+Level        4
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2072
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2072
+Level        4
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      18
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        4
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2071
+Level        6
+Values       12 3 10 5 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#END

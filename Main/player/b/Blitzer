@@ -1,0 +1,62 @@
+#PLAYER
+Version      3
+Name         Blitzer~
+Description  ~
+Sex          1
+Class        3
+Race         8
+Species      5
+Languages    1 1
+Level        2
+Played       4593
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   46 46 102 102 113 113
+Gold         1502
+Exp          1788
+Height          108
+Weight          527
+Act          570426968
+AffectedBy   512
+Position     106
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -6
+Alignment    500
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Bl8KJ29wEET/U~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Rathkor~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     19 13 10 12 15 8 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 9 10
+Site         207.202.214.132
+Weapon       17 'bludgeons'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless' 1169   6  18 0
+AffectData   'bless' 1169  -6  24 0
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#END

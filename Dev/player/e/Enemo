@@ -1,0 +1,48 @@
+#PLAYER
+Version      3
+Name         Enemo~
+Sex          1
+Class        6
+Race         14
+Languages    1 1
+Level        2
+Played       1291
+Room         21194
+HpManaMove   32 32 124 124 110 110
+Gold         0
+Exp          1563
+Height          40
+Weight          116
+Act          570426952
+AffectedBy   528
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Password     En51Z0AIMs5AI~
+Title         the Strider~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     15 16 14 13 12 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'bless' 1147   6  18 0
+AffectData   'bless' 1147  -6  24 0
+AffectData   'armor' 494 -20  17 0
+End
+
+#END

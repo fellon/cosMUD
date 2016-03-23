@@ -1,0 +1,911 @@
+#PLAYER
+Version      3
+Name         Haroun~
+Description  ~
+Sex          1
+Class        25
+Race         0
+Species      2
+Languages    786483 1
+Level        55
+Played       366252
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   745 679 511 498 902 802
+Gold         441481
+Exp          182537605
+Height          62
+Weight          151
+Act          570426952
+AffectedBy   24
+Position     106
+Style     2
+Practice     34
+SavingThrows 0 0 0 0 -6
+Alignment    -1000
+Favor	       2250
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        120
+Deaf         146833653
+ICEListen (null)~
+Mentalstate  0
+Password     HaIxj/APNls5s~
+Title        &r Eats Pixies~
+Lastname  zee &zHeartless~
+AuthedBy     Prage~
+Prompt       <&r%h/&g%m/&z%a/&w%X>~
+FPrompt	     <&r%h/&g%m/&w%X/%c>~
+Deity	     Bane~
+Clan         Order of Chaos~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       2227
+MDeaths      36
+ArenaWins    2
+ArenaKills   6
+ArenaDeaths  8
+IllegalPK    0
+AttrPerm     13 18 14 11 12 13 13
+AttrMod      0 0 0 0 0 4 0
+Condition    0 4 40 65
+Site         207.202.214.132
+Spell        21 'antimagic shell'
+Spell        95 'armor'
+Spell        19 'blazebane'
+Spell        82 'blazeward'
+Spell        19 'blindness'
+Spell        87 'blur'
+Spell        95 'cause serious'
+Spell        95 'caustic fount'
+Spell        31 'charm person'
+Spell        37 'claustrophobia'
+Spell        19 'confusion'
+Spell        95 'continual light'
+Spell        95 'create fire'
+Spell        95 'create spring'
+Spell        95 'cure light'
+Spell        28 'curse'
+Spell        95 'demonskin'
+Spell        95 'detect invis'
+Spell        95 'detect magic'
+Spell        19 'detect traps'
+Spell        19 'dispel magic'
+Spell        95 'dragon wit'
+Spell        95 'dragonskin'
+Spell        49 'dream'
+Spell        64 'eldritch sphere'
+Spell        95 'elven beauty'
+Spell        19 'enchant weapon'
+Spell        19 'energy drain'
+Spell        22 'ethereal funnel'
+Spell        63 'ethereal shield'
+Spell        19 'extradimensional portal'
+Spell        19 'faerie fire'
+Spell        74 'faerie fog'
+Spell        19 'feather fall'
+Spell        95 'flight'
+Spell        95 'float'
+Spell        72 'forcefield'
+Spell        28 'hallucination'
+Spell        67 'hand of chaos'
+Spell        32 'harm'
+Spell        36 'hyperactivity'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        94 'infravision'
+Spell        81 'inner warmth'
+Spell        95 'invis'
+Spell        19 'knock'
+Spell        41 'know alignment'
+Spell        71 'locate object'
+Spell        19 'mass invis'
+Spell        28 'mental block'
+Spell        95 'pass door'
+Spell        92 'portal'
+Spell        19 'razorbait'
+Spell        19 'recharge'
+Spell        42 'refresh'
+Spell        26 'remove invis'
+Spell        19 'remove trap'
+Spell        95 'sagacity'
+Spell        93 'scry'
+Spell        65 'shadowform'
+Spell        90 'shield'
+Spell        19 'sleep'
+Spell        95 'slink'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        95 'stone skin'
+Spell        35 'summon'
+Spell        19 'swordbait'
+Spell        95 'teleport'
+Spell        38 'transport'
+Spell        27 'true sight'
+Spell        19 'valiance'
+Spell        48 'ventriloquate'
+Spell        19 'weaken'
+Spell        19 'winter mist'
+Spell        95 'word of recall'
+Skill        23 'aid'
+Skill        95 'clairvoyance'
+Skill        19 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        28 'focus'
+Skill        20 'kick'
+Skill        95 'meditate'
+Skill        23 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        57 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        30 'third attack'
+Skill        95 'trance'
+Weapon       50 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       95 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       99 'elvish'
+Tongue       99 'gith'
+Tongue       99 'ogre'
+Tongue       99 'orcish'
+AffectData   'armor' 400 -20  17 0
+AffectData   'bless' 1162   6  18 0
+AffectData   'bless' 1162  -6  24 0
+AffectData   'elven beauty' 1287   4  25 0
+AffectData   'detect invis' 1288   0  26 8
+AffectData   'detect magic' 1289   0  26 16
+AffectData   'blur'  10  20  40 0
+Killed       7922 1
+Killed       48009 2
+Killed       48017 1
+Killed       7960 3
+Killed       7945 5
+Killed       7931 3
+Killed       7927 4
+Killed       17 1
+Killed       60857 1
+Killed       60881 1
+Killed       60879 1
+Killed       60882 1
+Killed       60878 3
+Killed       6501 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         9852
+WearLoc      3
+Level        12
+Values       2 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         30310
+WearLoc      13
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      14
+Level        28
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         6631
+WearLoc      1
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Cost         0
+Values       1 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         30307
+WearLoc      19
+Level        27
+Values       9 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+WearLoc      8
+Level        41
+Values       5 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24828
+WearLoc      9
+Level        42
+Cost         0
+Values       7 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14715
+WearLoc      5
+Level        45
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+WearLoc      10
+Level        43
+Cost         0
+Values       1 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+WearLoc      7
+Level        43
+Values       1 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      15
+Level        28
+Values       6 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14757
+WearLoc      6
+Level        49
+Values       11 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         37
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24899
+Level        32
+Values       4 4 2 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24524
+Level        52
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48021
+Level        19
+Values       24 -1 -1 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         3604
+Level        1
+Cost         0
+Values       0 1 5 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7931
+Level        57
+Values       48 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         6631
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14749
+Level        50
+Values       9 14 43 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8906
+Level        19
+Values       12 5 19 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         7931
+Level        58
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         14740
+Level        40
+Values       4 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15131
+ExtraFlags   0
+Level        28
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14752
+Level        44
+Values       47 23 31 165 0 0
+Spell 1      'blindness'
+Spell 2      'cause critical'
+Spell 3      'poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         14732
+Level        48
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14705
+Level        54
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48021
+Level        19
+Values       25 -1 -1 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         7931
+Level        58
+Values       51 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         647
+Level        30
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         646
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         645
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         644
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         643
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         642
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         641
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         640
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3509
+Level        5
+Values       8 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        31
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         645
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         100017
+Level        8
+Values       12 6 60 2 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         7931
+Level        57
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Count        6
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         30309
+Level        35
+Values       50 4 4 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Vnum         5112
+WearLoc      2
+Level        24
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         14740
+WearLoc      4
+Level        42
+Values       11 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        51
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         30308
+WearLoc      16
+Level        33
+Values       10 50 100 2 0 0
+End
+
+#OBJECT
+Vnum         30309
+WearLoc      17
+Level        35
+Values       49 2 2 168 0 0
+Spell 3      'possess'
+End
+
+#ALIAS
+Name     waa~
+Commands wear all~
+End
+
+#ALIAS
+Name     sad~
+Commands sac corpse~
+End
+
+#ALIAS
+Name     scs~
+Commands scan s~
+End
+
+#ALIAS
+Name     sce~
+Commands scan e~
+End
+
+#ALIAS
+Name     scn~
+Commands scan n~
+End
+
+#ALIAS
+Name     scw~
+Commands scan w~
+End
+
+#ALIAS
+Name     scd~
+Commands scan d~
+End
+
+#ALIAS
+Name     ab~
+Commands put all bag~
+End
+
+#ALIAS
+Name     btt~
+Commands buy turkey~
+End
+
+#ALIAS
+Name     dw~
+Commands get skin bag ; drink skin ; put skin bag~
+End
+
+#ALIAS
+Name     ett~
+Commands get turkey bag ; eat turkey~
+End
+
+#ALIAS
+Name     tor~
+Commands c 'continual light'~
+End
+
+#ALIAS
+Name     gc~
+Commands get all corpse~
+End
+
+#ALIAS
+Name     fb~
+Commands get skin bag ; fill skin ; put skin bag~
+End
+
+#ALIAS
+Name     df~
+Commands drink fou~
+End
+
+#ALIAS
+Name     bb~
+Commands exam bag~
+End
+
+#ALIAS
+Name     scsw~
+Commands scan sw~
+End
+
+#ALIAS
+Name     scse~
+Commands scan se~
+End
+
+#ALIAS
+Name     batch~
+Commands c armor ; c 'elven beauty' ; c 'detect invis' ; c 'detect magic' ; c blur~
+End
+
+#ALIAS
+Name     scu~
+Commands scan u~
+End
+
+#ALIAS
+Name     camp~
+Commands c 'create fire'~
+End
+
+#ALIAS
+Name     ree~
+Commands c 'word of recall'~
+End
+
+#ALIAS
+Name     ds~
+Commands drink spring~
+End
+
+#ALIAS
+Name     stuff~
+Commands c flight ; c slink ; c 'dragon wit' ; c 'inner warmth' ; c blazeward~
+End
+
+#ALIAS
+Name     mn~
+Commands c invis~
+End
+
+#ALIAS
+Name     cs~
+Commands c 'create spring'~
+End
+
+#ALIAS
+Name     hee~
+Commands c 'cure light'~
+End
+
+#ALIAS
+Name     cf~
+Commands c 'caustic fount'~
+End
+
+#ALIAS
+Name     scne~
+Commands scan ne~
+End
+
+#ALIAS
+Name     ff~
+Commands flee~
+End
+
+#ALIAS
+Name     batchs~
+Commands c sagacity ; c dragonskin ; c stone ; c scry~
+End
+
+#ALIAS
+Name     port~
+Commands c 'teleport~
+End
+
+#ALIAS
+Name     scnw~
+Commands scan nw~
+End
+
+#ALIAS
+Name     hvyd~
+Commands c shield ;  c demonskin ; c iceshield~
+End
+
+#ALIAS
+Name     cfj~
+Commands c 'caustic fount' j~
+End
+
+#ALIAS
+Name     cfg~
+Commands c 'caustic fount' g~
+End
+
+#ALIAS
+Name     cfd~
+Commands c 'caustic fount' d~
+End
+
+#ALIAS
+Name     cfa~
+Commands c 'caustic fount' a~
+End
+
+#ALIAS
+Name     cfm~
+Commands c 'caustic fount' m~
+End
+
+#ALIAS
+Name     cfr~
+Commands c 'caustic fount' r~
+End
+
+#ALIAS
+Name     cfw~
+Commands c 'caustic fount' w~
+End
+
+#ALIAS
+Name     cfb~
+Commands c 'caustic fount' b~
+End
+
+#ALIAS
+Name     cfc~
+Commands c 'caustic fount' c~
+End
+
+#ALIAS
+Name     cff~
+Commands c 'caustic fount' f~
+End
+
+#ALIAS
+Name     cfk~
+Commands c 'caustic fount' k~
+End
+
+#ALIAS
+Name     cfl~
+Commands c 'caustic fount' l~
+End
+
+#ALIAS
+Name     cfp~
+Commands c 'caustic fount' p~
+End
+
+#ALIAS
+Name     cfo~
+Commands c 'caustic fount' o~
+End
+
+#ALIAS
+Name     cfs~
+Commands c 'caustic fount' s~
+End
+
+#ALIAS
+Name     cfv~
+Commands c 'caustic fount' v~
+End
+
+#ALIAS
+Name     cfe~
+Commands c 'caustic fount' e~
+End
+
+#ALIAS
+Name     cfi~
+Commands c 'caustic fount' i~
+End
+
+#ALIAS
+Name     cft~
+Commands c 'caustic fount' t~
+End
+
+#ALIAS
+Name     cfhe~
+Commands c 'caustic fount' he~
+End
+
+#ALIAS
+Name     cfn~
+Commands c 'caustic fount' n~
+End
+
+#ALIAS
+Name     cfz~
+Commands c 'caustic fount' z~
+End
+
+#ALIAS
+Name     hocc~
+Commands c 'hand of chaos' c~
+End
+
+#ALIAS
+Name     hocn~
+Commands c 'hand of chaos' n~
+End
+
+#ALIAS
+Name     cfy~
+Commands c 'caustic fount' y~
+End
+
+#ALIAS
+Name     fizz~
+Commands get fizz bag ; q fizz~
+End
+
+#ALIAS
+Name     cfhy~
+Commands c 'caustic fount' hy~
+End
+
+#ALIAS
+Name     drr~
+Commands drop all ; get bag~
+End
+
+#ALIAS
+Name     bigd~
+Commands c 'ethereal shield' ;  c forcefield ;  c 'eldritch sphere' ; c shadowform~
+End
+
+#ALIAS
+Name     fog~
+Commands c 'faerie fog'~
+End
+
+#ALIAS
+Name     emm~
+Commands get meat bag ; eat meat~
+End
+
+#END

@@ -1,0 +1,85 @@
+#PLAYER
+Version      3
+Name         Narsbrek~
+Sex          1
+Class        5
+Race         9
+Languages    1 1
+Level        2
+Played       10274
+Room         2172
+HpManaMove   35 35 108 108 110 110
+Gold         704
+Exp          1646
+Height          62
+Weight          140
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Na1c6aYpwFFGo~
+Title         the Attendant~
+Flags        33280
+PKills       0
+PDeaths      0
+MKills       18
+MDeaths      1
+IllegalPK    0
+AttrPerm     12 14 16 13 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 44 32 12
+Site         216.152.2.85
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 777   6  18 0
+AffectData   'bless' 777  -6  24 0
+AffectData   'armor' 123 -20  17 0
+Killed       10315 7
+Killed       10322 10
+End
+
+#OBJECT
+Vnum         10325
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10330
+Level        1
+Values       21 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       10 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Vnum         20
+Values       60 0 0 0 0 0
+End
+
+#END

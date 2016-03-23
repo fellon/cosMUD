@@ -1,0 +1,144 @@
+#PLAYER
+Version      3
+Name         Barra~
+Description  ~
+Sex          1
+Class        14
+Race         9
+Species      0
+Languages    1 1
+Level        5
+Played       5886
+Room         10395
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   12 79 112 112 152 152
+Gold         10939
+Exp          100084
+Height          61
+Weight          158
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Resistant    2
+Mentalstate  -1
+Password     BaUI2P7rZ2Xpo~
+Title        ~
+Lastname  D'bel'la~
+AuthedBy     Prage~
+Prompt       <Hp:%h Mv:%v %Xtnl>~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       34
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 14 14 14 13 15 16
+AttrMod      0 0 0 0 0 0 0
+Condition    0 1 1 10
+Site         12.2.94.32
+Skill        19 'backstab'
+Skill        47 'dual wield'
+Skill        85 'enhanced damage'
+Skill        17 'hide'
+Skill        17 'pick lock'
+Skill        18 'scan'
+Skill        17 'search'
+Skill        21 'sneak'
+Skill        17 'steal'
+Weapon       17 'long blades'
+Weapon       17 'pugilism'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10396 3
+Killed       10300 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10313
+WearLoc      16
+Level        1
+Values       12 2 7 3 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10316
+WearLoc      0
+Values       0 0 18 0 0 0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         105
+WearLoc      18
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

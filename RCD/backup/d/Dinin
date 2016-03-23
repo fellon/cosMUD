@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Dinin~
+Description  ~
+Sex          1
+Class        2
+Race         11
+Languages    1 1
+Level        2
+Played       71261
+Room         21194
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   45 45 130 130 126 126
+Gold         20380
+Exp          1002
+Height          58
+Weight          94
+Act          570426952
+AffectedBy   16777728
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -4
+Password     DihVhPJAzrmk2~
+Title         the Footpad~
+Lastname ~
+Flags        229376
+PKills       0
+PDeaths      0
+MKills       177
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 13 14 17 12 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 10 12
+Site         (Link-Dead)
+Killed       10345 11
+Killed       10317 2
+i3invis	0
+End
+
+#END

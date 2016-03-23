@@ -1,0 +1,111 @@
+#PLAYER
+Version      3
+Name         Case~
+Description  ~
+Sex          1
+Class        22
+Race         44
+Species      0
+Languages    1 1
+Level        10
+Played       14079
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   200 200 145 145 217 217
+Gold         377220
+Exp          548282
+Height          61
+Weight          141
+Act          570427000&4
+AffectedBy   8
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -10
+Alignment    411
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      10
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     CarC0lNgriz9k~
+Title         the Merciful~
+Lastname  D'Joint~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 13 17 13 13 13 14
+AttrMod      5 0 0 0 0 0 0
+Condition    0 42 7 16
+Site         24.96.17.166
+Spell        19 'armor'
+Spell        22 'bless'
+Spell        19 'continual light'
+Spell        32 'create food'
+Spell        19 'create water'
+Spell        19 'cure blindness'
+Spell        19 'cure critical'
+Spell        19 'cure light'
+Spell        19 'cure poison'
+Spell        19 'cure serious'
+Spell        19 'detect evil'
+Spell        19 'detect hidden'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        19 'detect traps'
+Spell        19 'faerie fire'
+Spell        25 'invis'
+Spell        19 'know alignment'
+Spell        19 'protection'
+Spell        19 'refresh'
+Spell        57 'uplift'
+Spell        28 'word of recall'
+Skill        19 'aid'
+Skill        40 'dual wield'
+Skill        20 'kick'
+Skill        42 'scan'
+Skill        19 'search'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       60 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+AffectData   'shield' 184 -20  17 0
+AffectData   'kindred strength' 186   5   1 0
+AffectData   'detect invis' 187   0  26 8
+AffectData   'bless' 105 -10  24 0
+AffectData   'bless' 105  10  18 0
+Killed       104 1
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         25
+ExtraFlags   0&1
+Level        1
+Timer        10
+Values       22 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        18
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#END

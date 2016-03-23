@@ -1,0 +1,53 @@
+#DEITY
+Filename		../deity/ci'diys~
+Name		Ci'Diys~
+Description	Ci'Diys, Protector of the Wilderness Areas
+
+Domains  Wilderness, Seasons, Plants     Alignment  Honorable
+
+A thin aged pixie with skin the color of bark and hair the tint of leaves,
+which changes with the seasons. The protector of the wilderness
+areas.
+ 
+~
+Alignment		350
+Worshippers	3
+Flee		-5
+Flee_npcrace	10
+Flee_npcfoe	-20
+Kill		5
+Kill_npcrace	-50
+Kill_npcfoe	35
+Kill_magic	7
+Sac		5
+Bury_corpse	10
+Aid_spell		5
+Aid		0
+Steal		7
+Backstab		7
+Die		-50
+Die_npcrace	-35
+Die_npcfoe	-50
+Spell_aid		5
+Dig_corpse	-25
+Scorpse		250
+Savatar		2000
+Sdeityobj		1500
+Srecall		1000
+Suplift		0
+Race		4
+Class		-1
+Element		0
+Sex		-1
+Affected		0
+Npcrace		4
+Npcfoe		45
+Suscept		0
+Race2		-1
+Susceptnum	500
+Elementnum	500
+Affectednum	1000
+Objstat		3
+End
+
+#END

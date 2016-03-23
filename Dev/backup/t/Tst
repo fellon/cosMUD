@@ -1,0 +1,162 @@
+#PLAYER
+Version      3
+Name         Tst~
+Description  ~
+Sex          1
+Class        3
+Race         0
+Species      2
+Languages    1 1
+Level        2
+Played       3765
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   29 40 100 100 113 113
+Gold         1500
+Exp          2000
+Height          60
+Weight          136
+Act          536872536
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -14
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      14
+Damroll      0
+Armor        10
+ICEListen (null)~
+Mentalstate  -28
+Password     Tsy8skZR/1jNc~
+Title         the Private~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 12 12 13 14 13 13
+AttrMod      7 0 0 7 0 0 0
+Condition    0 48 40 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'bless' 2348 -14  24 0
+AffectData   'bless' 2348  14  18 0
+AffectData   'armor' 855 -20  17 0
+AffectData   'kindred strength' 2466   7   1 0
+AffectData   'slink' 2469   7   2 0
+AffectData   'forcefield' 2175 -50  17 0
+AffectData   'shield' 2750 -20  17 0
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+WearLoc      17
+Level        1
+Values       3 3 3 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         105
+Level        15
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         4152
+WearLoc      16
+Level        1
+Values       12 2 10 11 0 0
+End
+
+#OBJECT
+Vnum         117
+WearLoc      19
+Level        1
+Values       4 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

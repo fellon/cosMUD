@@ -1,0 +1,70 @@
+#PLAYER
+Version      3
+Name         Militant~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Species      2
+Languages    1 1
+Level        6
+Played       25466
+Room         21207
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   107 107 126 126 165 165
+Gold         38039
+Exp          147244
+Height          71
+Weight          162
+Act          570426968
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        9
+Deaf         2
+ICEListen (null)~
+Mentalstate  0
+Password     Mi/YfQtTszlbo~
+Title         the Tracker~
+Lastname (null)~
+AuthedBy     Andy~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       125
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 13 12 12 13 14 10
+AttrMod      0 0 0 0 0 0 0
+Condition    0 3 3 12
+Site         207.202.214.132
+Skill        18 'dual wield'
+Skill        18 'kick'
+Skill        18 'search'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       33 'long blades'
+Weapon       18 'pugilism'
+Weapon       18 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 299 -20  17 0
+AffectData   'bless' 957   6  18 0
+AffectData   'bless' 957  -6  24 0
+Killed       7003 3
+Killed       7005 1
+i3invis	0
+End
+
+#END

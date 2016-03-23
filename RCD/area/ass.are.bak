@@ -1,0 +1,290 @@
+#AREA   Assassin guild~
+
+
+
+#VERSION 1
+#AUTHOR Trespin~
+
+#RANGES
+0 65 0 116
+$
+
+#RESETMSG ~
+
+#FLAGS
+5 15
+
+#ECONOMY 99998 999978830
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#5600
+ass negwar healer~
+Negwar the healer~
+Negwar is busy healing the sick and wounded.
+~
+~
+67108867 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 1 0 0 3 2 0
+0 0 0 0 0 0 0 0
+#5601
+ass Kalasos trainer~
+Kalasos the master of arts~
+Kalasos your mentor stands ready to train.
+~
+~
+67109891 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+7 14 0 0 33 32 0
+0 0 0 0 0 0 0 0
+#5621
+bob the Assassin guard~
+bob the Assassin guard~
+Bob the Assassin guard.
+~
+~
+1 0 0 C
+55 0 -300 0d30000+30000 0d300+300
+1000 0
+112 112 0
+13 13 13 13 13 13 13
+-50 -50 -50 -50 -50
+22 7 0 0 1 1 5
+0 0 0 0 1024 0 343933296 1
+#0
+
+
+#OBJECTS
+#5600
+ass wooden bench~
+a wooden bench~
+A hard wooden bench provides a resting place.~
+~
+12 0 0
+3 0 1168 0
+1 0 0
+E
+bench wooden~
+Caked in blood from the wounds of those healed previous.  It doesn't
+look inviting, but the previous occupants would not have been too
+choosey.
+~
+#5602
+ass guild board~
+The board of the Assassins Guild~
+The board of the Assassins guild rests smartly on the wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#5605
+ass soul reaver sword~
+The Soul Reaver~
+A sharp sword merges with the shadows.~
+~
+5 2097152 8193
+0 44 2 2
+5 0 0
+A
+13 50
+#5606
+ass ring~
+Ring of the Assassin Guild~
+An Assassins ring twinkles in the light~
+~
+9 2097152 3
+0 0 0 0
+1 0 0
+A
+18 10
+A
+19 10
+#5607
+ass ankle wrap~
+Assassin Ankle Wrap~
+Some loose cloth flags in the breeze.~
+~
+9 2097152 2097153
+0 0 0 0
+1 0 0
+A
+13 30
+A
+17 -13
+#5608
+ass black assassin boots~
+Black Assassin Boots~
+Some dark black boots have been abandoned~
+~
+9 2097152 65
+0 0 0 0
+1 0 0
+A
+18 25
+A
+19 30
+#5609
+ass assassin black armor~
+Black Assassin Armor~
+Wraps of fine black cloth form a suit of superb armor.~
+~
+9 0 9
+0 0 0 0
+1 0 0
+A
+17 -34
+A
+13 200
+#0
+
+
+#ROOMS
+#5600
+Entrance of the Assassin Guild~
+This shadow filled alleyway conceals the entrance to the assassins 
+guild, an obscure black door with a small viewing port sits to the north.
+Travelling East will take you back on to Hawk Street.
+~
+0 4 0
+D0
+~
+~
+0 -1 5601
+D1
+~
+~
+0 -1 21011
+> entry_prog 100~
+mpecho _blu A Guard from the Assassins guild steps out of the shadows.
+if guild($n) == Assassins Guild
+or isimmort($n)
+mpechoaround $n The Guard whispers something to $n.
+mpechoat $n _red The Guard says 'Welcome to the guild of Assassins, $n!'
+else
+mpechoaround $n The guard puts $n in a tight headlock and shows them the exit.
+mpechoat _blu The guard grabs you by the throat and escorts you south.
+mpforce $n east
+endif
+mpecho _blu The guard looks around and then melds back into the shadows.
+~
+|
+S
+#5601
+Dark Hallway~
+The assassins guild is a cold sombre affair.  Most Assassins work alone and do
+not need the support of others, meeting only to share intelligence and obtain
+their specialist brought in from distant lands.  The guild healer can be found
+through an archway to the west.  To the east the Assassin trainer is helping
+new recruits practice the shadow arts.  The guild exit is to the south and
+the guild continues to the north.
+~
+0 1075838984 0
+D0
+~
+~
+0 -1 5604
+D1
+~
+~
+0 -1 5603
+D2
+~
+~
+0 -1 5600
+D3
+~
+~
+0 -1 5602
+S
+#5602
+Healing Corner~
+The healers room is a simple affair, torches hang from the walls to give a
+brighter light than the other rooms in the guild.  A resting place and a water
+fountain are provided to speed recovery.
+~
+0 1075838984 0
+D1
+~
+~
+0 -1 5601
+S
+#5603
+Master of Shadows~
+The home of the resident trainer contains a wide range of equipment covering
+many varied fighting styles, as well as a selection of poisons and herbs, used 
+to kill or disable his target.  A training mat used to soften the blows he 
+inflicts on his students sits on the floor.  The exit west leads back to the 
+guild entrance.
+~
+0 1075838984 0
+D3
+~
+~
+0 -1 5601
+S
+#5604
+Meeting Point~
+The guild meeting area, allows the members to come together to share ideas and
+techniques.  A wooden noteboard is attached to the wall, where targets and fees
+can be discussed.  North of here is the communal equipment room, the stone 
+archway south leads back to the guild entrance.
+~
+0 1075838984 0
+D0
+~
+~
+0 -1 5605
+D2
+~
+~
+0 -1 5601
+S
+#5605
+Equipment Room~
+Gifts from other guild members are left here for others to use.  Don't take 
+more than you need and be sure to leave items for your fellow members from 
+time to time.
+~
+0 1109935112 0
+D2
+~
+~
+0 -1 5604
+S
+#0
+
+
+#RESETS
+M 1 5600 1 5602
+O 1 5600 1 5602
+O 1 191 1 5602
+M 1 5601 1 5603
+O 1 5602 1 5604
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  5600 spec_cast_adept
+M  5621 spec_guard
+S
+
+
+#$

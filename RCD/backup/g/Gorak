@@ -1,0 +1,98 @@
+#PLAYER
+Version      3
+Name         Gorak~
+Description  ~
+Sex          1
+Class        6
+Race         15
+Languages    1 1
+Level        5
+Played       15932
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   102 102 103 103 152 152
+Gold         27793
+Exp          79767
+Height          110
+Weight          334
+Act          570426968
+AffectedBy   512
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -5
+Password     Go6.ynrj2zc0c~
+Title         the Courser~
+Lastname  Windreaver~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       70
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     19 12 11 12 15 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    14 11 11 14
+Site         207.202.214.132
+Skill        18 'dual wield'
+Skill        39 'kick'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       18 'long blades'
+Weapon       18 'pugilism'
+Weapon       18 'short blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 470 -20  17 0
+AffectData   'bless' 1166  -6  24 0
+AffectData   'bless' 1166   6  18 0
+Killed       6005 2
+Killed       6102 2
+i3invis	0
+End
+
+#ALIAS
+Name     em~
+Commands get meat from sack ; eat  meat~
+End
+
+#ALIAS
+Name     gw~
+Commands get bucket bag ; fill bucket ; put bucket bag~
+End
+
+#ALIAS
+Name     er~
+Commands get meat bag ; eat meat~
+End
+
+#ALIAS
+Name     ds~
+Commands get dragonskin bag ; drink dragonskin ; put dragonskin bag~
+End
+
+#ALIAS
+Name     dw~
+Commands get bucket bag ; drink bucket ; put bucket bag~
+End
+
+#ALIAS
+Name     dj~
+Commands get bottle bag ; drink bottle ; put bottle bag~
+End
+
+#END

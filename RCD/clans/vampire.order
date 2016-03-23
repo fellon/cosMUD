@@ -1,0 +1,34 @@
+#CLAN
+Name         Vampire~
+Filename     vampire.order~
+Motto        To suck well~
+Description  The resurected Vampire Guild~
+Leader       Solidus~
+NumberOne    Draga~
+NumberTwo    Angyle~
+PKillRangeNew   0 3 2 1 0 0 0
+PDeathRangeNew  0 0 0 1 0 0 2
+MKills       8473
+MDeaths      86
+IllegalPK    0
+Score        0
+Type         13
+Class        0
+Favour       0
+Strikes      0
+Members      11
+MemLimit     0
+Alignment    0
+Board        0
+ClanObjOne   0
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  0
+Recall       0
+Storeroom    0
+GuardOne     0
+GuardTwo     0
+End
+
+#END

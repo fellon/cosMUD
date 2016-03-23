@@ -1,0 +1,145 @@
+#PLAYER
+Version      3
+Name         Knid~
+Sex          1
+Class        6
+Race         0
+Languages    1 1
+Level        2
+Played       10642
+Room         10319
+HpManaMove   32 32 105 105 210 110
+Gold         8781
+Exp          6139
+Height          66
+Weight          156
+Act          570426968
+AffectedBy   524288
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -3
+Alignment    -916
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+Wimpy        4
+ICEListen ~
+Mentalstate  0
+Password     KnmYOLFdDXtR2~
+Title         the Strider~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       33
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 13 12 13 13 15 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 29 10
+Site         207.202.214.132
+Skill        18 'cook'
+Weapon       18 'short blades'
+Tongue       100 'common'
+AffectData   'fly' 165   0  26 524288
+AffectData   'bless' 151   3  18 0
+AffectData   'bless' 151  -3  24 0
+AffectData   'armor' 103 -20  17 0
+Killed       10325 3
+Killed       10344 3
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10316
+WearLoc      0
+Values       0 0 2 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Values       10 3 6 14 1 0
+End
+
+#END

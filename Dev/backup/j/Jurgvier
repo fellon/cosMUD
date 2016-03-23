@@ -1,0 +1,128 @@
+#PLAYER
+Version      3
+Name         Jurgvier~
+Description  ~
+Sex          1
+Class        23
+Race         5
+Languages    1 1
+Level        2
+Played       2822
+Room         10319
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   18 39 105 105 101 113
+Gold         3102
+Exp          9106
+Height          60
+Weight          165
+Act          570426968
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+ICEListen (null)~
+Resistant    256
+Mentalstate  -3
+Password     JuUCsN69z6VbQ~
+Title         the Mind Apprentice~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       5
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 13 15 15 11 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 5
+Site         172.174.124.76
+Spell        27 'cause light'
+Spell        19 'weaken'
+Skill        19 'clairvoyance'
+Tongue       100 'common'
+AffectData   'armor' 178 -20  17 0
+Killed       10301 1
+Killed       10303 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         112
+WearLoc      11
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#END

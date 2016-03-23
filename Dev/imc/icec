@@ -1,0 +1,9 @@
+Hub:IMCChat ichat 101
+[ichat] &c%s: &W%s&w
+[ichat] &W%s %s&w
+Hub:CodeChat cchat 101
+[cchat] &c%s: &W%s&w
+[cchat] &W%s %s&w
+Hub6:PlayerChat pchat 25
+[pchat] &c%s: &W%s&w
+[pchat] &W%s %s&w

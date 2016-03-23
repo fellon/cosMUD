@@ -1,0 +1,53 @@
+#PLAYER
+Version      3
+Name         Demorgon~
+Sex          1
+Class        0
+Race         10
+Languages    1 1
+Level        2
+Played       2567
+Room         21194
+HpManaMove   30 30 126 126 110 110
+Gold         301
+Exp          1573
+Height          77
+Weight          152
+Act          570426952
+AffectedBy   8
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -7
+Password     DetJZgOx4AT0I~
+Title         the Spell Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      2
+IllegalPK    0
+AttrPerm     13 16 13 15 12 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         62.46.182.48
+Spell        19 'black hand'
+Spell        30 'magic missile'
+Tongue       100 'common'
+Tongue       100 'gith'
+AffectData   'bless' 821   6  18 0
+AffectData   'bless' 821  -6  24 0
+AffectData   'armor' 197 -20  17 0
+Killed       10320 3
+End
+
+#END

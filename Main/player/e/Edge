@@ -1,0 +1,327 @@
+#PLAYER
+Version      3
+Name         Edge~
+Description  ~
+Sex          1
+Class        2
+Race         0
+Species      2
+Languages    1 1
+Level        25
+Played       34488
+Room         24853
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   264 322 100 100 527 412
+Gold         1227342
+Exp          12399092
+Height          67
+Weight          135
+Act          570426952
+Position     106
+Style     2
+Practice     75
+SavingThrows 0 0 0 0 0
+Alignment    -950
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        30
+ICEListen (null)~
+Resistant    2097152
+Mentalstate  0
+Password     EdXAZNCBizVhQ~
+Title         the Greater Assassin~
+Lastname ~
+AuthedBy     Andy~
+Prompt       <&Y%hhp &B%Hmx>~
+FPrompt	     <&Y%hhp &B%Hmx &g%c>~
+Deity	     Thirian~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       197
+MDeaths      5
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 12 13 16 13 12 13
+AttrMod      4 4 4 4 0 3 0
+Condition    0 12 7 10
+Site         166.90.235.107
+Skill        17 'aid'
+Skill        95 'backstab'
+Skill        17 'cook'
+Skill        17 'detrap'
+Skill        17 'disarm'
+Skill        50 'discern'
+Skill        85 'dual wield'
+Skill        17 'gouge'
+Skill        60 'headbutt'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        70 'knee'
+Skill        70 'parry'
+Skill        36 'pick lock'
+Skill        76 'scan'
+Skill        19 'search'
+Skill        90 'second attack'
+Skill        47 'sneak'
+Skill        69 'spinkick'
+Skill        17 'steal'
+Skill        19 'track'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+AffectData   'valiance' 421 2097152  27 0
+AffectData   'dragon wit' 764   4   3 0
+AffectData   'sagacity' 765   4   4 0
+AffectData   'elven beauty' 766   4  25 0
+AffectData   'slink' 769   4   2 0
+AffectData   'kindred strength' 1192   4   1 0
+AffectData   'armor' 300 -20  17 0
+AffectData   'shield' 1197 -20  17 0
+AffectData   'ogrish hide' 1201  -1  25 0
+AffectData   'ogrish hide' 1201 -30  17 0
+Killed       24816 3
+Killed       24817 4
+Killed       24837 6
+Killed       817 1
+Killed       24815 3
+Killed       24814 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         5001
+WearLoc      5
+Level        16
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        10
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      3
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         1508
+WearLoc      2
+Level        15
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+WearLoc      4
+Level        13
+Values       1 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         1511
+Level        11
+Values       150 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Count        3
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         15122
+Level        30
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   524804
+WearLoc      16
+Level        4
+Values       12 7 14 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         1537
+Level        9
+Values       20 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2106
+ExtraFlags   524804
+WearLoc      18
+Level        4
+Values       12 7 14 11 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 4 19 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+WearLoc      15
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2307
+Level        29
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#END

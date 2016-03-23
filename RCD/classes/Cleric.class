@@ -1,0 +1,509 @@
+Name        Cleric~
+Class       1
+Attrprime   4
+Alignment   0
+Weapon      10315
+Guild       3003
+Skilladept  95
+Thac0       18
+Thac32      12
+Hpmin       9
+Hpmax       16
+Mana        1
+Expbase     900
+Skill 'alertness' 23 92
+Skill 'antimagic shell' 42 70
+Skill 'aqua breath' 22 95
+Skill 'armor' 1 95
+Skill 'benediction' 19 95
+Skill 'bless' 5 95
+Skill 'blindness' 5 95
+Skill 'blur' 70 95
+Skill 'call lightning' 12 80
+Skill 'cancelation' 16 95
+Skill 'cause critical' 9 95
+Skill 'cause light' 1 95
+Skill 'cause serious' 5 95
+Skill 'charged beacon' 28 95
+Skill 'continual light' 2 95
+Skill 'control weather' 13 95
+Skill 'create food' 3 95
+Skill 'create symbol' 10 95
+Skill 'create water' 2 95
+Skill 'cure blindness' 4 95
+Skill 'cure critical' 9 95
+Skill 'cure light' 1 95
+Skill 'cure poison' 9 90
+Skill 'cure serious' 5 95
+Skill 'curse' 12 95
+Skill 'detect evil' 4 95
+Skill 'detect hidden' 7 95
+Skill 'detect invis' 5 95
+Skill 'detect magic' 3 95
+Skill 'detect poison' 5 95
+Skill 'detect traps' 7 75
+Skill 'dispel evil' 10 95
+Skill 'dispel magic' 48 95
+Skill 'divine intervention' 50 95
+Skill 'divinity' 60 95
+Skill 'dream' 22 95
+Skill 'earthquake' 7 95
+Skill 'ethereal funnel' 50 95
+Skill 'faerie fire' 2 95
+Skill 'faerie fog' 14 95
+Skill 'fatigue' 23 92
+Skill 'feather fall' 62 95
+Skill 'fireshield' 28 95
+Skill 'flamestrike' 13 95
+Skill 'flight' 12 95
+Skill 'float' 8 95
+Skill 'fortify' 15 95
+Skill 'grounding' 28 95
+Skill 'harm' 15 95
+Skill 'heal' 14 95
+Skill 'holy armor' 64 95
+Skill 'holy sanctity' 88 95
+Skill 'holy strength' 84 95
+Skill 'identify' 10 95
+Skill 'indignation' 27 95
+Skill 'infravision' 9 80
+Skill 'knock' 44 70
+Skill 'know alignment' 5 95
+Skill 'lethargy' 12 95
+Skill 'life force' 50 95
+Skill 'locate object' 10 95
+Skill 'major invocation' 18 95
+Skill 'mass invis' 17 95
+Skill 'midas touch' 21 95
+Skill 'minor invocation' 10 95
+Skill 'necromantic touch' 50 95
+Skill 'poison' 8 95
+Skill 'protection' 6 95
+Skill 'recharge' 44 65
+Skill 'refresh' 3 95
+Skill 'remove curse' 12 95
+Skill 'remove trap' 15 70
+Skill 'resilience' 40 95
+Skill 'restoration' 30 95
+Skill 'sagacity' 73 95
+Skill 'sanctuary' 15 95
+Skill 'scry' 21 95
+Skill 'shockshield' 35 95
+Skill 'solar flight' 39 80
+Skill 'spiritual wrath' 48 95
+Skill 'summon' 8 95
+Skill 'transport' 25 95
+Skill 'true sight' 38 95
+Skill 'unravel defense' 33 95
+Skill 'uplift' 37 95
+Skill 'visitation' 80 95
+Skill 'vitalize' 78 95
+Skill 'word of recall' 8 95
+Skill 'aid' 4 95
+Skill 'brew' 40 70
+Skill 'cleanse' 70 95
+Skill 'climb' 2 95
+Skill 'clover' 2 95
+Skill 'cook' 1 95
+Skill 'cuff' 15 80
+Skill 'dig' 2 85
+Skill 'dodge' 2 50
+Skill 'drowfire' 2 95
+Skill 'dual wield' 2 30
+Skill 'dust' 2 95
+Skill 'feed' 1 95
+Skill 'fifth attack' 82 95
+Skill 'fifth cast' 66 95
+Skill 'fly' 2 95
+Skill 'forestwalk' 2 95
+Skill 'fourth attack' 75 30
+Skill 'fourth cast' 30 95
+Skill 'jump' 2 20
+Skill 'kick' 2 20
+Skill 'lore' 2 75
+Skill 'meditate' 14 95
+Skill 'mount' 2 95
+Skill 'peek' 2 30
+Skill 'pinch' 67 95
+Skill 'punch' 2 20
+Skill 'rescue' 33 20
+Skill 'ruminate' 66 95
+Skill 'scan' 2 95
+Skill 'scribe' 48 60
+Skill 'search' 2 95
+Skill 'second attack' 15 50
+Skill 'second cast' 15 95
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 65 40
+Skill 'third cast' 23 95
+Skill 'trance' 45 95
+Skill 'bludgeons' 1 95
+Skill 'flexible arms' 1 60
+Skill 'long blades' 1 95
+Skill 'pugilism' 1 50
+Skill 'short blades' 1 60
+Skill 'talonous arms' 1 50
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Skill 'orcish' 1 99
+Skill 'pixie' 1 99
+Skill 'trollese' 1 99
+Title
+Man~
+Woman~
+Title
+Acolyte Cleric~
+Acolyte Cleric~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Layman Brother~
+Layman Sister~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Missionary~
+Missionary~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Deacon~
+Nun~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Priest~
+Priestess~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Patriarch~
+Matriach~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Cardinal~
+Cardinal~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Bishop~
+Bishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+Archbishop~
+Archbishop~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+High Priest~
+High Priestess~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

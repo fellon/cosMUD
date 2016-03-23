@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Ghal~
+Description  ~
+Sex          1
+Class        17
+Race         20
+Languages    1 1
+Level        6
+Played       11580
+Room         10319
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   44 137 182 182 165 165
+Gold         102814
+Exp          151465
+Height          96
+Weight          765
+Act          536872536
+AffectedBy   512
+Position     104
+Style     2
+Practice     7
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       -66
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  -8
+Password     Ghdd6hLnR6/CU~
+Title         the Page~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Tyr~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       107
+MDeaths      4
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     18 15 15 11 16 11 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 16
+Site         65.34.74.41
+Skill        90 'dual wield'
+Skill        60 'kick'
+Skill        18 'scan'
+Skill        18 'search'
+Skill        18 'track'
+Weapon       18 'bludgeons'
+Weapon       18 'long blades'
+Weapon       40 'short blades'
+Tongue       100 'common'
+AffectData   'armor' 215 -20  17 0
+AffectData   'bless' 598   3  18 0
+AffectData   'bless' 598  -3  24 0
+Killed       10302 2
+Killed       10314 4
+i3invis	0
+End
+
+#END

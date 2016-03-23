@@ -1,0 +1,260 @@
+#PLAYER
+Version      3
+Name         Zherrin~
+Description  ~
+Sex          1
+Class        23
+Race         11
+Species      0
+Languages    1 1
+Level        12
+Played       92578
+Room         1542
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   146 146 376 364 243 243
+Gold         180295
+Exp          1917272
+Height          59
+Weight          100
+Act          570426952
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        8
+ICEListen (null)~
+Resistant    256
+Mentalstate  0
+Password     Zh.bCKHh3qdJk~
+Title         the Psi Student~
+Lastname  Na'Skai~
+AuthedBy     Fellon~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       347
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 18 14 15 11 11 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 16 7 16
+Site         207.202.214.131
+Spell        65 'armor'
+Spell        66 'blindness'
+Spell        95 'cause light'
+Spell        95 'cause serious'
+Spell        19 'continual light'
+Spell        95 'cure light'
+Spell        19 'curse'
+Spell        19 'detect invis'
+Spell        19 'detect magic'
+Spell        95 'disruption'
+Spell        27 'dragon wit'
+Spell        37 'elven beauty'
+Spell        19 'enchant weapon'
+Spell        88 'faerie fire'
+Spell        19 'faerie fog'
+Spell        45 'float'
+Spell        95 'invis'
+Spell        19 'locate object'
+Spell        24 'remove invis'
+Spell        26 'sagacity'
+Spell        59 'slink'
+Spell        36 'teleport'
+Spell        95 'ventriloquate'
+Spell        95 'weaken'
+Skill        51 'clairvoyance'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Weapon       19 'pugilism'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       1508 2
+Killed       1503 1
+Killed       1531 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2436
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2410
+Level        4
+Values       10 3 3 95 0 0
+Spell 3      'faerie fire'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        2
+Values       10 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        1
+Values       10 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        7
+Values       19 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         1537
+Level        10
+Values       21 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2073
+WearLoc      1
+Level        4
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2409
+WearLoc      5
+Level        4
+Values       6 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+WearLoc      8
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      2
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        11
+Values       6 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21072
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#END

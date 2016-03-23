@@ -1,0 +1,120 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         1537
+Room         393222
+Level        9
+Values       19 22 58 175 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         46902
+Room         393222
+Level        71
+Values       12 19 59 8 0 0
+End
+
+#OBJECT
+Vnum         21008
+Room         393222
+Values       5 3 1 0 0 0
+End
+
+#OBJECT
+Vnum         1502
+Room         393222
+Level        5
+Values       12 2 8 7 0 0
+End
+
+#OBJECT
+Vnum         21065
+Room         393222
+Level        12
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Name         flask potion pass door~
+ShortDescr   a pass door potion~
+Description  A strange potion labelled 'pass door' sizzles in a glass flask.~
+Vnum         35
+Room         393222
+Level        3
+Values       60 161 -1 -1 0 0
+Spell 1      'pass door'
+End
+
+#OBJECT
+Vnum         21081
+Room         393222
+Level        10
+Values       12 3 12 11 0 0
+End
+
+#OBJECT
+Vnum         1541
+Room         393222
+Level        8
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         15145
+Room         393222
+Level        28
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         2102
+Room         393222
+Level        8
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6507
+Room         393222
+Level        1
+Values       0 0 100 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Room         393222
+ExtraFlags   524800
+Level        8
+Values       12 4 13 3 0 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Vnum         644
+Room         393222
+Level        29
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         647
+Room         393222
+Level        30
+Values       12 5 30 1 0 0
+End
+
+#OBJECT
+Vnum         42924
+Room         393222
+Level        25
+Values       8 8 0 0 0 0
+End
+
+#END

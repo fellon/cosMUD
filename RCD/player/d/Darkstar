@@ -1,0 +1,63 @@
+#PLAYER
+Version      3
+Name         Darkstar~
+Description  ~
+Sex          2
+Class        25
+Race         0
+Species      2
+Languages    1 1
+Level        3
+Played       22080
+Room         10315
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   46 46 112 112 126 126
+Gold         474
+Exp          11127
+Height          69
+Weight          153
+Act          570426968
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        6
+ICEListen (null)~
+Mentalstate  -94
+Password     Daf6F/uimjht6~
+Title         the Mind Apprentice~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       10
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 14 13 14 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 12
+Site         (Link-Dead)
+Spell        19 'detect magic'
+Skill        20 'kick'
+Weapon       19 'long blades'
+Weapon       19 'pugilism'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Killed       10345 1
+Killed       21055 1
+i3invis	0
+End
+
+#END

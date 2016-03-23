@@ -1,0 +1,163 @@
+#PLAYER
+Version      3
+Name         Trytop~
+Description  ~
+Sex          1
+Class        17
+Race         5
+Species      0
+Languages    524289 1
+Level        38
+Played       332194
+Room         25526
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   67 937 431 331 560 581
+Gold         939414
+Exp          59492941
+Height          51
+Weight          150
+Act          536872520
+AffectedBy   524800
+Position     112
+Style     2
+Practice     58
+SavingThrows 0 0 0 0 -6
+Alignment    -3
+Favor	       -1837
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen (null)~
+Resistant    256
+Mentalstate  -7
+Password     Trjiui1ItwnxY~
+Title         the Knight~
+Lastname  Fangless~
+Bio          Trytop has eaten his bio.
+~
+AuthedBy     Fairburn~
+Deity	     Aoskar~
+Clan         Vampire~
+Flags        98304
+PKills       2
+PDeaths      0
+MKills       2208
+MDeaths      30
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     17 11 14 17 14 10 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 5
+Site         217.39.228.7
+Spell        23 'aqua breath'
+Spell        85 'armor'
+Spell        80 'bless'
+Spell        85 'charm person'
+Spell        18 'continual light'
+Spell        18 'control weather'
+Spell        41 'create fire'
+Spell        41 'create food'
+Spell        54 'create spring'
+Spell        76 'create water'
+Spell        35 'cure blindness'
+Spell        85 'cure critical'
+Spell        85 'cure light'
+Spell        44 'cure poison'
+Spell        26 'detect evil'
+Spell        18 'detect invis'
+Spell        18 'detect magic'
+Spell        18 'detect poison'
+Spell        18 'dream'
+Spell        90 'faerie fire'
+Spell        75 'identify'
+Spell        35 'infravision'
+Spell        37 'invis'
+Spell        90 'kindred strength'
+Spell        85 'poison'
+Spell        27 'refresh'
+Spell        18 'remove invis'
+Spell        90 'shield'
+Spell        95 'word of recall'
+Skill        29 'aid'
+Skill        18 'cook'
+Skill        95 'cuff'
+Skill        90 'disarm'
+Skill        90 'dual wield'
+Skill        80 'elbow'
+Skill        95 'enhanced damage'
+Skill        18 'grip'
+Skill        39 'hide'
+Skill        60 'kick'
+Skill        95 'parry'
+Skill        28 'pick lock'
+Skill        18 'rescue'
+Skill        90 'scan'
+Skill        31 'search'
+Skill        90 'second attack'
+Skill        43 'shoulder'
+Skill        31 'sneak'
+Skill        90 'third attack'
+Skill        21 'track'
+Weapon       80 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       100 'long blades'
+Weapon       90 'pugilism'
+Weapon       40 'short blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+Tongue       8 'gith'
+AffectData   'bless' 927  -6  24 0
+AffectData   'bless' 927   6  18 0
+AffectData   'flight' 2254   0  26 524288
+Killed       24841 1
+Killed       24842 1
+Killed       10300 12
+Killed       10301 8
+Killed       10303 11
+Killed       10302 13
+Killed       24837 1
+Killed       1533 3
+Killed       1537 1
+Killed       1536 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#ALIAS
+Name     a~
+Commands take 10 undead; put 10 undead extra~
+End
+
+#ALIAS
+Name     /a~
+Commands take 10 undead; put 10 undead extra~
+End
+
+#ALIAS
+Name     fud~
+Commands take 10 undead ; put 10 undead extra~
+End
+
+#MOBILE
+Vnum	21056
+Room	8908
+Description The hawk returns your stare with unfeeling eyes.  Its beak and talons
+appear as though they could rend even the toughest of flesh.
+A neck tag says 'I belong to Trytop'.
+~
+Position 12
+Flags 259
+EndMobile
+
+#END

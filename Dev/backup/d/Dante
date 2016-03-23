@@ -1,0 +1,118 @@
+#PLAYER
+Version      3
+Name         Dante~
+Description  ~
+Sex          1
+Class        10
+Race         52
+Species      10
+Languages    1 1
+Level        35
+Played       51006
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   510 615 272 272 542 542
+Gold         997293
+Exp          35506705
+Height          64
+Weight          137
+Act          570426984&4
+Position     104
+Style     2
+Practice     21
+SavingThrows 0 0 0 0 -6
+Alignment    1000
+Favor	       744
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen (null)~
+Mentalstate  0
+Password     DaPrNIu0ru3QM~
+Title         the Lesser Devil~
+Lastname 's Inferno~
+AuthedBy     Fellon~
+Deity	     Shaundakul~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       123
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     14 14 13 13 14 13 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 8 8 39
+Site         24.96.17.166
+Spell        19 'alertness'
+Spell        51 'armor'
+Spell        38 'blazeward'
+Spell        22 'blindness'
+Spell        83 'burning hands'
+Spell        19 'cancelation'
+Spell        19 'curse'
+Spell        64 'demonskin'
+Spell        19 'detect magic'
+Spell        53 'devils might'
+Spell        19 'dispel magic'
+Spell        19 'enchant weapon'
+Spell        19 'energy drain'
+Spell        22 'faerie fire'
+Spell        19 'farsight'
+Spell        76 'fireball'
+Spell        51 'hand of chaos'
+Spell        25 'harm'
+Spell        19 'locate object'
+Spell        27 'magic missile'
+Spell        19 'pass door'
+Spell        22 'poison'
+Spell        19 'scry'
+Spell        52 'shield'
+Spell        19 'sleep'
+Spell        36 'stone skin'
+Spell        19 'transport'
+Spell        19 'true sight'
+Spell        23 'weaken'
+Spell        39 'word of recall'
+Skill        19 'bloodlet'
+Skill        19 'disarm'
+Skill        90 'dual wield'
+Skill        100 'enhanced damage'
+Skill        23 'grip'
+Skill        95 'hide'
+Skill        50 'kick'
+Skill        70 'parry'
+Skill        95 'scan'
+Skill        19 'search'
+Skill        95 'second attack'
+Skill        19 'sneak'
+Skill        90 'third attack'
+Skill        19 'track'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       60 'long blades'
+Weapon       19 'pugilism'
+Weapon       90 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 457 -20  17 0
+AffectData   'bless' 1108  -6  24 0
+AffectData   'bless' 1108   6  18 0
+Killed       6101 1
+Killed       6100 1
+Killed       41409 1
+Killed       41431 1
+Killed       41411 1
+Killed       41434 3
+Killed       41435 2
+Killed       41415 3
+Killed       41426 1
+i3invis	0
+End
+
+#END

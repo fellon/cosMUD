@@ -1,0 +1,69 @@
+#PLAYER
+Version      3
+Name         Lucius~
+Description  ~
+Sex          1
+Class        0
+Race         10
+Species      0
+Languages    1 1
+Level        3
+Played       13031
+Room         2172
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   27 43 132 132 210 126
+Gold         10021
+Exp          23462
+Height          65
+Weight          147
+Act          570426952
+AffectedBy   8
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen (null)~
+Mentalstate  -8
+Password     Lu2mOLyMRFERM~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Prage~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       28
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 17 13 15 9 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 13
+Site         207.202.214.136
+Spell        19 'detect magic'
+Spell        63 'magic missile'
+Spell        19 'ventriloquate'
+Weapon       19 'short blades'
+Tongue       100 'common'
+Tongue       100 'gith'
+Killed       10300 1
+Killed       10302 1
+i3invis	0
+End
+
+#ALIAS
+Name     sc~
+Commands sac corpse~
+End
+
+#END

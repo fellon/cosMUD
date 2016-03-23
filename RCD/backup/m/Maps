@@ -1,0 +1,155 @@
+#PLAYER
+Version      3
+Name         Maps~
+Description  ~
+Sex          1
+Class        2
+Race         0
+Languages    1 1
+Level        12
+Played       79143
+Room         2172
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   128 148 120 100 231 231
+Gold         130203
+Exp          1156415
+Height          59
+Weight          151
+Act          637536072
+Position     112
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    -105
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     WaHWfZ0l5DG2c~
+Title         the Magsman~
+Lastname  the falcon~
+Bio          he is a cold blooded thief whose first objective is to become the best
+:)
+:)
+:(
+:]
+:[
+~
+FPrompt	     (%h/%H -%v/%V )( %S-%e)~
+Deity	     Thirian~
+Clan         Guild of Thieves~
+Flags        65536
+PKills       0
+PDeaths      0
+MKills       500
+MDeaths      6
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    1
+AttrPerm     14 14 13 15 14 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 5 5 21
+Site         207.202.214.132
+Skill        95 'backstab'
+Skill        17 'cook'
+Skill        25 'disarm'
+Skill        94 'discern'
+Skill        100 'dodge'
+Skill        85 'dual wield'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        34 'pick lock'
+Skill        90 'scan'
+Skill        84 'search'
+Skill        90 'second attack'
+Skill        59 'sneak'
+Skill        28 'steal'
+Weapon       40 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       85 'pugilism'
+Weapon       100 'short blades'
+Tongue       100 'common'
+Killed       2421 1
+Killed       2407 1
+Killed       2102 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21069
+WearLoc      16
+Level        10
+Values       10 4 13 3 0 0
+End
+
+#OBJECT
+Vnum         21058
+WearLoc      5
+Level        11
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+WearLoc      7
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21081
+Level        13
+Values       12 7 16 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         21005
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         21005
+Level        1
+Values       2 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         21007
+Level        5
+Values       5 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#END

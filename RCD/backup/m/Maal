@@ -1,0 +1,567 @@
+#PLAYER
+Version      3
+Name         Maal~
+Description  ~
+Sex          1
+Class        16
+Race         8
+Species      0
+Languages    1 1
+Level        12
+Played       32912
+Room         21074
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   288 273 203 178 243 243
+Gold         160854
+Exp          1730853
+Height          126
+Weight          562
+Act          536872536
+AffectedBy   512
+Position     112
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 -6
+Alignment    580
+Favor	       1532
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Ma6rgOGs.l5H6~
+Title         the Enchanter~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Aoskar~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       252
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     18 14 11 11 15 9 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 25 8 10
+Site         63.169.107.252
+Spell        19 'armor'
+Spell        95 'burning hands'
+Spell        19 'detect magic'
+Spell        19 'invis'
+Skill        90 'dual wield'
+Skill        19 'hide'
+Skill        95 'kick'
+Skill        22 'lunge'
+Skill        95 'parry'
+Skill        19 'rescue'
+Skill        74 'scan'
+Skill        19 'search'
+Skill        95 'second attack'
+Skill        19 'steal'
+Weapon       91 'long blades'
+Weapon       75 'short blades'
+Tongue       100 'common'
+Tongue       100 'trollese'
+AffectData   'bless' 302   6  18 0
+AffectData   'bless' 302  -6  24 0
+Killed       7044 1
+Killed       3605 2
+Killed       3604 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21072
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60963
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2102
+Level        6
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1542
+Level        10
+Values       16 58 58 138 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Nest         1
+Vnum         1543
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60964
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60965
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60961
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60959
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60960
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60962
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60950
+Values       64 56 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3606
+Level        3
+Values       6 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         3606
+Level        2
+Values       5 58 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Count        5
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+WearLoc      2
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+WearLoc      8
+Level        10
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        8
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+WearLoc      20
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2433
+WearLoc      3
+Level        3
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2429
+WearLoc      5
+Level        6
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         601
+WearLoc      16
+Level        8
+Values       12 2 8 3 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      18
+Level        3
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         21080
+WearLoc      9
+Level        11
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        4
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1539
+Level        3
+Values       16 2 2 206 0 0
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        3
+Values       9 58 10 175 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2073
+Level        4
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        9
+Values       10 4 10 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21069
+Level        9
+Values       10 3 14 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        8
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         9830
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9833
+Level        11
+Values       12 4 13 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9830
+Level        11
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9830
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9833
+Level        11
+Values       12 5 15 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9832
+Level        12
+Values       12 4 13 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2002020
+Level        3
+Values       12 1 8 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5020
+Level        16
+Values       31 11 11 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         5019
+Level        16
+Values       27 122 176 -1 0 0
+Spell 1      'heal'
+Spell 2      'remove curse'
+End
+
+#OBJECT
+Nest         1
+Vnum         2071
+Level        7
+Values       12 4 11 5 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         5000
+Level        2
+Values       12 1 9 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60868
+Level        11
+Values       12 1 6 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         60870
+Level        14
+Values       12 1 8 11 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44702
+Level        8
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44702
+Level        5
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44701
+Level        6
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         44700
+Level        5
+Values       4 4 4 2 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44701
+Level        5
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44702
+Level        6
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44703
+Level        6
+Values       3 3 3 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 6 0 0 0 0
+End
+
+#END

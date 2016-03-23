@@ -1,0 +1,756 @@
+#AREA   Roc Road~
+
+
+
+#VERSION 1
+#AUTHOR Fellon~
+
+#RANGES
+0 65 0 116
+$
+
+#RESETMSG You can hear the wind blowing quietly along the hills~
+
+#FLAGS
+0 10
+
+#ECONOMY 0 51200000
+
+#CLIMATE 1 1 2
+
+#MOBILES
+#2002001
+Traveler~
+a weary traveler~
+A young man travels along Roc Road.
+~
+A short man who appears as if he has been traveling for days.~
+65 0 0 C
+5 17 20 1d2+2 1d3+2
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 3 0 0 1 1 1
+0 0 0 0 0 0 0 0
+#2002020
+Maid~
+a young maid~
+A young maid traveling the Roc Road
+~
+A young lady who looks fresh from the inn.~
+65 0 300 C
+5 16 10 2d5+1 2d4+1
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#2002001
+walking stick~
+a walking stick~
+A stout walking stick~
+~
+5 0 8193
+12 1 6 7
+2 10 1
+#2002020
+short sword~
+a small sword~
+Despite its size it still looks rather servicable~
+~
+5 0 8193
+12 1 8 11
+3 45 4
+#0
+
+
+#ROOMS
+#2002001
+The start of Roc Road~
+Roc road is one of the main byways of the world of Seldeon.
+From hear you think you could travel to some of the far eastern
+lands.
+
+~
+0 0 3
+D0
+~
+~
+0 -1 3502
+D2
+~
+~
+0 0 2002002
+S
+#2002002
+A bend in the road~
+The rock road has to bend a bit in order to go around the sacred grove of
+Darkhaven...
+
+~
+0 0 3
+D0
+~
+~
+0 0 2002001
+D1
+~
+~
+0 -1 2002003
+D2
+~
+~
+0 -1 5261
+S
+#2002003
+Traveling the Roc Road~
+You follow the Roc road.
+
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 2002004
+D3
+~
+~
+0 -1 2002002
+S
+#2002004
+Traveling the Roc Road~
+You continue traveling along the Roc road.
+
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 2002020
+D3
+~
+~
+0 -1 2002003
+S
+#2002005
+Traveling the Roc Road~
+The forest seems to shring back as you head into what appears to be small
+foot hills on both sides of the road.
+
+~
+0 1073741824 0
+D1
+~
+~
+0 -1 2002006
+D3
+~
+~
+0 -1 2002020
+S
+#2002006
+Traveling the Roc Road~
+The foot hills begin to rise up...
+Along the northern skyline you can see &wsnow covered&O mountains.
+
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 2002007
+D3
+~
+~
+0 -1 2002005
+S
+#2002007
+Traveling the Roc Road~
+As you travel on the elevation continues to climb slightly...
+You feel as if you are climbing throught a mountain pass, but the mountains 
+are too far away to tell..
+
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 2002008
+D3
+~
+~
+0 -1 2002006
+S
+#2002008
+Traveling the Roc Road~
+As the small hills along side you taper down you can make out the sheer walls
+of the mountains on both sides of you... How you missed them before you
+can't tell. You can see the only break between the mountains is ahead of you.
+
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 2002009
+D2
+~
+~
+0 -1 2002100
+D3
+~
+~
+0 -1 2002007
+S
+#2002009
+Traveling the Roc Road~
+You now stand before the great pass of Mount Sedune.
+The sheer walls of the mountain block out a good portion of the suns
+rays.
+
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 2002010
+D3
+~
+~
+0 -1 2002008
+S
+#2002010
+Traveling through the pass~
+This is the great Roc Pass through Mount Sedune.
+Many caravans come through here from the great East.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002011
+D3
+~
+~
+0 -1 2002009
+S
+#2002011
+A small fissure along the road~
+The well traveled road goes on to the East and to the West, but a small path
+leads north into what appears to be a fissure in the mountain side. As you look
+through the strained sunlight you can see what appears to be a path leading
+further into the mountain.
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002026
+D1
+~
+~
+0 -1 2002012
+D3
+~
+~
+0 -1 2002010
+S
+#2002012
+Traveling through the pass~
+As you travel along you notice how oppressive the rock walls really are.
+Sound does not travel very far here. All you can feel is the light touch of
+the slight brezze that whispers through here.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002013
+D3
+~
+~
+0 -1 2002011
+S
+#2002013
+Traveling through the pass~
+A few scattered bushes grow along the side of the road. The walls are getting
+a little rocky. Must be where the name came from.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002014
+D3
+~
+~
+0 -1 2002012
+S
+#2002014
+Traveling through the pass~
+A few large rocks are laying off to the side of the road. You wonder slightly
+if they had some help in getting down here from the hieghts.
+A group of evil individuals would make good money along this route.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002015
+D3
+~
+~
+0 -1 2002013
+S
+#2002015
+Traveling through the pass~
+The walls of the mountain pass seems to come down close to to the trail.
+Have you reached a point near the summit of the Sedune mountains?
+Or is this just a break along the way. For now you can enjoy the view along
+the mountain pass.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002016
+D3
+~
+~
+0 -1 2002014
+S
+#2002016
+The half point~
+The ruts of wagons can be seen traveling into a copse of trees just a bit to
+the north. It appears to be a break in the rocks where the sun can shine throug
+A real miracle of nature.
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002025
+D1
+~
+~
+0 -1 2002017
+D3
+~
+~
+0 -1 2002015
+S
+#2002017
+Traveling through the pass~
+The rocy mountian walls rise sharply again to the sky. Your view is obstructed.
+But you can at least hope that this passage will soon end.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002018
+D3
+~
+~
+0 -1 2002016
+S
+#2002018
+Traveling through the pass~
+a few small bushes grow along the mountain walls here.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002019
+D3
+~
+~
+0 -1 2002017
+S
+#2002019
+Traveling through the pass~
+You can se some small strema of light across the wall of the mountain.
+It reminds you of the hidden stripes of a tiger.
+Wonder why that connected?
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002021
+D3
+~
+~
+0 -1 2002018
+S
+#2002020
+Another section of the road~
+Roc road seems to continue on and on...
+
+~
+0 0 2
+D1
+~
+~
+0 -1 2002005
+D3
+~
+~
+0 -1 2002004
+S
+#2002021
+Traveling through the pass~
+You can see the mountain walls towering over you..  It seems that they
+are not so high up.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002022
+D3
+~
+~
+0 -1 2002019
+S
+#2002022
+Traveling through the pass~
+The large mountain wals give way to rolling hills around you. You have traveled
+a long way to be here..
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002023
+D3
+~
+~
+0 -1 2002021
+S
+#2002023
+Outside the pass.~
+As you stroll along the Roc Road you notice the small mountian flowers growing
+along the side of the road. They are beautiful this time of year..
+Snapdragons, you belive they are called.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002024
+D3
+~
+~
+0 -1 2002022
+S
+#2002024
+Into the valley~
+The mountain flowers have slowly diminished, giving way to dry 
+desert shrubs. A light breeze is blowing some dusty sand around.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 42900
+D3
+~
+~
+0 -1 2002023
+D6
+~
+~
+0 -1 5025
+S
+#2002025
+a small wooded cove~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 2002016
+> speech_prog p Take me to the end of time~
+mpechoat $r A slow seeping mist slowly enfolds oyu in its embrace.
+mpechoat $r as it receeds from about you, things are not as they where.
+mptransfer $r 24500
+~
+|
+S
+#2002026
+Into a small tunnel~
+This would appear to be a path that leads into a small cave. Where does it go?
+Are you brave enough to enter and find out?
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002027
+D2
+~
+~
+0 -1 2002011
+S
+#2002027
+In the tunnel~
+You are now inside of a creepy tunnel.
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002028
+D2
+~
+~
+0 -1 2002026
+S
+#2002028
+A turn in the tunnel~
+Guess what? You are still inside of a creepy tunnel.
+
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 2002027
+D3
+~
+~
+0 -1 2002029
+S
+#2002029
+Still in the tunnel.~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002028
+D3
+~
+~
+0 -1 2002030
+S
+#2002030
+Still in the tunnel.~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002029
+D3
+~
+~
+0 -1 2002031
+S
+#2002031
+Still in the tunnel~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002030
+D3
+~
+~
+0 -1 2002032
+S
+#2002032
+A turn in the tunnel~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002033
+D1
+~
+~
+0 -1 2002031
+S
+#2002033
+Still in the tunnel~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002034
+D2
+~
+~
+0 -1 2002032
+S
+#2002034
+A turn in the tunnel~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002035
+D2
+~
+~
+0 -1 2002033
+S
+#2002035
+Still in the tunnel~
+Inside a creepy tunnel
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002036
+D3
+~
+~
+0 -1 2002034
+S
+#2002036
+The open air~
+You stand in the open air before the mountain tunnel.
+Dark and creepy on the outside, it makes you feel good to know that you
+are on the outside.
+
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 2002037
+D3
+~
+~
+0 -1 2002035
+S
+#2002037
+A turn in the path~
+As you leave the shadowy path of the mountain tunnel behind you, the
+path broadens and makes a sharp turn to the north. What you see
+next is amazing.
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002038
+D3
+~
+~
+0 -1 2002036
+S
+#2002038
+A peaceful path~
+You are walking along a path from the mountain tunnel.
+Green grass grows along the sides and appears to be neatly trimmed.
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002039
+D2
+~
+~
+0 -1 2002037
+S
+#2002039
+A peaceful path~
+You are walking along a path from the mountain tunnel.
+Green grass grows along the sides and appears to be neatly trimmed.
+
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 2002040
+D2
+~
+~
+0 -1 2002038
+S
+#2002040
+The entrance to the inner valley~
+The walls along the path spread away before you. The first thing you notice
+is the large wall of granite silhouetting the small fenced in pavillion
+of a mid eastern style building.
+You can see several types of flowers and shrubs growing along the fence.
+It all seems so peaceful and serene.
+
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 2002039
+S
+#0
+
+
+#RESETS
+M 1 2002020 1 2002020
+E 1 2002020 1 16
+M 1 2002001 1 2002001
+E 1 2002001 1 16
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

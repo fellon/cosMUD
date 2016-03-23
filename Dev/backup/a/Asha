@@ -1,0 +1,80 @@
+#PLAYER
+Version      3
+Name         Asha~
+Description  ~
+Sex          1
+Class        12
+Race         22
+Languages    1 1
+Level        10
+Played       37863
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   151 151 148 148 217 217
+Gold         152812
+Exp          604645
+Height          57
+Weight          114
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       2303
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        30
+ICEListen (null)~
+Mentalstate  -11
+Password     AsEZiGDCsrzGM~
+Title         the Tiger's Paw~
+Lastname  kin~
+AuthedBy     Arbadus~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       286
+MDeaths      3
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 12 16 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 18
+Site         207.202.214.132
+Spell        95 'armor'
+Spell        95 'blindness'
+Spell        27 'create spring'
+Spell        30 'cure blindness'
+Spell        95 'cure light'
+Spell        75 'detect invis'
+Spell        78 'detect magic'
+Spell        95 'earthquake'
+Spell        91 'elven beauty'
+Spell        95 'faerie fire'
+Spell        48 'flight'
+Spell        39 'invis'
+Spell        27 'know alignment'
+Spell        86 'word of recall'
+Skill        30 'dual wield'
+Skill        80 'enhanced damage'
+Weapon       38 'long blades'
+Weapon       30 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 833  -6  24 0
+AffectData   'bless' 833   6  18 0
+Killed       10397 4
+Killed       10396 5
+Killed       21055 1
+i3invis	0
+End
+
+#END

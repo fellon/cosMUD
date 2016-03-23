@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Gnillot~
+Sex          1
+Class        5
+Race         1
+Languages    1 1
+Level        2
+Played       1952
+Room         21194
+HpManaMove   27 27 114 114 110 110
+Gold         0
+Exp          2000
+Height          69
+Weight          113
+Act          637535816
+AffectedBy   16
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -4
+Password     GnHcg1SuIFDcc~
+Title         the Attendant~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 13 15 16 13 14 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 864   6  18 0
+AffectData   'bless' 864  -6  24 0
+AffectData   'armor' 218 -20  17 0
+End
+
+#END

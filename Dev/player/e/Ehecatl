@@ -1,0 +1,195 @@
+#PLAYER
+Version      3
+Name         Ehecatl~
+Sex          1
+Class        2
+Race         14
+Languages    1 1
+Level        5
+Played       17461
+Room         10303
+HpManaMove   61 61 118 118 140 140
+Gold         42696
+Exp          66818
+Height          43
+Weight          121
+Act          570426952
+AffectedBy   528
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        12
+ICEListen ~
+Resistant    8
+Susceptible  1
+Mentalstate  0
+Password     Ehya6NTXvF4.c~
+Title         the Sneak~
+Prompt       hp:%h/%H~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       102
+MDeaths      1
+IllegalPK    0
+AttrPerm     10 16 14 16 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 14 4 15
+Site         207.202.214.132
+Skill        60 'backstab'
+Skill        17 'climb'
+Skill        95 'dodge'
+Skill        85 'hide'
+Skill        17 'mount'
+Skill        17 'peek'
+Skill        17 'pick lock'
+Skill        19 'search'
+Skill        94 'sneak'
+Skill        17 'standard style'
+Skill        30 'steal'
+Weapon       17 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 500   6  18 0
+AffectData   'bless' 500  -6  24 0
+Killed       10396 14
+Killed       10301 2
+Killed       10303 1
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         10322
+Level        1
+Values       75 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10331
+Level        1
+Values       11 127 42 166 0 0
+Spell 1      'remove curse'
+Spell 2      'cure poison'
+Spell 3      'word of recall'
+End
+
+#OBJECT
+Nest         1
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       20 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10330
+Level        1
+Values       19 41 43 126 0 0
+Spell 1      'cure light'
+Spell 2      'cure serious'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10314
+Values       15 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2101
+WearLoc      5
+Level        3
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         2427
+WearLoc      4
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#END

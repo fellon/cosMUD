@@ -1,0 +1,75 @@
+#PLAYER
+Version      3
+Name         Goaty~
+Description  ~
+Sex          1
+Class        0
+Race         23
+Species      0
+Languages    1 1
+Level        8
+Played       82477
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   72 72 175 175 191 191
+Gold         45204
+Exp          459569
+Height          62
+Weight          70
+Act          570558040
+AffectedBy   1048576
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    46
+Favor	       702
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  -100
+Password     GofLRA4Y94Itc~
+Title        ~
+Lastname  The Ram~
+AuthedBy     Arbadus~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      1
+MKills       168
+MDeaths      27
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     14 17 10 14 11 11 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 18
+Site         (Link-Dead)
+Spell        79 'armor'
+Spell        95 'black hand'
+Spell        95 'chill touch'
+Spell        95 'continual light'
+Spell        51 'faerie fire'
+Spell        65 'flight'
+Spell        95 'galvanic whip'
+Spell        91 'invis'
+Spell        95 'locate object'
+Spell        95 'magic missile'
+Spell        31 'teleport'
+Spell        95 'ventriloquate'
+Spell        95 'word of recall'
+Skill        19 'dual wield'
+Weapon       89 'short blades'
+Tongue       100 'common'
+Killed       7003 1
+Killed       10407 1
+i3invis	0
+End
+
+#END

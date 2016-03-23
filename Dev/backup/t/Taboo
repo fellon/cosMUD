@@ -1,0 +1,155 @@
+#PLAYER
+Version      3
+Name         Taboo~
+Description  ~
+Sex          1
+Class        22
+Race         27
+Languages    1 1
+Level        2
+Played       1923
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   31 31 122 122 113 113
+Gold         2501
+Exp          1134
+Height          51
+Weight          63
+Act          570426968
+AffectedBy   -2147482976
+Position     112
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    375
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     TalZXTpw1H39o~
+Title         the Heavenly~
+Lastname (null)~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       4
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 16 18 15 9 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 44 44 10
+Site         207.231.3.23
+Spell        95 'armor'
+Spell        95 'continual light'
+Spell        95 'create water'
+Spell        95 'cure light'
+Spell        95 'faerie fire'
+Skill        95 'climb'
+Skill        95 'clover'
+Skill        85 'dig'
+Skill        50 'dodge'
+Skill        95 'drowfire'
+Skill        40 'dual wield'
+Skill        95 'dust'
+Skill        95 'fly'
+Skill        95 'forestwalk'
+Skill        95 'jump'
+Skill        20 'kick'
+Skill        30 'lore'
+Skill        95 'mount'
+Skill        25 'peek'
+Skill        20 'punch'
+Skill        95 'scan'
+Skill        95 'search'
+Skill        95 'talonslash'
+Skill        95 'taunt'
+Weapon       95 'bludgeons'
+Weapon       60 'flexible arms'
+Weapon       50 'long blades'
+Weapon       50 'pugilism'
+Weapon       60 'short blades'
+Weapon       50 'talonous arms'
+Tongue       99 'common'
+Tongue       99 'dwarven'
+Tongue       99 'elvish'
+Tongue       99 'gith'
+Tongue       99 'gnome'
+Tongue       99 'goblin'
+Tongue       99 'halfling'
+Tongue       99 'ogre'
+AffectData   'sanctuary' 247   0  26 128
+Killed       104 3
+Killed       103 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         106
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         112
+Level        1
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         105
+Values       12 1 6 11 0 0
+End
+
+#END

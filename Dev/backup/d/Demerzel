@@ -1,0 +1,98 @@
+#PLAYER
+Version      3
+Name         Demerzel~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Species      0
+Languages    1 1
+Level        12
+Played       72437
+Room         2171
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   196 196 148 148 243 243
+Gold         219129
+Exp          1588325
+Height          66
+Weight          159
+Act          570427000
+Position     112
+Style     2
+Practice     35
+SavingThrows 0 0 0 0 -6
+Alignment    -559
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        30
+ICEListen (null)~
+Mentalstate  0
+Password     DeOGilGR8PrHM~
+Title         the Falconer~
+Lastname ~
+Bio          Die by the sword.
+~
+AuthedBy     Prage~
+Prompt       <&g%hhp &c%mm %r%X TNL&w>~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       609
+MDeaths      10
+ArenaWins    2
+ArenaKills   3
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     16 14 16 13 12 10 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 2 22
+Site         210.212.228.77
+Spell        21 'create water'
+Skill        18 'cook'
+Skill        90 'dual wield'
+Skill        90 'kick'
+Skill        41 'scan'
+Skill        20 'search'
+Skill        18 'track'
+Weapon       18 'bludgeons'
+Weapon       40 'flexible arms'
+Weapon       85 'long blades'
+Weapon       18 'pugilism'
+Weapon       40 'short blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+AffectData   'armor' 297 -20  17 0
+AffectData   'bless' 980  -6  24 0
+AffectData   'bless' 980   6  18 0
+Killed       1523 2
+Killed       1549 1
+Killed       1552 1
+i3invis	0
+End
+
+#ALIAS
+Name     ee~
+Commands exits~
+End
+
+#ALIAS
+Name     hm~
+Commands help map~
+End
+
+#ALIAS
+Name     lp~
+Commands l in p~
+End
+
+#ALIAS
+Name     pop~
+Commands put all in portal~
+End
+
+#END

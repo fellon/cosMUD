@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Jojo~
+Sex          1
+Class        3
+Race         2
+Languages    1 1
+Level        2
+Played       3894
+Room         8
+HpManaMove   41 41 94 94 110 110
+Gold         0
+Exp          489
+Height          49
+Weight          129
+Act          637535816
+AffectedBy   512
+Position     106
+Style     2
+Practice     3
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -1
+Password     JoDGUYsCTLw/o~
+Title         the Recruit~
+Flags        131072
+Helled       1013423846 Marten~
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      1
+IllegalPK    0
+AttrPerm     18 12 15 13 16 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'dwarven'
+AffectData   'bless' 579   6  18 0
+AffectData   'bless' 579  -6  24 0
+End
+
+#END

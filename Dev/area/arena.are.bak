@@ -1,0 +1,774 @@
+#AREA   The Deathmatch Arena~
+
+
+
+#VERSION 1
+#AUTHOR ResortMUD~
+
+#RANGES
+0 100 0 115
+$
+
+#RESETMSG Screams from other battles in this arena echo all about you.~
+
+#FLAGS
+80
+
+#ECONOMY 0 31250000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#350
+hvak9 arena~
+The Arena Announcer~
+Hvak9 Arena Mob is here (should always be in 399)
+~
+~
+1073741827 4194344 0 S
+100 0 -300 0d0+0 0d0+0
+0 0
+112 112 0
+> rand_prog 7~
+mpforce all north
+if rand(20)
+yell You are too weak to win, go home to your mommy!
+else
+if rand(20)
+yell I hope you are willing to die today.
+else
+if rand(20)
+yell What do you want on your tombstone?
+else
+if rand(20)
+yell If you are not tough enough, just wimpout!
+else
+yell Where shall I send your remains to?
+endif
+endif
+endif
+endif
+~
+> rand_prog 100~
+if Level($n) < 101
+mpforce $n north
+endif
+ 
+~
+|
+#0
+
+
+#OBJECTS
+#350
+arena map secret~
+the Secret Arena Map~
+Someone has seemed to carelessly left a paper here.~
+~
+45 1 0
+0 0 0 0
+1 99999 9999
+E
+map arena secret~
+.
+.---------------------------------------------------------------------------.
+:    SECRET MAP OF THE ARENA, MADE BY UCMM (building) AND UMRG (coding)     :
+`---------------------------------------------------------------------------'
+ROOM VNUMS: 350 - 399   OBJECTS AND MOB VNUMS: 350   See HELP ARENA for more.
+-----------------------------------------------------------------------------
+.---.---.---.---.---.   .---.---.---.---.---.    : This is a map of the
+:   :               :   :                   :    : arena included with
+-- -:- -:---:---:- -:   -- -:- -:---:- -:---:    : the release of the
+:   :   :       :   :   :   :       :       :    : ResortMUD 3.0 Code and
+-- -:- -:- -:- -:---:   :- -:---:- -:- -:- -:    : seperately released by
+:   :       :         -         :       :   :    : UMRG.  Any change to
+-- -:---:---:- -:- -:   :- -:- -:---:---:- -:    : this code without
+:               :   :   :   :           :   :    : advanced coding know-
+-- -:---:- -:---:---:   -- -:---:---:---:- -:    : how may crash your MUD.
+:   :           :   :   :               :   :    :
+`---'---'---'---'---'   `---'---'---'---'---'    : (Map by Ntanel)
+-----------------------------------------------------------------------------
+~
+#0
+
+
+#ROOMS
+#350
+The Games Arena~
+~
+0 36708364 1
+D2
+~
+~
+0 -1 351
+S
+#351
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 350
+D2
+~
+~
+0 -1 352
+S
+#352
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 351
+D2
+~
+~
+0 -1 353
+S
+#353
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 352
+D1
+~
+~
+0 -1 367
+D2
+~
+~
+0 -1 354
+S
+#354
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 353
+S
+#355
+The Games Arena~
+~
+0 36708364 1
+D1
+~
+~
+0 -1 356
+D2
+~
+~
+0 -1 359
+S
+#356
+The Games Arena~
+~
+0 36708364 1
+D1
+~
+~
+0 -1 357
+D3
+~
+~
+0 -1 355
+S
+#357
+The Games Arena~
+~
+0 36708364 1
+D1
+~
+~
+0 -1 358
+D3
+~
+~
+0 -1 356
+S
+#358
+The Games Arena~
+~
+0 36708364 1
+D2
+~
+~
+0 -1 362
+D3
+~
+~
+0 -1 357
+S
+#359
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 355
+D2
+~
+~
+0 -1 363
+S
+#360
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 361
+S
+#361
+The Games Arena~
+~
+0 36708360 1
+D2
+~
+~
+0 -1 365
+D3
+~
+~
+0 -1 360
+S
+#362
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 358
+D2
+~
+~
+0 -1 366
+S
+#363
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 359
+D1
+~
+~
+0 -1 364
+S
+#364
+The Games Arena~
+~
+0 36708360 1
+D3
+~
+~
+0 -1 363
+S
+#365
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 361
+D1
+~
+~
+0 -1 366
+D2
+~
+~
+0 -1 369
+S
+#366
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 362
+D1
+~
+~
+0 -1 379
+D2
+~
+~
+0 -1 398
+D3
+~
+~
+0 -1 365
+S
+#367
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 368
+D3
+~
+~
+0 -1 353
+S
+#368
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 369
+D2
+~
+~
+0 -1 371
+D3
+~
+~
+0 -1 367
+S
+#369
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 365
+D3
+~
+~
+0 -1 368
+S
+#370
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 371
+S
+#371
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 368
+D1
+~
+~
+0 -1 372
+D3
+~
+~
+0 -1 370
+S
+#372
+The Games Arena~
+~
+0 36708360 1
+D3
+~
+~
+0 -1 371
+S
+#373
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 374
+D2
+~
+~
+0 -1 378
+S
+#374
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 375
+D2
+~
+~
+0 -1 394
+D3
+~
+~
+0 -1 373
+S
+#375
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 376
+D3
+~
+~
+0 -1 374
+S
+#376
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 377
+D2
+~
+~
+0 -1 396
+D3
+~
+~
+0 -1 375
+S
+#377
+The Games Arena~
+~
+0 36708360 1
+D3
+~
+~
+0 -1 376
+S
+#378
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 373
+D2
+~
+~
+0 -1 379
+S
+#379
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 378
+D1
+~
+~
+0 -1 390
+D2
+~
+~
+0 -1 380
+D3
+~
+~
+0 -1 366
+S
+#380
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 379
+D2
+~
+~
+0 -1 381
+S
+#381
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 380
+D1
+~
+~
+0 -1 382
+S
+#382
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 383
+D3
+~
+~
+0 -1 381
+S
+#383
+The Games Arena~
+~
+0 36708360 1
+D1
+~
+~
+0 -1 384
+D3
+~
+~
+0 -1 382
+S
+#384
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 388
+D3
+~
+~
+0 -1 383
+S
+#385
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 389
+S
+#386
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 390
+D1
+~
+~
+0 -1 387
+S
+#387
+The Games Arena~
+~
+0 36708360 1
+D3
+~
+~
+0 -1 386
+S
+#388
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 392
+D2
+~
+~
+0 -1 384
+S
+#389
+The Games Arena~
+~
+0 36708360 1
+D0
+~
+~
+0 -1 393
+D2
+~
+~
+0 -1 385
+S
+#390
+The Games Arena~
+~
+0 36708364 1
+D2
+~
+~
+0 -1 386
+D3
+~
+~
+0 -1 379
+S
+#391
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 395
+D1
+~
+~
+0 -1 392
+S
+#392
+The Games Arena~
+~
+0 36708364 1
+D2
+~
+~
+0 -1 388
+D3
+~
+~
+0 -1 391
+S
+#393
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 397
+D2
+~
+~
+0 -1 389
+S
+#394
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 374
+D1
+~
+~
+0 -1 395
+S
+#395
+The Games Arena~
+~
+0 36708364 1
+D2
+~
+~
+0 -1 391
+D3
+~
+~
+0 -1 394
+S
+#396
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 376
+D1
+~
+~
+0 -1 397
+S
+#397
+The Games Arena~
+~
+0 36708364 1
+D2
+~
+~
+0 -1 393
+D3
+~
+~
+0 -1 396
+S
+#398
+The Games Arena~
+~
+0 36708364 1
+D0
+~
+~
+0 -1 366
+S
+#399
+Deathmatch Arena Control Room (Stay Out!)~
+This room is for system mobs and objects for this area.  Please do not
+remove the items in the area or certain functions in this area may cease.
+There are no room descriptions in this area so that it will be a challenge
+to the players to locate a kill or even where they are.  This is a joint
+project of the United Council of Multiple MUDsites and the Universal MUD
+Resource Group (UCMM / UMRG).  Thank you for choosing this area for your MUD!
+~
+0 36709512 1
+D0
+~
+door~
+1 -1 398
+> rand_prog 100~
+if Level($n) < 101
+mpforce $n north
+endif
+~
+|
+S
+#0
+
+
+#RESETS
+M 1 350 1 399
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

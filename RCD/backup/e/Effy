@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Effy~
+Description  ~
+Sex          2
+Class        22
+Race         27
+Species      0
+Languages    1 1
+Level        2
+Played       3877
+Room         1222
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   36 36 124 124 113 113
+Gold         0
+Exp          650
+Height          53
+Weight          66
+Act          536872520
+AffectedBy   -2147483104
+Position     106
+Style     2
+Practice     6
+SavingThrows 0 0 0 0 0
+Alignment    375
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -4
+Password     EfGEOEnqGJUTM~
+Title         the Heavenly~
+Lastname (null)~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 17 18 15 9 15 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 10
+Site         (Link-Dead)
+Tongue       100 'common'
+i3invis	0
+End
+
+#END

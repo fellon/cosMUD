@@ -1,0 +1,66 @@
+#PLAYER
+Version      3
+Name         Melankolik~
+Description  ~
+Sex          1
+Class        2
+Race         14
+Species      7
+Languages    1 1
+Level        3
+Played       41557
+Room         21013
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   37 37 126 126 126 126
+Gold         6580
+Exp          14383
+Height          46
+Weight          103
+Act          570426968
+AffectedBy   528
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Deaf         146833655
+ICEListen (null)~
+Mentalstate  0
+Password     MedIAInkHfV7c~
+Title         the Filcher~
+Lastname (null)~
+AuthedBy     Marten~
+Deity	     Auril~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       27
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     9 15 15 17 16 12 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 40 17 13
+Site         (Link-Dead)
+Skill        17 'hide'
+Skill        19 'steal'
+Weapon       17 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'gnome'
+AffectData   'bless' 291  -6  24 0
+AffectData   'bless' 291   6  18 0
+Killed       21055 2
+Killed       10300 2
+i3invis	0
+End
+
+#END

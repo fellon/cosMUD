@@ -1,0 +1,147 @@
+#PLAYER
+Version      3
+Name         Akivasha~
+Description  ~
+Sex          2
+Class        14
+Race         22
+Species      5
+Languages    1 1
+Level        7
+Played       20781
+Room         21094
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   58 88 100 100 178 178
+Gold         54675
+Exp          191975
+Height          54
+Weight          126
+Act          -1577056680
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -51
+Password     AkQT2qdSf81To~
+Title         the Cut-Purse~
+Lastname ~
+AuthedBy     Fairburn~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       119
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 14 12 17 11 13 18
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 17
+Site         (Link-Dead)
+Skill        18 'backstab'
+Skill        85 'dual wield'
+Skill        95 'enhanced damage'
+Skill        17 'hide'
+Skill        17 'pick lock'
+Skill        17 'scan'
+Skill        18 'sneak'
+Skill        17 'steal'
+Weapon       17 'flexible arms'
+Weapon       17 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Killed       10345 1
+Killed       10302 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21082
+WearLoc      16
+Level        7
+Values       12 3 9 0 0 0
+End
+
+#OBJECT
+Vnum         21082
+Level        7
+Values       12 4 12 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        2
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        55
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10314
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#END

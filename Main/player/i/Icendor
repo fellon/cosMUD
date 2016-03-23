@@ -1,0 +1,542 @@
+#PLAYER
+Version      3
+Name         Icendor~
+Description  d
+khfgkhljkrhg
+herljkgherlw
+hhrhjrhh/c
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fhyhgggffghjdsfgjwokhg
+irhgljwehg
+~
+Sex          1
+Class        0
+Race         19
+Species      1
+Languages    1 1
+Level        20
+Played       154870
+Room         24809
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   161 161 568 568 387 347
+Gold         511795
+Exp          9588869
+Height          68
+Weight          128
+Act          570427000
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -950
+Favor	       2500
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        32
+ICEListen (null)~
+Mentalstate  -36
+Password     IcmM00zKtJ2po~
+Title         the Magician~
+Lastname ~
+AuthedBy     Prage~
+Deity	     Auril~
+Clan         Guild of Mages~
+Flags        98306
+PKills       3
+PDeaths      3
+MKills       275
+MDeaths      20
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 17 15 12 11 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 27
+Site         (Link-Dead)
+Spell        21 'acid blast'
+Spell        36 'antimagic shell'
+Spell        76 'armor'
+Spell        95 'black hand'
+Spell        49 'blindness'
+Spell        95 'burning hands'
+Spell        19 'cancelation'
+Spell        95 'chill touch'
+Spell        19 'colour spray'
+Spell        48 'continual light'
+Spell        19 'control weather'
+Spell        35 'create fire'
+Spell        87 'create spring'
+Spell        19 'demonskin'
+Spell        95 'detect invis'
+Spell        42 'detect magic'
+Spell        39 'detect traps'
+Spell        19 'disruption'
+Spell        41 'dragon wit'
+Spell        24 'dragonskin'
+Spell        19 'elven beauty'
+Spell        20 'enchant weapon'
+Spell        68 'energy drain'
+Spell        31 'extradimensional portal'
+Spell        81 'faerie fire'
+Spell        56 'faerie fog'
+Spell        19 'farsight'
+Spell        50 'fireball'
+Spell        69 'flight'
+Spell        95 'float'
+Spell        95 'galvanic whip'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        19 'know alignment'
+Spell        90 'lightning bolt'
+Spell        38 'locate object'
+Spell        95 'magic missile'
+Spell        19 'pass door'
+Spell        19 'razorbait'
+Spell        27 'refresh'
+Spell        21 'remove invis'
+Spell        19 'remove trap'
+Spell        20 'sagacity'
+Spell        19 'scry'
+Spell        44 'shield'
+Spell        95 'shocking grasp'
+Spell        34 'sleep'
+Spell        53 'slink'
+Spell        95 'spectral furor'
+Spell        23 'stone skin'
+Spell        55 'teleport'
+Spell        26 'transport'
+Spell        88 'trollish vigor'
+Spell        53 'valiance'
+Spell        87 'weaken'
+Spell        95 'word of recall'
+Skill        19 'cuff'
+Skill        30 'dual wield'
+Skill        20 'kick'
+Skill        25 'meditate'
+Skill        95 'scan'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Weapon       19 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       24815 1
+Killed       24814 1
+Killed       24816 1
+Killed       24819 1
+Killed       24817 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         24894
+WearLoc      6
+Level        7
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        5
+Values       12 2 9 3 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      18
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        13
+Values       100 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8110
+Level        59
+Values       49 19 19 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         24894
+Level        8
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         10307
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10309
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         6505
+Level        17
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        4
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        3
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10345
+Level        3
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21014
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21021
+Values       4 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21055
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         21015
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10345
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         1213
+Level        72
+End
+
+#OBJECT
+Nest         2
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         10312
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         21063
+WearLoc      9
+Level        13
+Values       3 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        11
+Values       1 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#ALIAS
+Name     mm~
+Commands c 'magic missile'~
+End
+
+#ALIAS
+Name     bb~
+Commands c 'burning hands'~
+End
+
+#ALIAS
+Name     bh~
+Commands c 'black hand'~
+End
+
+#ALIAS
+Name     ff~
+Commands c 'faerie fire'~
+End
+
+#ALIAS
+Name     ct~
+Commands c 'chill touch'~
+End
+
+#ALIAS
+Name     fg~
+Commands c 'faerie fog' ~
+End
+
+#ALIAS
+Name     sg~
+Commands c 'shocking grasp'~
+End
+
+#ALIAS
+Name     lb~
+Commands c 'lightning bolt'~
+End
+
+#ALIAS
+Name     bl~
+Commands c blindness~
+End
+
+#ALIAS
+Name     ed~
+Commands c 'energy drain'~
+End
+
+#ALIAS
+Name     sf~
+Commands c 'spectral furor'~
+End
+
+#ALIAS
+Name     we~
+Commands c weaken~
+End
+
+#ALIAS
+Name     fb~
+Commands c 'fireball'~
+End
+
+#ALIAS
+Name     ms~
+Commands c 'antimagic shell'~
+End
+
+#ALIAS
+Name     aa~
+Commands c 'acid blast'~
+End
+
+#END

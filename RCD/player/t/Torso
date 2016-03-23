@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Torso~
+Sex          1
+Class        3
+Race         1
+Languages    1 1
+Level        2
+Played       2005
+Room         21194
+HpManaMove   30 30 110 110 110 110
+Gold         0
+Exp          0
+Height          64
+Weight          111
+Act          570426952
+AffectedBy   16
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -3
+Password     To0VX44m8mcRs~
+Title         the Recruit~
+Flags        131072
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     17 15 13 15 13 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 237 -20  17 0
+AffectData   'bless' 893   6  18 0
+AffectData   'bless' 893  -6  24 0
+End
+
+#END

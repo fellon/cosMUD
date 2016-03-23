@@ -1,0 +1,73 @@
+#PLAYER
+Version      3
+Name         Anubis~
+Description  ~
+Sex          1
+Class        13
+Race         0
+Species      2
+Languages    1 1
+Level        2
+Played       8183
+Room         2401
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   29 29 102 102 113 113
+Gold         782
+Exp          3041
+Height          67
+Weight          135
+Act          570427000
+AffectedBy   524288
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        60
+Wimpy        5
+ICEListen (null)~
+Mentalstate  0
+Password     An5wKgSdhYo8c~
+Title         the Understudy of Magic~
+Lastname (null)~
+AuthedBy     Marten~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 17 13 13 13 12 13
+AttrMod      3 0 0 0 3 -1 0
+Condition    6 3 6 12
+Site         12.86.192.6
+Skill        19 'dual wield'
+Weapon       19 'short blades'
+Tongue       100 'common'
+AffectData   'shield' 846 -20  17 0
+AffectData   'armor' 217 -20  17 0
+AffectData   'kindred strength' 848   3   1 0
+AffectData   'flight' 851   0  26 524288
+AffectData   'trollish vigor' 853   3   5 0
+AffectData   'trollish vigor' 853  -1  25 0
+Killed       104 1
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         2463
+Level        1
+Values       20 16 2 0 0 0
+End
+
+#END

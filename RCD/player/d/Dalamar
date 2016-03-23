@@ -1,0 +1,90 @@
+#PLAYER
+Version      3
+Name         Dalamar~
+Sex          1
+Class        4
+Race         11
+Languages    1 1
+Level        2
+Played       6794
+Room         10327
+HpManaMove   35 35 112 112 210 110
+Gold         700
+Exp          4345
+Height          56
+Weight          87
+Act          637535816
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -352
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        7
+Deaf         146833655
+ICEListen ~
+Resistant    256
+Mentalstate  -2
+Password     DayqM/uTDcIP6~
+Title         the Blood Student~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       7
+MDeaths      0
+IllegalPK    0
+AttrPerm     13 14 14 17 13 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 4
+Site         (Link-Dead)
+Spell        19 'float'
+Weapon       19 'flexible arms'
+Weapon       19 'long blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor'  11 -20  17 0
+Killed       10323 3
+Killed       10309 2
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#END

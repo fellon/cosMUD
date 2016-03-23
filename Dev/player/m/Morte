@@ -1,0 +1,57 @@
+#PLAYER
+Version      3
+Name         Morte~
+Sex          1
+Class        2
+Race         9
+Languages    1 1
+Level        2
+Played       4063
+Room         21001
+HpManaMove   34 34 103 103 110 110
+Gold         0
+Exp          501
+Height          69
+Weight          164
+Act          570426952
+AffectedBy   512
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Resistant    2
+Mentalstate  -18
+Password     MocU2IAkC5L3A~
+Title         the Footpad~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     10 14 13 17 13 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 12
+Site         (Link-Dead)
+Skill        38 'dodge'
+Weapon       17 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#END

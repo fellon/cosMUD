@@ -1,0 +1,197 @@
+#PLAYER
+Version      3
+Name         Icendor~
+Description  d
+khfgkhljkrhg
+herljkgherlw
+hhrhjrhh/c
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fhyhgggffghjdsfgjwokhg
+irhgljwehg
+~
+Sex          1
+Class        0
+Race         19
+Species      1
+Languages    1 1
+Level        6
+Played       28943
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   51 57 218 218 180 165
+Gold         37940
+Exp          174846
+Height          68
+Weight          128
+Act          570427000
+Position     104
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       1280
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     IcmM00zKtJ2po~
+Title         the Apprentice Mage~
+Lastname  name~
+AuthedBy     Prage~
+Deity	     Auril~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       99
+MDeaths      11
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 17 15 12 11 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 9 9 15
+Site         207.202.214.132
+Spell        77 'black hand'
+Spell        21 'burning hands'
+Spell        19 'chill touch'
+Spell        28 'detect invis'
+Spell        28 'faerie fire'
+Spell        68 'float'
+Spell        21 'galvanic whip'
+Spell        50 'invis'
+Spell        95 'magic missile'
+Spell        19 'remove invis'
+Spell        31 'weaken'
+Spell        83 'word of recall'
+Skill        30 'dual wield'
+Skill        20 'kick'
+Skill        95 'scan'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 1099   6  18 0
+AffectData   'bless' 1099  -6  24 0
+Killed       10313 2
+Killed       10327 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        3
+Values       12 3 8 3 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      18
+Level        3
+Values       12 1 9 3 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      4
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#END

@@ -1,0 +1,32 @@
+#CLAN
+Name         Guild of Mages~
+Filename     mage.gui~
+Motto        Spells to further the Cause of Mystra~
+Deity        Mystra~
+Leader       finrod~
+PKillRangeNew   2 1 0 1 1 1 2
+PDeathRangeNew  2 0 0 0 3 4 11
+MKills       56209
+MDeaths      1388
+IllegalPK    8
+Score        0
+Type         14
+Class        0
+Favour       0
+Strikes      0
+Members      35
+MemLimit     0
+Alignment    0
+Board        60351
+ClanObjOne   60355
+ClanObjTwo   60354
+ClanObjThree 60351
+ClanObjFour  0
+ClanObjFive  0
+Recall       21000
+Storeroom    60351
+GuardOne     0
+GuardTwo     0
+End
+
+#END

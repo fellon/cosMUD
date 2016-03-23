@@ -1,0 +1,36 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         30309
+Room         327685
+Level        25
+Values       51 8 8 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Vnum         30309
+Room         327685
+Level        30
+Values       51 8 8 168 0 0
+Spell 3      'possess'
+End
+
+#OBJECT
+Vnum         30305
+Room         327685
+Level        98
+Values       27 27 0 0 0 0
+End
+
+#OBJECT
+Vnum         228
+Room         327685
+Level        1
+Values       1 -100 0 0 0 0
+End
+
+#END

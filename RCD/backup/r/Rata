@@ -1,0 +1,119 @@
+#PLAYER
+Version      3
+Name         Rata~
+Sex          1
+Class        0
+Race         1
+Languages    1 1
+Level        2
+Played       3221
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   31 26 120 120 113 113
+Gold         1002
+Exp          2000
+Height          67
+Weight          106
+Act          570426968
+AffectedBy   16
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Resistant    2
+Mentalstate  0
+Password     RauZAW8.EB7pE~
+Title         the Apprentice Mage~
+Lastname (null)~
+AuthedBy     Arbadus~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 12 14 11 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 41 41 10
+Site         207.202.214.132
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       104 1
+Killed       103 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         109
+Level        1
+Values       2 1 1 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Nest         1
+Vnum         105
+Level        13
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         108
+Level        1
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         109
+WearLoc      17
+Level        1
+Values       3 2 2 148 0 0
+Spell 3      'magic missile'
+End
+
+#OBJECT
+Vnum         110
+Level        1
+Values       20 10 0 0 0 0
+End
+
+#END

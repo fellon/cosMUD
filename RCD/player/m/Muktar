@@ -1,0 +1,220 @@
+#PLAYER
+Version      3
+Name         Muktar~
+Sex          1
+Class        5
+Race         9
+Languages    1 1
+Level        9
+Played       203044
+Room         8918
+HpManaMove   130 112 128 128 180 180
+Gold         160526
+Exp          839425
+Height          70
+Weight          139
+Act          570426956
+AffectedBy   512
+Position     104
+Style     4
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    -3
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        20
+ICEListen ~
+Resistant    2
+Mentalstate  -100
+Password     MupV3hUB3yEJg~
+Title         the Priest~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       1557
+MDeaths      2
+IllegalPK    0
+AttrPerm     9 15 16 14 11 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Spell        95 'armor'
+Spell        95 'bless'
+Spell        95 'blindness'
+Spell        77 'cause critical'
+Spell        95 'cause light'
+Spell        95 'cause serious'
+Spell        95 'continual light'
+Spell        95 'create food'
+Spell        27 'create water'
+Spell        34 'cure blindness'
+Spell        95 'cure light'
+Spell        69 'detect evil'
+Spell        19 'detect hidden'
+Spell        19 'detect invis'
+Spell        95 'detect magic'
+Spell        37 'detect traps'
+Spell        19 'earthquake'
+Spell        95 'faerie fire'
+Spell        95 'float'
+Spell        39 'fly'
+Spell        19 'infravision'
+Spell        19 'magic missile'
+Spell        23 'refresh'
+Skill        85 'aggressive style'
+Skill        40 'climb'
+Skill        20 'dig'
+Skill        80 'enhanced damage'
+Skill        75 'evasive style'
+Skill        95 'kick'
+Skill        95 'mount'
+Skill        69 'search'
+Skill        80 'standard style'
+Weapon       19 'bludgeons'
+Weapon       30 'flexible arms'
+Weapon       50 'long blades'
+Weapon       90 'pugilism'
+Weapon       30 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       6103 1
+Killed       6102 3
+Killed       2070 1
+Killed       2073 2
+Killed       2071 1
+Killed       2102 1
+End
+
+#OBJECT
+Vnum         2447
+WearLoc      12
+Level        8
+Cost         0
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+WearLoc      11
+Level        8
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        3
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         6630
+WearLoc      6
+Level        5
+Values       3 3 0 1 0 0
+End
+
+#OBJECT
+Vnum         21082
+WearLoc      16
+Level        9
+Values       7 5 11 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2401
+Level        1
+Values       30 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2402
+Level        6
+Values       12 2 10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2427
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2443
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2413
+Level        6
+Values       12 4 10 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2408
+Level        4
+Values       14 4 4 40 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Nest         1
+Vnum         2410
+Level        5
+Values       12 4 4 69 0 0
+Spell 3      'faerie fire'
+End
+
+#OBJECT
+Nest         1
+Vnum         2104
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2074
+Level        2
+Values       10 40 9 126 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Nest         1
+Vnum         2106
+Level        5
+Values       12 7 14 11 0 0
+End
+
+#END

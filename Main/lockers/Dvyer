@@ -1,0 +1,32 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         24819
+Room         327685
+ExtraFlags   2646
+Level        44
+Values       51 4 4 40 0 0
+Spell 3      'chill touch'
+End
+
+#OBJECT
+Vnum         2422
+Room         327685
+Level        9
+Values       2 1 1 187 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         6506
+Room         327685
+Level        25
+Cost         0
+Values       13 10 10 58 0 0
+Spell 3      'cure critical'
+End
+
+#END

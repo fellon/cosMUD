@@ -1,0 +1,174 @@
+#PLAYER
+Version      3
+Name         Bologna~
+Description  ~
+Sex          1
+Class        19
+Race         0
+Species      2
+Languages    1 1
+Level        6
+Played       7914
+Room         21000
+Memorized		21000 0 0 0 0 0 0 0
+HpManaMove   53 81 136 136 165 165
+Gold         20812
+Exp          167528
+Height          70
+Weight          137
+Act          570426952
+AffectedBy   10
+Position     112
+Style     2
+Practice     8
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        60
+ICEListen (null)~
+Resistant    2097152
+Mentalstate  0
+Password     BoPbUfFUTx1Uc~
+Title         the Apprentice Harper~
+Lastname (null)~
+AuthedBy     Andy~
+Prompt       <&C%h&chp &G%m&gm &z%X&B TNL &W%i&w>&B%k &w~
+FPrompt	     <&R%hhp &B%mm &w>%c~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       59
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     13 17 13 13 13 12 12
+AttrMod      4 0 4 0 4 -1 0
+Condition    0 8 15 10
+Site         216.40.163.141
+Spell        17 'discord'
+Skill        70 'dual wield'
+Skill        85 'hide'
+Skill        21 'kick'
+Skill        17 'pick lock'
+Skill        72 'scan'
+Skill        17 'search'
+Skill        75 'sneak'
+Skill        17 'steal'
+Weapon       17 'bludgeons'
+Weapon       17 'flexible arms'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       17 'short blades'
+Tongue       100 'common'
+AffectData   'trollish vigor' 442  -1  25 0
+AffectData   'trollish vigor' 442   4   5 0
+AffectData   'sagacity' 443   4   4 0
+AffectData   'kindred strength' 445   4   1 0
+AffectData   'shield' 447 -20  17 0
+AffectData   'detect invis' 450   0  26 8
+AffectData   'valiance' 863 2097152  27 0
+AffectData   'armor' 184 -20  17 0
+AffectData   'invis' 635   0   0 2
+Killed       10397 6
+Killed       10396 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         107
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        4
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      18
+Level        6
+Values       12 2 8 3 0 0
+End
+
+#OBJECT
+Vnum         10318
+WearLoc      16
+Level        4
+Values       12 4 9 3 0 0
+End
+
+#END

@@ -1,0 +1,468 @@
+Name        Angel~
+Class       22
+Attrprime   4
+Alignment   0
+Weapon      10315
+Guild       3003
+Skilladept  95
+Thac0       18
+Thac32      12
+Hpmin       11
+Hpmax       20
+Mana        1
+Expbase     1250
+Skill 'alertness' 23 92
+Skill 'antimagic shell' 42 70
+Skill 'aqua breath' 22 95
+Skill 'armor' 1 95
+Skill 'bless' 5 95
+Skill 'cancelation' 37 95
+Skill 'charm person' 20 95
+Skill 'continual light' 2 95
+Skill 'cool breeze' 67 95
+Skill 'create fire' 5 95
+Skill 'create food' 3 95
+Skill 'create spring' 25 95
+Skill 'create symbol' 10 95
+Skill 'create water' 2 95
+Skill 'cure blindness' 4 95
+Skill 'cure critical' 9 95
+Skill 'cure light' 1 95
+Skill 'cure poison' 9 90
+Skill 'cure serious' 5 95
+Skill 'detect evil' 4 95
+Skill 'detect hidden' 7 95
+Skill 'detect invis' 5 95
+Skill 'detect magic' 3 95
+Skill 'detect poison' 5 95
+Skill 'detect traps' 7 75
+Skill 'divine intervention' 50 95
+Skill 'divinity' 30 95
+Skill 'dream' 22 95
+Skill 'faerie fire' 2 95
+Skill 'faerie fog' 14 95
+Skill 'fireshield' 60 80
+Skill 'grounding' 28 95
+Skill 'harm' 35 95
+Skill 'heal' 14 95
+Skill 'holy sanctity' 71 95
+Skill 'holy strength' 78 95
+Skill 'iceshield' 20 80
+Skill 'identify' 10 95
+Skill 'invis' 4 90
+Skill 'knock' 30 70
+Skill 'know alignment' 5 95
+Skill 'life force' 50 95
+Skill 'locate object' 10 95
+Skill 'mass invis' 17 95
+Skill 'protection' 6 95
+Skill 'refresh' 3 95
+Skill 'remove curse' 12 95
+Skill 'remove trap' 15 70
+Skill 'resilience' 40 95
+Skill 'restoration' 30 95
+Skill 'sagacity' 68 95
+Skill 'sanctuary' 13 95
+Skill 'scry' 21 95
+Skill 'shockshield' 35 95
+Skill 'solar flight' 39 80
+Skill 'transport' 25 95
+Skill 'true sight' 38 95
+Skill 'uplift' 5 95
+Skill 'word of recall' 8 95
+Skill 'aid' 4 95
+Skill 'brew' 30 95
+Skill 'climb' 2 95
+Skill 'clover' 2 95
+Skill 'dig' 2 85
+Skill 'dodge' 2 50
+Skill 'drowfire' 2 95
+Skill 'dual wield' 2 40
+Skill 'dust' 2 95
+Skill 'fly' 2 95
+Skill 'forestwalk' 2 95
+Skill 'fourth attack' 35 70
+Skill 'jump' 2 95
+Skill 'kick' 2 20
+Skill 'lore' 2 30
+Skill 'meditate' 14 95
+Skill 'mount' 2 95
+Skill 'peek' 2 25
+Skill 'punch' 2 20
+Skill 'rescue' 33 20
+Skill 'scan' 2 95
+Skill 'scribe' 20 95
+Skill 'search' 2 95
+Skill 'second attack' 15 95
+Skill 'second cast' 12 95
+Skill 'talonslash' 2 95
+Skill 'taunt' 2 95
+Skill 'third attack' 25 90
+Skill 'third cast' 25 95
+Skill 'vision' 60 95
+Skill 'bludgeons' 1 95
+Skill 'flexible arms' 1 60
+Skill 'long blades' 1 50
+Skill 'pugilism' 1 50
+Skill 'short blades' 1 60
+Skill 'talonous arms' 1 50
+Skill 'common' 1 99
+Skill 'dwarven' 1 99
+Skill 'elvish' 1 99
+Skill 'gith' 1 99
+Skill 'gnome' 1 99
+Skill 'goblin' 1 99
+Skill 'halfling' 1 99
+Skill 'ogre' 1 99
+Title
+Man~
+Woman~
+Title
+Divine Angel~
+Divine Angel~
+Title
+Heavenly~
+Heavenly~
+Title
+Pure~
+Pure~
+Title
+Angelic~
+Angelic~
+Title
+Divine~
+Divine~
+Title
+Kind~
+Kind~
+Title
+Caring~
+Caring~
+Title
+Thoughtful~
+Thoughtful~
+Title
+Loving~
+Loving~
+Title
+Merciful~
+Merciful~
+Title
+Helpful~
+Helpful~
+Title
+Radiant~
+Radiant~
+Title
+Luminous~
+Luminous~
+Title
+Herald of the Clouds~
+Heraldress of the Clouds~
+Title
+Herald of the Air~
+Heraldress of the Air~
+Title
+Herald of the Winds~
+Heraldress of the Winds~
+Title
+Herald of the Sky~
+Heraldress of the Sky~
+Title
+Herald of the Heavens~
+Heraldress of the Heavens~
+Title
+Herald of the Gods~
+Heraldress of the Gods~
+Title
+Heavenly Herald~
+Heavenly Heraldress~
+Title
+Divine Herald~
+Divine Heraldress~
+Title
+Angelic Herald~
+Angelic Heraldress~
+Title
+Messenger~
+Messenger~
+Title
+Holy Messenger~
+Holy Messenger~
+Title
+Divine Messenger~
+Divine Messenger~
+Title
+Heavenly Messenger~
+Heavenly Messenger~
+Title
+Angelic Messenger~
+Angelic Messenger~
+Title
+Messenger of the Air~
+Messenger of the Air~
+Title
+Messenger of the Winds~
+Messenger of the Winds~
+Title
+Messenger of the Clouds~
+Messenger of the Clouds~
+Title
+Messenger of the Sky~
+Messenger of the Sky~
+Title
+Messenger of the Heavens~
+Messenger of the Heavens~
+Title
+Messenger of the Gods~
+Messenger of the Gods~
+Title
+Messenger of Holy Light~
+Messenger of Holy Light~
+Title
+Angel of Truth~
+Angel of Truth~
+Title
+Angel of Light~
+Angel of Light~
+Title
+Angel of Honor~
+Angel of Honor~
+Title
+Angel of Love~
+Angel of Love~
+Title
+Angel of Justice~
+Angel of Justice~
+Title
+Angel of Holiness~
+Angel of Holiness~
+Title
+Angel of Divinity~
+Angel of Divinity~
+Title
+Angel of Purity~
+Angel of Purity~
+Title
+Angel of Honesty~
+Angel of Honesty~
+Title
+Angel of Mercy~
+Angel of Mercy~
+Title
+Angel of Heaven~
+Angel of Heaven~
+Title
+Divine Angel~
+Divine Angel~
+Title
+Archangel of Honor~
+Archangel of Honor~
+Title
+Archangel of Purity~
+Archangel of Purity~
+Title
+Archangel of Honesty~
+Archangel of Honesty~
+Title
+Archangel of Mercy~
+Archangel of Mercy~
+Title
+Archangel of Light~
+Archangel of Light~
+Title
+Archangel of Truth~
+Archangel of Truth~
+Title
+Archangel of Mercy~
+Archangel of Mercy~
+Title
+Archangel of Justice~
+Archangel of Justice~
+Title
+Archangel of Heaven~
+Archangel of Heaven~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Avatar~
+Avataress~
+Title
+Demi-God~
+Demi-Goddess~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+Title
+(null)~
+(null)~
+End

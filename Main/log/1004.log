@@ -1,0 +1,1002 @@
+Wed Jul 31 14:24:39 UTC 2002
+Wed Jul 31 14:24:39 2002 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Wed Jul 31 14:24:39 2002 :: Loading commands
+Wed Jul 31 14:24:39 2002 :: Loading sysdata configuration...
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Fread_sysdata: no match: Staff
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Fread_sysdata: no match: 105
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Fread_sysdata: no match: Socials
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Fread_sysdata: no match: 595
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Fread_sysdata: no match: Commands
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Fread_sysdata: no match: 566
+Wed Jul 31 14:24:39 2002 :: Loading socials
+Wed Jul 31 14:24:39 2002 :: Loading skill table
+Wed Jul 31 14:24:39 2002 :: Sorting skill table...
+Wed Jul 31 14:24:39 2002 :: Remapping slots to sns
+Wed Jul 31 14:24:39 2002 :: Loading classes
+Wed Jul 31 14:24:39 2002 :: Loading races
+Wed Jul 31 14:24:39 2002 :: Loading herb table
+Wed Jul 31 14:24:39 2002 :: Loading tongues
+Wed Jul 31 14:24:39 2002 :: Making wizlist
+Wed Jul 31 14:24:39 2002 :: Initializing request pipe
+Wed Jul 31 14:24:39 2002 :: Initializing random number generator
+Wed Jul 31 14:24:39 2002 :: Setting time and weather
+Wed Jul 31 14:24:39 2002 :: Assigning gsn's
+Wed Jul 31 14:24:39 2002 :: Reading in plane file...
+Wed Jul 31 14:24:39 2002 :: Reading in area files...
+(help.are)
+arena.are     : Rooms:   350 - 399   Objs:   350 - 350   Mobs:   350 - 350
+build.are     : Rooms:  9500 - 9589  Objs:     0 - 0     Mobs:     0 - 0
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1464
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 10429.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (3) 'M': room 10429 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1465
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 10429.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (4) 'M': room 10429 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1466
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 10429.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (5) 'O': object 10429 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1466
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 10429.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (5) 'O': room 10429 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1467
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 49998.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (6) 'O': object 49998 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1468
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 6003.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (7) 'O': object 6003 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1469
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (8) 'O': object 457 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1480
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 21067.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (19) 'E': object 21067 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1481
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (20) 'O': object 457 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1482
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 50163.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (21) 'O': object 50163 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1484
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_mob_index: bad vnum 100097.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (23) 'M': mobile 100097 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1485
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_mob_index: bad vnum 21436.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (24) 'M': mobile 21436 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1486
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 21423.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (25) 'E': object 21423 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1487
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 21421.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (26) 'E': object 21421 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1489
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_mob_index: bad vnum 100098.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (28) 'M': mobile 100098 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1490
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 100005.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (29) 'O': object 100005 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1492
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (31) 'O': object 457 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1493
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 22.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (32) 'O': object 22 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1496
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 50163.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (35) 'O': object 50163 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: gods.are LINE: 1499
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: gods.are (38) 'O': object 457 doesn't exist.
+gods.are      : Rooms:  1200 - 1299  Objs:  1200 - 1299  Mobs:  1200 - 1299
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: limbo.are LINE: 1347
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 10311.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: limbo.are (3) 'P': object 10311 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: limbo.are LINE: 1348
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 123.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: limbo.are (4) 'P': object 123 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: limbo.are LINE: 1349
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_mob_index: bad vnum 100.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: limbo.are (5) 'M': mobile 100 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: limbo.are LINE: 1350
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 50163.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: limbo.are (6) 'O': object 50163 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: limbo.are LINE: 1351
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 21042.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: limbo.are (7) 'O': object 21042 doesn't exist.
+limbo.are     : Rooms:     1 - 99    Objs:     2 - 99    Mobs:     1 - 99
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newacad.are LINE: 7157
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 21042.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newacad.are (281) 'O': object 21042 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newacad.are LINE: 7181
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newacad.are (305) 'O': object 457 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newacad.are LINE: 7182
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 6003.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newacad.are (306) 'O': object 6003 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newacad.are LINE: 7183
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 6006.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newacad.are (307) 'P': object 6006 doesn't exist.
+newacad.are   : Rooms: 10300 - 10499 Objs: 10300 - 10499 Mobs: 10300 - 10499
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newdark.are LINE: 9218
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 24516.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newdark.are (381) 'E': object 24516 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newdark.are LINE: 9221
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 60503.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newdark.are (384) 'O': object 60503 doesn't exist.
+newdark.are   : Rooms: 21000 - 21499 Objs: 21000 - 21435 Mobs: 21000 - 21499
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newgate.are LINE: 1887
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 819.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newgate.are (25) 'E': object 819 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newgate.are LINE: 1888
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 494.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newgate.are (26) 'E': object 494 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newgate.are LINE: 1889
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 12534.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newgate.are (27) 'E': object 12534 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: newgate.are LINE: 1890
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 46282.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: newgate.are (28) 'E': object 46282 doesn't exist.
+newgate.are   : Rooms:   100 - 199   Objs:   100 - 199   Mobs:   100 - 199
+stockobj.are  : Rooms: 29000 - 29000 Objs: 29000 - 29099 Mobs:     0 - 0
+astral.are    : Rooms:   800 - 899   Objs:   800 - 899   Mobs:   800 - 899
+chapel.are    : Rooms:  3405 - 3475  Objs:  3400 - 3430  Mobs:  3400 - 3416
+daycare.are   : Rooms:  6601 - 6651  Objs:  6600 - 6647  Mobs:  6600 - 6610
+dwarven.are   : Rooms:  6500 - 6554  Objs:  6502 - 6519  Mobs:  6500 - 6517
+export.are    : Rooms:  9810 - 9899  Objs:  9810 - 9899  Mobs:  9800 - 9899
+gallery.are   : Rooms: 24800 - 24899 Objs: 24800 - 24899 Mobs: 24800 - 24899
+grave.are     : Rooms:  3600 - 3651  Objs:  3600 - 3613  Mobs:  3600 - 3605
+grove.are     : Rooms:  8901 - 8999  Objs:  8900 - 8919  Mobs:  8900 - 8911
+haon.are      : Rooms:  6000 - 6156  Objs:  6000 - 6155  Mobs:  6000 - 6117
+manor.are     : Rooms:  2400 - 2499  Objs:  2400 - 2499  Mobs:  2405 - 2484
+midennir.are  : Rooms:  3500 - 3590  Objs:  3500 - 3550  Mobs:  3500 - 3550
+pixie.are     : Rooms:  2070 - 2099  Objs:  2070 - 2076  Mobs:  2070 - 2073
+sewer.are     : Rooms:  7001 - 7445  Objs:  7190 - 7310  Mobs:  7000 - 7206
+redferne.are  : Rooms:  7900 - 7918  Objs:  7909 - 7911  Mobs:  7900 - 7900
+srefuge.are   : Rooms:  1500 - 1599  Objs:  1500 - 1599  Mobs:  1500 - 1599
+unholy.are    : Rooms:  2101 - 2172  Objs:  2101 - 2150  Mobs:  2101 - 2120
+rocroad.are   : Rooms: 2002001 - 2002040 Objs: 2002001 - 2002020 Mobs: 2002001 - 2002020
+moonlight.are : Rooms: 40000 - 40020 Objs: 40000 - 40020 Mobs: 40000 - 40020
+hannigans.are : Rooms: 2002100 - 2002160 Objs: 2002100 - 2002100 Mobs: 2002100 - 2002100
+ofcol2.are    : Rooms:   600 - 699   Objs:   600 - 667   Mobs:   600 - 634
+thalos.are    : Rooms:  5200 - 5280  Objs:  5200 - 5252  Mobs:  5200 - 5208
+warrior_guild.are: Rooms: 50301 - 50450 Objs: 50301 - 50450 Mobs: 50301 - 50450
+cleric_guild.are: Rooms: 3000100 - 3000199 Objs: 3000100 - 3000199 Mobs: 3000100 - 3000199
+paladin_guild.are: Rooms: 60501 - 60650 Objs: 60501 - 60650 Mobs: 60501 - 60650
+druid_guild.are: Rooms: 60801 - 60812 Objs: 60801 - 60806 Mobs: 60801 - 60802
+monk_guild.are: Rooms: 3000000 - 3000007 Objs:     0 - 0     Mobs: 3000000 - 3000000
+mage_guild.are: Rooms: 60351 - 60358 Objs:     0 - 0     Mobs: 60351 - 60356
+ranger_guild.are: Rooms: 60651 - 60800 Objs: 60651 - 60656 Mobs: 60651 - 60653
+thief_guild.are: Rooms: 50151 - 50300 Objs: 50151 - 50300 Mobs: 50151 - 50300
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1843
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 280.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (107) 'E': object 280 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1845
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (109) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1846
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 48607.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (110) 'E': object 48607 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1847
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (111) 'E': object 2332 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1854
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 42939.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (118) 'E': object 42939 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1860
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 42939.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (124) 'E': object 42939 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1865
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 46015.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (129) 'E': object 46015 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1866
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2377.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (130) 'E': object 2377 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1867
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (131) 'E': object 2332 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1868
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 42936.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (132) 'E': object 42936 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1869
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 15165.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (133) 'E': object 15165 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1870
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 46239.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (134) 'E': object 46239 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1871
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 5025.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (135) 'E': object 5025 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1872
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 5025.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (136) 'E': object 5025 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1873
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2337.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (137) 'E': object 2337 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1878
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 46283.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (142) 'E': object 46283 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: rdaf.are LINE: 1880
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 25558.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: rdaf.are (144) 'E': object 25558 doesn't exist.
+rdaf.are      : Rooms: 100000 - 100099 Objs: 100000 - 100099 Mobs: 100000 - 100099
+donjon.are    : Rooms: 15100 - 15169 Objs: 15100 - 15167 Mobs: 15100 - 15126
+hood.are      : Rooms: 15170 - 15241 Objs: 15170 - 15181 Mobs: 15170 - 15177
+drow.are      : Rooms:  5100 - 5150  Objs:  5100 - 5114  Mobs:  5100 - 5111
+tohell.are    : Rooms: 48200 - 48340 Objs: 48200 - 48249 Mobs: 48200 - 48269
+freeport.are  : Rooms: 46000 - 46074 Objs: 46000 - 46035 Mobs: 46000 - 46032
+swanbrk.are   : Rooms:   429 - 499   Objs:   429 - 499   Mobs:   429 - 499
+valley.are    : Rooms: 44700 - 44784 Objs: 44700 - 44726 Mobs: 44700 - 44715
+xchan1.are    : Rooms: 12500 - 12800 Objs: 12500 - 12664 Mobs: 12500 - 12753
+vantower.are  : Rooms:   200 - 259   Objs:   200 - 239   Mobs:   200 - 238
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: weater.are LINE: 3083
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Load_resets: 'D': exit 4 not door.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: weater.are LINE: 3083
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Reset: D 0 3023 4 2
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: weater.are (36) 'D': exit 4 not door.
+weater.are    : Rooms:  3000 - 3050  Objs:  3000 - 3059  Mobs:  3000 - 3017
+trollden.are  : Rooms: 48500 - 48504 Objs: 48500 - 48505 Mobs: 48500 - 48508
+pyrundead.are : Rooms:   260 - 299   Objs:   260 - 280   Mobs:   260 - 266
+frstdead.are  : Rooms:  2800 - 2899  Objs:  2800 - 2862  Mobs:  2800 - 2834
+luskan.are    : Rooms:  7921 - 7969  Objs:  7921 - 7969  Mobs:  7921 - 7969
+armsmaug.are  : Rooms: 24500 - 24698 Objs: 24500 - 24541 Mobs: 24500 - 24542
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: eastern.are LINE: 1450
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 5033.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: eastern.are (66) 'P': object 5033 doesn't exist.
+eastern.are   : Rooms:  5001 - 5070  Objs:  5000 - 5032  Mobs:  5000 - 5017
+gtown.are     : Rooms:  8100 - 8199  Objs:  8100 - 8122  Mobs:  8100 - 8134
+midgaard.are  : Rooms: 60850 - 60993 Objs: 60850 - 61011 Mobs: 60850 - 60915
+roads.are     : Rooms: 28000 - 28050 Objs: 28000 - 28010 Mobs:     0 - 0
+lilith.are    : Rooms: 25500 - 25599 Objs: 25500 - 25573 Mobs: 25500 - 25537
+weed.are      : Rooms: 30232 - 30261 Objs: 30232 - 30238 Mobs: 30232 - 30240
+hochenya.are  : Rooms: 42900 - 42998 Objs: 42900 - 42984 Mobs: 42900 - 42950
+canyon.are    : Rooms: 41400 - 41454 Objs: 41400 - 41430 Mobs: 41400 - 41436
+dream.are     : Rooms: 41800 - 41835 Objs: 41800 - 41803 Mobs: 41800 - 41800
+solace.are    : Rooms: 45300 - 45416 Objs: 45300 - 45409 Mobs: 45300 - 45352
+olympus.are   : Rooms: 48000 - 48049 Objs: 48000 - 48028 Mobs: 48000 - 48025
+wyvern.are    : Rooms: 48600 - 48660 Objs: 48600 - 48620 Mobs: 48600 - 48627
+hallof.are    : Rooms: 48700 - 48799 Objs: 48700 - 48799 Mobs: 48700 - 48799
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3693
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 46267.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (11) 'G': object 46267 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3699
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 4152.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (17) 'E': object 4152 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3729
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (47) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3730
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 46291.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (48) 'E': object 46291 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3742
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (60) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3756
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2336.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (74) 'E': object 2336 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3757
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (75) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3759
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (77) 'E': object 2332 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3770
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2336.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (88) 'E': object 2336 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3771
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (89) 'E': object 2332 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3772
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (90) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3783
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (101) 'E': object 2332 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3784
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (102) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3786
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2327.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (104) 'E': object 2327 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3788
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2322.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (106) 'E': object 2322 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3793
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (111) 'O': object 26539 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3795
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (113) 'O': object 26539 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3797
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (115) 'O': object 26539 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3800
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (118) 'O': object 26539 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3803
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (121) 'O': object 26539 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3813
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (131) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3814
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2392.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (132) 'E': object 2392 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3834
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (152) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3840
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2336.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (158) 'E': object 2336 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3846
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (164) 'E': object 2332 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3847
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (165) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3861
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2388.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (179) 'E': object 2388 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3865
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 14747.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (183) 'E': object 14747 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3873
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (191) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3884
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (202) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3887
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 4152.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (205) 'E': object 4152 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3906
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (224) 'G': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3908
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 25066.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (226) 'E': object 25066 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3913
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (231) 'E': object 2338 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: brave.are LINE: 3920
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: brave.are (238) 'E': object 2338 doesn't exist.
+brave.are     : Rooms: 70000 - 70100 Objs: 70000 - 70099 Mobs: 70000 - 70100
+izmyr.are     : Rooms: 49800 - 50000 Objs: 49800 - 50000 Mobs: 49800 - 50000
+origin.are    : Rooms: 50001 - 50100 Objs: 50001 - 50100 Mobs: 50001 - 50100
+vague.are     : Rooms: 70101 - 70200 Objs: 70101 - 70200 Mobs: 70200 - 70200
+cursenec.are  : Rooms: 25000 - 25099 Objs: 25000 - 25099 Mobs: 25000 - 25099
+arachnos.are  : Rooms: 44900 - 44955 Objs: 44900 - 44903 Mobs: 44900 - 44918
+goblins.are   : Rooms: 20000 - 20031 Objs: 20000 - 20006 Mobs: 20000 - 20017
+thoran.are    : Rooms: 26500 - 26586 Objs: 26500 - 26543 Mobs: 26500 - 26546
+moria.are     : Rooms:  4100 - 4172  Objs:  4100 - 4152  Mobs:  4100 - 4160
+hitower.are   : Rooms: 46200 - 46382 Objs: 46200 - 46294 Mobs: 46200 - 46265
+marsh.are     : Rooms:  8301 - 8318  Objs:  8301 - 8307  Mobs:  8301 - 8321
+mahntor.are   : Rooms:  2300 - 2399  Objs:  2300 - 2393  Mobs:  2300 - 2333
+keraptis.are  : Rooms: 46900 - 46999 Objs: 46900 - 46947 Mobs: 46900 - 46919
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: mtdoom.are LINE: 3522
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Load_resets: 'D': exit 4 not door.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: mtdoom.are LINE: 3522
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Reset: D 1 14749 4 1
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: mtdoom.are (39) 'D': exit 4 not door.
+mtdoom.are    : Rooms: 14700 - 14806 Objs: 14700 - 14758 Mobs: 14700 - 14747
+pe_order.are  : Rooms: 3000051 - 3000099 Objs: 3000051 - 3000099 Mobs: 3000051 - 3000099
+harperhall.are: Rooms: 3000200 - 3000250 Objs: 3000200 - 3000250 Mobs: 3000200 - 3000250
+werewolf.are  : Rooms: 3000251 - 3000273 Objs: 3000251 - 3000251 Mobs: 3000251 - 3000257
+lordrom.are   : Rooms:  1300 - 1305  Objs:     0 - 0     Mobs:  1300 - 1300
+lordrom1.are  : Rooms: 30300 - 30319 Objs: 30300 - 30310 Mobs: 30300 - 30302
+midon.are     : Rooms: 13000 - 13330 Objs: 13000 - 13123 Mobs: 13000 - 13091
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: hand_of_light.are LINE: 35
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Mob 70201 was set for level 116 ... Resetting to level 100
+hand_of_light.are: Rooms: 70201 - 70216 Objs:     0 - 0     Mobs: 70201 - 70210
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: necro.are LINE: 400
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: necro.are (5) 'O': object 12204 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: necro.are LINE: 412
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: necro.are (17) 'P': object 12204 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: necro.are LINE: 413
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: necro.are (18) 'P': object 12204 doesn't exist.
+Wed Jul 31 14:24:39 2002 :: [*****] FILE: necro.are LINE: 415
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Load_resets: necro.are (20) 'O': object 12204 doesn't exist.
+necro.are     : Rooms: 12201 - 12215 Objs: 12200 - 12208 Mobs: 12201 - 12202
+reign.are     : Rooms:  9900 - 9942  Objs:  9900 - 9986  Mobs:  9900 - 9920
+Wed Jul 31 14:24:39 2002 :: Making sure rooms are planed...
+Wed Jul 31 14:24:39 2002 :: Loading high scores...
+Wed Jul 31 14:24:39 2002 :: Fixing exits
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 8318, exit south leads to bad vnum (-1)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting south exit in room 8318
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 45839.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 41827, exit west leads to bad vnum (45839)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting west exit in room 41827
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 3205.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 26500, exit south leads to bad vnum (3205)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting south exit in room 26500
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 3052.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 3900, exit south leads to bad vnum (3052)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting south exit in room 3900
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 300.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 3904, exit north leads to bad vnum (300)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting north exit in room 3904
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 3053.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 3908, exit south leads to bad vnum (3053)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting south exit in room 3908
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Get_room_index: bad vnum 4785.
+Wed Jul 31 14:24:39 2002 :: [*****] BOOT: Fix_exits: room 4000, exit east leads to bad vnum (4785)
+Wed Jul 31 14:24:39 2002 :: [*****] BUG: Deleting east exit in room 4000
+Wed Jul 31 14:24:39 2002 :: Initializing economy
+Wed Jul 31 14:24:39 2002 :: Resetting areas
+Wed Jul 31 14:24:39 2002 :: Loading buildlist
+Wed Jul 31 14:24:39 2002 :: ../gods/Rathkor
+Wed Jul 31 14:24:39 2002 :: ../gods/Fellon
+Wed Jul 31 14:24:39 2002 :: ../gods/Cyph
+Wed Jul 31 14:24:39 2002 :: ../gods/Relgar
+Wed Jul 31 14:24:39 2002 :: ../gods/Prage
+Wed Jul 31 14:24:39 2002 :: ../gods/Marten
+Wed Jul 31 14:24:39 2002 :: ../gods/Fairburn
+Wed Jul 31 14:24:39 2002 :: ../gods/Arbadus
+Wed Jul 31 14:24:39 2002 :: ../gods/Bronwen
+Wed Jul 31 14:24:39 2002 :: ../gods/Medic
+Wed Jul 31 14:24:39 2002 :: ../gods/Andy
+Wed Jul 31 14:24:39 2002 :: Loading boards
+Wed Jul 31 14:24:39 2002 :: ../boards/immortal.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/highgod.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/IMC.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/general.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/buildcode.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/mail.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/cabinet.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/druidguild.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/imc.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/rdaf.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/buildcode.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/bug.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/pe.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/clerics.brd
+Wed Jul 31 14:24:39 2002 :: ../boards/izmyr.brd
+Wed Jul 31 14:24:39 2002 :: Loading clans
+Wed Jul 31 14:24:39 2002 :: Loading clans...
+Wed Jul 31 14:24:39 2002 :: mage.gui
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: ranger.gui
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: thief.gui
+Wed Jul 31 14:24:39 2002 :: Cannot open clan vault
+Wed Jul 31 14:24:39 2002 :: warrior.gui
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: harper.gui
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: cleric.gui
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: paladin.gui
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: druid.gui
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: RDAF.order
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: vampire.order
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: pexplorer.order
+Wed Jul 31 14:24:39 2002 :: Cannot open clan vault
+Wed Jul 31 14:24:39 2002 :: antipaladin.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: knight.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: battlemage.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: necromancer.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: augurer.gui
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: monk.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: illusionist.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: assassin.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: warlock.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: rogue.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: psionicist.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: angel.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: demon.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: werewolf.guild
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: ooc.clan
+Wed Jul 31 14:24:39 2002 :: Loading clan storage room
+Wed Jul 31 14:24:39 2002 :: selune.order
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: hol.clan
+Wed Jul 31 14:24:39 2002 :: Storeroom not found
+Wed Jul 31 14:24:39 2002 :: $
+Wed Jul 31 14:24:39 2002 ::  Done clans 
+Wed Jul 31 14:24:39 2002 :: Loading councils
+Wed Jul 31 14:24:39 2002 :: Loading councils...
+Wed Jul 31 14:24:39 2002 :: edlder.council
+Wed Jul 31 14:24:39 2002 :: builder.council
+Wed Jul 31 14:24:39 2002 :: newbie.council
+Wed Jul 31 14:24:39 2002 :: quests.cncl
+Wed Jul 31 14:24:39 2002 :: code.council
+Wed Jul 31 14:24:39 2002 :: PK.council
+Wed Jul 31 14:24:39 2002 :: $
+Wed Jul 31 14:24:39 2002 ::  Done councils 
+Wed Jul 31 14:24:39 2002 :: Loading deities
+Wed Jul 31 14:24:39 2002 :: Loading deities...
+Wed Jul 31 14:24:39 2002 :: test.dty
+Wed Jul 31 14:24:39 2002 :: ../deity/soleran
+Wed Jul 31 14:24:39 2002 :: ../deity/cimeron
+Wed Jul 31 14:24:39 2002 :: ../deity/barronar
+Wed Jul 31 14:24:39 2002 :: ../deity/aoskar
+Wed Jul 31 14:24:39 2002 :: ../deity/ci'diys
+Wed Jul 31 14:24:39 2002 :: ../deity/stetha
+Wed Jul 31 14:24:39 2002 :: ../deity/oghma
+Wed Jul 31 14:24:39 2002 :: ../deity/selune
+Wed Jul 31 14:24:39 2002 :: ../deity/thirian
+Wed Jul 31 14:24:39 2002 :: ../deity/torm
+Wed Jul 31 14:24:39 2002 :: ../deity/tyr
+Wed Jul 31 14:24:39 2002 :: ../deity/shaundakul
+Wed Jul 31 14:24:39 2002 :: ../deity/shar
+Wed Jul 31 14:24:39 2002 :: ../deity/mystra
+Wed Jul 31 14:24:39 2002 :: ../deity/moradin
+Wed Jul 31 14:24:39 2002 :: ../deity/borrin
+Wed Jul 31 14:24:39 2002 :: ../deity/assimon
+Wed Jul 31 14:24:39 2002 :: ../deity/corellon
+Wed Jul 31 14:24:39 2002 :: ../deity/lolth
+Wed Jul 31 14:24:39 2002 :: ../deity/semuanya
+Wed Jul 31 14:24:39 2002 :: ../deity/huath
+Wed Jul 31 14:24:39 2002 :: ../deity/sikkuh
+Wed Jul 31 14:24:39 2002 :: ../deity/beshaba
+Wed Jul 31 14:24:39 2002 :: ../deity/azuth
+Wed Jul 31 14:24:39 2002 :: ../deity/bane
+Wed Jul 31 14:24:39 2002 :: ../deity/auril
+Wed Jul 31 14:24:39 2002 :: $
+Wed Jul 31 14:24:39 2002 ::  Done deities 
+Wed Jul 31 14:24:39 2002 :: Loading watches
+Wed Jul 31 14:24:39 2002 :: Loading bans
+Wed Jul 31 14:24:39 2002 :: Done.
+Wed Jul 31 14:24:39 2002 :: Loading reserved names
+Wed Jul 31 14:24:39 2002 :: Loading corpses
+Corpse -> ../corpses/Jaguar
+Corpse -> ../corpses/Dreun
+Corpse -> ../corpses/Trespin
+Corpse -> ../corpses/Jostos
+Corpse -> ../corpses/Icendor
+Corpse -> ../corpses/Hamspiced
+Corpse -> ../corpses/Cernunnos
+Corpse -> ../corpses/Magneto
+Corpse -> ../corpses/Rayden
+Corpse -> ../corpses/Exentric
+Wed Jul 31 14:24:39 2002 :: Loading Immortal Hosts
+Wed Jul 31 14:24:39 2002 :: Done.
+Wed Jul 31 14:24:39 2002 :: Loading Projects
+Wed Jul 31 14:24:39 2002 :: Loading Morphs
+Wed Jul 31 14:24:39 2002 :: Optimizing Morphs.
+Wed Jul 31 14:24:39 2002 :: Done.
+Wed Jul 31 14:24:39 2002 :: Loading Intermud-3 network data...
+Wed Jul 31 14:24:39 2002 :: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Wed Jul 31 14:24:39 2002 :: Initializing socket
+Wed Jul 31 14:24:39 2002 :: imc: imc2-2.00g RM4 Beta initializing
+Wed Jul 31 14:24:39 2002 :: imc: Logging On
+Wed Jul 31 14:24:39 2002 :: imc: HubSwitch Off
+Wed Jul 31 14:24:39 2002 :: imc: network initializing
+Wed Jul 31 14:24:39 2002 :: imc: binding port 4125 for incoming connections
+Wed Jul 31 14:24:39 2002 :: imc: connect to hub6
+Wed Jul 31 14:24:39 2002 :: imc: ICE client starting.
+Wed Jul 31 14:24:39 2002 :: imc: ICEc: configured Hub:IMCChat as ichat
+Wed Jul 31 14:24:39 2002 :: imc: ICEc: configured Hub:CodeChat as cchat
+Wed Jul 31 14:24:39 2002 :: imc: ICEc: configured Hub6:PlayerChat as pchat
+Wed Jul 31 14:24:39 2002 :: SDFmud: Alpha ready at address sverige on port 4000.
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Equip_char: already equipped a shattered helm->harpy Room 12716.
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Equip_char: already equipped a dull metal spear->harpy Room 12716.
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Equip_char: already equipped a tattered chain hauberk->harpy Room 12716.
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Equip_char: already equipped a black metal shield->harpy Room 12716.
+Wed Jul 31 14:24:59 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 14:25:01 2002 :: Sock.sinaddr:  207.202.214.132, port -13241.
+Wed Jul 31 14:25:02 2002 :: Sock.sinaddr:  207.202.214.132, port -13242.
+Wed Jul 31 14:25:02 2002 :: imc: hub6[13]: connected (version 2)
+Wed Jul 31 14:25:02 2002 :: Sock.sinaddr:  207.202.214.132, port -13243.
+Wed Jul 31 14:25:02 2002 :: Sock.sinaddr:  203.58.238.120, port 1031.
+Wed Jul 31 14:25:04 2002 :: Sock.sinaddr:  207.202.214.132, port -13245.
+Wed Jul 31 14:25:05 2002 :: Preloading player data for: Exentric (6K)
+Wed Jul 31 14:25:05 2002 :: Preloading player data for: Cleo (6K)
+Wed Jul 31 14:25:07 2002 :: Loading player data for: Exentric (6K)
+Wed Jul 31 14:25:07 2002 :: Exentric@207.202.214.132(root) has connected.
+Wed Jul 31 14:25:07 2002 :: Preloading player data for: Prage (20K)
+Wed Jul 31 14:25:08 2002 :: Loading player data for: Cleo (6K)
+Wed Jul 31 14:25:08 2002 :: Cleo@207.202.214.132(root) has connected.
+Wed Jul 31 14:25:09 2002 :: Loading player data for: Prage (20K)
+Wed Jul 31 14:25:09 2002 :: Prage@203.58.238.120((pipe breaking)) has connected.
+Wed Jul 31 14:25:10 2002 :: Preloading player data for: Jaguar (5K)
+Wed Jul 31 14:25:11 2002 :: Cleo has entered the realm!
+Wed Jul 31 14:25:11 2002 :: Preloading player data for: Reaper (8K)
+Wed Jul 31 14:25:13 2002 :: Sock.sinaddr:  207.202.214.132, port -13248.
+Wed Jul 31 14:25:13 2002 :: Exentric has entered the realm!
+Wed Jul 31 14:25:14 2002 :: Loading player data for: Jaguar (5K)
+Wed Jul 31 14:25:14 2002 :: Jaguar@207.202.214.132(root) has connected.
+Wed Jul 31 14:25:14 2002 :: Prage has entered the realm!
+Wed Jul 31 14:25:15 2002 :: Sock.sinaddr:  207.202.214.132, port -13249.
+Wed Jul 31 14:25:17 2002 :: Sock.sinaddr:  144.122.171.61, port 1483.
+Wed Jul 31 14:25:17 2002 :: Preloading player data for: Joe (3K)
+Wed Jul 31 14:25:19 2002 :: Preloading player data for: Oracle (8K)
+Wed Jul 31 14:25:20 2002 :: Loading player data for: Joe (3K)
+Wed Jul 31 14:25:20 2002 :: Joe@207.202.214.132(thetick1) has connected.
+Wed Jul 31 14:25:21 2002 :: Jaguar has entered the realm!
+Wed Jul 31 14:25:23 2002 :: Joe has entered the realm!
+Wed Jul 31 14:25:25 2002 :: Preloading player data for: Nicremog (20K)
+Wed Jul 31 14:25:28 2002 :: Loading player data for: Nicremog (20K)
+Wed Jul 31 14:25:28 2002 :: Nicremog@144.122.171.61((pipe breaking)) has connected.
+Wed Jul 31 14:25:31 2002 :: Nicremog has entered the realm!
+Wed Jul 31 14:25:37 2002 :: Loading player data for: Reaper (8K)
+Wed Jul 31 14:25:37 2002 :: Reaper@207.202.214.132(root) has connected.
+Wed Jul 31 14:25:42 2002 :: Sock.sinaddr:  202.153.247.163, port 1593.
+Wed Jul 31 14:25:44 2002 :: Reaper has entered the realm!
+Wed Jul 31 14:25:45 2002 :: Loading player data for: Oracle (8K)
+Wed Jul 31 14:25:45 2002 :: Oracle@207.202.214.132(root) has connected.
+Wed Jul 31 14:25:46 2002 :: Preloading player data for: Aoi (4K)
+Wed Jul 31 14:25:50 2002 :: Loading player data for: Aoi (4K)
+Wed Jul 31 14:25:50 2002 :: Aoi@202.153.247.163(jopskf) has connected.
+Wed Jul 31 14:25:56 2002 :: Aoi has entered the realm!
+Wed Jul 31 14:25:57 2002 :: Oracle has entered the realm!
+Wed Jul 31 14:26:17 2002 :: Sock.sinaddr:  207.202.214.132, port -13262.
+Wed Jul 31 14:26:25 2002 :: Preloading player data for: Quicksilver (9K)
+Wed Jul 31 14:26:29 2002 :: Loading player data for: Quicksilver (9K)
+Wed Jul 31 14:26:29 2002 :: Quicksilver@207.202.214.132(root) has connected.
+Wed Jul 31 14:26:34 2002 :: Sock.sinaddr:  207.202.214.132, port -13269.
+Wed Jul 31 14:26:38 2002 :: Sock.sinaddr:  202.153.247.163, port 1595.
+Wed Jul 31 14:26:39 2002 :: Quicksilver has entered the realm!
+Wed Jul 31 14:26:41 2002 :: Preloading player data for: Samurai (1K)
+Wed Jul 31 14:26:45 2002 :: Loading player data for: Samurai (1K)
+Wed Jul 31 14:26:45 2002 :: Samurai@207.202.214.132(root) has connected.
+Wed Jul 31 14:26:50 2002 :: Preloading player data for: Midori (5K)
+Wed Jul 31 14:26:53 2002 :: Loading player data for: Midori (5K)
+Wed Jul 31 14:26:53 2002 :: Midori@202.153.247.163(cibwocp) has connected.
+Wed Jul 31 14:27:00 2002 :: Samurai has entered the realm!
+Wed Jul 31 14:27:21 2002 :: Midori has entered the realm!
+Wed Jul 31 14:27:50 2002 :: Sock.sinaddr:  24.218.84.48, port -32638.
+Wed Jul 31 14:27:52 2002 :: Preloading player data for: Arbadus (12K)
+Wed Jul 31 14:27:53 2002 :: Loading player data for: Arbadus (12K)
+Wed Jul 31 14:27:53 2002 :: Arbadus@24.218.84.48((pipe breaking)) has connected.
+Wed Jul 31 14:27:54 2002 :: Arbadus has entered the realm!
+Wed Jul 31 14:27:58 2002 :: Sock.sinaddr:  207.202.214.132, port -13289.
+Wed Jul 31 14:27:58 2002 :: ninja rabbit teleported ninja rabbit to room 60857.
+Wed Jul 31 14:28:05 2002 :: Preloading player data for: Icendor (1K)
+Wed Jul 31 14:28:06 2002 :: Sock.sinaddr:  203.58.238.120, port 1032.
+Wed Jul 31 14:28:09 2002 :: Loading player data for: Icendor (1K)
+Wed Jul 31 14:28:09 2002 :: Icendor@207.202.214.132(root) has connected.
+Wed Jul 31 14:28:10 2002 :: Preloading player data for: Prage (20K)
+Wed Jul 31 14:28:11 2002 :: Closing link to Prage.
+Wed Jul 31 14:28:11 2002 :: Prage@203.58.238.120 reconnected, kicking off old link.
+Wed Jul 31 14:28:22 2002 :: Icendor has entered the realm!
+Wed Jul 31 14:29:26 2002 :: ninja rabbit teleported ninja rabbit to room 26571.
+Wed Jul 31 14:29:34 2002 :: Sock.sinaddr:  64.5.68.221, port 4856.
+Wed Jul 31 14:29:35 2002 :: [*****] BUG: Auth_read: no username for (unknown)@64.5.68.221.
+Wed Jul 31 14:29:37 2002 :: Preloading player data for: Dreun (5K)
+Wed Jul 31 14:29:42 2002 :: Loading player data for: Dreun (5K)
+Wed Jul 31 14:29:42 2002 :: Dreun@64.5.68.221((no username)) has connected.
+Wed Jul 31 14:30:06 2002 :: Sock.sinaddr:  207.202.214.132, port -13306.
+Wed Jul 31 14:30:13 2002 :: Icendor has quit (Room 21042).
+Wed Jul 31 14:30:13 2002 :: Preloading player data for: Saruman (4K)
+Wed Jul 31 14:30:16 2002 :: Sock.sinaddr:  207.202.214.132, port -13310.
+Wed Jul 31 14:30:16 2002 :: Loading player data for: Saruman (4K)
+Wed Jul 31 14:30:16 2002 :: Saruman@207.202.214.132(kaalan) has connected.
+Wed Jul 31 14:30:21 2002 :: Preloading player data for: Magneto (1K)
+Wed Jul 31 14:30:47 2002 :: Loading player data for: Magneto (1K)
+Wed Jul 31 14:30:47 2002 :: Magneto@207.202.214.132(root) has connected.
+Wed Jul 31 14:31:02 2002 :: Arbadus has quit (Room 1222).
+Wed Jul 31 14:31:13 2002 :: Saruman has entered the realm!
+Wed Jul 31 14:31:38 2002 :: Magneto has entered the realm!
+Wed Jul 31 14:32:07 2002 :: Samurai has quit (Room 2483).
+Wed Jul 31 14:32:15 2002 :: Sock.sinaddr:  207.202.214.132, port -13343.
+Wed Jul 31 14:32:21 2002 :: Preloading player data for: Samurai (1K)
+Wed Jul 31 14:32:45 2002 :: Loading player data for: Samurai (1K)
+Wed Jul 31 14:32:45 2002 :: Samurai@207.202.214.132(root) has connected.
+Wed Jul 31 14:32:49 2002 :: Samurai has entered the realm!
+Wed Jul 31 14:32:51 2002 :: Magneto has quit (Room 21181).
+Wed Jul 31 14:33:23 2002 :: Exentric (53) killed by the master at 8153
+Wed Jul 31 14:34:13 2002 :: Sock.sinaddr:  203.58.238.120, port 1034.
+Wed Jul 31 14:34:18 2002 :: Preloading player data for: Prage (20K)
+Wed Jul 31 14:34:20 2002 :: Closing link to Prage.
+Wed Jul 31 14:34:20 2002 :: Prage@203.58.238.120 reconnected, kicking off old link.
+Wed Jul 31 14:34:35 2002 :: EOF encountered on read.
+Wed Jul 31 14:34:35 2002 :: Closing link to Prage.
+Wed Jul 31 14:35:06 2002 :: Closing link to Dreun.
+Wed Jul 31 14:35:39 2002 :: Sock.sinaddr:  67.217.179.195, port 1846.
+Wed Jul 31 14:35:59 2002 :: Preloading player data for: Mirri (1K)
+Wed Jul 31 14:36:01 2002 :: Loading player data for: Mirri (1K)
+Wed Jul 31 14:36:01 2002 :: Mirri@67.217.179.195((broken pipe)) has connected.
+Wed Jul 31 14:36:04 2002 :: Mirri has entered the realm!
+Wed Jul 31 14:37:28 2002 :: Sock.sinaddr:  132.216.66.107, port 1190.
+Wed Jul 31 14:37:31 2002 :: Preloading player data for: Lsneacnmnyji (16K)
+Wed Jul 31 14:37:33 2002 :: Loading player data for: Lsneacnmnyji (16K)
+Wed Jul 31 14:37:33 2002 :: Lsneacnmnyji@132.216.66.107((pipe breaking)) has connected.
+Wed Jul 31 14:37:34 2002 :: Aella has entered the realm!
+Wed Jul 31 14:38:49 2002 :: Sock.sinaddr:  207.202.214.132, port -13396.
+Wed Jul 31 14:38:56 2002 :: Sock.sinaddr:  67.217.179.195, port 1848.
+Wed Jul 31 14:38:59 2002 :: Sock.sinaddr:  207.202.214.132, port -13397.
+Wed Jul 31 14:38:59 2002 :: Preloading player data for: Ertai (5K)
+Wed Jul 31 14:39:02 2002 :: Loading player data for: Ertai (5K)
+Wed Jul 31 14:39:02 2002 :: Ertai@67.217.179.195((pipe breaking)) has connected.
+Wed Jul 31 14:39:04 2002 :: Ertai has entered the realm!
+Wed Jul 31 14:39:05 2002 :: Preloading player data for: Effervesence (1K)
+Wed Jul 31 14:39:10 2002 :: Loading player data for: Effervesence (1K)
+Wed Jul 31 14:39:10 2002 :: Effervesence@207.202.214.132(root) has connected.
+Wed Jul 31 14:39:19 2002 :: Effervesence has entered the realm!
+Wed Jul 31 14:42:15 2002 :: Mirri (11) killed by the vigilant watcher at 3009
+Wed Jul 31 14:42:47 2002 :: Sock.sinaddr:  207.202.214.132, port -13437.
+Wed Jul 31 14:43:50 2002 :: Sock.sinaddr:  207.202.214.132, port -13541.
+Wed Jul 31 14:45:41 2002 :: Sock.sinaddr:  207.202.214.132, port -13563.
+Wed Jul 31 14:45:44 2002 :: Preloading player data for: Mousey (7K)
+Wed Jul 31 14:45:47 2002 :: Loading player data for: Mousey (7K)
+Wed Jul 31 14:45:47 2002 :: Mousey@207.202.214.132(djmous3) has connected.
+Wed Jul 31 14:46:16 2002 :: Mousey has entered the realm!
+Wed Jul 31 14:46:26 2002 :: Sock.sinaddr:  207.202.214.132, port -13576.
+Wed Jul 31 14:46:28 2002 :: Preloading player data for: Jostos (6K)
+Wed Jul 31 14:46:31 2002 :: Loading player data for: Jostos (6K)
+Wed Jul 31 14:46:31 2002 :: Jostos@207.202.214.132(progboss) has connected.
+Wed Jul 31 14:46:34 2002 :: Jostos has entered the realm!
+Wed Jul 31 14:48:02 2002 :: Sock.sinaddr:  203.58.238.120, port 1043.
+Wed Jul 31 14:48:04 2002 :: Preloading player data for: Prage (20K)
+Wed Jul 31 14:48:07 2002 :: Prage@203.58.238.120((pipe breaking)) reconnected.
+Wed Jul 31 14:48:08 2002 :: Samurai has quit (Room 2412).
+Wed Jul 31 14:48:42 2002 :: [*****] BUG: Mpechoat - victim does not exist, Mob #21435.
+Wed Jul 31 14:49:18 2002 :: Jostos (56) killed by A tall regal stag at 484
+Wed Jul 31 14:50:26 2002 :: Exentric has quit (Room 8112).
+Wed Jul 31 14:50:34 2002 :: Aoi has quit (Room 21000).
+Wed Jul 31 14:50:49 2002 :: Cleo has quit (Room 8149).
+Wed Jul 31 14:51:11 2002 :: Saruman (6) killed by Asp at 10397
+Wed Jul 31 14:52:46 2002 :: Sock.sinaddr:  64.5.68.221, port 4731.
+Wed Jul 31 14:52:47 2002 :: [*****] BUG: Auth_read: no username for (unknown)@64.5.68.221.
+Wed Jul 31 14:52:50 2002 :: EOF encountered on read.
+Wed Jul 31 14:52:50 2002 :: Closing link to Mousey.
+Wed Jul 31 14:52:55 2002 :: Preloading player data for: Zeedep (6K)
+Wed Jul 31 14:52:57 2002 :: Sock.sinaddr:  207.202.214.132, port -13637.
+Wed Jul 31 14:53:13 2002 :: Sock.sinaddr:  132.216.66.107, port 1197.
+Wed Jul 31 14:53:15 2002 :: Preloading player data for: Mousey (7K)
+Wed Jul 31 14:53:15 2002 :: Reaper has quit (Room 14800).
+Wed Jul 31 14:53:17 2002 :: Sock.sinaddr:  64.5.68.221, port 4728.
+Wed Jul 31 14:53:18 2002 :: [*****] BUG: Auth_read: no username for (unknown)@64.5.68.221.
+Wed Jul 31 14:53:18 2002 :: Mousey@207.202.214.132(djmous3) reconnected.
+Wed Jul 31 14:53:18 2002 :: Mousey (25) killed by Mousey at 24854
+Write_to_descriptor: Broken pipe
+Wed Jul 31 14:53:18 2002 :: Closing link to Lsneacnmnyji.
+Read_from_descriptor: Connection reset by peer
+Wed Jul 31 14:53:21 2002 :: Closing link to Nicremog.
+Wed Jul 31 14:53:21 2002 :: Nicremog has quit (Room 7900).
+Wed Jul 31 14:53:21 2002 :: Sock.sinaddr:  64.5.68.221, port 4727.
+Wed Jul 31 14:53:21 2002 :: Preloading player data for: Dreun (5K)
+Wed Jul 31 14:53:22 2002 :: [*****] BUG: Auth_read: no username for (unknown)@64.5.68.221.
+Wed Jul 31 14:53:23 2002 :: Midori has quit (Room 21000).
+Wed Jul 31 14:53:23 2002 :: Loading player data for: Zeedep (6K)
+Wed Jul 31 14:53:23 2002 :: Zeedep@64.5.68.221((no username)) has connected.
+Wed Jul 31 14:53:26 2002 :: Loading player data for: Dreun (5K)
+Wed Jul 31 14:53:26 2002 :: Dreun@64.5.68.221((no username)) has connected.
+Wed Jul 31 14:53:27 2002 :: Zeedep already connected.
+Read_from_descriptor: Connection reset by peer
+Wed Jul 31 14:53:32 2002 :: EOF encountered on read.
+Wed Jul 31 14:53:32 2002 :: Closing link to Jaguar.
+Wed Jul 31 14:53:34 2002 :: EOF encountered on read.
+Wed Jul 31 14:53:34 2002 :: Closing link to Effervesence.
+Wed Jul 31 14:53:39 2002 :: Zeedep has entered the realm!
+Wed Jul 31 14:53:39 2002 :: Sock.sinaddr:  207.202.214.132, port -13644.
+Wed Jul 31 14:53:43 2002 :: Preloading player data for: Theodore (7K)
+Wed Jul 31 14:53:48 2002 :: Dreun has entered the realm!
+Wed Jul 31 14:53:49 2002 :: Closing link to Theodore.
+Wed Jul 31 14:53:52 2002 :: Sock.sinaddr:  207.202.214.132, port -13645.
+Wed Jul 31 14:53:52 2002 :: Preloading player data for: Lsneacnmnyji (16K)
+Wed Jul 31 14:53:53 2002 :: Lsneacnmnyji@132.216.66.107((broken pipe)) reconnected.
+Wed Jul 31 14:53:54 2002 :: Preloading player data for: Theodore (7K)
+Wed Jul 31 14:53:58 2002 :: Loading player data for: Theodore (7K)
+Wed Jul 31 14:53:58 2002 :: Theodore@207.202.214.132(djm06) has connected.
+Wed Jul 31 14:54:01 2002 :: Theodore has entered the realm!
+Wed Jul 31 14:54:11 2002 :: Sock.sinaddr:  144.122.171.61, port 1540.
+Wed Jul 31 14:54:11 2002 :: EOF encountered on read.
+Wed Jul 31 14:54:11 2002 :: Closing link to Oracle.
+Wed Jul 31 14:54:14 2002 :: Saruman has quit (Room 21194).
+Wed Jul 31 14:54:20 2002 :: Preloading player data for: NICREMOG (21K)
+Wed Jul 31 14:54:24 2002 :: Loading player data for: NICREMOG (21K)
+Wed Jul 31 14:54:24 2002 :: NICREMOG@144.122.171.61((pipe breaking)) has connected.
+Wed Jul 31 14:54:26 2002 :: Nicremog has entered the realm!
+Wed Jul 31 14:55:19 2002 :: EOF encountered on read.
+Wed Jul 31 14:55:19 2002 :: Closing link to Joe.
+Wed Jul 31 14:55:52 2002 :: Sock.sinaddr:  67.217.179.139, port 1854.
+Wed Jul 31 14:55:58 2002 :: Preloading player data for: Mirri (1K)
+Wed Jul 31 14:56:00 2002 :: Closing link to Mirri.
+Wed Jul 31 14:56:00 2002 :: Mirri@67.217.179.139 reconnected, kicking off old link.
+Wed Jul 31 14:56:10 2002 :: Sock.sinaddr:  67.217.179.139, port 1856.
+Wed Jul 31 14:56:14 2002 :: Preloading player data for: Ertai (5K)
+Wed Jul 31 14:56:16 2002 :: Closing link to Ertai.
+Wed Jul 31 14:56:16 2002 :: Ertai@67.217.179.139 reconnected, kicking off old link.
+Wed Jul 31 14:57:05 2002 :: EOF encountered on read.
+Wed Jul 31 14:57:05 2002 :: Closing link to Quicksilver.
+Wed Jul 31 14:57:12 2002 :: Sock.sinaddr:  207.202.214.132, port -13681.
+Wed Jul 31 14:57:15 2002 :: Preloading player data for: Oracle (8K)
+Wed Jul 31 14:57:19 2002 :: Sock.sinaddr:  207.202.214.132, port -13682.
+Wed Jul 31 14:57:20 2002 :: Oracle@207.202.214.132(root) reconnected.
+Wed Jul 31 14:57:27 2002 :: Preloading player data for: Morpheus (9K)
+Wed Jul 31 14:57:29 2002 :: Sock.sinaddr:  207.202.214.132, port -13685.
+Wed Jul 31 14:57:31 2002 :: Loading player data for: Morpheus (9K)
+Wed Jul 31 14:57:31 2002 :: Morpheus@207.202.214.132(root) has connected.
+Wed Jul 31 14:57:32 2002 :: Preloading player data for: Exentric (6K)
+Wed Jul 31 14:57:35 2002 :: Loading player data for: Exentric (6K)
+Wed Jul 31 14:57:35 2002 :: Exentric@207.202.214.132(root) has connected.
+Wed Jul 31 14:57:37 2002 :: Sock.sinaddr:  207.202.214.132, port -13686.
+Wed Jul 31 14:57:38 2002 :: Sock.sinaddr:  207.202.214.132, port -13687.
+Wed Jul 31 14:57:38 2002 :: Morpheus has entered the realm!
+Wed Jul 31 14:57:40 2002 :: Exentric has entered the realm!
+Wed Jul 31 14:57:41 2002 :: Preloading player data for: Cleo (6K)
+Wed Jul 31 14:57:43 2002 :: Loading player data for: Cleo (6K)
+Wed Jul 31 14:57:43 2002 :: Cleo@207.202.214.132(root) has connected.
+Wed Jul 31 14:57:46 2002 :: Preloading player data for: Quicksilver (9K)
+Wed Jul 31 14:57:46 2002 :: Cleo has entered the realm!
+Wed Jul 31 14:57:48 2002 :: Quicksilver@207.202.214.132(root) reconnected.
+Wed Jul 31 14:57:56 2002 :: Sock.sinaddr:  207.202.214.132, port -13689.
+Wed Jul 31 14:58:02 2002 :: Preloading player data for: Effervesence (2K)
+Wed Jul 31 14:58:06 2002 :: Effervesence@207.202.214.132(root) reconnected.
+Wed Jul 31 14:58:26 2002 :: Log Prage: force exec tell prage foo
+Wed Jul 31 14:59:51 2002 :: Sock.sinaddr:  207.202.214.132, port -13725.
+Wed Jul 31 14:59:57 2002 :: Preloading player data for: Saruman (1K)
+Wed Jul 31 15:00:00 2002 :: Loading player data for: Saruman (1K)
+Wed Jul 31 15:00:00 2002 :: Saruman@207.202.214.132(kaalan) has connected.
+Wed Jul 31 15:00:05 2002 :: Saruman has entered the realm!
+Wed Jul 31 15:01:28 2002 :: [*****] BUG: Mpmload - Bad mob vnum, Mob #42950.
+Wed Jul 31 15:01:28 2002 :: [*****] BUG: Mpmload - Bad mob vnum, Mob #42950.
+Wed Jul 31 15:01:28 2002 :: [*****] BUG: Mpforce - No such victim, Mob #42950.
+Wed Jul 31 15:01:28 2002 :: [*****] BUG: Mpforce - No such victim, Mob #42950.
+Wed Jul 31 15:02:01 2002 :: [*****] BUG: Mpoload - Bad vnum arg, Mob #42950.
+Wed Jul 31 15:02:20 2002 :: [*****] BUG: Mpoload - Bad vnum arg, Mob #42950.
+Wed Jul 31 15:03:08 2002 :: Mousey (25) killed by Welmar's Mouth at 24854
+Wed Jul 31 15:03:21 2002 :: Ertai has quit (Room 21042).
+Wed Jul 31 15:03:28 2002 :: Mirri has quit (Room 2108).
+Wed Jul 31 15:03:29 2002 :: Effervesence teleported Effervesence to room 609.
+Wed Jul 31 15:04:13 2002 :: Jostos has quit (Room 432).
+Wed Jul 31 15:04:17 2002 :: Sock.sinaddr:  207.202.214.132, port -13830.
+Wed Jul 31 15:04:18 2002 :: Preloading player data for: Jostos (6K)
+Wed Jul 31 15:04:21 2002 :: Loading player data for: Jostos (6K)
+Wed Jul 31 15:04:21 2002 :: Jostos@207.202.214.132(progboss) has connected.
+Wed Jul 31 15:04:24 2002 :: Jostos has entered the realm!
+Wed Jul 31 15:07:08 2002 :: Jostos (56) killed by A small grey rabbit at 491
+Wed Jul 31 15:13:32 2002 :: Sock.sinaddr:  210.212.228.77, port 2433.
+Wed Jul 31 15:14:02 2002 :: Preloading player data for: Demerzel (7K)
+Wed Jul 31 15:14:06 2002 :: Loading player data for: Demerzel (7K)
+Wed Jul 31 15:14:06 2002 :: Demerzel@210.212.228.77((in progress)) has connected.
+Wed Jul 31 15:14:37 2002 :: Demerzel has entered the realm!
+Read_from_descriptor: Connection timed out
+Wed Jul 31 15:15:09 2002 :: Closing link to Prage.
+Wed Jul 31 15:16:49 2002 :: Sock.sinaddr:  66.19.166.182, port 1583.
+Wed Jul 31 15:17:25 2002 :: Oracle has quit (Room 8147).
+Wed Jul 31 15:18:04 2002 :: Sock.sinaddr:  207.202.214.132, port -14062.
+Wed Jul 31 15:18:07 2002 :: Preloading player data for: Oracle (7K)
+Wed Jul 31 15:18:07 2002 :: Closing link to Oracle.
+Wed Jul 31 15:18:09 2002 :: Sock.sinaddr:  210.212.228.77, port 2749.
+Wed Jul 31 15:18:13 2002 :: Preloading player data for: Finrod (8K)
+Wed Jul 31 15:18:43 2002 :: Loading player data for: Finrod (8K)
+Wed Jul 31 15:18:43 2002 :: Finrod@210.212.228.77((in progress)) has connected.
+Wed Jul 31 15:18:47 2002 :: Finrod has entered the realm!
+Wed Jul 31 15:18:49 2002 :: Sock.sinaddr:  207.202.214.132, port -14068.
+Wed Jul 31 15:18:49 2002 :: Preloading player data for: Oracle (7K)
+Wed Jul 31 15:18:54 2002 :: Loading player data for: Oracle (7K)
+Wed Jul 31 15:18:54 2002 :: Oracle@207.202.214.132(root) has connected.
+Wed Jul 31 15:18:58 2002 :: Oracle has entered the realm!
+Wed Jul 31 15:19:37 2002 :: Danswolf@66.19.166.182 new Lycanthrope WereBear.
+Wed Jul 31 15:19:56 2002 :: Danswolf has entered the realm!
+Wed Jul 31 15:20:06 2002 :: Effervesence teleported Effervesence to room 21055.
+Wed Jul 31 15:22:35 2002 :: Cleo (49) killed by the Executioner at 21001
+Wed Jul 31 15:23:10 2002 :: EOF encountered on read.
+Wed Jul 31 15:23:10 2002 :: Closing link to Saruman.
+Wed Jul 31 15:23:55 2002 :: Jaguar has quit (Room 2).
+Wed Jul 31 15:24:06 2002 :: Sock.sinaddr:  207.202.214.132, port -14155.
+Wed Jul 31 15:24:10 2002 :: Preloading player data for: Saruman (2K)
+Wed Jul 31 15:24:14 2002 :: Saruman@207.202.214.132(kaalan) reconnected.
+Wed Jul 31 15:25:02 2002 :: Joe has quit (Room 2).
+Wed Jul 31 15:27:08 2002 :: Sock.sinaddr:  67.217.179.139, port 2032.
+Wed Jul 31 15:27:15 2002 :: Preloading player data for: Mirri (2K)
+Wed Jul 31 15:27:17 2002 :: Loading player data for: Mirri (2K)
+Wed Jul 31 15:27:17 2002 :: Mirri@67.217.179.139((pipe breaking)) has connected.
+Wed Jul 31 15:27:22 2002 :: Mirri has entered the realm!
+Wed Jul 31 15:27:27 2002 :: Sock.sinaddr:  67.217.179.139, port 2034.
+Wed Jul 31 15:27:31 2002 :: Preloading player data for: Contagion (1K)
+Wed Jul 31 15:27:34 2002 :: Loading player data for: Contagion (1K)
+Wed Jul 31 15:27:34 2002 :: Contagion@67.217.179.139((pipe breaking)) has connected.
+Wed Jul 31 15:27:36 2002 :: Contagion has entered the realm!
+Wed Jul 31 15:28:26 2002 :: Sock.sinaddr:  207.202.214.132, port -14221.
+Wed Jul 31 15:29:21 2002 :: Sock.sinaddr:  67.217.179.139, port 2036.
+Wed Jul 31 15:29:27 2002 :: Preloading player data for: Ertai (5K)
+Wed Jul 31 15:29:28 2002 :: Loading player data for: Ertai (5K)
+Wed Jul 31 15:29:28 2002 :: Ertai@67.217.179.139((pipe breaking)) has connected.
+Wed Jul 31 15:29:31 2002 :: Ertai has entered the realm!
+Wed Jul 31 15:30:02 2002 :: Sock.sinaddr:  207.202.214.132, port -14229.
+Wed Jul 31 15:30:26 2002 :: Sock.sinaddr:  207.202.214.132, port -14233.
+Wed Jul 31 15:30:27 2002 :: Joj@207.202.214.132 new Black-dragon Dragon.
+Wed Jul 31 15:30:31 2002 :: Preloading player data for: Frost (4K)
+Wed Jul 31 15:30:33 2002 :: Loading player data for: Frost (4K)
+Wed Jul 31 15:30:33 2002 :: Frost@207.202.214.132(root) has connected.
+Wed Jul 31 15:30:36 2002 :: Frost has entered the realm!
+Wed Jul 31 15:30:44 2002 :: Joj has entered the realm!
+Wed Jul 31 15:30:50 2002 :: Sock.sinaddr:  207.202.214.132, port -14235.
+Wed Jul 31 15:30:56 2002 :: [*****] BUG: Dam_message: bad dt -1 from skunk in 490.
+Wed Jul 31 15:31:08 2002 :: Sock.sinaddr:  207.202.214.132, port -14240.
+Wed Jul 31 15:31:09 2002 :: Joj has quit (Room 100).
+Wed Jul 31 15:31:14 2002 :: EOF encountered on read.
+Wed Jul 31 15:31:14 2002 :: Closing link to Puiu.
+Wed Jul 31 15:31:15 2002 :: Preloading player data for: Quicksilver (3K)
+Wed Jul 31 15:31:19 2002 :: Closing link to Quicksilver.
+Wed Jul 31 15:31:19 2002 :: Quicksilver@207.202.214.132 reconnected, kicking off old link.
+Wed Jul 31 15:31:31 2002 :: Sock.sinaddr:  207.202.214.132, port -14242.
+Wed Jul 31 15:31:40 2002 :: Preloading player data for: Xion (7K)
+Wed Jul 31 15:31:42 2002 :: Loading player data for: Xion (7K)
+Wed Jul 31 15:31:42 2002 :: Xion@207.202.214.132(root) has connected.
+Wed Jul 31 15:31:44 2002 :: Xion has entered the realm!
+Wed Jul 31 15:32:27 2002 :: Sock.sinaddr:  217.39.219.37, port 2756.
+Wed Jul 31 15:32:27 2002 :: Preloading player data for: Feltwip (7K)
+Wed Jul 31 15:32:27 2002 :: Loading player data for: Feltwip (7K)
+Wed Jul 31 15:32:27 2002 :: Feltwip@217.39.219.37((pipe breaking)) has connected.
+Wed Jul 31 15:32:30 2002 :: Xion has quit (Room 8146).
+Wed Jul 31 15:32:30 2002 :: Feltwip has entered the realm!
+Wed Jul 31 15:33:13 2002 :: Sock.sinaddr:  217.39.219.37, port 2757.
+Wed Jul 31 15:33:13 2002 :: Preloading player data for: Trespin (7K)
+Wed Jul 31 15:33:13 2002 :: Loading player data for: Trespin (7K)
+Wed Jul 31 15:33:13 2002 :: Trespin@217.39.219.37((pipe breaking)) has connected.
+Wed Jul 31 15:33:16 2002 :: Trespin has entered the realm!
+Wed Jul 31 15:33:35 2002 :: Effervesence has quit (Room 21002).
+Wed Jul 31 15:34:12 2002 :: Sock.sinaddr:  207.202.214.132, port -14345.
+Wed Jul 31 15:34:14 2002 :: Preloading player data for: Xion (7K)
+Wed Jul 31 15:34:15 2002 :: Loading player data for: Xion (7K)
+Wed Jul 31 15:34:15 2002 :: Xion@207.202.214.132(root) has connected.
+Wed Jul 31 15:34:18 2002 :: Xion has entered the realm!
+Wed Jul 31 15:34:58 2002 :: Exentric has quit (Room 8154).
+Wed Jul 31 15:35:03 2002 :: Sock.sinaddr:  207.202.214.132, port -14354.
+Wed Jul 31 15:35:07 2002 :: Preloading player data for: Exentric (7K)
+Wed Jul 31 15:35:08 2002 :: Loading player data for: Exentric (7K)
+Wed Jul 31 15:35:08 2002 :: Exentric@207.202.214.132(root) has connected.
+Wed Jul 31 15:35:13 2002 :: Exentric has entered the realm!
+Wed Jul 31 15:35:54 2002 :: Sock.sinaddr:  207.202.214.132, port -14363.
+Wed Jul 31 15:36:09 2002 :: Preloading player data for: Jaguar (5K)
+Wed Jul 31 15:36:19 2002 :: Loading player data for: Jaguar (5K)
+Wed Jul 31 15:36:19 2002 :: Jaguar@207.202.214.132(root) has connected.
+Wed Jul 31 15:36:29 2002 :: Jaguar has entered the realm!
+Wed Jul 31 15:36:49 2002 :: [*****] BUG: Mpgoto - No such location, Mob #46909.
+Wed Jul 31 15:36:49 2002 :: Sock.sinaddr:  207.202.214.132, port -14389.
+Wed Jul 31 15:36:54 2002 :: Preloading player data for: Reaper (8K)
+Wed Jul 31 15:36:58 2002 :: Loading player data for: Reaper (8K)
+Wed Jul 31 15:36:58 2002 :: Reaper@207.202.214.132(root) has connected.
+Wed Jul 31 15:37:03 2002 :: Reaper has entered the realm!
+Wed Jul 31 15:38:14 2002 :: Ertai summoned left eye welmar to room 24852.
+Wed Jul 31 15:38:36 2002 :: Trespin (100) killed by Keraptis at 46997
+Wed Jul 31 15:39:24 2002 :: Sock.sinaddr:  203.58.238.106, port 1046.
+Wed Jul 31 15:39:27 2002 :: Preloading player data for: Prage (20K)
+Wed Jul 31 15:39:30 2002 :: Prage@203.58.238.106((pipe breaking)) reconnected.
+Wed Jul 31 15:40:13 2002 :: Log Prage: aass xchan1.are
+Wed Jul 31 15:40:30 2002 :: Theodore (30) killed by Clegg at 42903
+Wed Jul 31 15:41:20 2002 :: Log Prage: mset steu flags prototype
+Wed Jul 31 15:42:16 2002 :: Log Prage: mpedit steu delete 1
+Wed Jul 31 15:42:26 2002 :: Mirri (11) killed by Mirri at 24852
+Wed Jul 31 15:42:42 2002 :: Log Prage: mpedit steu add speech p purge us
+Wed Jul 31 15:44:10 2002 :: Xion summoned Frost to room 8146.
+Wed Jul 31 15:44:31 2002 :: Log Prage: mset steu flags prototype
+Wed Jul 31 15:44:44 2002 :: Log Prage: folda xchan1.are
+Wed Jul 31 15:44:44 2002 :: Saving xchan1.are...
+Wed Jul 31 15:44:46 2002 :: Demerzel (59) killed by A small grey rabbit at 469
+Wed Jul 31 15:44:50 2002 :: Log Prage: folda xchan1.are
+Wed Jul 31 15:44:50 2002 :: Saving xchan1.are...
+Wed Jul 31 15:44:52 2002 :: Log Prage: folda xchan1.are
+Wed Jul 31 15:44:52 2002 :: Saving xchan1.are...
+Wed Jul 31 15:44:53 2002 :: Log Prage: folda xchan1.are
+Wed Jul 31 15:44:53 2002 :: Saving xchan1.are...
+Wed Jul 31 15:44:59 2002 :: Log Prage: aass none
+Wed Jul 31 15:44:59 2002 :: Finrod (60) killed by A small grey rabbit at 469
+Wed Jul 31 15:45:34 2002 :: Log Prage: force all save
+Wed Jul 31 15:46:02 2002 :: Nicremog has quit (Room 8137).
+Wed Jul 31 15:46:14 2002 :: [*****] BUG: Signal SIGBUS.
+Wed Jul 31 15:46:14 2002 :: [*****] BUG: Signal SIGTERM.
+Wed Jul 31 15:46:14 2002 :: [*****] BUG: Signal SIGABRT.
+Wed Jul 31 15:46:14 2002 :: [*****] BUG: Signal SIGSEGV.
+Wed Jul 31 15:46:14 2002 :: Crashguard is OFF.  Dumping core...

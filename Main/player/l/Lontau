@@ -1,0 +1,86 @@
+#PLAYER
+Version      3
+Name         Lontau~
+Sex          1
+Class        4
+Race         0
+Languages    1 1
+Level        2
+Played       269
+Room         10398
+HpManaMove   28 31 100 100 106 110
+Gold         0
+Exp          2000
+Height          61
+Weight          155
+Act          570426952
+Position     104
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  -1
+Password     LoSOVJm6lMw5Y~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     14 13 13 16 13 13 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 45 45 10
+Site         64.119.69.12
+Tongue       100 'common'
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 2 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#END

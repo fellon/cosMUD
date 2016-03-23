@@ -1,0 +1,142 @@
+#LOCKER
+Capacity     500
+Flags        0
+End
+
+#OBJECT
+Vnum         644
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21007
+Room         327685
+Level        5
+Values       6 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         21007
+Room         327685
+Level        5
+Values       5 67 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         10314
+Room         327685
+Values       15 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         620
+Room         327685
+Level        31
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         639
+Room         327685
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+Room         327685
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         642
+Room         327685
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+Room         327685
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+Room         327685
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21005
+Room         327685
+Level        1
+Values       1 229 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+#OBJECT
+Vnum         643
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         646
+Room         327685
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         14700
+Room         327685
+Level        64
+Values       19 19 0 0 0 0
+End
+
+#OBJECT
+Vnum         14701
+Room         327685
+Level        64
+Values       12 18 53 11 0 0
+End
+
+#OBJECT
+Vnum         14702
+Room         327685
+Level        63
+Values       16 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         14703
+Room         327685
+Level        63
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         8103
+Room         327685
+Level        49
+Values       12 13 44 11 0 0
+End
+
+#END

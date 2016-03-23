@@ -1,0 +1,48 @@
+#PLAYER
+Version      3
+Name         Ogirdor~
+Sex          1
+Class        6
+Race         0
+Languages    1 1
+Level        2
+Played       4629
+Room         21194
+HpManaMove   33 33 102 102 110 110
+Gold         0
+Exp          0
+Height          68
+Weight          143
+Act          637535816
+Position     106
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -4
+Password     OgYuVoP1ia5ro~
+Title         the Strider~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     16 13 11 12 14 14 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 10
+Site         (Link-Dead)
+Tongue       100 'common'
+AffectData   'armor' 496 -20  17 0
+AffectData   'bless' 1160   6  18 0
+AffectData   'bless' 1160  -6  24 0
+End
+
+#END

@@ -1,0 +1,108 @@
+#PLAYER
+Version      3
+Name         Fred~
+Description  ~
+Sex          1
+Class        2
+Race         26
+Species      11
+Languages    1 1
+Level        7
+Played       20402
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   101 101 100 100 178 178
+Gold         0
+Exp          211558
+Height          66
+Weight          161
+Act          570427000
+AffectedBy   520
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       137
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        17
+ICEListen (null)~
+Mentalstate  -1
+Password     Frd/iEExWCpTM~
+Title         the Cut-Purse~
+Lastname ~
+Bio          You remove your pants.
+>  You throttle him till he is blue in the face.
+ The Executioner says 'That was a mistake, Fred.'
+The Executioner fires up his infamous torch.
+You desperately look for somewhere to run toThe Executioner's fireball turns yo
+..A curtain of red washes over you, as a curtain of blood, then all
+begins to grow still, and silence takes you
+~
+AuthedBy     Marten~
+Deity	     Aoskar~
+Flags        98306
+PKills       0
+PDeaths      0
+MKills       124
+MDeaths      3
+ArenaWins    0
+ArenaKills   1
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     14 12 13 16 13 10 12
+AttrMod      1 1 0 1 1 -1 0
+Condition    0 0 30 17
+Site         207.202.214.132
+Skill        73 'backstab'
+Skill        17 'cook'
+Skill        85 'dual wield'
+Skill        85 'hide'
+Skill        80 'kick'
+Skill        17 'pick lock'
+Skill        90 'scan'
+Skill        17 'search'
+Skill        95 'sneak'
+Skill        19 'steal'
+Weapon       17 'pugilism'
+Weapon       100 'short blades'
+Tongue       100 'common'
+AffectData   'bless' 318   6  18 0
+AffectData   'bless' 318  -6  24 0
+AffectData   'detect invis'  56   0  26 8
+AffectData   'kindred strength'  60   1   1 0
+AffectData   'dragon wit'  70   1   3 0
+AffectData   'trollish vigor'  75  -1  25 0
+AffectData   'trollish vigor'  75   1   5 0
+AffectData   'slink'  90   1   2 0
+Killed       10301 1
+Killed       10396 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      2
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        5
+Values       3 3 0 0 0 0
+End
+
+#END

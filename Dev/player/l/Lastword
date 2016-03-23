@@ -1,0 +1,144 @@
+#PLAYER
+Version      3
+Name         Lastword~
+Sex          1
+Class        1
+Race         1
+Languages    1 1
+Level        2
+Played       3081
+Room         10357
+HpManaMove   27 27 43 113 110 110
+Gold         712
+Exp          2452
+Height          62
+Weight          104
+Act          570426968
+AffectedBy   16
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 -3
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      3
+Damroll      0
+Armor        80
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     LapA3iClSh536~
+Title         the Attendant~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       10
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 14 15 14 12 15 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 7 7 10
+Site         217.226.2.57
+Spell        28 'cure light'
+Weapon       19 'bludgeons'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 211   3  18 0
+AffectData   'bless' 211  -3  24 0
+AffectData   'armor' 404 -20  17 0
+Killed       10312 4
+Killed       10326 4
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10315
+WearLoc      16
+Level        1
+Values       12 3 18 7 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#END

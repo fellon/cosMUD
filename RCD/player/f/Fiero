@@ -1,0 +1,175 @@
+#PLAYER
+Version      3
+Name         FierO~
+Description  ~
+Sex          1
+Class        13
+Race         1
+Species      0
+Languages    1 1
+Level        12
+Played       89520
+Room         21001
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   120 120 235 309 243 243
+Gold         122990
+Exp          1888093
+Height          60
+Weight          107
+Act          570558072
+AffectedBy   512
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    148
+Favor	       1209
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        40
+ICEListen (null)~
+Resistant    1026
+Mentalstate  0
+Password     FiPH.PQxsFue2~
+Title         the Clairvoyant~
+Lastname ~
+AuthedBy     Prage~
+Prompt       &w<&Y%hhp &C%mmp &R%X TNL&w>~
+FPrompt	     &w<&Y%hhp &C%mmp &R%X TNL &B%c TD&w>~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       325
+MDeaths      8
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 18 12 15 11 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 10 20
+Site         207.202.214.132
+Spell        90 'armor'
+Spell        29 'cause serious'
+Spell        95 'chill touch'
+Spell        90 'continual light'
+Spell        95 'create food'
+Spell        73 'create spring'
+Spell        65 'cure light'
+Spell        46 'earthquake'
+Spell        78 'lightning bolt'
+Spell        24 'refresh'
+Spell        90 'shocking grasp'
+Spell        80 'weaken'
+Spell        69 'word of recall'
+Skill        30 'dual wield'
+Skill        20 'kick'
+Skill        77 'meditate'
+Skill        72 'scan'
+Skill        30 'search'
+Skill        77 'second cast'
+Weapon       19 'short blades'
+Weapon       19 'talonous arms'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       24839 1
+Killed       8105 1
+Killed       24814 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+WearLoc      1
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         24894
+Level        10
+Values       4 5 0 0 0 0
+End
+
+#ALIAS
+Name     cs~
+Commands c shoc~
+End
+
+#ALIAS
+Name     ccf~
+Commands c create food~
+End
+
+#ALIAS
+Name     cc~
+Commands c chil~
+End
+
+#ALIAS
+Name     ccl~
+Commands c con lig~
+End
+
+#ALIAS
+Name     ccs~
+Commands c 'create spring'~
+End
+
+#ALIAS
+Name     cw~
+Commands c 'word of recall'~
+End
+
+#ALIAS
+Name     ca~
+Commands c armor~
+End
+
+#ALIAS
+Name     cq~
+Commands c earthquake~
+End
+
+#ALIAS
+Name     cl~
+Commands c 'light bolt'~
+End
+
+#ALIAS
+Name     car~
+Commands c arm~
+End
+
+#ALIAS
+Name     cul~
+Commands c 'cure light'~
+End
+
+#ALIAS
+Name     clb~
+Commands c 'lightning bolt'~
+End
+
+#ALIAS
+Name     cwe~
+Commands c weaken~
+End
+
+#ALIAS
+Name     css~
+Commands c 'cause serious'~
+End
+
+#END

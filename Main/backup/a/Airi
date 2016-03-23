@@ -1,0 +1,204 @@
+#PLAYER
+Version      3
+Name         Airi~
+Description  ~
+Sex          2
+Class        23
+Race         27
+Species      0
+Languages    1 1
+Level        4
+Played       8757
+Room         21280
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   50 40 174 174 239 139
+Gold         17483
+Exp          45910
+Height          57
+Weight          74
+Act          570426968
+AffectedBy   -2147483104
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    375
+Favor	       196
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     Ai7pURmZx/yFE~
+Title         the Mind Apprentice~
+Lastname (null)~
+AuthedBy     Arbadus~
+Prompt       %h %m %v %X ~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       50
+MDeaths      0
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     10 19 16 13 9 16 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 2 27 10
+Site         61.5.113.141
+Spell        23 'cause light'
+Spell        19 'detect invis'
+Spell        19 'faerie fire'
+Spell        19 'invis'
+Spell        19 'weaken'
+Skill        19 'clairvoyance'
+Skill        19 'cook'
+Skill        30 'dual wield'
+Skill        20 'kick'
+Skill        85 'scan'
+Skill        27 'search'
+Tongue       100 'common'
+Tongue       100 'pixie'
+Killed       10301 2
+Killed       10302 2
+i3invis	0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         127
+WearLoc      18
+Level        1
+Values       12 1 7 3 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      1
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         106
+WearLoc      2
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         127
+WearLoc      16
+Level        1
+Values       12 1 6 3 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      3
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10309
+WearLoc      10
+Level        2
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#END

@@ -1,0 +1,180 @@
+#PLAYER
+Version      3
+Name         Brad~
+Description  ~
+Sex          1
+Class        0
+Race         1
+Species      1
+Languages    1 1
+Level        31
+Played       63650
+Room         21000
+Memorized		21000 21000 0 0 0 0 0 0
+HpManaMove   358 249 489 657 530 490
+Gold         19324
+Exp          35059239
+Height          59
+Weight          115
+Act          570427000&4
+AffectedBy   520
+Position     112
+Style     2
+Practice     9
+SavingThrows 0 0 0 0 0
+Alignment    -950
+Favor	       2367
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        3
+ICEListen (null)~
+Resistant    1026
+Mentalstate  -45
+Password     Br89362W9ddGI~
+Title        ~
+Lastname ~
+AuthedBy     Andy~
+Deity	     Aoskar~
+Flags        98818
+PKills       1
+PDeaths      0
+MKills       279
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  1
+IllegalPK    0
+AttrPerm     13 16 12 14 13 12 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 41
+Site         65.136.77.172
+Spell        51 'acid blast'
+Spell        50 'armor'
+Spell        95 'black fist'
+Spell        19 'blindness'
+Spell        95 'burning hands'
+Spell        29 'cancelation'
+Spell        26 'charm person'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        68 'create spring'
+Spell        19 'curse'
+Spell        19 'demonskin'
+Spell        48 'detect invis'
+Spell        65 'disruption'
+Spell        24 'dragon wit'
+Spell        19 'dragonskin'
+Spell        26 'enchant weapon'
+Spell        19 'energy drain'
+Spell        22 'extradimensional portal'
+Spell        19 'fireball'
+Spell        30 'flight'
+Spell        95 'galvanic whip'
+Spell        45 'identify'
+Spell        19 'kindred strength'
+Spell        95 'lightning bolt'
+Spell        95 'magic missile'
+Spell        95 'magnetic thrust'
+Spell        28 'pass door'
+Spell        49 'portal'
+Spell        27 'remove invis'
+Spell        19 'sagacity'
+Spell        19 'shield'
+Spell        72 'shocking grasp'
+Spell        19 'sleep'
+Spell        95 'sonic resonance'
+Spell        95 'spectral furor'
+Spell        19 'stone skin'
+Spell        71 'summon'
+Spell        19 'teleport'
+Spell        19 'transport'
+Spell        37 'trollish vigor'
+Spell        19 'valiance'
+Spell        95 'ventriloquate'
+Spell        95 'word of recall'
+Skill        30 'dual wield'
+Skill        95 'fourth cast'
+Skill        48 'meditate'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'third cast'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'detect invis' 738   0  26 8
+Killed       24837 2
+Killed       24820 8
+Killed       24817 8
+Killed       24819 15
+Killed       24818 17
+Killed       24814 6
+Killed       24816 10
+Killed       24815 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      3
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1543
+WearLoc      4
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+Level        27
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         24892
+Level        28
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         1515
+WearLoc      8
+Level        10
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1504
+Level        10
+Values       11 3 9 3 0 0
+End
+
+#END

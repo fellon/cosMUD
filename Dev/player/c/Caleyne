@@ -1,0 +1,184 @@
+#PLAYER
+Version      3
+Name         Caleyne~
+Description  ~
+Sex          2
+Class        0
+Race         27
+Species      0
+Languages    1 1
+Level        8
+Played       20956
+Room         21000
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   33 43 254 270 291 191
+Gold         76590
+Exp          525239
+Height          57
+Weight          64
+Act          570426952
+AffectedBy   -2146958688
+Position     112
+Style     2
+Practice     2
+SavingThrows 0 0 0 0 -6
+Alignment    621
+Favor	       1041
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+Wimpy        5
+ICEListen (null)~
+Mentalstate  0
+Password     CasMpbWpD6EUk~
+Title         the Apprentice Mage~
+Lastname ~
+AuthedBy     Arbadus~
+Deity	     Mystra~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       105
+MDeaths      8
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     11 18 17 14 10 15 12
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 4 10
+Site         144.122.238.136
+Spell        54 'armor'
+Spell        86 'black hand'
+Spell        28 'blindness'
+Spell        95 'burning hands'
+Spell        19 'chill touch'
+Spell        29 'continual light'
+Spell        19 'create fire'
+Spell        29 'detect invis'
+Spell        26 'detect magic'
+Spell        19 'disruption'
+Spell        19 'elven beauty'
+Spell        61 'faerie fire'
+Spell        43 'flight'
+Spell        47 'float'
+Spell        23 'galvanic whip'
+Spell        19 'infravision'
+Spell        93 'invis'
+Spell        32 'kindred strength'
+Spell        19 'know alignment'
+Spell        19 'locate object'
+Spell        21 'magic missile'
+Spell        19 'refresh'
+Spell        19 'remove invis'
+Spell        19 'shocking grasp'
+Spell        50 'teleport'
+Spell        34 'trollish vigor'
+Spell        21 'weaken'
+Spell        55 'word of recall'
+Skill        30 'dual wield'
+Skill        19 'kick'
+Skill        52 'scan'
+Skill        95 'second cast'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'pixie'
+AffectData   'bless' 818  -6  24 0
+AffectData   'bless' 818   6  18 0
+AffectData   'shield' 790 -20  17 0
+AffectData   'flight' 791   0  26 524288
+AffectData   'sanctuary'  25   0  26 128
+Killed       3501 4
+Killed       10419 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         10314
+Values       15 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+WearLoc      16
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         125
+WearLoc      18
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         113
+WearLoc      5
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10345
+WearLoc      3
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#END

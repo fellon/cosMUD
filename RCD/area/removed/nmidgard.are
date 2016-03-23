@@ -1,0 +1,2316 @@
+#AREA   Northern Midgard~
+
+
+
+#VERSION 1
+#AUTHOR UCMM / PR~
+
+#RANGES
+0 100 0 115
+$
+
+#RESETMSG As a warm wind blows, the ground begins to shake.~
+
+#FLAGS
+0
+
+#ECONOMY 0 125000000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#25000
+Banzif~
+Banzif~
+Banzif wanders around, trying to flip burgers.
+~
+~
+3 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+#25001
+grocer~
+a grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+~
+3 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+#25002
+baker~
+a baker~
+A baker looks at you calmly, wiping flour from his face with one hand.
+~
+~
+3 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+#25003
+bank president~
+the bank president~
+The bank president is standing here.
+~
+~
+3 0 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+3 5 0 0 0 0 0 0
+#25004
+janitor~
+a janitor~
+A janitor is walking around, cleaning up.
+~
+~
+65 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+2 4 0 0 0 0 0 0
+#25005
+Osfol~
+Osfol~
+Osfol stands here waiting for you to make up your mind.
+~
+~
+3 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+#25006
+mercenary~
+a mercenary~
+A mercenary is here waiting for a job.
+~
+~
+65 0 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+6 8 0 0 0 0 0 0
+#25007
+dog~
+a dog~
+A rather large dog is sniffing a pile of rags.
+~
+~
+65 0 0 C
+5 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 2 0 0 0 0 0 0
+#25008
+cat~
+a cat~
+A black cat is here sniffing in the trash for something to eat.
+~
+~
+65 0 0 C
+4 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 1 0 0 0 0 0 0
+#25009
+cityguard~
+a cityguard~
+A cityguard is here, guarding the city.
+~
+~
+65 0 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+18 20 0 0 0 0 0 0
+#25010
+beggar~
+a beggar~
+A beggar is here asking for some lose change.
+~
+~
+65 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+4 6 0 0 0 0 0 0
+#25011
+maid~
+the maid~
+The Maid is here cleaning up around the Inn.
+~
+~
+3 0 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+13 15 0 0 0 0 0 0
+#25012
+waiter~
+a waiter~
+A Waiter is here waiting to take your order.
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+#25013
+doctor~
+the doctor~
+The Doctor is here healing the ill.
+~
+~
+3 128 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#25014
+shopkeeper~
+a shopkeeper~
+A shopkeeper is here selling the finest of goods.
+~
+~
+3 0 0 C
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+18 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#25015
+waitress~
+the waitress~
+The waitress is here cleaning up after a long shift.
+~
+~
+3 0 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+14 16 0 0 0 0 0 0
+#25016
+postmaster~
+the postmaster~
+The postmaster is here, expertly filing papers.
+~
+~
+3 128 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+#25017
+bartender~
+the bartender~
+The Bartender is here, skillfully mixing drinks.
+~
+~
+3 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+112 112 2
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#25000
+The Break Room~
+This room is for all to come and read news and relax.  The walls are
+lined with benches and other such furniture.  This is a well kept
+room and is intended to stay that way.
+~
+0 3146888 1
+D4
+~
+~
+0 -1 25001
+S
+#25001
+The Underground Tavern~
+Standing here in the tavern, your senses are overwhelmed.  Countless
+conversations, the din from the market above, and the snapping and popping
+from the fire all merge into a low raor that you find soothing in spite of
+its volume.  Large pine logs burn in the fire pit in the center of the room,
+casting dancing shadows upon the walls.  Occasionally a conversation gets out
+of hand, but one look from the bouncer in the corner usually settles all
+disputes (and if a look doesn't suffice, throwing the troublemakers out does!).
+Countless stains mark the rough-hewn oak tables, and the the ceiling above the 
+fire is blackened from years and years of smoke.  A set of stairs leads up to 
+the Market Plaza, and another leads down to the Break Room.  The Donation 
+Room lies to the south, and a large hallway to the north provides access to 
+the defunt inn.  There is an restaurant to the east where the former Insurance
+Man conducts his business, and a Post Office lies to the west.
+~
+0 3146892 1
+D0
+~
+~
+0 -1 25005
+D1
+~
+~
+0 -1 25003
+D2
+~
+~
+0 -1 25002
+D3
+~
+~
+0 -1 25004
+D4
+~
+~
+0 -1 25006
+D5
+~
+~
+0 -1 25000
+S
+#25002
+The Donation Room~
+This is the community donation room.  Anyone down on their luck and
+in need of some basic equipment can usually find a few items of interest
+here, free for the taking.
+~
+0 3163144 1
+D0
+~
+~
+0 -1 25001
+S
+#25003
+McDonald's / Taco Bell~
+This is another one of those popular restaurants that always seems to
+be teeming with business.  The man behind the counter has lost his
+insurance salesman job and this was all he could get, atleast he is
+the manager.
+~
+0 3146888 1
+D3
+~
+~
+0 -1 25001
+S
+#25004
+The Post Office~
+An immense bookshelf set against the southern wall of the room has been
+organized into small slots, each containing letters to and from the citizens
+of Midgard.  Errand boys are constantly coming in and collecting packets
+for delivery.  To the east is the Underground Tavern.
+~
+0 3146888 1
+D1
+~
+~
+0 -1 25001
+S
+#25005
+The Defunct Sleeping Chambers~
+The room you are in stretches off into the distance farther than you can
+see.  Large, durable lockers line the entire east wall, and triply bunked
+beds run along the west wall, many of them occupied by people who have
+temporarily embarked on voyages in another land.  There is a desk right at
+the entrance where a receptionist usually waits to store people's valuables 
+when they decide to sleep for a time.  Due to the lack of use, this chamber 
+has been closed.
+~
+0 3146888 1
+D2
+~
+~
+0 -1 25001
+S
+#25006
+Entrance to the Underground~
+You find yourself standing in the very center of the Market Plaza.
+Although there used to be a fountain here, it was relocated when The
+Underground was built, thus smoothing the flow of traffic across town.
+A steep tunnel leads down into the earth; fortunately, there are steps
+and handrails to prevent you from slipping.
+~
+0 0 1
+D0
+~
+~
+0 -1 25007
+D1
+~
+~
+0 -1 25013
+D2
+~
+~
+0 -1 25011
+D3
+~
+~
+0 -1 25009
+D5
+~
+~
+0 -1 25001
+D6
+~
+~
+0 -1 25014
+D7
+~
+~
+0 -1 25008
+D8
+~
+~
+0 -1 25012
+D9
+~
+~
+0 -1 25010
+S
+#25007
+North Market Plaza~
+The din of the crowd around you fills your ears, even at this hour.  Who
+would have thought that so few people could make so much noise?  The Plaza
+stretches its way to the east and west from here, and a cheerful, well-used
+road leads north to the Midgard Cathedral of Virtue.  A flight of stairs
+leading down into the ground south of here marks the site of The Underground.
+~
+0 0 1
+D0
+~
+~
+0 -1 25029
+D1
+~
+~
+0 -1 25014
+D2
+~
+~
+0 -1 25006
+D3
+~
+~
+0 -1 25008
+S
+#25008
+Northwest Market Plaza~
+Like all corners of the plaza, the north-east region is lined with
+shops.  Somehow though, this corner seems more...peculiar.  Maybe it
+has something to do with the odd little blue booth perched on the
+curb to the west.  Above the booth hangs a metal plaque with some
+writing on it.  On the northern curb lies one of the most curious shops
+in the land, 'Osfol's Shoppe of Wonderous Things'.  The rest of the
+plaza lies to the south and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25070
+D1
+~
+~
+0 -1 25007
+D2
+~
+~
+0 -1 25009
+D8
+~
+~
+0 -1 25006
+S
+#25009
+West Market Plaza~
+You stand on the western-most edge of Midgard's famous Market Plaza.
+Main street leads off to the west, and the Plaza extends to the north
+and south.  The sole entrance to The Underground (best tavern in town,
+or even below it!) lies to the east, and you here the faint sounds of
+singing and laughter rising from below.
+~
+0 0 1
+D0
+~
+~
+0 -1 25008
+D1
+~
+~
+0 -1 25006
+D2
+~
+~
+0 -1 25010
+D3
+~
+~
+0 -1 25018
+S
+#25010
+Southwest Market Plaza~
+This is the most affluent corner of the plaza, and with good reason.
+To the west lies the Midgard Bank, while some sort of jewlery store sits
+along the southern curb.  The plaza continues to the north and east.
+~
+0 0 1
+D0
+~
+~
+0 -1 25009
+D1
+~
+~
+0 -1 25011
+D2
+~
+~
+0 -1 25074
+D3
+~
+~
+0 -1 25073
+D6
+~
+~
+0 -1 25006
+S
+#25011
+South Market Plaza~
+Your travels have taken you to the southern-most part of Midgard's Market
+Plaza.  The crowds thicken to the east and west, centering around the
+Information Center and the Bank, respectively.  Woodmar Way stretches off
+to the south, where the roof of the Shrine of Neutrality is just barely
+visible above the surrounding buildings, and the entrance to The Underground,
+Midgard's finest tavern, lies to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 25006
+D1
+~
+~
+0 -1 25012
+D2
+~
+~
+0 -1 25015
+D3
+~
+~
+0 -1 25010
+S
+#25012
+Southeast Market Plaza~
+This corner of the Market Plaza is host to 'The Cow's Bounty', the finest
+leatherworks shop in the city, and the Midgard Information Centre, where
+you'll find a well-spring of advice on navigating Midgard's web of roads
+and shops.  The plaza continues to the north and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25013
+D1
+~
+~
+0 -1 25071
+D2
+~
+~
+0 -1 25072
+D3
+~
+~
+0 -1 25011
+D7
+~
+~
+0 -1 25006
+S
+#25013
+East Market Plaza~
+The crowds have thinned enough for you to catch your breath and get a
+look at your surroundings.  West of you, an opening in the ground provides
+access to The Underground, where people go to rest, relax, and shoot the
+breeze.  Several shops are located to the north and south, and Main Street
+winds off to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 25014
+D1
+~
+~
+0 -1 25038
+D2
+~
+~
+0 -1 25012
+D3
+~
+~
+0 -1 25006
+S
+#25014
+Northeast Market Plaza~
+Through the bussle of the crowd you make out a row of shops lining the
+plaza corner.  To the north, you spy a key-shaped sign labeled, 'Candles
+and Hooks.'  Judging by the smell, you would guess that there is some sort
+of bakery to the east.  The plaza continues to the south and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25055
+D1
+~
+bakery~
+0 -1 25054
+D2
+~
+~
+0 -1 25013
+D3
+~
+~
+0 -1 25007
+D9
+~
+~
+0 -1 25006
+S
+#25015
+Woodmar Lane~
+The cobblestones of Woodmar Lane provide a firm surface to walk on.
+Although you pass an occasional traveler, the traffic here is not very
+busy.  Immediately to you north lies Market Square, the center of everyday
+business.
+~
+0 0 1
+D0
+~
+~
+0 -1 25011
+D2
+~
+~
+0 -1 25016
+S
+#25016
+Woodmar Lane~
+As you continue your walk down Woodmar Lane, you notice several
+shops to your left and right.   On the east side of the street, a plain
+white building reaches its way to the south.  Above the door is a sign
+reading, 'The Infirmary'.  A quaint little coffee shop sits on the other
+side of the street.  Woodmar Lane continues to the north and south
+~
+0 0 1
+D0
+~
+~
+0 -1 25015
+D1
+~
+~
+0 -1 25058
+D2
+~
+~
+0 -1 25017
+D3
+~
+~
+0 -1 25075
+S
+#25017
+Woodmar Lane~
+Tall buildings on either side of the street shelter you from the
+harsh sun.  This is certainly more plesent than pushing through the
+crowds in Market Plaza!  You see an extension of what might be a hospital
+to the east, but there's no door.  To the west is the fameous Owl's Nest
+Inn.  Of course, Woodmar Lane continues to the north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25016
+D2
+~
+~
+0 -1 25027
+D3
+~
+~
+0 -1 25076
+S
+#25018
+Main Street~
+You're standing on Midgard's most popular road: The Main Street.  To
+the west, Main Street continues for a ways before turning south.  You can
+hear the din of the crowd from Market Square to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 25009
+D3
+~
+~
+0 -1 25019
+S
+#25019
+Main Street~
+The road here has thickened until it's at least 20 meters across.  The
+red brick is evenly spaced and shows little wear.  To the north, you see
+a tiny well kept shop.  A small sign in the shape of a dagger proclaims,
+'Ye Small Arms Shoppe'.  Another building to the south sports a much
+bigger sign reading, 'The Museum of Midgard'.
+~
+0 0 1
+D0
+~
+~
+0 -1 25065
+D1
+~
+~
+0 -1 25018
+D2
+~
+~
+0 -1 25064
+D3
+~
+~
+0 -1 25036
+S
+#25020
+Main Street~
+The street here curves and resumes its trek to the south and east.
+There is a archway north, blocked by overgrowth, what use to be the Zoo.
+Also, The Silver Feather makes its home on the southeastern corner.
+~
+0 0 1
+D1
+~
+~
+0 -1 25036
+D2
+~
+~
+0 -1 25021
+S
+#25021
+Main Street~
+To the west is the famous Silver Feather Tavern.  Many a traveler has
+lost his lunch to the powerful liquor served there in.  Unfortunately,
+there doesn't appear to be a door here.  Just to the north, the street
+makes a turn and continues to the east.  The street also leads south
+from here.
+~
+0 0 1
+D0
+~
+~
+0 -1 25020
+D2
+~
+~
+0 -1 25022
+S
+#25022
+Main Street~
+A huge sign perched on the east side of the street identifies the
+Silver Feather Inn.  This is, evidently, the main entrance.  Although
+the building is in good repair, you see more than one shingle getting
+ready to fall lose.  Main Street continues north and south.
+across the street.  Main Street continues north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25021
+D1
+~
+~
+0 -1 25067
+D2
+~
+~
+0 -1 25023
+S
+#25023
+Main Street~
+As Main Street continues north and south, you notice great trees
+lining the road exposing thier great vastness and beauty.  The road
+is well kept by the city janitors, no wonder this town is so popular.
+~
+0 0 1
+D0
+~
+~
+0 -1 25022
+D2
+~
+~
+0 -1 25024
+S
+#25024
+Main Street~
+You find yourself standing outside the Midgard Shopping Center.  If
+you can't find it anywhere else, you can probably find it in here.
+Although Main Street continues to the north and south, it seems to
+curve back to the east as you look a bit further.
+~
+0 0 1
+D0
+~
+~
+0 -1 25023
+D1
+~
+~
+0 -1 25068
+D2
+~
+~
+0 -1 25025
+S
+#25025
+Main Street~
+Looking down Main Street, you see that it makes a bit of a turn to
+the east.  Right now, you're standing outside the Midgard Shopping Centre.
+Exits lead both north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25024
+D1
+~
+~
+0 -1 25069
+D2
+~
+~
+0 -1 25026
+S
+#25026
+Main Street~
+At this point, Main Street takes a bit of a turn and decides to run
+north and east for a change.  A large gates lies to the west and a few
+blocks to the east, you can make out the Midgard Defense Headquarters.
+~
+0 0 1
+D0
+~
+~
+0 -1 25025
+D1
+~
+~
+0 -1 25037
+D3
+~
+~
+0 -1 25034
+S
+#25027
+Woodmar Lane~
+South is the Intersection of Main Street and Woodmar Lane.  As you
+walk, you notice the tall building around you.  Each building is the
+opposite of its neighbor.
+~
+0 0 1
+D0
+~
+~
+0 -1 25017
+D2
+~
+~
+0 -1 25028
+S
+#25028
+Intersection of Main Street and Woodmar Lane~
+This is where Main Street and Woodmar meet.  This is one of the most
+busiest intersections in town.  The road of red goes north, west and
+east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 25027
+D1
+~
+~
+0 -1 25048
+D3
+~
+~
+0 -1 25031
+S
+#25029
+Northern Entrance of Midgard~
+This is the most northern road of Northern Midgard.  It is very
+quiet and only shadows lurk in the darkness.  It has been said
+the standing here to long may be the end of anyone who has outlived
+their visit.
+~
+0 0 1
+D1
+~
+~
+0 -1 25055
+D2
+~
+~
+0 -1 25007
+S
+#25030
+Midgard Defense Headquarters~
+From the look of it, this is where the administration of city guards
+takes place.  A large desk at the north wall contains all sorts of papers
+above guard placement, shifts, wages, etc.  The only exit is to the south.
+~
+0 0 1
+D2
+~
+~
+0 -1 25050
+S
+#25031
+Main Street~
+This is just west of the Main Street and Woodmar intersection, one of
+the busiest intersections in town.  Far west is the Western Entrance
+of Midgard and in the distance east is the Midgard Defense Headquarters.
+~
+0 0 1
+D1
+~
+~
+0 -1 25028
+D3
+~
+~
+0 -1 25032
+S
+#25032
+Main Street~
+A sign carved in common above the huge doorway labels this as the 'portal
+of the rising sun'.   To the east, Main Street leads the way to the
+residential portion of Midgard.
+~
+0 0 1
+D1
+~
+~
+0 -1 25031
+D3
+~
+~
+0 -1 25033
+S
+#25033
+Main Street~
+Main Street continues west and east with all its glory.
+~
+0 0 1
+D1
+~
+~
+0 -1 25032
+D3
+~
+~
+0 -1 25037
+S
+#25034
+Inside the Western Entrance of Midgard~
+The city walls stretch away to the north and south, protecting the
+people of Midgard from invading hoards.  Just a few steps west, and
+you'll be outside the city proper and at the mercy of the world beyond.
+To the east, you see the intersection of Main Street and The Iron Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 25026
+D3
+~
+~
+0 -1 25035
+S
+#25035
+Outside Western Entrance of Midgard~
+Two huge towers have been built into the West Gate.  A heavy wooden
+drawbridge stretches from these towers across a great fiery moat.  The
+safety of Midgard lies to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 25034
+S
+#25036
+Main Street~
+Just up ahead to the west, Main Street takes a turn to the south.  An
+awful lot of music and laughter is coming from a building on the southern
+side of the street.  A sign above the door reads, 'The Silver Feather
+Tavern'.  To the northwest, you see the entrance to the Midgard Zoo.
+~
+0 0 1
+D1
+~
+~
+0 -1 25019
+D2
+~
+~
+0 -1 25066
+D3
+~
+~
+0 -1 25020
+S
+#25037
+Main Street~
+The red brick path continues both west and east through town.
+As you look off to the distance in those direction you see the way
+to the east, the Midgard Defense Headquarters and west to the Entrance
+to the city.
+~
+0 0 1
+D1
+~
+~
+0 -1 25033
+D3
+~
+~
+0 -1 25026
+S
+#25038
+Main Street~
+You're standing on the main street of Midgard.  Main Street stretches
+its way west and eventually turns south.  To the south, a sign reading
+'The Cow's Bounty' hanges above an open door.  The crowds of Market
+Plaza can be heard to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 25039
+D2
+~
+~
+0 -1 25071
+D3
+~
+~
+0 -1 25013
+S
+#25039
+Main Street~
+The red brick of Main Street provides a firm footing as you make
+your way around town.  Here, the street is wide enough to allow two
+whole ox carts to travel abreast.  A cute iron wrought gate in to the
+north leads to the park.
+~
+0 0 1
+D0
+~
+~
+0 -1 25079
+D1
+~
+~
+0 -1 25040
+D3
+~
+~
+0 -1 25038
+S
+#25040
+Main Street~
+A huge building to the south catches your attention.  The granite
+walls rise four stories into the air.  A bright yellow dome at the
+top is supposed to be gold plated, but it's not fooling anyone.  This
+could only be the Non-Denominational Church of Midgard!  Main Street
+continues east and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 25041
+D3
+~
+~
+0 -1 25039
+S
+#25041
+Main Street~
+At this point, Main Street makes a gentle curve from west to south.
+The yelping of dogs from the east catches your attention.  A sign
+on a pole hanging over the street reads, 'Welcome to Midgard'.
+~
+0 0 1
+D1
+~
+~
+0 -1 25042
+D2
+~
+~
+0 -1 25044
+D3
+~
+~
+0 -1 25040
+S
+#25042
+Inside Eastern Entrance of Midgard~
+Two huge towers here support a massive wooden gate.  In case of an
+attack on the city, the gate would be the only thing standing between
+the people of Midgard and total destruction.  Main Street stretches
+out to the west while the outside world is to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 25043
+D3
+~
+~
+0 -1 25041
+S
+#25043
+Outside Eastern Entrance of Midgard~
+One more step east and you'll leave the privacy and comfort of Midgard
+behind.  Of course, you could always change your mind and go back to
+the west...back to Main Street.  It's your decision though.
+~
+0 0 1
+D1
+~
+~
+0 -1 15201
+D3
+~
+~
+0 -1 25042
+S
+#25044
+Main Street~
+To the west sits the Non-Denominational Church of Midgard.  Home of
+anyone who wishes to worship in their own fashion, the church is strangly
+deserted.  Perhaps everyone is praying at home...Anyway, Main Street
+continues to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25041
+D2
+~
+~
+0 -1 25045
+D3
+~
+~
+0 -1 25062
+S
+#25045
+Main Street~
+My, my...this certainly is a happy part of town.  Music and laughter
+seem to be coming from both sides of the street.   To the west, a lute
+hanging above the doorway identifies the building at the Bards' Guild.
+Looking the other way, you spy several very well dressed people entering
+the building to the east.  Ahhh..that must be the legendary Amber Rose
+Restraunt.  Main Street stretches away to the north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25044
+D1
+~
+~
+0 -1 25060
+D2
+~
+~
+0 -1 25046
+S
+#25046
+Main Street~
+To the east, the Inverness River makes its way down from the mountains
+and into Midgard.  It seems to go under Main Street to the south and
+continues to the southwest.  A large marble building to the west catches
+your eye next.  The words, 'Midgard Towne Hall' are carved above the door in
+bold letters.  Main Street goes north and south from here.
+~
+0 0 1
+D0
+~
+~
+0 -1 25045
+D1
+~
+~
+0 -1 25056
+D2
+~
+~
+0 -1 25047
+S
+#25047
+A Bridge on Main Street~
+The people of Midgard have built a bridge here to cross the Inverness
+as it makes its way through Midgard.  To the south, Main Street makes
+a turn to the west.  Since the Inverness runs southwest, another bridge
+crosses back to the west bank further down.  Exits lead north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25046
+D2
+~
+~
+0 -1 25053
+S
+#25048
+Main Street~
+This is just east of the busiest intersection in town.  The hustle and
+bustle of the masses hide the sounds of barking and keep the voices
+in a muffle.  Beauty is everywhere, it is about time to stop and look around.
+~
+0 0 1
+D1
+~
+~
+0 -1 25049
+D3
+~
+~
+0 -1 25028
+S
+#25049
+Main Street~
+This is a busy road which leads west and east.  You see to the east
+the Midgard Defense Headquarters and far off to the west, the
+Western Entrance to Northern Midgard.
+~
+0 0 1
+D1
+~
+~
+0 -1 25050
+D3
+~
+~
+0 -1 25048
+S
+#25050
+Main Street~
+A non-descript stone building sits on the north curb.  A sign
+above the door identifies it as the, 'Midgard Defense Headquarters'.
+Main Street continues to the east, but is cut off by Circle Way to the
+west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25030
+D1
+~
+~
+0 -1 25051
+D3
+~
+~
+0 -1 25049
+S
+#25051
+A Bridge on Main Street~
+The blue ribbon of the Inverness makes its way steadily through the
+town.  From here, you can see a large circle of stone to the west.  Ah,
+that must be the Midgard Defense Headquarters.  Main Street leads to 
+both the east and the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 25052
+D3
+~
+~
+0 -1 25050
+S
+#25052
+Main Street~
+Main Street curves here from the north to the west, where it crosses
+the Inverness back to the west bank.  To the northeast, you see what
+looks like a fishermans cabin.  Far to the south, a plume of smoke
+rises from the roof of one of the building in the industrial section of
+Midgard.
+~
+0 0 1
+D0
+~
+~
+0 -1 25053
+D3
+~
+~
+0 -1 25051
+S
+#25053
+Main Street~
+You're stading on the east bank of the Inverness on Main Street.  The
+deep blue river runs soutwest and cuts across Main Street both to the
+north and to the southwest.  To the south, Main Street turns to the
+west.  A sign above a shop to the west reads, 'The Fisherman's Wharf'.
+Main Street continues to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25047
+D2
+~
+~
+0 -1 25052
+D3
+~
+~
+0 -1 25063
+S
+#25054
+The Bakery~
+You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality. The only exit
+leads west to the plaza.
+~
+0 1032 1
+D3
+~
+~
+0 -1 25014
+S
+#25055
+The Provisions Shop~
+An assortment of lanterns, ropes, and other adventuring equipment
+adorns the walls of 'Candles and Hooks'.  A small note describing the
+shop's inventory lies on the counter.  Exits lead south onto the Market
+Plaza and west to Woodmar Lane.
+~
+0 1032 1
+D2
+~
+~
+0 -1 25014
+D3
+~
+~
+0 -1 25029
+S
+#25056
+Towne Hall~
+A tremendous oak desk sits in one corner of the room.  Evidently,
+that's where the Mayor makes all the big decisions when he's in.  A
+stack of papers sits in both the IN and OUT boxes.  Of course, the IN
+box is _much_ bigger than the out.  The only exit leads east to Main
+Street.
+~
+0 0 1
+D3
+~
+~
+0 -1 25046
+D4
+~
+door~
+1 -1 25057
+S
+#25057
+Mayor's Office~
+The council chambers are fairly plain.  A large, round table sits in the
+center, surrounded by nine chairs.  Each of the chairs is marked with a name;
+Toidi, Bingo, Krisanth, and so on, for each of the council members.  A vending
+machine is to the south, filled with all sorts of yummies and goodies. At
+resonable prices.  The mayors office lies to the west, where the mayor goes
+to relax after the council meetings.  You see a large sign on the wall, and
+a smaller one below it.
+~
+0 0 1
+D5
+~
+door~
+1 -1 25056
+S
+#25058
+Infirmary Waiting Room~
+The walls of the waiting room are very white and (probably) very
+steril.  Some plain, functional furniture provides a place for you to
+take a load off if you're waiting for someone.  A receptionist sits
+at a small counter on the east wall.  Exits lead west to Woodmar Lane
+and south to the Infirmary.
+~
+0 8 1
+D2
+~
+~
+0 -1 25059
+D3
+~
+~
+0 -1 25016
+S
+#25059
+Infirmary~
+The walls here are stark white and unadorned.  You guess that the
+interior designer figured that sick and dying people had better things
+to worry about than the decor.  The only exit leads north.
+~
+0 1032 1
+D0
+~
+~
+0 -1 25058
+S
+#25060
+Lobby of the Amber Rose Restaurant~
+The ceder walls give off a plesent odor as you enter the building.  Deep
+red roses climb the sides of the oak columns supporting the roof at all
+corners.  A skylight in the ceiling lets in just enough light to see
+by.  It's a rather beautiful effect.  A doorway to the south leads to
+the dining room proper.
+~
+0 8 1
+D2
+~
+~
+0 -1 25061
+D3
+~
+~
+0 -1 25045
+S
+#25061
+The Amber Rose Dining Hall~
+The dining hall of the Amber Rose takes your breath away.  The entire
+east and south walls are made of a crystal clear glass.  Through the
+huge windows, you see the Inverness river snaking its way through the
+country side.  An enormace smokey quartz chandelier casts mysterious
+shadows across the room.
+~
+0 8 1
+D0
+~
+~
+0 -1 25060
+S
+#25062
+The Non-Denominational Church of Midgard~
+It certainly looked much bigger on the outside...A few ragged pews line
+the walls and a granite altar sits at the front of the room.  Of course,
+there's no kind of religious icon or decoration in the whole place.  The
+only exit is to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 25044
+S
+#25063
+The Fisherman's Wharf~
+Fishing tackle, line, rods, and all other kinds of equipment hangs
+from the walls.  Evidently, this merchant sells anything needed to enjoy
+a fishing trip on the Inverness, perhaps even a boat or two.  The exit
+to the west leads back to Main Street.
+~
+0 0 1
+D1
+~
+~
+0 -1 25053
+S
+#25064
+The Museum of Midgard~
+A sign hanging from the lobby reads:
+         M I D G A R D   M U S E U M
+    Closed for repairs ... come back in the spring.
+~
+0 0 1
+D0
+~
+~
+0 -1 25019
+S
+#25065
+Ye Small Arms Shoppe~
+All kinds of small arms from daggers to hand maces adorn the walls
+of this shop.  Some of the more ornate weapons are kept inside glass
+cases to prevent theft.  The only exit is to the south.
+~
+0 0 1
+D2
+~
+~
+0 -1 25019
+S
+#25066
+The Silver Feather Tavern~
+Most people here are sitting around tables telling stories.  A
+drunken minstrel in the corner sings a baudy song of the good ole days
+when men were free and the women were too.  An exit to the south leads
+to the bar, while the one to the north leads back to Main Street.
+~
+0 1032 1
+D0
+~
+~
+0 -1 25036
+D2
+~
+~
+0 -1 25067
+S
+#25067
+The Silver Feather Tavern~
+Wow...what a party!  People are all crowded around the bar in an
+effort to get a drink.  Several people have passed out on the floor,
+and give a slight groan when stepped on.  All kinds of activities
+from arm wrestling to drinking contest to knife throwing are going on
+all around you.  To the north, you see an exit leading to a public room.
+An exit to the west leads to Main Street.
+~
+0 1032 1
+D0
+~
+~
+0 -1 25066
+D3
+~
+~
+0 -1 25022
+S
+#25068
+The Midgard Shopping Centre~
+All kinds of clothing, dryed goods, camping equipment, childrens
+toys and thousands of other things too numerous to mention hang from
+racks and sit on shelves.  Although there doesn't appear to be a shop
+keeper here, you can see one over to the south.  An exit to the west
+leads back to main street.
+~
+0 0 1
+D2
+~
+~
+0 -1 25069
+D3
+~
+~
+0 -1 25024
+S
+#25069
+The Midgard Shopping Centre~
+Although there are a lot of things here, most of them seem to be
+clothing related.  Racks and racks of the stuff are scattered
+throughout the store.  A merchant is here, selling his wares.  Exits
+lead west back to the road and north to another portion of the Shopping
+Centre.
+~
+0 0 1
+D0
+~
+~
+0 -1 25068
+D3
+~
+~
+0 -1 25025
+S
+#25070
+Osfol's Shoppe of Wonderous Things~
+All sorts of oddities hang from every available spot.  Strange
+types of headgear hang from the ceiling and bizarre animals scurry
+around in glass cages.  Near the back of the store, you catch a
+glance at what appears to be the shopkeeper.  An exit leads south
+to the Market Plaza
+~
+0 1032 1
+D2
+~
+~
+0 -1 25008
+S
+#25071
+The Leather, Armor and Weapon Shop~
+Racks upon racks of weapons and armor sit here.  It seems that every type of
+armor is somewhere in the shop.  The same can be said about the weapons too.
+The only thing else that you could possibly want out of this shop would be
+for the shopkeeper to stop telling you his war stories over, and over, and over
+~
+0 1032 1
+D0
+~
+~
+0 -1 25038
+D3
+~
+~
+0 -1 25012
+S
+#25072
+Midgard Information Centre~
+This is rather large for an information center.  Although you were
+expecting a tiny booth, this seems to be just as large as any of the
+other shops.  A beautifully crafted map of Midgard covers most of the
+west wall.  The only way out is to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 25012
+S
+#25073
+Midgard Bank~
+A small fountain in the center of the room playfully throws jets of
+water into the air.  The floor is a rose-colored marble with streaks of
+grey, white and black.  Definitely high class.  A small teller window
+is set into the west wall.  A small sign rests on the counter.
+~
+0 8 1
+D1
+~
+~
+0 -1 25010
+S
+#25074
+The Midgard Auction Hall~
+A large room with a high ceiling, the Midgard Auction Hall is arrayed
+with splendid artifacts and items for sale.  In the center, on a grand
+pedestal, stands the Auctioneer himself, shouting out the current items,
+bids, and prices.  Occasionally he takes items from the crowd, as citizens
+give their unwanted items to him in order to make a little profit.  Some he
+takes, some he refuses.
+   There is a large SIGN on the wall.
+~
+0 0 1
+D0
+~
+~
+0 -1 25010
+S
+#25075
+Cafe De Midgard~
+A row of bar stools lines the counter at the north wall.  There, all
+sorts of patrons dip tea while discussing politics, weather, and several
+other tea time topics.
+~
+0 8 1
+D1
+~
+~
+0 -1 25016
+D2
+~
+~
+0 -1 25078
+S
+#25076
+The Lobby of the Owl's Nest~
+Since the forclosure on the Grunting Boar Inn, the Owl's Nest has
+become a haven for the tired traveler.  Several chandileres bearing
+real wax candles bring a cheerful light to the room.  Most people here
+are sitting around tables, telling greatly exaggerated tales of their
+latest adventures.
+   The doorway to the south looks like it leads to the bar, and the one
+to the east will take you back to Woodmar Lane.
+~
+0 8 1
+D1
+~
+~
+0 -1 25017
+D2
+~
+~
+0 -1 25077
+S
+#25077
+The Owl's Nest Inn~
+Although the bar at the south is getting a lot of attention, it's not
+the bustling madhouse that you're used to in taverns.  Most of the patrons
+seem to be either politely talking with their neighbors or brooding over
+their drinks.  The barmaids and waiters are well groomed and plesent and
+*gasp* the glasses are actually clean!
+~
+0 8 1
+D0
+~
+~
+0 -1 25076
+S
+#25078
+Cafe De Midgard Dining Room~
+The dining room consists of several small tables, most of which have signs on
+them which have the word "RESERVED" writen on them.  The service in this room
+seems to be much better than at the bar, even though the waiter has spilled
+two trays of food in the few minutes you've been here.
+~
+0 1032 1
+D0
+~
+~
+0 -1 25075
+S
+#25079
+Entrance to the Park~
+A gate designed more for aesthetics more than protection marks the
+entrance to the Midgard Park.  A small sign has been pressed into the
+the ground next to the gate.  The path through the park starts to the
+north, and Main Street begins just south of here.
+~
+0 0 1
+D0
+~
+~
+0 -1 25080
+D2
+~
+~
+0 -1 25039
+S
+#25080
+A Path Through the Park~
+The wind whispers through your hair as you begin your journey
+through the park.  The little cobblestone path provides a firm foot
+as you make your way along.  Just east of here lies the Recreational
+Service Centre, the administrative office of the park.  The path
+exits both north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25082
+D1
+~
+~
+0 -1 25081
+D2
+~
+~
+0 -1 25079
+S
+#25081
+The Recreational Service Centre~
+All kinds of paperwork and gardening equipment are scattered about
+the room.  On the wall, a list of watering, cutting, and fertilizing
+dates has been faithfully kept.  The only exit is to the west.
+~
+0 0 1
+D3
+~
+~
+0 -1 25080
+S
+#25082
+A Path Through the Park~
+The little stone path makes a bit of a turn here, and decides to go
+to the east and the south.  The twittering of birds can be heard from the
+north.
+~
+0 0 1
+D0
+~
+~
+0 -1 25083
+D1
+~
+~
+0 -1 25084
+D2
+~
+~
+0 -1 25080
+D3
+~
+~
+0 -1 25097
+S
+#25083
+A Clearing in the Park~
+A thick blanket of grass covers the ground in this part of the park.
+The ground rises a bit to the east creating a small hill.  It looks
+like the people of Midgard have done a little landscaping to the north,
+and a row of bushes guides you in that direction.  Just west of here, you
+can see a small iron fence.
+~
+0 0 1
+D0
+~
+~
+0 -1 25096
+D1
+~
+~
+0 -1 25085
+D2
+~
+~
+0 -1 25082
+S
+#25084
+A Path Through the Park~
+Although a few tufts of grass have managed to push through the stone
+path, it's in very good condition.  There's a small hill off the
+path to the north.  From here, the path leads both east and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25085
+D1
+~
+~
+0 -1 25086
+D3
+~
+~
+0 -1 25082
+S
+#25085
+The Top of a Small Hill~
+On top of the hill, the wind picks up a bit and plays games with
+your hair.  From this height, you can see almost the entire park.
+Just northwest of here, someone's done quite a job on landscaping
+with some bushes.  Looking further, you see a broken stone path leading
+to a duck pond.  The hill descends to the north and west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25095
+D1
+~
+~
+0 -1 25087
+D2
+~
+~
+0 -1 25084
+D3
+~
+~
+0 -1 25083
+S
+#25086
+A Path Through the Park~
+Once again, the little stone path decides to make a ninty degree
+turn.  This time, it heads off towards the north and the west.  There
+seems to be a much more ornate road to the northeast, and a small grassy
+hill to the northwest.
+~
+0 0 1
+D0
+~
+~
+0 -1 25087
+D3
+~
+~
+0 -1 25084
+S
+#25087
+A Path Through the Park~
+You feel better than you have in a long time as you make your stoll
+along the park way.  A little hill rises to a moderate height just
+west of here, and a white bench is off the road to the east.  You can
+continues on the path to the north and the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 25089
+D1
+~
+~
+0 -1 25088
+D2
+~
+~
+0 -1 25086
+D3
+~
+~
+0 -1 25085
+S
+#25088
+A Small Park Bench~
+Someone's had the foresight to put a small park bench here for
+weary travelers to rest.  Unfortunately, it seems to have been designed
+for children, and your weight would probably break it.  You can get
+back on the park path to the west or travel on an ornate road to
+the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 25090
+D3
+~
+~
+0 -1 25087
+S
+#25089
+A Fork in the Path~
+You've come to the intersection of three paths in the park.  To the
+east, an ornate path crafted of fine stones leads off to the distance.
+The southern path will eventually take you out of the park, and the
+northern path leads deeper into the park.
+~
+0 0 1
+D0
+~
+~
+0 -1 25091
+D1
+~
+~
+0 -1 25090
+D2
+~
+~
+0 -1 25087
+S
+#25090
+An Ornate Road~
+The road here has been carefully crafted of only the finest stone.  it
+must have been expensive to install such a beautiful work of art here to
+serve as a walking path.  The path continues to the east, while a fork
+in the road is to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 25092
+D2
+~
+~
+0 -1 25088
+D3
+~
+~
+0 -1 25089
+S
+#25091
+A Broken Path~
+The path here is paved in fragments of broken stone.  Too large to
+be called gravel, the stones have a natural tendancy to turn underfoot.
+Thus, your footing is often insecure, at best.  The path continues
+to the east and south.
+~
+0 0 1
+D2
+~
+~
+0 -1 25089
+D3
+~
+~
+0 -1 25094
+S
+#25092
+An Ornate Road~
+You can't get over how beautiful the road is.  You tread lightly so
+that your books won't scuff or mar the surface.  It seems as if the
+road is leading you away from the park and towards a residential section
+of town.  The road goes to the east and the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 25093
+D3
+~
+~
+0 -1 25090
+S
+#25093
+An Ornate Road~
+Small lanterns line the side of the road here.  Evidently, they're
+lit when it's dark to provide a soft light to walk by.  How considerate.
+~
+0 0 1
+D2
+~
+~
+0 -1 25092
+S
+#25094
+A Broken Path~
+You carefully make your way along the broken path, being careful
+not to slip and fall.  Just west of here, you see a small duck pond.
+To the north and south, you can leave the path and frolic in the green
+grass.  The path also continues to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 25099
+D1
+~
+~
+0 -1 25091
+D2
+~
+~
+0 -1 25095
+D3
+~
+~
+0 -1 25098
+S
+#25095
+The Shade of a Tree~
+A huge oak tree spreads its boughs toward the sunlight.  A few
+wildflowers grow around the base of the tree, creating a picture perfect
+scene.  The ground rises a bit to the south, ending in a small hill.
+A broken bath lies just north of here, and there seems to be some
+hedges to the west.
+~
+0 0 1
+D0
+~
+~
+0 -1 25094
+D2
+~
+~
+0 -1 25085
+D3
+~
+~
+0 -1 25096
+S
+#25096
+Next to a Pleasant Shrubery~
+The people of Midgard have done a wonderful job landscaping this
+portion of the park.  Two small shruberies surrounded by a white
+picket fence decorate the grounds.  The plot to the left has been
+raised a bit to create a nice two tiered affect, and there's a quait
+little path running right through the middle.
+~
+0 0 1
+D0
+~
+~
+0 -1 25098
+D1
+~
+~
+0 -1 25095
+D2
+~
+~
+0 -1 25083
+S
+#25097
+The Edge of the Park~
+A small fence similar to the gate at the entrance of the park marks
+the west boundary.  Far to the west, you can barely make out the shadow
+of the Cathedral of Virtue on the horizion.  The only exits leads east
+back to the park clearing.
+~
+0 0 1
+D1
+~
+~
+0 -1 25082
+S
+#25098
+A Pond in the Park~
+An artifical duck pond been dug for your viewing enjoyment.  Although
+it looks tempting, the pond is way too shallow for swimming.  Cattails
+and wildflowers decorate the edges of the pond.  A small broken path
+stretches off to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 25094
+D2
+~
+~
+0 -1 25096
+S
+#25099
+A Grass Clearing~
+This clearing lies at the northern most portion of the park.  A little
+black fence cuts and east west path and prevents anyone from traspassing
+to the north.  The only exit leads back to the south.
+~
+0 0 1
+D2
+~
+~
+0 -1 25094
+S
+#0
+
+
+#RESETS
+O 1 21042 1 25000
+O 1 7942 1 25001
+O 1 21042 1 25001
+M 1 25000 1 25003
+M 1 25016 1 25004
+O 1 21048 1 25004
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25010 20 25020
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25006 15 25028
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25004 20 25029
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25009 15 25030
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25007 20 25035
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25008 20 25043
+M 1 25002 1 25054
+G 1 21020 1
+G 1 21021 1
+G 1 21022 1
+M 1 25001 1 25055
+G 1 37 1
+G 1 36 1
+G 1 25 1
+D 0 25056 4 0
+D 0 25057 5 0
+M 1 25013 1 25059
+M 1 25015 1 25061
+M 1 25017 1 25066
+G 1 21008 1
+M 1 25005 1 25070
+G 1 21005 1
+G 1 21007 1
+M 1 25014 1 25071
+G 1 21066 1
+G 1 21065 1
+G 1 21064 1
+G 1 21063 1
+G 1 21057 1
+G 1 21058 1
+G 1 21060 1
+G 1 21061 1
+G 1 21062 1
+G 1 21068 1
+G 1 21069 1
+G 1 21081 1
+G 1 21082 1
+M 1 25003 1 25073
+M 1 25011 1 25077
+M 1 25012 1 25078
+G 1 24854 1
+G 1 7934 1
+G 1 24874 1
+S
+
+
+#SHOPS
+ 25000   17 19  0  0  0   120  90         0 23    ; Banzif
+ 25001   21  2 17 15  0   120  90         0 23    ; a grocer
+ 25002   19  0  0  0  0   120  90         0 23    ; a baker
+ 25005    2  3 32  3  4   120  90         0 23    ; Osfol
+ 25012   19 17  0  0  0   120  90         0 23    ; a waiter
+ 25014    5  9  0  0  0   120  90         0 23    ; a shopkeeper
+ 25017   17 32 31  0  0   120  90         0 23    ; the bartender
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  25004 spec_janitor
+M  25007 spec_fido
+M  25009 spec_guard
+M  25010 spec_thief
+M  25013 spec_cast_cleric
+S
+
+
+#$

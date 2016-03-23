@@ -1,0 +1,58 @@
+#PLAYER
+Version      3
+Name         Autumn~
+Description  ~
+Sex          2
+Class        5
+Race         0
+Species      4
+Languages    1 1
+Level        2
+Played       7262
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   47 47 109 109 126 126
+Gold         22661
+Exp          1280
+Height          60
+Weight          162
+Act          570427240
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  -4
+Password     Au5u5yA8JP2II~
+Title         the Attendant~
+Lastname  Druidian~
+AuthedBy     Andy~
+Flags        98816
+PKills       0
+PDeaths      0
+MKills       90
+MDeaths      2
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     15 11 14 15 14 9 17
+AttrMod      0 0 0 0 0 0 0
+Condition    0 11 11 3
+Site         207.202.214.132
+AffectData   'bless' 1137   6  18 0
+AffectData   'bless' 1137  -6  24 0
+Killed       2107 1
+Killed       2102 1
+i3invis	0
+End
+
+#END

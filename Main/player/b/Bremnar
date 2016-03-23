@@ -1,0 +1,355 @@
+#PLAYER
+Version      3
+Name         Bremnar~
+Description  You see before you a diminuative creature with dark bags under his eyes from
+lack of sleep, not at all as cheerful as the typical faery folk.
+~
+Sex          1
+Class        5
+Race         16
+Species      8
+Languages    67 1
+Level        35
+Played       512043
+Room         10303
+Memorized		21001 42900 0 0 0 0 0 0
+HpManaMove   498 303 110 1085 497 542
+Gold         925168
+Exp          47040326
+Height          25
+Weight          39
+Act          570426952
+AffectedBy   1048586
+Position     112
+Style     2
+Practice     85
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       2281
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen (null)~
+Mentalstate  0
+Password     BrfKZRj1iFRfc~
+Title        ~
+Lastname &r DeathSprite&~
+Bio          Bremnar adventures for adventure and discovery as much as to gain power.
+Bremnar will help you if he can, with heals cures and blessings. Bremnar
+might just try to kill you if you are PK.
+~
+AuthedBy     Marten~
+Prompt       < &r%h&w/&c%H&whp &w%vmv &r%m&w/&c%M&wMan &g%X &w> ~
+Pagerlen     60
+Deity	     Aoskar~
+Clan         Guild of Druids~
+Flags        100866
+PKills       2
+PDeaths      1
+MKills       1679
+MDeaths      65
+ArenaWins    1
+ArenaKills   1
+ArenaDeaths  4
+IllegalPK    0
+AttrPerm     9 15 18 15 9 16 11
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 3 45
+Site         64.5.68.221
+Spell        31 'aqua breath'
+Spell        95 'armor'
+Spell        95 'barkskin'
+Spell        95 'bless'
+Spell        61 'blindness'
+Spell        31 'call lightning'
+Spell        43 'cancelation'
+Spell        93 'cause critical'
+Spell        68 'cause light'
+Spell        95 'cause serious'
+Spell        67 'continual light'
+Spell        32 'control weather'
+Spell        42 'create fire'
+Spell        95 'create food'
+Spell        95 'create spring'
+Spell        62 'create water'
+Spell        56 'cure blindness'
+Spell        95 'cure critical'
+Spell        95 'cure light'
+Spell        60 'cure poison'
+Spell        90 'cure serious'
+Spell        45 'curse'
+Spell        34 'detect evil'
+Spell        88 'detect hidden'
+Spell        95 'detect invis'
+Spell        40 'detect magic'
+Spell        19 'detect poison'
+Spell        36 'detect traps'
+Spell        28 'dispel evil'
+Spell        65 'dream'
+Spell        95 'earthquake'
+Spell        61 'enchant weapon'
+Spell        19 'energy drain'
+Spell        68 'faerie fire'
+Spell        19 'faerie fog'
+Spell        50 'fireball'
+Spell        23 'flamestrike'
+Spell        61 'flight'
+Spell        94 'float'
+Spell        95 'harm'
+Spell        95 'heal'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        58 'infravision'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        30 'know alignment'
+Spell        89 'lightning bolt'
+Spell        95 'liquid skin'
+Spell        53 'locate object'
+Spell        23 'magic missile'
+Spell        19 'mass invis'
+Spell        64 'pass door'
+Spell        79 'plant pass'
+Spell        41 'poison'
+Spell        80 'protection'
+Spell        38 'refresh'
+Spell        19 'remove curse'
+Spell        19 'remove invis'
+Spell        19 'remove trap'
+Spell        95 'sanctuary'
+Spell        95 'scry'
+Spell        95 'shocking grasp'
+Spell        21 'sleep'
+Spell        41 'stone skin'
+Spell        54 'weaken'
+Spell        95 'word of recall'
+Skill        19 'aid'
+Skill        19 'cook'
+Skill        21 'disarm'
+Skill        50 'dual wield'
+Skill        80 'enhanced damage'
+Skill        95 'kick'
+Skill        95 'meditate'
+Skill        95 'pigeon'
+Skill        19 'rescue'
+Skill        60 'scan'
+Skill        64 'search'
+Skill        95 'second attack'
+Skill        95 'second cast'
+Skill        60 'sneak'
+Skill        90 'third attack'
+Skill        19 'track'
+Weapon       95 'bludgeons'
+Weapon       19 'flexible arms'
+Weapon       50 'long blades'
+Weapon       90 'pugilism'
+Weapon       30 'short blades'
+Weapon       27 'talonous arms'
+Tongue       100 'common'
+Tongue       11 'elvish'
+Tongue       100 'pixie'
+Tongue       11 'trollese'
+AffectData   'pass door'   2   0   0 1048576
+AffectData   'detect invis' 745   0  26 8
+Killed       42945 1
+Killed       42917 1
+Killed       42910 1
+Killed       3413 1
+Killed       3405 1
+Killed       3604 1
+Killed       3508 1
+Killed       3500 2
+Killed       3506 4
+i3invis	0
+End
+
+#OBJECT
+Vnum         1536
+WearLoc      20
+Level        9
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         42934
+WearLoc      1
+Level        22
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2072
+WearLoc      19
+Level        2
+Values       1 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      3
+Level        25
+Cost         0
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        29
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         641
+WearLoc      7
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         42924
+WearLoc      5
+Level        27
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         42921
+WearLoc      13
+Level        26
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         640
+WearLoc      6
+Level        32
+Cost         0
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         15147
+WearLoc      14
+Level        26
+Values       7 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         42981
+WearLoc      4
+Level        32
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2812
+WearLoc      2
+Level        20
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         643
+WearLoc      9
+Level        30
+Cost         0
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         644
+WearLoc      10
+Level        32
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         2326
+WearLoc      15
+Level        29
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         42939
+WearLoc      8
+Level        23
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3509
+Level        5
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15124
+Level        31
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15125
+Level        38
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15126
+Level        38
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15127
+Level        38
+Values       10 11 0 0 0 0
+End
+
+#ALIAS
+Name     kj~
+Commands cast 'cure serious'~
+End
+
+#ALIAS
+Name     kl~
+Commands cast sho~
+End
+
+#ALIAS
+Name     jf~
+Commands cast 'cause %0' %1~
+End
+
+#ALIAS
+Name     jk~
+Commands ca heal~
+End
+
+#ALIAS
+Name     jj~
+Commands recite recall~
+End
+
+#END

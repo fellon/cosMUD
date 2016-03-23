@@ -1,0 +1,50 @@
+#PLAYER
+Version      3
+Name         Bobo~
+Sex          1
+Class        1
+Race         1
+Languages    1 1
+Level        2
+Played       3202
+Room         21194
+HpManaMove   26 26 112 112 110 110
+Gold         0
+Exp          431
+Height          66
+Weight          107
+Act          536872520
+AffectedBy   16
+Position     106
+Style     2
+Practice     5
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Mentalstate  -5
+Password     Bo5CjnFEpU/Ys~
+Title         the Attendant~
+Flags        163840
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      2
+IllegalPK    0
+AttrPerm     13 13 18 15 12 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 10
+Site         (Link-Dead)
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 866   6  18 0
+AffectData   'bless' 866  -6  24 0
+AffectData   'armor' 251 -20  17 0
+End
+
+#END

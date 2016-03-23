@@ -1,0 +1,77 @@
+#PLAYER
+Version      3
+Name         Grendel~
+Description  ~
+Sex          0
+Class        9
+Race         32
+Species      3
+Languages    1 1
+Level        8
+Played       10740
+Room         10300
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   105 156 215 197 291 191
+Gold         44106
+Exp          424473
+Height          383
+Weight          1836
+Act          536872520
+AffectedBy   301989888
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 -6
+Alignment    -527
+Favor	       131
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        30
+ICEListen (null)~
+Resistant    128
+Susceptible  4
+Mentalstate  0
+Password     GrRFIcLETyuiY~
+Title         the Dragon Hatchling~
+Lastname ~
+AuthedBy     Andy~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       75
+MDeaths      1
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 13 13 12 16 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 13 10
+Site         63.169.107.252
+Spell        38 'armor'
+Spell        100 'dragon wit'
+Spell        36 'dragonskin'
+Spell        19 'float'
+Spell        32 'shield'
+Skill        95 'bite'
+Skill        100 'dual wield'
+Skill        95 'enhanced damage'
+Skill        95 'scan'
+Weapon       50 'short blades'
+Weapon       100 'talonous arms'
+Tongue       100 'common'
+AffectData   'bless' 404  -6  24 0
+AffectData   'bless' 404   6  18 0
+AffectData   'fireshield' 130   0  26 33554432
+AffectData   'iceshield' 174   0  26 268435456
+Killed       2070 1
+Killed       1531 1
+i3invis	0
+End
+
+#END

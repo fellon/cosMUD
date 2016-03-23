@@ -1,0 +1,97 @@
+#PLAYER
+Version      3
+Name         Alucard~
+Sex          1
+Class        4
+Race         10
+Languages    1 1
+Level        2
+Played       1226
+Room         10300
+HpManaMove   38 38 120 120 110 110
+Gold         200
+Exp          2071
+Height          68
+Weight          155
+Act          570426952
+AffectedBy   8
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     AliaBm1ZH7Dkg~
+Title         the Blood Student~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       2
+MDeaths      0
+IllegalPK    0
+AttrPerm     11 15 11 17 11 9 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 36 36 6
+Site         (Link-Dead)
+Spell        24 'float'
+Skill        19 'dig'
+Tongue       100 'common'
+Tongue       100 'gith'
+Killed       10309 2
+End
+
+#OBJECT
+Vnum         10333
+WearLoc      17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         10308
+WearLoc      5
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10310
+WearLoc      11
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+WearLoc      0
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10312
+WearLoc      16
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#OBJECT
+Vnum         123
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#END

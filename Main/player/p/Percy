@@ -1,0 +1,51 @@
+#PLAYER
+Version      3
+Name         Percy~
+Sex          1
+Class        2
+Race         1
+Languages    1 1
+Level        2
+Played       881
+Room         21194
+HpManaMove   28 28 110 110 110 110
+Gold         0
+Exp          1375
+Height          64
+Weight          101
+Act          536872520
+AffectedBy   16
+Position     106
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        80
+ICEListen ~
+Password     PeFYR6pwATyxU~
+Title         the Footpad~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 13 13 18 15 14 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 12 12 10
+Site         (Link-Dead)
+Skill        17 'cook'
+Skill        17 'steal'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'armor' 478 -20  17 0
+AffectData   'bless' 1122   6  18 0
+AffectData   'bless' 1122  -6  24 0
+End
+
+#END

@@ -1,0 +1,67 @@
+#PLAYER
+Version      3
+Name         Nova~
+Description  ~
+Sex          1
+Class        6
+Race         0
+Languages    1 1
+Level        5
+Played       53349
+Room         60653
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   58 71 117 117 140 140
+Gold         47990
+Exp          59580
+Height          65
+Weight          150
+Act          536872568
+Position     112
+Style     2
+Practice     1
+SavingThrows 0 0 0 0 0
+Alignment    -3
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Mentalstate  0
+Password     Non4TIMGqeMdg~
+Title         the Courser~
+Lastname ~
+Clan         Guild of Rangers~
+Flags        49664
+PKills       0
+PDeaths      0
+MKills       111
+MDeaths      4
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     17 13 14 11 13 13 13
+AttrMod      0 0 0 0 0 0 0
+Condition    0 4 4 15
+Site         205.200.61.254
+Skill        18 'climb'
+Skill        18 'cook'
+Skill        18 'dig'
+Skill        18 'kick'
+Skill        18 'search'
+Weapon       18 'bludgeons'
+Weapon       18 'flexible arms'
+Weapon       18 'long blades'
+Weapon       18 'pugilism'
+Weapon       18 'short blades'
+Weapon       18 'talonous arms'
+Tongue       100 'common'
+Killed       2460 1
+Killed       2471 1
+i3invis	0
+End
+
+#END

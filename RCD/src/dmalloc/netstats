@@ -1,0 +1,68 @@
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       User      
+tcp        0      2 mudserver:2086          stealth.gemstone.c:auth SYN_SENT    ucmm       
+tcp        0      2 mudserver:2084          keffo.imaji.net:auth    SYN_SENT    ucmm       
+tcp        0      0 mudserver:resort        keffo.imaji.net:1178    ESTABLISHED ucmm       
+tcp        0      2 mudserver:telnet        stealth.gemstone.:44526 ESTABLISHED root       
+tcp        0      0 mudserver:resort        stealth.gemstone.:44501 ESTABLISHED ucmm       
+tcp        0      0 mudserver:telnet        illuminati.fortno:26968 ESTABLISHED root       
+tcp        0      0 mudserver:hub10         mudserver:1052          ESTABLISHED ucmmhub    
+tcp        0      0 mudserver:1052          mudserver:hub10         ESTABLISHED lords      
+tcp        0      0 *:7799                  *:*                     LISTEN      lords      
+tcp        0      0 *:7797                  *:*                     LISTEN      lords      
+tcp        0      0 *:7787                  *:*                     LISTEN      lords      
+tcp        0      0 *:7778                  *:*                     LISTEN      lords      
+tcp        0      0 *:Lords                 *:*                     LISTEN      lords      
+tcp        0      0 *:4305                  *:*                     LISTEN      yaktalk    
+tcp        0      0 localhost:hub10         localhost:1049          ESTABLISHED ucmmhub    
+tcp        0      0 localhost:1049          localhost:hub10         ESTABLISHED yaktalk    
+tcp        0      0 *:4325                  *:*                     LISTEN      yaktalk    
+tcp        0      0 *:yaktalk               *:*                     LISTEN      yaktalk    
+tcp        0      0 mudserver:1046          maxgame.mercs3055.:8100 ESTABLISHED ucmmhub    
+tcp        0      0 mudserver:1044          yggdrasil.mudaholi:5200 ESTABLISHED ucmmhub    
+tcp        0      0 mudserver:1040          ourmud.com:9010         ESTABLISHED ucmmhub    
+tcp        0      0 mudserver:1039          dotd.mudservices.c:9010 ESTABLISHED ucmmhub    
+tcp        0      0 localhost:4025          localhost:1036          ESTABLISHED ucmm       
+tcp        0      0 localhost:1036          localhost:4025          ESTABLISHED ucmmhub    
+tcp        0      0 mudserver:1033          204.57.50.66:6005       ESTABLISHED ucmmhub    
+tcp        0      0 mudserver:1027          207.229.21.130:7011     ESTABLISHED ucmmhub    
+tcp        0      0 *:hub10                 *:*                     LISTEN      ucmmhub    
+tcp        0      0 *:4025                  *:*                     LISTEN      ucmm       
+tcp        0      0 *:4025                  *:*                     LISTEN      ucmm       
+tcp        0      0 *:4020                  *:*                     LISTEN      ucmm       
+tcp        0      0 *:4010                  *:*                     LISTEN      ucmm       
+tcp        0      0 *:4001                  *:*                     LISTEN      ucmm       
+tcp        0      0 *:resort                *:*                     LISTEN      ucmm       
+tcp        0      0 *:www                   *:*                     LISTEN      root       
+tcp        0      0 *:smtp                  *:*                     LISTEN      root       
+tcp        0      0 mudserver:domain        *:*                     LISTEN      root       
+tcp        0      0 localhost:domain        *:*                     LISTEN      root       
+tcp        0      0 *:linuxconf             *:*                     LISTEN      root       
+tcp        0      0 *:auth                  *:*                     LISTEN      root       
+tcp        0      0 *:time                  *:*                     LISTEN      root       
+tcp        0      0 *:pop                   *:*                     LISTEN      root       
+tcp        0      0 *:login                 *:*                     LISTEN      root       
+tcp        0      0 *:shell                 *:*                     LISTEN      root       
+tcp        0      0 *:telnet                *:*                     LISTEN      root       
+tcp        0      0 *:ftp                   *:*                     LISTEN      root       
+tcp        0      0 *:sunrpc                *:*                     LISTEN      root       
+udp        0      0 *:snmp                  *:*                                            
+udp        0      0 *:1025                  *:*                                            
+udp        0      0 mudserver:domain        *:*                                            
+udp        0      0 localhost:domain        *:*                                            
+udp        0      0 *:time                  *:*                                            
+udp        0      0 *:talk                  *:*                                            
+udp        0      0 *:syslog                *:*                                            
+udp        0      0 *:sunrpc                *:*                                            
+raw        0      0 *:1                     *:*                                            
+Active UNIX domain sockets (including servers)
+Proto RefCnt Flags       Type       State         I-Node Path
+unix  1      [ ACC ]     STREAM     LISTENING     1580   /var/run/gpmctl
+unix  1      [ ]         STREAM                   1575   
+unix  2      [ ]         STREAM                   1508   /dev/log
+unix  2      [ ]         STREAM     CONNECTED     1507   
+unix  2      [ ]         STREAM                   1404   /dev/log
+unix  2      [ ]         STREAM     CONNECTED     1403   
+unix  2      [ ]         STREAM                   1225   /dev/log
+unix  2      [ ]         STREAM     CONNECTED     1224   
+unix  1      [ ACC ]     STREAM     LISTENING     1180   /dev/log

@@ -1,0 +1,518 @@
+#PLAYER
+Version      3
+Name         Aeshma~
+Description  ~
+Sex          0
+Class        0
+Race         0
+Species      0
+Languages    1 1
+Level        64
+Played       791175
+Room         21000
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   694 659 424 461 885 865
+Gold         5315502
+Exp          314628956
+Height          67
+Weight          141
+Act          570426952
+AffectedBy   4194312
+Position     104
+Style     4
+Practice     92
+SavingThrows 0 0 0 0 0
+Alignment    -1000
+Favor	       1596
+Balance      0
+Glory        3
+MGlory       3
+Hitroll      0
+Damroll      0
+Armor        80
+Wimpy        8
+ICEListen ~
+Mentalstate  0
+Password     Ae9jt8bMviKxo~
+Title         will carry your soul in hell~
+Lastname ~
+Deity	     Soleran~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       3674
+MDeaths      82
+ArenaWins    2
+ArenaKills   3
+ArenaDeaths  4
+IllegalPK    1
+AttrPerm     13 16 11 14 15 14 13
+AttrMod      4 0 0 0 4 -1 0
+Condition    0 4 30 74
+Site         213.154.157.18
+Spell        95 'acid blast'
+Spell        42 'antimagic shell'
+Spell        95 'armor'
+Spell        95 'black lightning'
+Spell        21 'blindness'
+Spell        95 'blur'
+Spell        95 'caustic fount'
+Spell        95 'chill touch'
+Spell        95 'colour spray'
+Spell        95 'continual light'
+Spell        95 'create spring'
+Spell        27 'curse'
+Spell        95 'demonskin'
+Spell        95 'detect invis'
+Spell        19 'dispel magic'
+Spell        19 'disruption'
+Spell        95 'dragon wit'
+Spell        95 'dragonskin'
+Spell        26 'dream'
+Spell        95 'eldritch sphere'
+Spell        85 'enchant weapon'
+Spell        95 'energy drain'
+Spell        19 'ethereal fist'
+Spell        53 'ethereal funnel'
+Spell        95 'ethereal shield'
+Spell        49 'extradimensional portal'
+Spell        95 'faerie fog'
+Spell        52 'farsight'
+Spell        45 'fireball'
+Spell        63 'flight'
+Spell        95 'iceshield'
+Spell        95 'identify'
+Spell        68 'infravision'
+Spell        95 'invis'
+Spell        95 'kindred strength'
+Spell        95 'liquid skin'
+Spell        95 'locate object'
+Spell        95 'magnetic thrust'
+Spell        95 'ogrish hide'
+Spell        95 'pass door'
+Spell        95 'portal'
+Spell        95 'quantum spike'
+Spell        48 'remove invis'
+Spell        95 'sagacity'
+Spell        95 'scry'
+Spell        95 'shadowform'
+Spell        95 'shield'
+Spell        95 'shocking grasp'
+Spell        75 'shockshield'
+Spell        19 'sleep'
+Spell        95 'slink'
+Spell        19 'sonic resonance'
+Spell        19 'spectral furor'
+Spell        95 'stone skin'
+Spell        95 'summon'
+Spell        69 'teleport'
+Spell        95 'trollish vigor'
+Spell        35 'true sight'
+Spell        95 'valiance'
+Spell        71 'ventriloquate'
+Spell        95 'weaken'
+Spell        47 'wizard eye'
+Spell        95 'word of recall'
+Skill        41 'aid'
+Skill        19 'brew'
+Skill        23 'climb'
+Skill        19 'cook'
+Skill        60 'cuff'
+Skill        30 'dodge'
+Skill        30 'dual wield'
+Skill        30 'enhanced damage'
+Skill        95 'fifth cast'
+Skill        59 'focus'
+Skill        95 'fourth cast'
+Skill        20 'kick'
+Skill        30 'levitate'
+Skill        95 'meditate'
+Skill        20 'pinch'
+Skill        95 'ruminate'
+Skill        95 'scan'
+Skill        28 'search'
+Skill        45 'second attack'
+Skill        95 'second cast'
+Skill        95 'sixth cast'
+Skill        30 'third attack'
+Skill        95 'third cast'
+Skill        95 'trance'
+Weapon       80 'bludgeons'
+Weapon       50 'long blades'
+Weapon       95 'short blades'
+Tongue       100 'common'
+AffectData   'trollish vigor' 1406  -1  25 0
+AffectData   'trollish vigor' 1406   4   5 0
+AffectData   'kindred strength' 1407   4   1 0
+AffectData   'detect invis' 1410   0  26 8
+AffectData   'shield' 1163 -20  17 0
+AffectData   'true sight'  50   0  26 4194304
+Killed       25016 1
+Killed       8907 1
+Killed       8908 3
+Killed       42939 1
+Killed       42940 2
+Killed       42941 1
+Killed       26519 1
+Killed       46909 1
+Killed       8118 2
+Killed       8104 2
+Killed       8131 1
+Killed       8112 6
+Killed       8134 1
+Killed       8123 1
+Killed       46916 2
+Killed       42944 1
+i3invis	0
+End
+
+#OBJECT
+Vnum         46925
+WearLoc      1
+Level        48
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         8101
+WearLoc      9
+Level        56
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14705
+WearLoc      6
+Level        54
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         24892
+WearLoc      12
+Level        28
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+WearLoc      19
+Level        43
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+WearLoc      13
+Level        42
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         14702
+WearLoc      11
+Level        63
+Values       17 17 0 0 0 0
+End
+
+#OBJECT
+Vnum         14714
+WearLoc      23
+Level        53
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         21
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      3
+Level        26
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         42978
+Level        27
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         42977
+WearLoc      4
+Level        27
+Values       4 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         42965
+WearLoc      17
+Level        28
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Vnum         46925
+WearLoc      2
+Level        48
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        64
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         644
+Level        31
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1536
+Level        11
+Values       8 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2111
+Level        9
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         44
+Level        61
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        9
+Vnum         7931
+Level        59
+Values       50 182 182 182 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Vnum         46928
+Level        48
+Values       51 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         7930
+Level        57
+Values       52 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        68
+Vnum         7930
+Level        57
+Values       50 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         7930
+Level        57
+Values       51 122 122 122 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Vnum         2845
+Level        26
+Values       12 7 25 3 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         3512
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         44
+Level        60
+Values       100 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil Soleran~
+Vnum         43
+Level        63
+Affect       -1 -1 1 1 0
+End
+
+#OBJECT
+Nest         2
+Vnum         24858
+Level        42
+Values       12 13 36 11 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         48225
+Level        50
+Values       12 12 12 8 0 0
+End
+
+#OBJECT
+Nest         2
+Count        2
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         2815
+Level        21
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         2802
+Level        38
+Values       22 22 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         2801
+Level        38
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         2813
+Level        20
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         61001
+Level        11
+End
+
+#OBJECT
+Nest         2
+Vnum         60990
+Level        11
+Values       4 4 3 1 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         15180
+Level        7
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         14710
+Level        50
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         46943
+Level        45
+Values       12 13 39 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         46943
+Level        44
+Values       12 13 40 3 0 0
+End
+
+#OBJECT
+Nest         2
+Vnum         46942
+Level        45
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         48224
+Level        51
+Values       53 10 9 60 0 0
+Spell 3      'cure poison'
+End
+
+#OBJECT
+Nest         1
+Vnum         46924
+Level        49
+Values       7 14 41 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        29
+Vnum         10317
+Values       24 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         25063
+WearLoc      5
+Level        29
+Values       6 6 0 0 0 0
+End
+
+#ALIAS
+Name     ?~
+Commands cast 'ethereal funnel' ~
+End
+
+#END

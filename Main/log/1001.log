@@ -1,0 +1,653 @@
+Wed Jul 31 13:18:03 UTC 2002
+Wed Jul 31 13:18:03 2002 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Wed Jul 31 13:18:03 2002 :: Loading commands
+Wed Jul 31 13:18:03 2002 :: Loading sysdata configuration...
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Fread_sysdata: no match: Staff
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Fread_sysdata: no match: 105
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Fread_sysdata: no match: Socials
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Fread_sysdata: no match: 595
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Fread_sysdata: no match: Commands
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Fread_sysdata: no match: 566
+Wed Jul 31 13:18:03 2002 :: Loading socials
+Wed Jul 31 13:18:03 2002 :: Loading skill table
+Wed Jul 31 13:18:03 2002 :: Sorting skill table...
+Wed Jul 31 13:18:03 2002 :: Remapping slots to sns
+Wed Jul 31 13:18:03 2002 :: Loading classes
+Wed Jul 31 13:18:03 2002 :: Loading races
+Wed Jul 31 13:18:03 2002 :: Loading herb table
+Wed Jul 31 13:18:03 2002 :: Loading tongues
+Wed Jul 31 13:18:03 2002 :: Making wizlist
+Wed Jul 31 13:18:03 2002 :: Initializing request pipe
+Wed Jul 31 13:18:03 2002 :: Initializing random number generator
+Wed Jul 31 13:18:03 2002 :: Setting time and weather
+Wed Jul 31 13:18:03 2002 :: Assigning gsn's
+Wed Jul 31 13:18:03 2002 :: Reading in plane file...
+Wed Jul 31 13:18:03 2002 :: Reading in area files...
+(help.are)
+arena.are     : Rooms:   350 - 399   Objs:   350 - 350   Mobs:   350 - 350
+build.are     : Rooms:  9500 - 9589  Objs:     0 - 0     Mobs:     0 - 0
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1464
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 10429.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (3) 'M': room 10429 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1465
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 10429.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (4) 'M': room 10429 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1466
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 10429.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (5) 'O': object 10429 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1466
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 10429.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (5) 'O': room 10429 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1467
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 49998.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (6) 'O': object 49998 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1468
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 6003.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (7) 'O': object 6003 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1469
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (8) 'O': object 457 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1480
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 21067.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (19) 'E': object 21067 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1481
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (20) 'O': object 457 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1482
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 50163.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (21) 'O': object 50163 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1484
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_mob_index: bad vnum 100097.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (23) 'M': mobile 100097 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1485
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_mob_index: bad vnum 21436.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (24) 'M': mobile 21436 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1486
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 21423.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (25) 'E': object 21423 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1487
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 21421.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (26) 'E': object 21421 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1489
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_mob_index: bad vnum 100098.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (28) 'M': mobile 100098 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1490
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 100005.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (29) 'O': object 100005 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1492
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (31) 'O': object 457 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1493
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 22.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (32) 'O': object 22 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1496
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 50163.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (35) 'O': object 50163 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: gods.are LINE: 1499
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: gods.are (38) 'O': object 457 doesn't exist.
+gods.are      : Rooms:  1200 - 1299  Objs:  1200 - 1299  Mobs:  1200 - 1299
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: limbo.are LINE: 1347
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 10311.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: limbo.are (3) 'P': object 10311 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: limbo.are LINE: 1348
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 123.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: limbo.are (4) 'P': object 123 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: limbo.are LINE: 1349
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_mob_index: bad vnum 100.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: limbo.are (5) 'M': mobile 100 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: limbo.are LINE: 1350
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 50163.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: limbo.are (6) 'O': object 50163 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: limbo.are LINE: 1351
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 21042.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: limbo.are (7) 'O': object 21042 doesn't exist.
+limbo.are     : Rooms:     1 - 99    Objs:     2 - 99    Mobs:     1 - 99
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newacad.are LINE: 7157
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 21042.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newacad.are (281) 'O': object 21042 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newacad.are LINE: 7181
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 457.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newacad.are (305) 'O': object 457 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newacad.are LINE: 7182
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 6003.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newacad.are (306) 'O': object 6003 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newacad.are LINE: 7183
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 6006.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newacad.are (307) 'P': object 6006 doesn't exist.
+newacad.are   : Rooms: 10300 - 10499 Objs: 10300 - 10499 Mobs: 10300 - 10499
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newdark.are LINE: 9218
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 24516.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newdark.are (381) 'E': object 24516 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newdark.are LINE: 9221
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 60503.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newdark.are (384) 'O': object 60503 doesn't exist.
+newdark.are   : Rooms: 21000 - 21499 Objs: 21000 - 21435 Mobs: 21000 - 21499
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newgate.are LINE: 1887
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 819.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newgate.are (25) 'E': object 819 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newgate.are LINE: 1888
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 494.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newgate.are (26) 'E': object 494 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newgate.are LINE: 1889
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 12534.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newgate.are (27) 'E': object 12534 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: newgate.are LINE: 1890
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 46282.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: newgate.are (28) 'E': object 46282 doesn't exist.
+newgate.are   : Rooms:   100 - 199   Objs:   100 - 199   Mobs:   100 - 199
+stockobj.are  : Rooms: 29000 - 29000 Objs: 29000 - 29099 Mobs:     0 - 0
+astral.are    : Rooms:   800 - 899   Objs:   800 - 899   Mobs:   800 - 899
+chapel.are    : Rooms:  3405 - 3475  Objs:  3400 - 3430  Mobs:  3400 - 3416
+daycare.are   : Rooms:  6601 - 6651  Objs:  6600 - 6647  Mobs:  6600 - 6610
+dwarven.are   : Rooms:  6500 - 6554  Objs:  6502 - 6519  Mobs:  6500 - 6517
+export.are    : Rooms:  9810 - 9899  Objs:  9810 - 9899  Mobs:  9800 - 9899
+gallery.are   : Rooms: 24800 - 24899 Objs: 24800 - 24899 Mobs: 24800 - 24899
+grave.are     : Rooms:  3600 - 3651  Objs:  3600 - 3613  Mobs:  3600 - 3605
+grove.are     : Rooms:  8901 - 8999  Objs:  8900 - 8919  Mobs:  8900 - 8911
+haon.are      : Rooms:  6000 - 6156  Objs:  6000 - 6155  Mobs:  6000 - 6117
+manor.are     : Rooms:  2400 - 2499  Objs:  2400 - 2499  Mobs:  2405 - 2484
+midennir.are  : Rooms:  3500 - 3590  Objs:  3500 - 3550  Mobs:  3500 - 3550
+pixie.are     : Rooms:  2070 - 2099  Objs:  2070 - 2076  Mobs:  2070 - 2073
+sewer.are     : Rooms:  7001 - 7445  Objs:  7190 - 7310  Mobs:  7000 - 7206
+redferne.are  : Rooms:  7900 - 7918  Objs:  7909 - 7911  Mobs:  7900 - 7900
+srefuge.are   : Rooms:  1500 - 1599  Objs:  1500 - 1599  Mobs:  1500 - 1599
+unholy.are    : Rooms:  2101 - 2172  Objs:  2101 - 2150  Mobs:  2101 - 2120
+rocroad.are   : Rooms: 2002001 - 2002040 Objs: 2002001 - 2002020 Mobs: 2002001 - 2002020
+moonlight.are : Rooms: 40000 - 40020 Objs: 40000 - 40020 Mobs: 40000 - 40020
+hannigans.are : Rooms: 2002100 - 2002160 Objs: 2002100 - 2002100 Mobs: 2002100 - 2002100
+ofcol2.are    : Rooms:   600 - 699   Objs:   600 - 667   Mobs:   600 - 634
+thalos.are    : Rooms:  5200 - 5280  Objs:  5200 - 5252  Mobs:  5200 - 5208
+warrior_guild.are: Rooms: 50301 - 50450 Objs: 50301 - 50450 Mobs: 50301 - 50450
+cleric_guild.are: Rooms: 3000100 - 3000199 Objs: 3000100 - 3000199 Mobs: 3000100 - 3000199
+paladin_guild.are: Rooms: 60501 - 60650 Objs: 60501 - 60650 Mobs: 60501 - 60650
+druid_guild.are: Rooms: 60801 - 60812 Objs: 60801 - 60806 Mobs: 60801 - 60802
+monk_guild.are: Rooms: 3000000 - 3000007 Objs:     0 - 0     Mobs: 3000000 - 3000000
+mage_guild.are: Rooms: 60351 - 60358 Objs:     0 - 0     Mobs: 60351 - 60356
+ranger_guild.are: Rooms: 60651 - 60800 Objs: 60651 - 60656 Mobs: 60651 - 60653
+thief_guild.are: Rooms: 50151 - 50300 Objs: 50151 - 50300 Mobs: 50151 - 50300
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1843
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 280.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (107) 'E': object 280 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1845
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (109) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1846
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 48607.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (110) 'E': object 48607 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1847
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (111) 'E': object 2332 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1854
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 42939.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (118) 'E': object 42939 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1860
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 42939.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (124) 'E': object 42939 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1865
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 46015.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (129) 'E': object 46015 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1866
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2377.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (130) 'E': object 2377 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1867
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (131) 'E': object 2332 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1868
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 42936.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (132) 'E': object 42936 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1869
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 15165.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (133) 'E': object 15165 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1870
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 46239.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (134) 'E': object 46239 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1871
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 5025.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (135) 'E': object 5025 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1872
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 5025.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (136) 'E': object 5025 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1873
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2337.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (137) 'E': object 2337 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1878
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 46283.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (142) 'E': object 46283 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: rdaf.are LINE: 1880
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 25558.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: rdaf.are (144) 'E': object 25558 doesn't exist.
+rdaf.are      : Rooms: 100000 - 100099 Objs: 100000 - 100099 Mobs: 100000 - 100099
+donjon.are    : Rooms: 15100 - 15169 Objs: 15100 - 15167 Mobs: 15100 - 15126
+hood.are      : Rooms: 15170 - 15241 Objs: 15170 - 15181 Mobs: 15170 - 15177
+drow.are      : Rooms:  5100 - 5150  Objs:  5100 - 5114  Mobs:  5100 - 5111
+tohell.are    : Rooms: 48200 - 48340 Objs: 48200 - 48249 Mobs: 48200 - 48269
+freeport.are  : Rooms: 46000 - 46074 Objs: 46000 - 46035 Mobs: 46000 - 46032
+swanbrk.are   : Rooms:   429 - 499   Objs:   429 - 499   Mobs:   429 - 499
+valley.are    : Rooms: 44700 - 44784 Objs: 44700 - 44726 Mobs: 44700 - 44715
+xchan1.are    : Rooms: 12500 - 12800 Objs: 12500 - 12664 Mobs: 12500 - 12753
+vantower.are  : Rooms:   200 - 259   Objs:   200 - 239   Mobs:   200 - 238
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: weater.are LINE: 3083
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Load_resets: 'D': exit 4 not door.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: weater.are LINE: 3083
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Reset: D 0 3023 4 2
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: weater.are (36) 'D': exit 4 not door.
+weater.are    : Rooms:  3000 - 3050  Objs:  3000 - 3059  Mobs:  3000 - 3017
+trollden.are  : Rooms: 48500 - 48504 Objs: 48500 - 48505 Mobs: 48500 - 48508
+pyrundead.are : Rooms:   260 - 299   Objs:   260 - 280   Mobs:   260 - 266
+frstdead.are  : Rooms:  2800 - 2899  Objs:  2800 - 2862  Mobs:  2800 - 2834
+luskan.are    : Rooms:  7921 - 7969  Objs:  7921 - 7969  Mobs:  7921 - 7969
+armsmaug.are  : Rooms: 24500 - 24698 Objs: 24500 - 24541 Mobs: 24500 - 24542
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: eastern.are LINE: 1450
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 5033.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: eastern.are (66) 'P': object 5033 doesn't exist.
+eastern.are   : Rooms:  5001 - 5070  Objs:  5000 - 5032  Mobs:  5000 - 5017
+gtown.are     : Rooms:  8100 - 8199  Objs:  8100 - 8122  Mobs:  8100 - 8134
+midgaard.are  : Rooms: 60850 - 60993 Objs: 60850 - 61011 Mobs: 60850 - 60915
+roads.are     : Rooms: 28000 - 28050 Objs: 28000 - 28010 Mobs:     0 - 0
+lilith.are    : Rooms: 25500 - 25599 Objs: 25500 - 25573 Mobs: 25500 - 25537
+weed.are      : Rooms: 30232 - 30261 Objs: 30232 - 30238 Mobs: 30232 - 30240
+hochenya.are  : Rooms: 42900 - 42998 Objs: 42900 - 42984 Mobs: 42900 - 42950
+canyon.are    : Rooms: 41400 - 41454 Objs: 41400 - 41430 Mobs: 41400 - 41436
+dream.are     : Rooms: 41800 - 41835 Objs: 41800 - 41803 Mobs: 41800 - 41800
+solace.are    : Rooms: 45300 - 45416 Objs: 45300 - 45409 Mobs: 45300 - 45352
+olympus.are   : Rooms: 48000 - 48049 Objs: 48000 - 48028 Mobs: 48000 - 48025
+wyvern.are    : Rooms: 48600 - 48660 Objs: 48600 - 48620 Mobs: 48600 - 48627
+hallof.are    : Rooms: 48700 - 48799 Objs: 48700 - 48799 Mobs: 48700 - 48799
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3693
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 46267.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (11) 'G': object 46267 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3699
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 4152.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (17) 'E': object 4152 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3729
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (47) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3730
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 46291.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (48) 'E': object 46291 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3742
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (60) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3756
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2336.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (74) 'E': object 2336 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3757
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (75) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3759
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (77) 'E': object 2332 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3770
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2336.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (88) 'E': object 2336 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3771
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (89) 'E': object 2332 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3772
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (90) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3783
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (101) 'E': object 2332 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3784
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (102) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3786
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2327.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (104) 'E': object 2327 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3788
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2322.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (106) 'E': object 2322 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3793
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (111) 'O': object 26539 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3795
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (113) 'O': object 26539 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3797
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (115) 'O': object 26539 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3800
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (118) 'O': object 26539 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3803
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 26539.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (121) 'O': object 26539 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3813
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (131) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3814
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2392.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (132) 'E': object 2392 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3834
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (152) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3840
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2336.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (158) 'E': object 2336 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3846
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2332.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (164) 'E': object 2332 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3847
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (165) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3861
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2388.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (179) 'E': object 2388 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3865
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 14747.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (183) 'E': object 14747 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3873
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (191) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3884
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (202) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3887
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 4152.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (205) 'E': object 4152 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3906
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (224) 'G': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3908
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 25066.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (226) 'E': object 25066 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3913
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (231) 'E': object 2338 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: brave.are LINE: 3920
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 2338.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: brave.are (238) 'E': object 2338 doesn't exist.
+brave.are     : Rooms: 70000 - 70100 Objs: 70000 - 70099 Mobs: 70000 - 70100
+izmyr.are     : Rooms: 49800 - 50000 Objs: 49800 - 50000 Mobs: 49800 - 50000
+origin.are    : Rooms: 50001 - 50100 Objs: 50001 - 50100 Mobs: 50001 - 50100
+vague.are     : Rooms: 70101 - 70200 Objs: 70101 - 70200 Mobs: 70200 - 70200
+cursenec.are  : Rooms: 25000 - 25099 Objs: 25000 - 25099 Mobs: 25000 - 25099
+arachnos.are  : Rooms: 44900 - 44955 Objs: 44900 - 44903 Mobs: 44900 - 44918
+goblins.are   : Rooms: 20000 - 20031 Objs: 20000 - 20006 Mobs: 20000 - 20017
+thoran.are    : Rooms: 26500 - 26586 Objs: 26500 - 26543 Mobs: 26500 - 26546
+moria.are     : Rooms:  4100 - 4172  Objs:  4100 - 4152  Mobs:  4100 - 4160
+hitower.are   : Rooms: 46200 - 46382 Objs: 46200 - 46294 Mobs: 46200 - 46265
+marsh.are     : Rooms:  8301 - 8318  Objs:  8301 - 8307  Mobs:  8301 - 8321
+mahntor.are   : Rooms:  2300 - 2399  Objs:  2300 - 2393  Mobs:  2300 - 2333
+keraptis.are  : Rooms: 46900 - 46999 Objs: 46900 - 46947 Mobs: 46900 - 46919
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: mtdoom.are LINE: 3522
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Load_resets: 'D': exit 4 not door.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: mtdoom.are LINE: 3522
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Reset: D 1 14749 4 1
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: mtdoom.are (39) 'D': exit 4 not door.
+mtdoom.are    : Rooms: 14700 - 14806 Objs: 14700 - 14758 Mobs: 14700 - 14747
+pe_order.are  : Rooms: 3000051 - 3000099 Objs: 3000051 - 3000099 Mobs: 3000051 - 3000099
+harperhall.are: Rooms: 3000200 - 3000250 Objs: 3000200 - 3000250 Mobs: 3000200 - 3000250
+werewolf.are  : Rooms: 3000251 - 3000273 Objs: 3000251 - 3000251 Mobs: 3000251 - 3000257
+lordrom.are   : Rooms:  1300 - 1305  Objs:     0 - 0     Mobs:  1300 - 1300
+lordrom1.are  : Rooms: 30300 - 30319 Objs: 30300 - 30310 Mobs: 30300 - 30302
+midon.are     : Rooms: 13000 - 13330 Objs: 13000 - 13123 Mobs: 13000 - 13091
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: hand_of_light.are LINE: 35
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Mob 70201 was set for level 116 ... Resetting to level 100
+hand_of_light.are: Rooms: 70201 - 70216 Objs:     0 - 0     Mobs: 70201 - 70210
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: necro.are LINE: 400
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: necro.are (5) 'O': object 12204 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: necro.are LINE: 412
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: necro.are (17) 'P': object 12204 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: necro.are LINE: 413
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: necro.are (18) 'P': object 12204 doesn't exist.
+Wed Jul 31 13:18:03 2002 :: [*****] FILE: necro.are LINE: 415
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_obj_index: bad vnum 12204.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Load_resets: necro.are (20) 'O': object 12204 doesn't exist.
+necro.are     : Rooms: 12201 - 12215 Objs: 12200 - 12208 Mobs: 12201 - 12202
+reign.are     : Rooms:  9900 - 9942  Objs:  9900 - 9986  Mobs:  9900 - 9920
+Wed Jul 31 13:18:03 2002 :: Making sure rooms are planed...
+Wed Jul 31 13:18:03 2002 :: Loading high scores...
+Wed Jul 31 13:18:03 2002 :: Fixing exits
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 8318, exit south leads to bad vnum (-1)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting south exit in room 8318
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 45839.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 41827, exit west leads to bad vnum (45839)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting west exit in room 41827
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 3205.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 26500, exit south leads to bad vnum (3205)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting south exit in room 26500
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 3052.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 3900, exit south leads to bad vnum (3052)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting south exit in room 3900
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 300.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 3904, exit north leads to bad vnum (300)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting north exit in room 3904
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 3053.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 3908, exit south leads to bad vnum (3053)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting south exit in room 3908
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Get_room_index: bad vnum 4785.
+Wed Jul 31 13:18:03 2002 :: [*****] BOOT: Fix_exits: room 4000, exit east leads to bad vnum (4785)
+Wed Jul 31 13:18:03 2002 :: [*****] BUG: Deleting east exit in room 4000
+Wed Jul 31 13:18:03 2002 :: Initializing economy
+Wed Jul 31 13:18:03 2002 :: Resetting areas
+Wed Jul 31 13:18:03 2002 :: Loading buildlist
+Wed Jul 31 13:18:03 2002 :: ../gods/Rathkor
+Wed Jul 31 13:18:03 2002 :: ../gods/Fellon
+Wed Jul 31 13:18:03 2002 :: ../gods/Cyph
+Wed Jul 31 13:18:03 2002 :: ../gods/Relgar
+Wed Jul 31 13:18:03 2002 :: ../gods/Prage
+Wed Jul 31 13:18:03 2002 :: ../gods/Marten
+Wed Jul 31 13:18:03 2002 :: ../gods/Fairburn
+Wed Jul 31 13:18:03 2002 :: ../gods/Arbadus
+Wed Jul 31 13:18:03 2002 :: ../gods/Bronwen
+Wed Jul 31 13:18:03 2002 :: ../gods/Medic
+Wed Jul 31 13:18:03 2002 :: ../gods/Andy
+Wed Jul 31 13:18:03 2002 :: Loading boards
+Wed Jul 31 13:18:03 2002 :: ../boards/immortal.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/highgod.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/IMC.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/general.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/buildcode.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/mail.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/cabinet.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/druidguild.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/imc.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/rdaf.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/buildcode.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/bug.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/pe.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/clerics.brd
+Wed Jul 31 13:18:03 2002 :: ../boards/izmyr.brd
+Wed Jul 31 13:18:03 2002 :: Loading clans
+Wed Jul 31 13:18:03 2002 :: Loading clans...
+Wed Jul 31 13:18:03 2002 :: mage.gui
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: ranger.gui
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: thief.gui
+Wed Jul 31 13:18:03 2002 :: Cannot open clan vault
+Wed Jul 31 13:18:03 2002 :: warrior.gui
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: harper.gui
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: cleric.gui
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: paladin.gui
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: druid.gui
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: RDAF.order
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: vampire.order
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: pexplorer.order
+Wed Jul 31 13:18:03 2002 :: Cannot open clan vault
+Wed Jul 31 13:18:03 2002 :: antipaladin.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: knight.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: battlemage.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: necromancer.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: augurer.gui
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: monk.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: illusionist.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: assassin.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: warlock.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: rogue.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: psionicist.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: angel.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: demon.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: werewolf.guild
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: ooc.clan
+Wed Jul 31 13:18:03 2002 :: Loading clan storage room
+Wed Jul 31 13:18:03 2002 :: selune.order
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: hol.clan
+Wed Jul 31 13:18:03 2002 :: Storeroom not found
+Wed Jul 31 13:18:03 2002 :: $
+Wed Jul 31 13:18:03 2002 ::  Done clans 
+Wed Jul 31 13:18:03 2002 :: Loading councils
+Wed Jul 31 13:18:03 2002 :: Loading councils...
+Wed Jul 31 13:18:03 2002 :: edlder.council
+Wed Jul 31 13:18:03 2002 :: builder.council
+Wed Jul 31 13:18:03 2002 :: newbie.council
+Wed Jul 31 13:18:03 2002 :: quests.cncl
+Wed Jul 31 13:18:03 2002 :: code.council
+Wed Jul 31 13:18:03 2002 :: PK.council
+Wed Jul 31 13:18:03 2002 :: $
+Wed Jul 31 13:18:03 2002 ::  Done councils 
+Wed Jul 31 13:18:03 2002 :: Loading deities
+Wed Jul 31 13:18:03 2002 :: Loading deities...
+Wed Jul 31 13:18:03 2002 :: test.dty
+Wed Jul 31 13:18:03 2002 :: ../deity/soleran
+Wed Jul 31 13:18:03 2002 :: ../deity/cimeron
+Wed Jul 31 13:18:03 2002 :: ../deity/barronar
+Wed Jul 31 13:18:03 2002 :: ../deity/aoskar
+Wed Jul 31 13:18:03 2002 :: ../deity/ci'diys
+Wed Jul 31 13:18:03 2002 :: ../deity/stetha
+Wed Jul 31 13:18:03 2002 :: ../deity/oghma
+Wed Jul 31 13:18:03 2002 :: ../deity/selune
+Wed Jul 31 13:18:03 2002 :: ../deity/thirian
+Wed Jul 31 13:18:03 2002 :: ../deity/torm
+Wed Jul 31 13:18:03 2002 :: ../deity/tyr
+Wed Jul 31 13:18:03 2002 :: ../deity/shaundakul
+Wed Jul 31 13:18:03 2002 :: ../deity/shar
+Wed Jul 31 13:18:03 2002 :: ../deity/mystra
+Wed Jul 31 13:18:03 2002 :: ../deity/moradin
+Wed Jul 31 13:18:03 2002 :: ../deity/borrin
+Wed Jul 31 13:18:03 2002 :: ../deity/assimon
+Wed Jul 31 13:18:03 2002 :: ../deity/corellon
+Wed Jul 31 13:18:03 2002 :: ../deity/lolth
+Wed Jul 31 13:18:03 2002 :: ../deity/semuanya
+Wed Jul 31 13:18:03 2002 :: ../deity/huath
+Wed Jul 31 13:18:03 2002 :: ../deity/sikkuh
+Wed Jul 31 13:18:03 2002 :: ../deity/beshaba
+Wed Jul 31 13:18:03 2002 :: ../deity/azuth
+Wed Jul 31 13:18:03 2002 :: ../deity/bane
+Wed Jul 31 13:18:03 2002 :: ../deity/auril
+Wed Jul 31 13:18:03 2002 :: $
+Wed Jul 31 13:18:03 2002 ::  Done deities 
+Wed Jul 31 13:18:03 2002 :: Loading watches
+Wed Jul 31 13:18:03 2002 :: Loading bans
+Wed Jul 31 13:18:03 2002 :: Done.
+Wed Jul 31 13:18:03 2002 :: Loading reserved names
+Wed Jul 31 13:18:03 2002 :: Loading corpses
+Corpse -> ../corpses/Jaguar
+Corpse -> ../corpses/Ashida
+Corpse -> ../corpses/Glorfindel
+Corpse -> ../corpses/Hamspiced
+Wed Jul 31 13:18:03 2002 :: Loading Immortal Hosts
+Wed Jul 31 13:18:03 2002 :: Done.
+Wed Jul 31 13:18:03 2002 :: Loading Projects
+Wed Jul 31 13:18:03 2002 :: Loading Morphs
+Wed Jul 31 13:18:03 2002 :: Optimizing Morphs.
+Wed Jul 31 13:18:03 2002 :: Done.
+Wed Jul 31 13:18:03 2002 :: Loading Intermud-3 network data...
+Wed Jul 31 13:18:03 2002 :: Intermud-3 network data loaded. Autoconnect not set. Will need to connect manually.
+Wed Jul 31 13:18:03 2002 :: Initializing socket
+Wed Jul 31 13:18:03 2002 :: imc: imc2-2.00g RM4 Beta initializing
+Wed Jul 31 13:18:03 2002 :: imc: Logging On
+Wed Jul 31 13:18:03 2002 :: imc: HubSwitch Off
+Wed Jul 31 13:18:03 2002 :: imc: network initializing
+Wed Jul 31 13:18:03 2002 :: imc: binding port 4125 for incoming connections
+Wed Jul 31 13:18:03 2002 :: imc: connect to hub6
+Wed Jul 31 13:18:03 2002 :: imc: ICE client starting.
+Wed Jul 31 13:18:03 2002 :: imc: ICEc: configured Hub:IMCChat as ichat
+Wed Jul 31 13:18:03 2002 :: imc: ICEc: configured Hub:CodeChat as cchat
+Wed Jul 31 13:18:03 2002 :: imc: ICEc: configured Hub6:PlayerChat as pchat
+Wed Jul 31 13:18:03 2002 :: SDFmud: Alpha ready at address sverige on port 4000.
+Wed Jul 31 13:18:28 2002 :: Sock.sinaddr:  217.39.219.37, port 2716.
+Wed Jul 31 13:18:28 2002 :: Preloading player data for: Trespin (11K)
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Equip_char: already equipped a shattered helm->harpy Room 12716.
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Equip_char: already equipped a dull metal spear->harpy Room 12716.
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Equip_char: already equipped a tattered chain hauberk->harpy Room 12716.
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Equip_char: already equipped a black metal shield->harpy Room 12716.
+Wed Jul 31 13:18:28 2002 :: [*****] BUG: Attempting to fix...
+Wed Jul 31 13:18:31 2002 :: Sock.sinaddr:  207.202.214.132, port -12331.
+Wed Jul 31 13:18:31 2002 :: Loading player data for: Trespin (11K)
+Wed Jul 31 13:18:31 2002 :: Trespin@217.39.219.37((pipe breaking)) has connected.
+Wed Jul 31 13:18:31 2002 :: Sock.sinaddr:  207.202.214.132, port -12332.
+Wed Jul 31 13:18:31 2002 :: imc: hub6[13]: connected (version 2)
+Wed Jul 31 13:18:32 2002 :: Sock.sinaddr:  207.202.214.132, port -12334.
+Wed Jul 31 13:18:34 2002 :: Preloading player data for: Exentric (5K)
+Wed Jul 31 13:18:36 2002 :: Sock.sinaddr:  207.202.214.132, port -12335.
+Wed Jul 31 13:18:36 2002 :: Sock.sinaddr:  207.202.214.132, port -12336.
+Wed Jul 31 13:18:36 2002 :: Trespin has entered the realm!
+Wed Jul 31 13:18:36 2002 :: Preloading player data for: Reaper (8K)
+Wed Jul 31 13:18:36 2002 :: Preloading player data for: Magneto (6K)
+Wed Jul 31 13:18:38 2002 :: Loading player data for: Exentric (5K)
+Wed Jul 31 13:18:38 2002 :: Exentric@207.202.214.132(root) has connected.
+Wed Jul 31 13:18:39 2002 :: Preloading player data for: Cleo (5K)
+Wed Jul 31 13:18:40 2002 :: Loading player data for: Reaper (8K)
+Wed Jul 31 13:18:40 2002 :: Reaper@207.202.214.132(root) has connected.
+Wed Jul 31 13:18:41 2002 :: Loading player data for: Cleo (5K)
+Wed Jul 31 13:18:41 2002 :: Cleo@207.202.214.132(root) has connected.
+Wed Jul 31 13:18:42 2002 :: Preloading player data for: Jaguar (2K)
+Wed Jul 31 13:18:42 2002 :: Reaper has entered the realm!
+Wed Jul 31 13:18:42 2002 :: Loading player data for: Magneto (6K)
+Wed Jul 31 13:18:42 2002 :: Magneto@207.202.214.132(root) has connected.
+Wed Jul 31 13:18:42 2002 :: Exentric has entered the realm!
+Wed Jul 31 13:18:45 2002 :: Sock.sinaddr:  207.202.214.132, port -12338.
+Wed Jul 31 13:18:45 2002 :: Cleo has entered the realm!
+Wed Jul 31 13:18:47 2002 :: Loading player data for: Jaguar (2K)
+Wed Jul 31 13:18:47 2002 :: Jaguar@207.202.214.132(root) has connected.
+Wed Jul 31 13:18:47 2002 :: Preloading player data for: Jostos (6K)
+Wed Jul 31 13:18:49 2002 :: Loading player data for: Jostos (6K)
+Wed Jul 31 13:18:49 2002 :: Jostos@207.202.214.132(progboss) has connected.
+Wed Jul 31 13:18:52 2002 :: Magneto has entered the realm!
+Wed Jul 31 13:18:52 2002 :: Jostos has entered the realm!
+Wed Jul 31 13:18:53 2002 :: Jaguar has entered the realm!
+Wed Jul 31 13:18:57 2002 :: Sock.sinaddr:  207.202.214.132, port -12341.
+Wed Jul 31 13:18:59 2002 :: Sock.sinaddr:  202.153.247.163, port 1487.
+Wed Jul 31 13:19:01 2002 :: Sock.sinaddr:  206.172.134.94, port 1030.
+Wed Jul 31 13:19:02 2002 :: Preloading player data for: Icendor (3K)
+Wed Jul 31 13:19:05 2002 :: Loading player data for: Icendor (3K)
+Wed Jul 31 13:19:05 2002 :: Icendor@207.202.214.132(root) has connected.
+Wed Jul 31 13:19:10 2002 :: Preloading player data for: Secter (8K)
+Wed Jul 31 13:19:12 2002 :: Loading player data for: Secter (8K)
+Wed Jul 31 13:19:12 2002 :: Secter@206.172.134.94(secter) has connected.
+Wed Jul 31 13:19:13 2002 :: Sock.sinaddr:  213.66.228.229, port -26444.
+Wed Jul 31 13:19:13 2002 :: Icendor has entered the realm!
+Wed Jul 31 13:19:14 2002 :: Secter has entered the realm!
+Wed Jul 31 13:19:17 2002 :: Preloading player data for: Cernunnos (7K)
+Wed Jul 31 13:19:20 2002 :: Loading player data for: Cernunnos (7K)
+Wed Jul 31 13:19:20 2002 :: Cernunnos@213.66.228.229((pipe breaking)) has connected.
+Wed Jul 31 13:19:26 2002 :: Cernunnos has entered the realm!
+Wed Jul 31 13:19:38 2002 :: [*****] BUG: Signal SIGBUS.
+Wed Jul 31 13:19:38 2002 :: [*****] BUG: Signal SIGTERM.
+Wed Jul 31 13:19:38 2002 :: [*****] BUG: Signal SIGABRT.
+Wed Jul 31 13:19:38 2002 :: [*****] BUG: Signal SIGSEGV.
+Wed Jul 31 13:19:38 2002 :: Crashguard is OFF.  Dumping core...

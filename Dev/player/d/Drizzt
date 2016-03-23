@@ -1,0 +1,72 @@
+#PLAYER
+Version      3
+Name         Drizzt~
+Description  ~
+Sex          1
+Class        15
+Race         11
+Species      0
+Languages    1 1
+Level        6
+Played       47113
+Room         21194
+Memorized		21001 0 0 0 0 0 0 0
+HpManaMove   69 69 206 206 165 165
+Gold         52627
+Exp          122827
+Height          64
+Weight          118
+Act          570427000
+AffectedBy   16777728
+Position     112
+Style     2
+Practice     0
+SavingThrows 0 0 0 0 -6
+Alignment    -34
+Favor	       0
+Balance      0
+Glory        0
+MGlory       0
+Hitroll      6
+Damroll      0
+Armor        100
+Wimpy        10
+ICEListen (null)~
+Mentalstate  -100
+Password     DrK8qDJq968YQ~
+Title         the Adept~
+Lastname  Do'Urden~
+AuthedBy     Cyph~
+Flags        98304
+PKills       0
+PDeaths      0
+MKills       117
+MDeaths      7
+ArenaWins    0
+ArenaKills   0
+ArenaDeaths  0
+IllegalPK    0
+AttrPerm     12 16 13 15 11 10 15
+AttrMod      0 0 0 0 0 0 0
+Condition    0 0 0 16
+Site         (Link-Dead)
+Spell        95 'armor'
+Spell        19 'blindness'
+Spell        50 'cause serious'
+Spell        95 'create food'
+Spell        21 'create water'
+Spell        95 'cure light'
+Spell        95 'faerie fire'
+Skill        19 'cook'
+Skill        20 'kick'
+Weapon       50 'pugilism'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'bless' 788  -6  24 0
+AffectData   'bless' 788   6  18 0
+Killed       10320 2
+Killed       10313 6
+i3invis	0
+End
+
+#END

@@ -1,0 +1,55 @@
+#PLAYER
+Version      3
+Name         Astaroth~
+Sex          1
+Class        5
+Race         9
+Languages    1 1
+Level        3
+Played       5080
+Room         10362
+HpManaMove   52 52 111 111 120 120
+Gold         8041
+Exp          14795
+Height          71
+Weight          138
+Act          570427000
+AffectedBy   512
+Position     112
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+ICEListen ~
+Resistant    2
+Mentalstate  -11
+Password     AsMzccZQTOXJQ~
+Title         the Acolyte~
+Flags        32768
+PKills       0
+PDeaths      0
+MKills       14
+MDeaths      0
+IllegalPK    0
+AttrPerm     12 13 16 14 14 14 14
+AttrMod      0 0 0 0 0 0 0
+Condition    0 10 6 13
+Site         193.226.10.105
+Spell        19 'armor'
+Spell        19 'cure light'
+Skill        19 'evasive style'
+Weapon       19 'bludgeons'
+Tongue       100 'common'
+Tongue       100 'elvish'
+Killed       10344 2
+Killed       10300 2
+Killed       10302 1
+End
+
+#END

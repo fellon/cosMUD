@@ -1,0 +1,208 @@
+#PLAYER
+Version      3
+Name         Smeagol~
+Sex          1
+Class        2
+Race         1
+Languages    1 1
+Level        8
+Played       67678
+Room         21075
+HpManaMove   91 91 110 110 270 170
+Gold         55822
+Exp          258056
+Height          64
+Weight          117
+Act          570426952
+AffectedBy   32784
+Position     106
+Style     2
+Practice     4
+SavingThrows 0 0 0 0 0
+Alignment    1000
+Favor	       0
+Glory        0
+MGlory       0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        5
+ICEListen ~
+Resistant    2
+Mentalstate  0
+Password     Smax9XeqtBFh.~
+Title         logaemS~
+Clan         Guild of Thieves~
+Flags        33280
+PKills       0
+PDeaths      0
+MKills       342
+MDeaths      13
+IllegalPK    0
+AttrPerm     12 14 14 18 13 14 13
+AttrMod      0 0 0 4 0 0 0
+Condition    0 9 7 18
+Site         192.204.162.18
+Skill        95 'backstab'
+Skill        27 'climb'
+Skill        95 'dodge'
+Skill        17 'evasive style'
+Skill        85 'hide'
+Skill        95 'peek'
+Skill        43 'pick lock'
+Skill        90 'scan'
+Skill        17 'search'
+Skill        95 'sneak'
+Skill        17 'standard style'
+Skill        17 'steal'
+Weapon       17 'bludgeons'
+Weapon       80 'long blades'
+Weapon       17 'pugilism'
+Weapon       95 'short blades'
+Tongue       100 'common'
+Tongue       100 'elvish'
+AffectData   'slink' 228   4   2 0
+AffectData   'sneak'  33   0  26 32768
+Killed       3506 1
+Killed       7003 4
+Killed       3501 16
+Killed       10397 1
+Killed       10396 4
+End
+
+#OBJECT
+Vnum         2427
+WearLoc      3
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         10314
+Values       15 14 0 0 0 0
+End
+
+#OBJECT
+Vnum         21049
+WearLoc      0
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         10311
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   1
+Values       75 1 0 1 0 0
+End
+
+#OBJECT
+Nest         1
+Count        8
+Vnum         21016
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         10302
+WearLoc      13
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+WearLoc      7
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+WearLoc      8
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      14
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10300
+WearLoc      15
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10304
+WearLoc      6
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+WearLoc      12
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10306
+WearLoc      4
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+WearLoc      9
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10307
+WearLoc      20
+Level        2
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+WearLoc      11
+Level        7
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21081
+WearLoc      16
+Level        6
+Values       12 3 9 11 0 0
+End
+
+#OBJECT
+Vnum         3510
+WearLoc      10
+Level        7
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Count        2
+Vnum         21049
+Values       0 0 -1 0 0 0
+End
+
+#END
