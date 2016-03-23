@@ -1,0 +1,721 @@
+#AREA   Roads~
+
+
+
+#VERSION 1
+#AUTHOR Keolah~
+
+#RANGES
+0 116 0 116
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 168200000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#28000
+case herb~
+a case of dragon nip herb~
+A case labeled "Dragon Nip Herb" has been left here.~
+~
+13 0 1
+0 0 0 0
+50 5000 500
+#28001
+case apples~
+a case of fresh apples~
+A case labeled 'Fresh Apples' and marked 'This Side Up' sits here.~
+~
+13 0 1
+0 0 0 0
+50 5000 500
+#28010
+case ore~
+a case of iron ore~
+A case labeled "Iron Ore" sits on the ground here.~
+~
+13 524288 1
+0 0 0 0
+50 5000 500
+#0
+
+
+#ROOMS
+#28000
+Road North of Darkhaven~
+~
+0 0 1
+D0
+~
+~
+0 -1 28001
+D2
+~
+~
+0 -1 21099
+S
+#28001
+Road North of Darkhaven~
+~
+0 0 1
+D0
+~
+~
+0 -1 28002
+D2
+~
+~
+0 -1 28000
+S
+#28002
+Plains Crossroad~
+A sign has been posted at the crossroads, it reads:
+Darkhaven - 3 leagues south
+The King's Castle - 7 leagues north
+Ofcol - 9 leagues northeast
+Midgaard - 12 leagues northwest
+
+Straight to the west from here, you see an RDAF outpost
+~
+0 0 1
+D0
+~
+~
+0 -1 28008
+D2
+~
+~
+0 -1 28001
+D3
+~
+~
+0 -1 100037
+D6
+~
+~
+0 -1 28003
+D7
+~
+~
+0 -1 28016
+S
+#28003
+Plains Road to Ofcol~
+~
+0 0 1
+D0
+~
+~
+0 -1 28004
+D9
+~
+~
+0 -1 28002
+S
+#28004
+Plains Road to Ofcol~
+~
+0 0 1
+D0
+~
+~
+0 -1 28005
+D2
+~
+~
+0 -1 28003
+S
+#28005
+Plains Road to Ofcol~
+~
+0 0 1
+D2
+~
+~
+0 -1 28004
+D6
+~
+~
+0 -1 28006
+S
+#28006
+Plains Road to Ofcol~
+~
+0 0 1
+D0
+~
+~
+0 -1 28007
+D9
+~
+~
+0 -1 28005
+S
+#28007
+Plains Road to Ofcol~
+~
+0 0 1
+D2
+~
+~
+0 -1 28006
+D6
+~
+~
+0 -1 28014
+S
+#28008
+Plains Road to the King's Castle~
+~
+0 0 1
+D0
+~
+~
+0 -1 28009
+D2
+~
+~
+0 -1 28002
+S
+#28009
+Plains Road to the King's Castle~
+~
+0 0 1
+D0
+~
+~
+0 -1 28010
+D2
+~
+~
+0 -1 28008
+S
+#28010
+Plains Road to the King's Castle~
+~
+0 0 1
+D0
+~
+~
+0 -1 28011
+D2
+~
+~
+0 -1 28009
+S
+#28011
+Plains Road to the King's Castle~
+~
+0 0 1
+D2
+~
+~
+0 -1 28010
+D6
+~
+~
+0 -1 28012
+S
+#28012
+Plains Road to the King's Castle~
+~
+0 0 1
+D0
+~
+~
+0 -1 28013
+D9
+~
+~
+0 -1 28011
+S
+#28013
+Plains Road to the King's Castle~
+~
+0 0 1
+D2
+~
+~
+0 -1 28012
+S
+#28014
+Plains Road to Ofcol~
+~
+0 0 1
+D6
+~
+~
+0 -1 28015
+D9
+~
+~
+0 -1 28007
+S
+#28015
+Plains Road to Ofcol~
+~
+0 0 1
+D1
+~
+~
+0 -1 601
+D9
+~
+~
+0 -1 28014
+S
+#28016
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28017
+D8
+~
+~
+0 -1 28002
+S
+#28017
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28018
+D2
+~
+~
+0 -1 28016
+S
+#28018
+Plains Road to Midgaard~
+~
+0 0 1
+D2
+~
+~
+0 -1 28017
+D7
+~
+~
+0 -1 28019
+S
+#28019
+Plains Road to Midgaard~
+~
+0 0 1
+D7
+~
+~
+0 -1 28020
+D8
+~
+~
+0 -1 28018
+S
+#28020
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28021
+D8
+~
+~
+0 -1 28019
+S
+#28021
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28022
+D2
+~
+~
+0 -1 28020
+S
+#28022
+Plains Road to Midgaard~
+~
+0 0 1
+D2
+~
+~
+0 -1 28021
+D7
+~
+~
+0 -1 28023
+S
+#28023
+Plains Road to Midgaard~
+~
+0 0 1
+D7
+~
+~
+0 -1 28024
+D8
+~
+~
+0 -1 28022
+S
+#28024
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28025
+D8
+~
+~
+0 -1 28023
+S
+#28025
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28026
+D2
+~
+~
+0 -1 28024
+S
+#28026
+Plains Road to Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 60963
+D2
+~
+~
+0 -1 28025
+S
+#28027
+King's Road~
+~
+0 0 1
+D1
+~
+~
+0 -1 28028
+S
+#28028
+King's Road~
+~
+0 0 1
+D3
+~
+~
+0 -1 28027
+S
+#28029
+King's Road~
+~
+0 0 1
+D1
+~
+~
+0 -1 28030
+S
+#28030
+King's Road~
+~
+0 0 1
+D1
+~
+~
+0 -1 28031
+D3
+~
+~
+0 -1 28029
+S
+#28031
+King's Road~
+~
+0 0 1
+D1
+~
+~
+0 -1 28032
+D3
+~
+~
+0 -1 28030
+S
+#28032
+King's Road~
+~
+0 0 1
+D3
+~
+~
+0 -1 28031
+S
+#28033
+Road West of Midgaard~
+~
+0 0 1
+D1
+~
+~
+0 -1 60897
+D3
+~
+~
+0 -1 28034
+S
+#28034
+Road West of Midgaard~
+~
+0 0 1
+D1
+~
+~
+0 -1 28033
+D3
+~
+~
+0 -1 28035
+S
+#28035
+Road West of Midgaard~
+~
+0 0 1
+D1
+~
+~
+0 -1 28034
+D3
+~
+~
+0 -1 28036
+D9
+~
+~
+0 -1 28040
+S
+#28036
+Approaching a Lake~
+~
+0 0 1
+D1
+~
+~
+0 -1 28035
+D7
+~
+~
+0 -1 28037
+S
+#28037
+Above a Mist-shrouded Lake~
+~
+0 0 1
+D5
+~
+~
+0 -1 25501
+D8
+~
+~
+0 -1 28036
+S
+#28038
+Road north of Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 28039
+D2
+~
+~
+0 -1 60975
+S
+#28039
+Road north of Midgaard~
+~
+0 0 1
+D0
+~
+~
+0 -1 7921
+D2
+~
+~
+0 -1 28038
+S
+#28040
+A side-road~
+~
+0 0 1
+D6
+~
+~
+0 -1 28035
+D9
+~
+~
+0 -1 28041
+S
+#28041
+A side-road~
+~
+0 0 1
+D6
+~
+~
+0 -1 28040
+S
+#28042
+Side-trail in the forest~
+~
+0 0 1
+D2
+~
+~
+0 -1 28043
+S
+#28043
+Side-trail in the forest~
+~
+0 0 1
+D0
+~
+~
+0 -1 28042
+D2
+~
+~
+0 -1 5279
+S
+#28044
+Side-trail in the forest~
+~
+0 0 1
+D2
+~
+~
+0 -1 28045
+D6
+~
+~
+0 -1 44700
+S
+#28045
+Side-trail in the forest~
+~
+0 0 1
+D0
+~
+~
+0 -1 28044
+D9
+~
+~
+0 -1 28046
+S
+#28046
+Side-trail in the forest~
+~
+0 0 1
+D2
+~
+~
+0 -1 6151
+D6
+~
+~
+0 -1 28045
+S
+#28047
+Small dirt road~
+~
+0 0 1
+D9
+~
+~
+0 -1 28048
+S
+#28048
+Small dirt road~
+~
+0 0 1
+D6
+~
+~
+0 -1 28047
+D9
+~
+~
+0 -1 28049
+S
+#28049
+Small dirt road~
+~
+0 0 1
+D6
+~
+~
+0 -1 28048
+D9
+~
+~
+0 -1 28050
+S
+#28050
+Small dirt road~
+~
+0 0 1
+D6
+~
+~
+0 -1 28049
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

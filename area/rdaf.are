@@ -1,0 +1,1908 @@
+#AREA   Royal Darkhaven Armed Forces HQ~
+
+
+
+#VERSION 1
+#AUTHOR Dewa/Fellon~
+
+#RANGES
+0 65 0 116
+$
+
+#RESETMSG The screaming and yelling of RDAF cadets can be heard from afar.~
+
+#FLAGS
+4 10
+
+#ECONOMY 0 39358000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#100000
+Rahasia~
+Rahasia the Spy~
+Rahasia is here coordinating with his spies afar.
+~
+He is an experienced man in gathering secret's and retrieve
+impossible datas. he has a wide range of data source from banker to
+fighter. 
+his physical appearance itself is not very promising.
+~
+3 0 1000 C
+49 18 -300 5d5+2000 4d6+15
+0 0
+112 112 1
+20 20 0 20 20 0 20
+0 0 0 0 0
+0 2 0 0 393231 262145 0
+30 32 0 0 0 0 1056 524291
+> rand_prog 10~
+if ispc($n)
+ say i believe this is a private room ...
+endif
+~
+|
+#100001
+Sakshi~
+Sakshi~
+Sakshi the Witness is here, sitting solemnly.
+~
+~
+3 128 1000 C
+35 18 -300 5d2+490 2d6+15
+0 0
+112 112 1
+25 25 25 20 25 25 0
+0 0 0 0 0
+0 0 0 0 1 1 5
+30 34 0 0 0 0 384 524339
+#100002
+Guard of RDAF~
+A guard~
+The guard looks firm and strong. An aura of honor and valor surrounds him.
+~
+~
+3 0 0 C
+35 0 -200 4d6+1000 4d6+50
+0 0
+112 112 1
+20 20 20 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+20 20 0 0 0 0 384 524291
+#100003
+RDAF Inspector~
+An RDAF Inspector~
+An RDAF Inspector is here, walking arround the Headquarter, checking eveything
+~
+The RDAF Inspector is a young man of energy.
+His eyes burns with passions of improvements and spirits of learnings
+In his young age, He is definately a diamong among others.
+~
+65 0 1000 C
+50 0 -299 5d1+2000 6d5+10
+0 0
+112 112 1
+25 20 13 18 18 13 18
+0 0 0 0 0
+0 3 0 0 1 1 5
+35 40 0 0 0 0 0 524291
+#100004
+Yakuza karate kid~
+Yakuza The Karate Kid~
+Yakuza The Karate Kid is here, practicing his Katas ...
+~
+This guy, Yakuza, a Dragon Ball Character like, is a teen of valor.
+He is indeed a youth of potention.
+~
+3 67108872 500 C
+35 0 -175 2d5+890 5d6+30
+50000 0
+112 112 1
+22 16 16 16 15 13 20
+0 0 0 0 0
+0 7 0 0 1 1 4
+35 50 0 2048 0 0 384 524291
+#100005
+Caine KungFu~
+Kwai Cheng Caine~
+Caine, The Kung-Fu Legend is here, practicing Tai-Chi
+~
+A man of experience he is.
+he is aware of the danger of this world, so he trained harder to
+overcome the menaces.
+~
+3 67108872 600 C
+44 0 -200 5d2+1000 5d5+40
+100000 0
+112 112 1
+23 20 20 18 17 19 16
+0 0 0 0 0
+0 8 0 0 1 1 0
+50 50 0 2048 3072 0 416 524291
+#100006
+Mahesa Ancient Warrior~
+Mahesa Jenar~
+Mahesa Jenar The Ancient Warrior is here
+~
+He is a man from the Senapati's Era ... He bears the secrets of this
+lovely city of Darkhaven in his mind. Not to be uttered again.
+a man of honour he is ...
+~
+3 67108872 1000 C
+46 0 -200 5d2+1200 5d5+40
+100000 0
+112 112 0
+25 20 13 15 13 13 16
+0 0 0 0 0
+0 3 0 0 1 1 5
+50 50 0 3149668 1051648 0 416 524307
+#100007
+Bajingan Butcher Killer~
+Bajingan The Killer~
+Bajingan The Killer Butcher is here, better beware ...
+~
+An evil of mystery ..
+his eyes spark anger and hatred ..
+~
+3 0 -1000 C
+49 0 0 5d5+2000 5d5+40
+0 0
+112 112 0
+23 20 13 18 18 13 20
+0 0 0 0 0
+10 0 0 0 1 1 0
+40 40 0 0 1052139 0 1985221088 533539
+> death_prog 100~
+mptransfer $n 100027
+~
+|
+#100009
+Amelia~
+Amelia, The Beautifull Cadet~
+Amelia the beautifull cadet is here, looking bussy
+~
+She is definitely the most beautiful woman in RDAF, putting other 
+female officers to shame. Her dark eyes burn with a raw passion. Her
+dark hair appears as soft as silk, beckoning you to reach out and
+touch it.
+It is also a public secret that she has an affair
+with one of the Gods, Fairburn.
+~
+3 128 1000 C
+50 18 25 2d10+1980 2d10+25
+0 0
+112 112 2
+20 25 25 25 25 25 20
+0 0 0 0 0
+0 3 0 0 262145 262145 0
+20 25 0 0 0 0 0 0
+> rand_prog 25~
+say oooh .. I wish Fairburn is here, helping me with this monitors..
+~
+|
+#100010
+Sandhi~
+Sandhi The Decoder~
+Sandhi the Decoder is here,playing with his magical interrupt device
+~
+He obviously doesn't get enough sun (at least his complexion appears this way).
+Thick glasses and a bad t-shirt are his distinguishing characteristics.
+~
+3 0 0 C
+45 18 -300 5d5+2000 3d7+20
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 3 0 0 262145 262145 5
+30 32 0 0 0 0 416 524291
+> rand_prog 20~
+say hmm ... is it magical blowfish or the shining MD5 ??
+~
+|
+#100011
+Gendhutt~
+Gendhutt The Seller~
+Gendhutt the seller is here, selling strange things.
+~
+This fat man is an adept of collecting strange things to help
+funding his beloved order, the RDAF.
+he looks truthfull and also .... joyfull.
+~
+3 128 0 C
+50 18 25 1d1+1 1d1+1
+0 0
+112 112 1
+25 0 0 0 0 0 0
+0 0 0 0 0
+0 3 0 0 262145 262145 0
+0 0 0 0 0 0 0 0
+> greet_prog 100~
+if ispc($n)
+or isimmort($n)
+  mea $n Welcome to My Joyfull RDAF Corner of Strange Stuffs, $n
+endif
+~
+|
+#100012
+Widhyawathi~
+widhyawathi the nurse~
+Widhyawathi, the magical nurse is sitting here solemnly
+~
+~
+3 268435584 0 C
+50 18 -300 1d5+2000 4d5+30
+0 0
+112 112 2
+20 20 20 20 20 20 20
+0 0 0 0 0
+0 1 0 0 262145 262145 0
+0 0 0 0 0 0 0 0
+#100013
+lust demon srikandhi~
+Srikandhi, The Demon Of Lust~
+Srikandhi is here, ready to spread lust to your mind ..
+~
+~
+8388611 33619968 -1000 C
+30 0 -250 2d10+730 2d5+15
+0 0
+112 112 0
+22 15 10 15 15 13 15
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 384 524323
+#100014
+Satyabudhi~
+Satyabudhi The Repair Man~
+Satyabudhi is here ready to repair weapon and armors.
+~
+~
+3 0 0 C
+50 18 25 5d5+2000 5d5+30
+0 0
+112 112 1
+25 25 0 25 20 18 25
+0 0 0 0 0
+0 3 0 0 262145 262145 0
+0 0 0 0 0 0 0 0
+> greet_prog 100~
+mea $n when it's your gears wounded, i shall be here to repair them
+mea $n when it's for Darkhaven, oo sir $n, i shall be at your service
+~
+|
+#100015
+Sookiman~
+Sookiman~
+Sookiman the Battle Councelor is here, looking nervous
+~
+~
+3 0 1000 C
+50 18 -300 1d1+1 1d1+1
+0 0
+112 112 1
+25 25 20 15 15 15 25
+0 0 0 0 0
+0 3 0 0 262145 262145 0
+35 40 0 0 0 0 384 524339
+> rand_prog 20~
+I have to predict their strength first ... ooh this is hard ..
+~
+|
+#100016
+Artha~
+Artha The Caretaker~
+Artha The Caretaker is here ready to receive donation.
+~
+~
+131 0 0 C
+15 18 25 1d1+1 1d1+1
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 3 0 0 262145 262145 0
+0 0 0 0 0 0 0 0
+> bribe_prog 1000~
+mpoload 100001 10
+give medallion 0.$n
+say Thank You, and this Medallion is our reward to your donation.
+~
+|
+#100017
+Goose-Doore~
+Goose-Doore the Trainer~
+Goose-Doore the Trainer is here
+~
+This Man is undoubtfully powerfull.
+His eyes said "Try Me !!"
+~
+131075 0 1000 C
+50 0 -300 5d5+2000 4d7+10
+0 0
+112 112 0
+24 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+35 40 0 0 0 0 416 524291
+> rand_prog 20~
+say Try Me !! Cadets !! Try Me !!
+~
+> rand_prog 15~
+I am the best, you are a Pest !!
+~
+|
+#100018
+AWOL~
+An RDAF A.W.O.L~
+An RDAF A.W.O.L is here, .. better watch out
+~
+~
+97 0 -1000 C
+45 0 -250 2d5+1200 4d7+5
+0 0
+112 112 0
+22 13 13 20 18 13 16
+0 0 0 0 0
+0 3 0 0 1 1 4
+25 27 0 0 0 0 433 524291
+#100019
+Salatiga trainer~
+Salatiga The Early Trainer~
+Salatiga is here, standing firmly ...
+~
+Salatiga is a young trainer and is more than willing to train his
+fellow youngsters. he is a youth of perfect potention.
+~
+3 0 0 C
+21 0 0 4d4+350 2d2+5
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+10 10 0 0 0 0 48 3
+#100020
+Sol Solo sol-o intermediate trainer~
+Sol-O the Intermediate Trainer~
+Sol-O is here, standing firmly .. looking cautious ...
+~
+A man of mystery ..
+he obviously an experienced man in keeping his identity just for
+his mere self.
+~
+3 8 900 C
+33 0 0 5d5+500 4d1+7
+0 0
+112 112 0
+21 18 13 13 13 13 13
+0 0 0 0 0
+10 3 0 0 1 1 0
+13 15 0 0 3072 0 496 526339
+#100021
+Weera Sableng Trainer~
+Weera Sableng~
+Weera Sableng the Trainer is here, standing strongly ...
+~
+He is the one who bears a tattoo of "212" on his chest.
+you may wonder what does it mean ..
+~
+3 136 1000 C
+39 0 -40 5d1+600 5d2+14
+0 0
+112 112 0
+23 19 19 17 19 13 20
+0 0 0 0 0
+0 3 0 0 1 1 0
+15 12 0 0 1051648 0 268435888 524291
+#100022
+Ashfar advanced trainer~
+Ashfar the Trainer~
+Ashfar is here standing strongly ...
+~
+A handsome trainer he is.
+his presence brings sanctuity to everyone in room ...
+~
+3 67109000 1000 C
+45 0 -100 5d1+800 5d1+20
+0 0
+112 112 0
+24 19 20 20 20 13 20
+0 0 0 0 0
+0 3 0 0 1 1 0
+16 16 0 0 1051648 0 1207964145 526343
+#100023
+Aeolia trainer woman mistress ~
+Aeolia~
+Aeolia, a woman of grace is here assisting you in your practice
+~
+A Woman of grace and beauty, she is indeed.
+The true offspring of the legendary Domick of Darkhaven.
+~
+67109891 128 1000 C
+99 0 -300 1d1+24999 1d1+59
+0 0
+112 112 2
+25 20 20 20 20 20 20
+0 0 0 0 0
+0 3 0 0 1 1 5
+60 60 0 0 0 0 0 0
+> greet_prog 100~
+mea $n I am like my father, Domick, I will help you on your practice
+mea $n Are you ready for your lessons $n ?
+~
+|
+#100024
+Sauron Soldier RDAF~
+an RDAF Sauron Soldier~
+An RDAF Sauron Soldier is here, guarding everything
+~
+A young man of skills and responsibility, his eyes sparks brightly.
+his body is well built, a result of a continuing exercises.
+~
+3 4194344 0 C
+60 0 -250 1d1+1999 1d1+39
+0 0
+112 112 1
+20 18 18 18 17 15 20
+0 0 0 0 0
+0 3 0 0 1 1 0
+40 40 0 0 1051648 0 1073746400 526371
+> greet_prog 100~
+if name($n)==voldemort
+bow $n
+say welcome to our tactical post, General $n
+endif
+~
+> greet_prog 100~
+if name($n)==voldemort
+mpoload 20 1
+give mushroom voldemort
+say here you go sir, your mushroom, enjoy it ...
+endif
+~
+> greet_prog 100~
+if ispc($n)
+ say have some warmth and peace in this legion's post sir $n
+endif
+~
+|
+#100025
+falcon soldier rdaf~
+an RDAF Falcon Soldier~
+An RDAF Falcon Soldier is here, guarding everything
+~
+With a suit of a falcon about his body, this young man looks strong.
+his eyes spark valor and bravery. a talented man he is.
+~
+3 4194344 1000 C
+60 0 0 1d1+2299 1d1+45
+0 0
+112 112 0
+21 19 15 18 17 16 18
+0 0 0 0 0
+0 3 0 0 1 1 0
+45 50 0 0 1051648 0 1073746400 526371
+> greet_prog 100~
+if name($n)==dundead
+ say welcome my true general $n
+ say have some warmth here in your legion's post
+ mpoload 20 1
+ give mushroom dundead
+ say and this mushroom is specially provided for your convenience sir
+endif
+~
+> greet_prog 100~
+if ispc($n)
+ say have some warmth here ...
+endif
+~
+|
+#100026
+lion ancient rdaf~
+an ancient lion~
+A gracefull lion is here, standing firmly
+~
+A gracefull lion indeed she is, an ancient glory indeed ...
+~
+3 0 1000 C
+40 0 -150 1d1+1799 1d1+38
+0 0
+112 112 0
+23 16 16 18 17 18 18
+0 0 0 0 0
+27 3 0 0 9 1 0
+30 30 65545 0 1051648 0 135266565 524295
+> greet_prog 100~
+say grrr ... grrr ... grrrhhh ...
+~
+|
+#100027
+griffith soldier rdaf~
+an RDAF Griffith Soldier~
+An RDAF Griffith Soldier is here, on duty
+~
+A young man of valor and honour.
+well built body with healthy muscles all over.
+well trained brain to think fast and furious.
+a prototype of an ideal soldier.
+~
+3 4194344 1000 C
+60 0 -50 1d1+1999 1d1+44
+1000000 0
+112 112 1
+22 19 18 18 18 17 18
+0 0 0 0 0
+0 3 0 0 1 1 0
+45 45 0 0 1051648 0 1207964128 526355
+> greet_prog 100~
+if ispc($n)
+ say have some warmth and peace here sir ...
+endif
+~
+> act_prog p look at~
+blush
+say handsome, am i not ? ...
+smile $n
+~
+|
+#100028
+bandage ban man helper banman~
+Banman the Helper~
+Banman the Helper is here assisting all in need
+~
+Just say "food" if you're hungry ...
+this man of truth will surely assist you ..
+~
+3 4194344 1000 C
+60 0 -100 1d1+4999 1d1+49
+0 0
+112 112 0
+20 20 18 18 18 20 18
+0 0 0 0 0
+0 6 0 0 1 1 3
+50 50 0 0 0 0 224 524291
+> greet_prog 100~
+if ispc($n)
+ say just say food, if you need it ...
+endif
+~
+> speech_prog food~
+if ispc($n)
+ mpoload 20 1
+ give mushroom $n
+ say here you go ...
+endif
+~
+|
+#100097
+Nimbus Flying Broom~
+Nimbus, The Flying Broom~
+A Flying Broom is here, floating steadily
+~
+~
+202113283 524288 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+#100098
+Proto-Fairburn~
+a Proto Fairburn~
+Proto Fairbun is here, sitting solemnly.
+~
+This Fun Guy just returned from holiday,
+unfortunatelly his plane crashed, and STUCK here.
+~
+3 128 1000 C
+50 0 -300 5d5+20000 6d6+20
+0 0
+112 112 0
+25 20 20 20 20 20 20
+0 0 0 0 0
+0 8 0 0 1 1 0
+0 45 0 0 0 0 416 524291
+> rand_prog 20~
+say hoho .... hoho .... 
+~
+|
+#100099
+dogman dogface man dog~
+Dogman~
+The Dogman is guarding the end room of the RDAF area
+~
+~
+3 40 200 C
+16 0 10 2d30+250 3d6+4
+2000 0
+112 112 1
+16 12 13 16 16 11 13
+0 0 0 0 0
+73 3 0 0 1 1 0
+0 0 9 0 0 0 1 2
+#0
+
+
+#OBJECTS
+#100000
+Senapati~
+The Statue of Senapati~
+The Statue of Senapati is here, in it's massive form.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+E
+statue senapati~
+a strong figure of real man ...
+eventhough it is only a statue but the aura surrounds it are real.
+an aura of eternal honour.
+~
+#100001
+Medallion of RDAF~
+a Medallion of Honor~
+A Medallion of RDAF is here, shining brightly.~
+~
+9 0 5
+0 0 0 0
+1 0 0
+A
+17 -75
+A
+25 5
+A
+3 2
+A
+4 2
+A
+5 2
+#100002
+cheap backpack fairburn~
+a cheap backpack~
+A cheap backpack lies here solely.~
+~
+15 0 524289
+500 0 0 0
+1 0 0
+#100003
+cheap stereo earphone~
+a cheap stereo music earphone~
+A cheap stereo music earphone is here, lying solely.~
+~
+9 0 65536
+0 -25 0 0
+1 0 0
+#100004
+an ugly frog mask~
+an ugly mask of a frog's face~
+An ugly mask is here lying solely.~
+~
+9 0 1048577
+0 -20 0 0
+1 0 0
+#100005
+bed roses~
+a bed of roses~
+A bed of roses is here, it's form is simple but comfortable~
+~
+12 0 0
+1 0 1168 0
+1 0 0
+E
+bed~
+this bed is covered with fresh roses. it's fragrance can kill any
+truthfull mind inside this room.
+this bed, as you feel the aura with your heart,
+is a prove of an eternal and unlimited love.
+~
+#100006
+ancient magic tree~
+the colossal tree~
+An ancient, colossal tree serves to block the westward path.~
+~
+15 262148 0
+1000 0 0 0
+1 0 0
+E
+opening~
+The opening is far too narrow for you to squeeze through but it looks as if the
+tree is hollow.
+~
+E
+ancient colossal tree~
+This enormous tree must be a thousand years old.  Its rough bark looks
+grey and pale and is decorated with scratches and claw marks.  On its
+west side is a small opening just above ground level.
+~
+> speech_prog alakazam~
+if level($n) >= 45
+ mpechoat $n You feel Dizzy !
+ mpechoat $n You feel like flying high !!
+ mpechoat $n You feel like falling down hard now !!
+ mpechoarround $n Vanishes !!
+ mptransfer $n 100020
+else
+ mea 0.$n You have to be at least level 45 to be transported !
+endif
+~
+|
+#100007
+karate dogi suit~
+A Karate-Gi~
+A Karate-Gi is here, lying solely~
+~
+9 1024 9
+0 0 0 0
+1 0 0
+A
+17 -40
+#100008
+Keris Naga~
+Keris Naga Sasra~
+An Aurafull Short Blade is here, lying solely.~
+~
+5 0 8193
+0 0 0 2
+1 0 0
+A
+19 10
+A
+18 5
+A
+2 2
+A
+5 2
+#100009
+Karung Sakti Armor Stainless~
+Karung Sakti Armour~
+A strange looking Armour is here, lying solely~
+~
+9 1024 8
+0 0 0 0
+10 0 0
+A
+17 -60
+A
+1 2
+A
+2 3
+#100010
+Interogation Room Key~
+a very small key~
+A key to the RDAF Interogation Room~
+~
+18 0 0
+0 0 0 0
+1 0 0
+#100011
+bajingan evil armor~
+Evilic Bajingan Armor~
+An Evil looking armor is here, lying solely ...~
+~
+9 133704 9
+0 0 0 0
+1 0 0
+A
+5 2
+A
+17 -75
+#100012
+bajingan evil mask~
+Evilic Bajingan Mask~
+An Evil looking mask is here, lying solely ..~
+~
+9 133704 1048577
+0 0 0 0
+1 0 0
+A
+17 -50
+#100013
+RDAF Trainer Suit~
+an RDAF Training Suit~
+A training suit is here, lying solely~
+~
+9 1089 9
+0 0 0 0
+1 0 0
+A
+17 -30
+#100014
+axe~
+a 212 Axe~
+An Axe with a style lies solely here ...~
+~
+5 64 8193
+0 0 0 0
+1 0 0
+A
+19 5
+A
+25 5
+A
+31 1
+#100015
+Sword Ashfar~
+The Sword of Ashfar~
+A unique sword is here, lying solely ...~
+~
+5 35913 8193
+0 0 0 0
+5 0 0
+A
+17 -10
+A
+19 4
+A
+25 2
+#100016
+board order rdaf~
+the RDAF board~
+The board of the RDAF~
+~
+12 0 0
+0 0 0 0
+2 0 0
+#100017
+standard RDAF Cadet dagger bayonet~
+an RDAF Bayonet~
+A strong looking dagger is here, lying solely~
+~
+5 8257 8193
+12 6 10 2
+1 50000 5000
+A
+19 7
+A
+18 7
+A
+31 2
+#100018
+ransom RDAF pack food~
+an RDAF ransom pack~
+A kind of ransom pack is here, lying solely~
+~
+19 256 1
+50 0 0 0
+1 1500 150
+E
+ransom food pack~
+this ransom pack is packed neatly using a clean and shinny wooden box
+it can be eaten directly without cooking it. the box will automatically
+open when you try to eat from this pack.
+~
+#100019
+super RDAF carrier bag~
+a super RDAF carrier~
+A bag with big capacity lies here solely~
+~
+15 0 524289
+150 0 0 0
+1 1000 100
+E
+bag super carrier rdaf~
+this is a standard gear for RDAF cadets to store their equipment while
+in mobile activities. it's form is simple but has a big capacity of
+storage and strong enough for outdoor activities
+~
+#100020
+general staff rdaf~
+an RDAF General Staff~
+A unique and powerfull staff lies here~
+~
+5 524288 8193
+12 30 3 7
+1 0 0
+A
+13 100
+A
+1 3
+A
+5 4
+A
+25 6
+A
+31 3
+A
+2 4
+A
+18 10
+A
+19 10
+A
+12 250
+> wear_prog 100~
+say Use me with responsibility as a general of war of the RDAF !!
+~
+|
+#100021
+stone bench rdaf~
+a stone bench~
+A bench made of granite stone is here~
+~
+12 524288 0
+20 0 1168 0
+1 0 0
+#100022
+falcon suit rdaf~
+an RDAF Falcon Suit~
+A suit of a falcon is here, lying solely~
+~
+9 527360 1025
+12 0 0 0
+1 0 0
+A
+17 -100
+A
+25 4
+#100095
+excell divider sword~
+The Excell Divider~
+a sword of divinity lies here solely~
+~
+5 526866 8193
+12 50 3 3
+1 0 0
+> wear_prog 100~
+if isevil($n)
+ say Take me as your arms, you true evil being!
+else
+ mpslay $n
+endif
+~
+|
+#100096
+RDAF Flexible Chair~
+RDAF Flexible Chair~
+A short of flexible chair is here, waiting to be carried ...~
+~
+12 532480 1
+1 0 144 0
+1 50000 5000
+#100097
+tin dewa soldier~
+a tin Dewa~
+A tin soldier is here~
+~
+9 1025 16385
+0 8 0 12
+3 23000 2300
+E
+tin dewa soldier~
+A shiny tin soldier, made to look like the RDAF commander Dewa.
+~
+A
+2 -1
+A
+18 1
+A
+25 1
+A
+19 1
+#100098
+Replica of Darkhaven City~
+A replica of Darkhaven inside a glass ball.~
+A replica of Darkhaven inside a glass ball is here, shining brightly~
+~
+1 1 16385
+0 0 0 0
+1 20000 2000
+A
+3 10
+A
+14 50
+#100099
+dogmuzzle muzzle~
+an armored dog muzzle~
+An armored dog muzzle rests here~
+~
+9 524288 1048577 64
+10 10 0 0
+3 2000 200
+#0
+
+
+#ROOMS
+#100000
+The Gate of Valor~
+This gate is made from solid granite stone mixed with the spirits of the dead
+heroes. This is the gate that leads to the Royal Darkhaven Armed Forces's 
+Headquarter. From here we can see a lengthy road heading to a huge and strong
+building far north. Two RDAF guards are here guarding the monstrous gate.
+The guards look friendly but auras of great powers are beyond them. As you look
+to the RDAF cadets passing by, you realize that they are of the same type.
+~
+0 2097152 0
+D0
+~
+~
+0 -1 100001
+D2
+~
+~
+0 -1 6000
+> entry_prog 100~
+if isimmort($n)
+or isnpc($n)
+or clan($n) == RDAF
+say You may enter the gate
+else
+  mea 0.$n You may not enter the gate !
+  mptrans 0.$n 6000
+endif
+~
+|
+S
+#100001
+The Lengthy Road of Heroism~
+The road has a very heroic aura.
+There are many statue of the Heroes of Darkhaven in the past time.
+the first statue is Senapati, The one known for his bravery during the bloody
+battle of Haon Dor. he was the one who defeated the rebels and the fist to have
+exiled the Doom Goblins to the Goblin mountain.
+~
+0 2097152 0
+D0
+~
+~
+0 -1 100002
+D2
+~
+~
+0 -1 100000
+S
+#100002
+The Lengthy Road of Heroism Continues~
+as you move far to the north, you can see another statue on your left. The
+statue shows the figure of a very firm man, holding a sword and a shield
+with the Darkhaven Academy Crest. He is a man of determination and fury flashes
+from his eyes. from the description below the statue, you know that this man is
+the one who has defeated and exiled the Hobgoblins for eternity.
+the longer you look to the statue, you realize something ..
+it is the Statue of Domick...
+~
+0 2097152 0
+D0
+~
+~
+0 -1 100003
+D2
+~
+~
+0 -1 100001
+E
+statue domick~
+Under the statue there is a short phrase :
+"A Warrior is not by his arms ,
+   It is by his heart"
+ 
+[Domick, The Retired Adventurer]
+~
+S
+#100003
+The RDAF HQ Entrance~
+this is the main entrance for the members of RDAF. you can see many RDAF cadets
+arround. to the east you can see a training ground fo new recruits, where you
+can hear screamings and yellings from the trainer and the cadets.
+to the north is the Headquarter of the RDAF.
+~
+0 2097152 0
+D0
+~
+~
+0 -1 100005
+D1
+~
+~
+0 -1 100004
+D2
+~
+~
+0 -1 100002
+S
+#100004
+The RDAF Training Ground~
+you can see many cadets and their trainers doing athletical activities to
+strengthen and to gain combat skills needed to defend the realm from the evil
+powers. you can hear the screamings and yells from them, but they have the same
+note, honour and devotion for their beloved darkhaven.
+~
+0 2097152 0
+D1
+~
+~
+3 -1 100018
+D3
+~
+~
+0 -1 100003
+D5
+~
+~
+0 -1 100028
+S
+#100005
+The Lower level of the Octagon~
+this is the main hall of the RDAF headquarter, it has a very strong feelings of
+heroism. that feeling stabs to the deepest part of your heart, and suddenly you
+feel more determined and ready to do anything to defend your city.
+you feel everything glows with the aura of Valor and Honour.
+the eight stone piles in each corner show the aura of kindred strength.
+The RDAF note board stands here.
+gazing upward you see a stairway which leads to another hall.
+while down, you can see another stair leads to a glomy room.
+To the west, you can see a room to practice your combat techniques and
+your skills of wizardry.
+~
+0 2097152 0
+D0
+~
+~
+0 -1 100033
+D2
+~
+~
+0 -1 100003
+D3
+~
+~
+0 -1 100034
+D4
+~
+~
+0 -1 100006
+D5
+~
+~
+0 -1 100015
+S
+#100006
+The Octagon~
+this is the upper level of the octagon. this marvelous hall has 8 doors and
+placed neatly in every side of this eight sided hall. each door leads to a room
+where RDAF members gather and talk about strategies and plans to defend the
+city.
+~
+0 2097152 0
+D0
+~
+~
+0 -1 100007
+D1
+~
+~
+0 -1 100009
+D2
+~
+~
+0 -1 100011
+D3
+~
+~
+0 -1 100013
+D5
+~
+~
+0 -1 100005
+D6
+~
+~
+0 -1 100008
+D7
+~
+~
+0 -1 100014
+D8
+~
+~
+0 -1 100010
+D9
+~
+~
+0 -1 100012
+S
+#100007
+The RDAF Strategic Planning Room~
+this room is used for coordinating schemes and personels in battles.
+in the middle of the room, you can see a huge table with a chairs surrounding
+it. a map of the darkhaven city is hanging on the wall.
+a glowing crystal ball of vision is placed on top of the table, it is used to
+view the battle ground from afar.
+~
+0 2098176 0
+D2
+~
+~
+0 -1 100006
+S
+#100008
+The RDAF Repair Center~
+This room is used for repairing your combat gears that bear the damage
+during your bloody battle. The weapon repairer is well known for his
+outstanding techniques in repairing weapons and armors.
+As this is a facility of the RDAF that needs some funds to keep running
+some fees will be charged on each repairment made.
+Fear not, it is not expensive.
+~
+0 2098176 0
+D9
+~
+~
+0 -1 100006
+S
+#100009
+The RDAF Medical Support Room~
+this room is full with beds and medical equipments for the wounded RDAF members.
+some very new cadets of RDAF can be seen here, lying weakly, as the result of
+their training.
+
+~
+0 2098176 0
+D3
+~
+~
+0 -1 100006
+S
+#100010
+The RDAF Supply Support Room~
+This room is used by Gendhutt the Seller to sell things and memorabilias
+to help funding the RDAF. The government has cut the budget for
+the army, this shop is trying to figure it's own way out.
+Strange memorabilias from gods of Darkhaven and rations pack
+can eb found here
+~
+0 2098176 0
+D7
+~
+~
+0 -1 100006
+S
+#100011
+The RDAF Battle Monitoring Room~
+this room is used for monitoring the activities of the cadets and members of
+RDAF during their valorous battles. a glowing crystal ball of vision is here to
+help the monitoring staffs with their works.
+~
+0 2098176 0
+D0
+~
+~
+0 -1 100006
+D4
+~
+~
+3 -1 100019
+S
+#100012
+The RDAF Communication Room~
+this room is full with communication activities to monitor all communication
+signal broadcasted throughout the land. this facilities can intercept and
+decode any signal and use them as usefull informations for the intelligence
+Departement of RDAF.
+~
+0 2098176 0
+D6
+~
+~
+0 -1 100006
+S
+#100013
+The RDAF Donation Room~
+as the government cut the subsydies for the RDAF, the order now facesa difficul
+
+era as the operational fee is increasing significantly. the wealthy members of
+RDAF are called to donate a minimum of 1000 gold to support the order's
+operational activities. The fund will then be used to buy weapons and armors
+to fit the RDAF's needs.
+=====================================================================
+For equality, we have decided only a donation of 1000 coins will be
+accepted, donations other than that (more or less) will be ignored.
+=====================================================================
+~
+0 2638848 0
+D1
+~
+~
+0 -1 100006
+S
+#100014
+The RDAF Hall of Oath~
+this is the room where the officers of RDAF take the new recruits' oath.
+this is the place where a recruit swears his devotion for the city through RDAF.
+the room is very solemn and full with aura of honours, kicks the potention of
+lying out of your heart. a very truthful place it is.
+~
+0 2098176 0
+D8
+~
+~
+0 -1 100006
+S
+#100015
+The RDAF Intelligence Room~
+this room has very few people inside. only members with ability to hide and be
+invisible have the right to enroll as the members of Intelligence Department of
+RDAF. here you can see piles of papers and scrolls, full of secret informations.
+~
+0 2097152 0
+D0
+~
+door~
+7 100010 100017
+D4
+~
+~
+0 -1 100005
+S
+#100016
+The last Room~
+Just a room for later
+~
+0 2097156 0
+S
+#100017
+RDAF's Interogation Chamber~
+This not so well litted room is used for interogation.
+you can see files and datas of many caught in the act spies.
+this room spreads a strange aura ... so strange.
+~
+0 2097160 0
+D2
+~
+~
+7 100010 100015
+S
+#100018
+RDAF Cadet's Hut~
+This small hut asiding the Training Ground is used by the cadets of
+RDAF to rest and making social contacts with each other.
+Unfortunatelly this place is sometimes used as a drug transaction
+venue for the bad minded soldiers.
+Many rude writings are on the wall, a typical army life ...
+~
+0 1075838977 1
+D3
+~
+~
+3 -1 100004
+E
+wall~
+Be a Soldier ??? Be a Pest !!
+ 
+My Trainer Sucks !!
+ 
+We Hate our Lunch !!!
+~
+S
+#100019
+A Secret Bedchamber~
+This chamber is neatly arranged. The people living in this chamber
+will surely feel an ultimate comfort from it's atmosphere.
+A royal bed covered with silk and roses are here, while a mirror of
+gold is hanging on the wall.
+The floor is coated with the finest carpet from the realm of sands.
+You can smell an everlasting fragrance here, and a strong aura of
+love and caring.
+~
+0 1075838976 1
+D5
+~
+~
+3 -1 100011
+E
+mirror~
+YOU ARE THE FAIREST,
+OK ??
+DON'T LOOK AT ME ANYMORE !!
+~
+S
+#100020
+The Path of Lonely Hero~
+A gloomy room ...
+This room is physically void, but you can see blurry objects hovering
+arround you. Another Character is here, waiting for your decision.
+Welcome to RDAF's endurance training for special cadets.
+~
+0 2097668 1
+D0
+~
+~
+0 -1 100021
+S
+#100021
+Further in The Path of Lonely Hero~
+Another void room ...
+Another character is here in this void plane. The aura of honour and
+valor are so strong here. As you glance arround, you feel a vague
+existance of another being here ..
+One more decission to make ...
+~
+0 1075839488 1
+D0
+~
+~
+0 -1 100022
+D2
+~
+~
+0 -1 100020
+S
+#100022
+A Widening Path of Lonely Hero~
+The Path widens here ...
+Once again, your presence here needs firm will and very strong 
+determination, as you find that there is another vague feeling of
+battle arround you ...
+another decission to make ...
+~
+0 1075839488 1
+D0
+~
+~
+0 -1 100023
+D2
+~
+~
+0 -1 100021
+S
+#100023
+A Wide Path of Lonely Hero~
+a solemn room ...
+a place of sanctuity indeed ...
+a place to rest your tired soul, and be prepared to make another
+critical decission of your life ...
+~
+0 1075839488 1
+D0
+~
+~
+0 -1 100024
+D2
+~
+~
+0 -1 100022
+S
+#100024
+A Narrowing Path of Lonely Hero~
+a void and DARK room ..
+only the feelings of death can be found here ..
+beware of your decision, as there your life depends on ..
+~
+0 1075839488 1
+D0
+~
+~
+0 -1 100025
+D2
+~
+~
+0 -1 100023
+S
+#100025
+A Near End ...~
+a darker room ..
+a stronger aroma of death is here with you ...
+foring you to tighten the grip on your weapon and be cautious ...
+a wrong decission you might have taken ...
+~
+0 1075839488 1
+D0
+~
+~
+0 -1 100026
+D2
+~
+~
+0 -1 100024
+S
+#100026
+An End ...~
+This is your final test, cadet ...
+An evilic being is here for your last preparation ...
+be wise and be reasonable in making your decision ...
+~
+0 1075839488 1
+D2
+~
+~
+0 -1 100025
+S
+#100027
+An Epilogue~
+This realm needs not to say more, as you have proven your existance
+clearly and undoubtfully. Please say "holiefairbie" to be teleported
+to your proudfull headquarter.
+Congratulations Cadet !
+~
+0 1073742340 1
+> speech_prog holiefairbie~
+mpechoat $n BOOM !!
+mpechoat $n BOOM !!!
+mpechoat $n You Have Been Transported !
+mptransfer $n 100003
+~
+|
+S
+#100028
+The Real Training Ground~
+This is the Center of RDAF's training Ground For New Cadets.
+To the East is The Training Chamber for level 10 - 20.
+To the North is The Training Chamber for level 21 - 30.
+To the South is The Training Chamber for level 31 - 40.
+To the West is the Training Chamber for level 41 - 44.
+Please pick the one that suits your needs best.
+Good Luck Cadets !
+~
+0 1075838976 0
+D0
+~
+~
+0 -1 100030
+D1
+~
+~
+0 -1 100031
+D2
+~
+~
+0 -1 100032
+D3
+~
+~
+0 -1 100029
+D4
+~
+~
+0 -1 100004
+> entry_prog 100~
+if level($n) < 49
+ mea $n Welcome to the training ground ! Be Cautious !!
+ else
+ mea $n Pleas find a better training ground for you !
+ mptrans $n 100003
+endif
+~
+|
+S
+#100029
+Eastern Training Chamber~
+This Chamber is your final test in this training area.
+When you reach level 45 you should not train here anymore.
+There is another secret place in the academy where higher level cadet
+trains himself.
+Give it all for the best !
+~
+0 1075839488 1
+D1
+~
+~
+0 -1 100028
+S
+#100030
+Northern Training Chamber~
+This is the middle-leveled Training Chamber for you.
+Unleash your skills here and you will be awarded.
+Good Luck Cadets !
+~
+0 1075839488 1
+D2
+~
+~
+0 -1 100028
+S
+#100031
+Eastern Training Chamber~
+This room is where you early trainer dwell.
+Use all your guts and power to gain victory here.
+Good Luck Cadets !
+~
+0 1075839488 1
+D3
+~
+~
+0 -1 100028
+S
+#100032
+Southern Training Chamber~
+This is a heavier trainer to deal with ..
+decission is the most important thng here.
+Bring all your powers and you shall find glory.
+Good luck Cadets !
+~
+0 1075839488 1
+D0
+~
+~
+0 -1 100028
+S
+#100033
+RDAF Portal Chamber~
+This room will give RDAF members faster access downtown.
+say these words below to be transported there, use it wisely :
+"beam"    : The Darkhaven Square
+"sauron"  : The Legion of Sauron's Post
+"falcon"  : The Legion of Falcon's Post
+"griffith" : The Legion of Griffith's Post
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 100005
+> speech_prog beam~
+mpechoat $n BOOM !!
+mpechoat $n Transported !!
+mptransfer $n 21000
+~
+> speech_prog sauron~
+mptransfer $n 100035
+~
+> speech_prog falcon~
+mptransfer $n 100036
+~
+> speech_prog griffith~
+mptransfer $n 100037
+~
+|
+S
+#100034
+The RDAF Chamber of Practice and Lessons~
+This well lit chamber is where RDAF cadets go when they need help in
+seeking knowledge in their combat techniques and wizardry abilities.
+This room is filled with auras of intelligence and wisdom.
+Books and Scrolls are arranged neathly in each side of the chamber's
+wall, synchronizing with the vibes of true knowledge spreaded through
+this room. A sign is placed neatly on the wall.
+~
+0 1075838976 0
+D1
+~
+~
+0 -1 100005
+E
+sign wall~
+Knowledge is our best weapon,
+Bear it, and thy shalt be saved.
+ 
+Fairburn of Darkhaven
+~
+S
+#100035
+RDAF's Legion of Sauron's Tactical Post~
+A guard post made of solid granite is placed here.
+You can see some Sauron Soldiers of the RDAF are guarding the post.
+The guard post is estabilished to maintain the security of all areas
+surrounding Darkhaven.
+General Voldemort is in charge of this Legion.
+~
+0 1075838976 1
+D2
+~
+~
+0 -1 3503
+> entry_prog 100~
+mea $n as you enter this guard post, an aura of valor surrounds you ..
+~
+|
+S
+#100036
+RDAF's Legion of Falcon's Tactical Post~
+A post made of solid granite stone stands strongly here.
+The post is estabilished to maintain peace and safety over the area.
+You can feel warmth and peacefull aura as you enter the post.
+The soldiers here look friendly and ready to do their duty well.
+Some Falcon soldiers can be seen here, vigilant ...
+General Dundead is in charge of this legion.
+~
+0 1075838976 1
+D1
+~
+~
+0 -1 46004
+> entry_prog 100~
+mea $n you feel much comfortable as you enter this post ...
+~
+|
+S
+#100037
+RDAF's Legion of Griffith's Tactical Post~
+A soldier post made of solid and strong granites is placed here.
+Some soldiers of the Griffith Legion can be seen arround this post,
+they are watching the safety of this neighbourhood and estabilishing
+peace all arround the city of Darkhaven.
+General Zel of RDAF is in charge of this outpost.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 28002
+> entry_prog 100~
+mea $n you feel the warmth as you enter this outpost ...
+~
+|
+S
+#100099
+RDAF End Room~
+A dirty old forgotten room is littered with urine and feces from the
+dogman guard. He looks like he hasn't been fed for weeks maybe even
+months. It makes you wonder how he has been keeping himself alive.
+~
+0 1075838980 1
+S
+#0
+
+
+#RESETS
+M 1 100002 5 100002
+M 1 100002 5 100002
+M 1 100017 1 100004
+D 0 100004 1 1
+M 1 100000 1 100015
+E 1 24807 1 16
+E 1 24807 1 18
+G 1 100010 1
+D 0 100015 0 2
+M 1 100018 2 100017
+E 1 9832 1 16
+E 1 9832 1 18
+D 0 100017 2 2
+M 1 100004 1 100020
+E 1 100007 1 5
+M 1 100005 1 100021
+E 1 7224 1 12
+M 1 100006 1 100022
+E 1 100008 1 16
+E 1 100009 1 5
+E 1 24826 1 10
+M 1 100002 5 100023
+O 1 60503 1 100023
+M 1 100099 1 100099
+M 1 100020 1 100030
+E 1 100013 1 5
+E 1 812 1 16
+M 1 100022 1 100029
+E 1 100013 1 5
+E 1 100015 1 16
+E 1 8900 1 9
+E 1 24894 1 6
+E 1 7224 1 12
+O 1 100000 1 100001
+M 1 100021 1 100032
+E 1 100013 1 5
+E 1 100014 1 16
+D 0 100018 3 1
+M 1 100002 5 100000
+E 1 21058 1 5
+E 1 8905 1 6
+E 1 809 1 16
+M 1 100002 5 100000
+E 1 21058 1 5
+E 1 8905 1 6
+E 1 809 1 16
+M 1 100001 1 100014
+M 1 100010 1 100012
+M 1 100009 1 100011
+G 1 100010 1
+E 1 819 1 5
+D 0 100011 4 1
+M 1 100013 1 100019
+E 1 9836 1 5
+E 1 9828 1 16
+E 1 100004 1 23
+O 1 100005 1 100019
+D 0 100019 5 1
+M 1 100003 1 100003
+E 1 100013 1 5
+E 1 100001 1 3
+O 1 100006 1 100003
+M 1 100012 1 100009
+E 1 1536 1 20
+O 1 100005 1 100009
+M 1 100019 1 100031
+E 1 809 1 16
+E 1 100013 1 5
+G 1 100013 1
+G 1 809 1
+M 1 100007 1 100026
+E 1 100011 1 5
+E 1 100012 1 23
+O 1 17 1 100026
+M 1 100016 1 100013
+G 1 3 1
+E 1 100001 1 3
+G 1 3 1
+O 1 100004 1 100013
+O 1 9836 1 100013
+O 1 7219 1 100013
+O 1 826 1 100013
+O 1 34 1 100013
+M 1 100014 1 100008
+M 1 100023 1 100034
+E 1 819 1 5
+E 1 1205 1 26
+M 1 100003 1 100034
+E 1 100013 1 5
+E 1 100001 1 3
+M 1 100011 1 100010
+G 1 100017 1
+E 1 100097 1 17
+G 1 100097 1
+E 1 100019 1 22
+G 1 100019 1
+E 1 100017 1 16
+E 1 100098 1 0
+G 1 100096 1
+G 1 100018 1
+O 1 106 1 100010
+O 1 100016 1 100005
+O 1 60503 1 100005
+M 1 100025 1 100036
+E 1 100017 1 16
+E 1 100017 1 18
+E 1 280 1 8
+E 1 100022 1 12
+E 1 2338 1 7
+E 1 48607 1 6
+E 1 2332 1 13
+M 1 100026 1 100036
+O 1 100021 1 100036
+M 1 100024 2 100035
+E 1 100017 1 16
+E 1 100017 1 18
+E 1 100009 1 5
+E 1 42939 1 8
+G 1 100014 1
+M 1 100024 2 100035
+E 1 100017 1 16
+E 1 100017 1 18
+E 1 100009 1 5
+E 1 42939 1 8
+O 1 100021 1 100035
+M 1 100027 1 100037
+E 1 100017 1 16
+E 1 100017 1 18
+E 1 46015 1 5
+E 1 2377 1 6
+E 1 2332 1 13
+E 1 42936 1 7
+E 1 15165 1 8
+E 1 46239 1 3
+E 1 5025 1 14
+E 1 5025 1 15
+E 1 2337 1 10
+E 1 10319 1 9
+E 1 100002 1 22
+E 1 21 1 0
+M 1 100028 1 100037
+E 1 46283 1 3
+E 1 6621 1 12
+E 1 25558 1 16
+G 1 20 1
+O 1 100021 1 100037
+M 1 100015 1 100007
+E 1 100020 1 16
+S
+
+
+#SHOPS
+ 100011    0  0  0  0  0   110  10         0 23    ; Gendhutt The Seller
+0
+
+
+#REPAIRS
+ 100014    9  5 29          10   1         0 23    ; Satyabudhi The Repair Man
+0
+
+
+#SPECIALS
+M  100007 spec_cast_mage
+M  100012 spec_cast_adept
+M  100013 spec_poison
+M  100024 spec_guard
+M  100025 spec_guard
+M  100027 spec_guard
+S
+
+
+#$

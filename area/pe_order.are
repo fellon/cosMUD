@@ -1,0 +1,420 @@
+#AREA   Order of the Planer Explorers~
+
+
+
+#VERSION 1
+#AUTHOR Fellon~
+
+#RANGES
+0 116 0 116
+$
+
+#RESETMSG Dust from various places is settling around you~
+
+#FLAGS
+5 15
+
+#ECONOMY 0 168200000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#3000051
+Biton~
+Biton~
+Biton the trainer is standing here.
+~
+Biton is a strange crossbreed of races. He appears to be a centuar but instead
+of a horse and a man, he appears to be a ram and a man. Complete with curving
+horns.~
+67110403 4202680 350 C
+80 8 -100 2d2+2 2d2+2
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 3 0 0 262145 262145 0
+0 0 0 0 0 0 0 0
+#3000099
+healer generic~
+Metilda~
+Metilda of Mielikki
+~
+A strong woman with a stern face. She is here offering the favor of her
+Goddess Mielikki. The Lady of the Forest.~
+67108867 4195000 300 C
+80 13 -100 2d15+1 2d10+5
+0 0
+112 112 2
+14 13 10 16 15 18 20
+0 0 0 0 0
+0 1 0 0 262145 262145 1
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#3000051
+table~
+a table~
+A small hardwood table. Very sturdy.~
+~
+12 0 0
+0 0 0 0
+3 0 0
+#3000052
+Board PE~
+A note board~
+A strange metallic looking board is attached to the wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#3000053
+Exotic Couch~
+a exotic couch~
+An exotic couch is against the south wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#3000054
+Chair Exotic~
+a exotic chair~
+A comfortable chair is here against the South wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#3000055
+table~
+a small table~
+A table with a pipestand on it sits between the fire and the southern chair~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#3000056
+chair north~
+a nice chair~
+A very nice chair upolstered in tweed is against the North wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#3000099
+fire ring~
+a firering~
+A small circle of glowing stones surronds the mystical fire.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#3000051
+Upon the threshhold of the Order~
+A small building stands to the east.
+It appears to be made of good sturdy construction, much oak and rowanwood.
+There are small glyphs carved into places upon the outer walls and around
+the frames of the two lighted windows.
+A small sign is posted above the door.
+~
+0 3146756 0
+D1
+~
+~
+0 -1 3000052
+D3
+~
+~
+0 -1 21499
+E
+sign~
+Order of the Planer Explorers~
+S
+#3000052
+Inside the building~
+This is the front room to the Order of the Planer Explorers.
+The walls are made of a well polished oak. Beautiful and yet strange
+carpets cover the floors. A few small glowing globes are attached to    
+the ceiling. A few paintings are attached to the walls at even spaces.
+Colored light streams through the stained glass windows and spills onto
+the carpet. It shows a small mosiac of the skyline of a place with three 
+moons, one Red, one White, and the third dark and Black. A doorway, 
+framed in a reddish wood stands to the north.
+This room continues to the east.
+~
+0 1076888576 0
+D0
+~
+~
+0 -1 3000054
+D1
+~
+~
+0 -1 3000053
+D3
+~
+~
+0 -1 3000051
+S
+#3000053
+The council Room~
+As the carpet reaches its end, a table takes the remaining space.
+Several chairs are placed here, and a few more of those glowing globes
+are attached above the table. A few more paintings are attached to the walls
+and what appears to be a strange looking device covered with papers is on
+the Eastern wall.
+A reddish trimmed doorway leads to the North.
+~
+0 1076888576 0
+D0
+~
+~
+0 -1 3000058
+D2
+~
+~
+0 -1 3000064
+D3
+~
+~
+0 -1 3000052
+S
+#3000054
+The Stairwell~
+The stairs are made of polished mahogany, with a well worn rail 
+against the northern wall.  Small glowing globes are aligned upon 
+the walls and ceilings to give ample light.  A doorway framed in 
+a reddish wood is to the south.
+~
+0 1076888576 0
+D2
+~
+~
+0 -1 3000052
+D4
+~
+~
+0 -1 3000055
+S
+#3000055
+The top of the stairs~
+The mahogany railing reaches to the top of the stairs.
+It seems to be well used.
+~
+0 1076888576 0
+D2
+~
+~
+0 -1 3000056
+D5
+~
+~
+0 -1 3000054
+S
+#3000056
+A large room~
+This room is about the same diamiter as the room below.
+Another type of strange carpet covers the floor here. And a wonderful looking
+couch is against the South wall. The room is lit by more glowing globes
+attached to the ceiling.
+The room continues to the East.
+A doorway, framed in a reddish wood is to the North.
+~
+0 1076888576 0
+D0
+~
+~
+0 -1 3000055
+D1
+~
+~
+0 -1 3000057
+S
+#3000057
+A large room~
+The carpet continues on to the far East wall, alluring in its varied colors.
+A few pieces of furniture a placed around here for obvious confort.
+A few more paintings of strange places are upon the walls.
+A doorway, framed in a reddishwood leads to the North.
+~
+0 1076888576 0
+D0
+~
+~
+0 -1 3000063
+D3
+~
+~
+0 -1 3000056
+S
+#3000058
+The top of the stairs.~
+A set of Mahogany wood stairs leads down into the underground Basement.
+Several Glowing globes are placed along the stairwell to keep people from
+falling.
+A reddish trimmed door leads to the South.
+~
+0 1076888576 0
+D2
+~
+~
+0 -1 3000053
+D5
+~
+~
+0 -1 3000059
+S
+#3000059
+The bottom of the stairs.~
+The walls closest to the floor are lined with stone, and the wood work
+continues up into the rest of the building. The stone is well cut and
+very smooth to the touch. A few glowing globes provide light to see by.
+A doorway made of stone is to the South.
+~
+0 1076888576 0
+D2
+~
+~
+0 -1 3000060
+D4
+~
+~
+0 -1 3000058
+S
+#3000060
+Inside the basement~
+A large open room lined in stone. The walls have a few tapastries hung
+upon them. And a few comfortable chairs and couches are well placed around
+the room. Next to one of the chairs is a small table with a courious
+device upon it. It looks to be a pipe stand. With many small pouches hung
+next to it.
+The room Continues to the West.
+A doorway made of stone is to the North.
+~
+0 1076888576 0
+D0
+~
+~
+0 -1 3000059
+D3
+~
+~
+0 -1 3000061
+S
+#3000061
+In the Basement~
+Set in the SouthWest corner of the room is a small blue fire.
+A interesting looking circle of ???  Something catches the smoke and leads
+to ... Someplace different. The furniture is pulled away from the fire.
+Strangley, it dosent seem to give off any heat.
+A small door is to the North.
+~
+0 1076888576 0
+D0
+~
+~
+0 -1 3000062
+D1
+~
+~
+0 -1 3000060
+S
+#3000062
+A storage closet~
+This is a small storage closet. With many shelves and cubbyholes to
+place items donated to the Order.
+A dorway made of stone leads back to the South.
+~
+0 1077412864 0
+D2
+~
+~
+0 -1 3000061
+S
+#3000063
+Transit Protal~
+~
+0 1076888576 0
+D2
+~
+~
+0 -1 3000057
+S
+#3000064
+A small yard~
+A small yard of green grass extends to the west from here. A fence 
+keeps out unwanted people and has a wonderful appeal to the eye. 
+A mahogany door leads back inside the building.
+~
+0 1076888576 1
+D0
+~
+~
+0 -1 3000053
+D3
+~
+~
+0 -1 3000065
+S
+#3000065
+A small yard~
+The yard ends here with a fence to the west. A small rack of equipment  
+is leaning against the building. This would appear to an area for
+practicing various skills. Some of the grass has been trampled flat
+from people walking here so often.
+~
+0 1076888576 1
+D1
+~
+~
+0 -1 3000064
+S
+#3000066
+Floating in a void~
+~
+0 1073741828 1
+S
+#3000099
+Room Last~
+The end of the line
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+M 0 3000099 1 3000099
+O 0 3000099 0 3000099
+O 1 3000051 1 3000053
+O 1 3000052 1 3000053
+M 1 3000051 1 3000065
+O 1 3000053 1 3000052
+O 1 3000099 1 3000061
+O 1 3000054 1 3000060
+O 1 3000055 1 3000060
+O 1 3000056 1 3000060
+M 1 3000099 2 3000056
+O 1 50163 1 3000056
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  3000099 spec_cast_adept
+S
+
+
+#$

@@ -1,0 +1,468 @@
+#AREA   The Hand of the Light~
+
+#VERSION 1
+
+#AUTHOR Brad~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG ~
+
+#FLAGS
+5 15
+
+#ECONOMY 0 0
+
+#CLIMATE 0 0 0
+
+#MOBILES
+#70201
+Lord Rand al'Thor, The Dragon Reborn.~
+Rand~
+Lord Rand al'Thor, The Dragon Reborn.(Lewis Therin, Kinslayer)
+~
+You look at him and jump back for fear of the power
+radiating from him.  His face no longer seems human with 
+how hard it has become.  He has lost all emotion, and you 
+briefly wonder how a man can live without joy, without 
+sorrow, without love.  But his life has stolen all the 
+softness he once possesed.  He is commited to his cause.  
+"Duty is heavier than a mountain; death lighter than a 
+feather," he mutters to himself.  ~
+202545153 -414722&3 1000 C
+116 999999 -99999999 19d100+99999999 19d100+999999999
+999999999 -1530494977
+112 112 1
+20 20 40 20 50 30 700
+1410065407 1410065407 1410065407 1215752191 1410065407
+0 0 6 250 1048575 68113 5
+175 475 4095 4194303 4194303 0 2147483647 8388607
+#70202
+Sookiman~
+Sook~
+Sookiman the Battle Councelor 
+~
+Sookiman the Battle Councelor is here, looking nervous.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70203
+Sakshi~
+Sak~
+Sakshi the Witness 
+~
+Sakshi the Witness is here, sitting solemnly.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70204
+Artha~
+Art~
+Artha the Caretaker
+~
+Artha The Caretaker is here ready to receive donation.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70205
+Sandhi~
+Sandhi~
+~
+Sandhi the Decoder is here,playing with his magical interrupt device.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70206
+RDAF Inspector ~
+RDAF Inspector ~
+An RDAF Inspector
+~
+An RDAF Inspector is here, walking arround the Headquarter, checking
+everything.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70207
+Amelia~
+Amelia~
+Amelia the beautifull cadet 
+~
+Amelia the beautifull cadet is here, looking bussy.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70208
+Gendhutt~
+Gendhutt~
+Gendhutt the Seller
+~
+Gendhutt the seller is here, selling strange things.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70209
+Widhyawathi~
+Widhyawathi~
+Widhyawathi, the magical nurse 
+~
+Widhyawathi, the magical nurse is sitting here solemnly.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#70210
+Satyabudhi~
+Satyabudhi~
+Satyabudhi
+~
+Satyabudhi is here ready to repair weapon and armors.~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#70201
+The Way Gate~
+This room has been left unattended for quite some time and 
+you feel an aura of evil as you enter the room and it 
+seems to be coming from the slab in front of you.
+~
+0 0 0
+D0
+As you remove the Avendesora Leaf from the tangle pattern of
+Gate sways and opens before you. You step in to it unsure of 
+what waits for you within...~
+gate~
+68026368 0 70202
+S
+#70202
+In the Ways.~
+All around you is black and you feel as though you really 
+shouldn't have came here. To the north you see a faint glow
+and to the south is the entrance from wich you came. 
+~
+0 0 0
+D2
+~
+~
+0 0 70201
+D0
+~
+~
+0 0 70203
+S
+#70203
+At the guide...~
+You stare at the ancient stone in front of you and you see
+all of the writing on it is in an ancient text that you 
+have never seen before. You see a figure to the northwest
+and you think tht it may be your only way out of this place.
+~
+0 0 0
+D2
+~
+~
+0 0 70202
+D7
+~
+~
+0 0 70204
+S
+#70204
+At the Gate.~
+You feel great relief and at the same time great fear as you
+enter a room that seems to be filled with an aura of great
+power coming from a figure that is standing within arms 
+length of you. 
+~
+0 0 0
+D8
+~
+~
+0 0 70203
+D0
+Yet again you see the now familiar Avendervosa Leaf and you
+pull it away, happy to be free of the eary blackness that 
+seemed to pull at the light as you entered the Ways.you step 
+through the green foliage and ehter a completely new and 
+different place.~
+~
+0 0 70205
+S
+#70205
+The Footsteps to a Grand Staircase.~
+You see a grand trail of steps leading to an open room filled with flowing 
+water and grand statues.
+~
+0 0 0
+D2
+~
+~
+0 0 70204
+D4
+~
+~
+0 0 70206
+S
+#70206
+The New Octagon.~
+This is the upper level of the octagon. this marvelous hall 
+has 8 doors and placed neatly in every side of this eight 
+sided hall. each door leads to a room where RDAF members 
+gather and talk about strategies and plans to defend the
+city.
+~
+0 0 0
+D5
+~
+~
+0 0 70205
+D0
+The RDAF Strategic Planning Room.~
+~
+0 0 70207
+D6
+The RDAF Repair Center.~
+~
+0 0 70208
+D7
+The RDAF Hall of Oath.~
+~
+0 0 70209
+D2
+The RDAF Battle Monitoring Room.~
+~
+0 0 70210
+D8
+The RDAF Supply Support Room.~
+~
+0 0 70211
+D9
+The RDAF Supply Support Room.~
+~
+0 0 70212
+D3
+The RDAF Donation Room.~
+~
+0 0 70213
+D1
+The RDAF Medical Support Room.~
+~
+0 0 70214
+D4
+~
+~
+0 0 70216
+S
+#70207
+RDAF Strategic Planning Room.~
+This room is used for coordinating schemes and personels in battles.
+in the middle of the room, you can see a huge table with a chairs surrounding
+it. a map of the darkhaven city is hanging on the wall.
+a glowing crystal ball of vision is placed on top of the table, it is used to
+view the battle ground from afar.
+~
+0 0 0
+D2
+~
+~
+0 0 70206
+S
+#70208
+The RDAF Repair Center.~
+This room is used for repairing your combat gears that bear the damage
+during your bloody battle. The weapon repairer is well known for his
+outstanding techniques in repairing weapons and armors.
+As this is a facility of the RDAF that needs some funds to keep running
+some fees will be charged on each repairment made.
+Fear not, it is not expensive.
+~
+0 0 0
+D9
+~
+~
+0 0 70206
+S
+#70209
+The RDAF Hall of Oath.~
+This is the room where the officers of RDAF take the new recruits' oath.
+this is the place where a recruit swears his devotion for the city through RDAF.
+the room is very solemn and full with aura of honours, kicks the potention of
+lying out of your heart. a very truthful place it is.
+~
+0 0 0
+D8
+~
+~
+0 0 70206
+S
+#70210
+The RDAF Battle Monitoring Room.~
+this room is used for monitoring the activities of the cadets and 
+members of RDAF during their valorous battles. a glowing crystal ball 
+of vision is here to help the monitoring staffs with their works.
+~
+0 0 0
+D0
+~
+~
+0 0 70206
+D4
+~
+~
+393219 0 70215
+S
+#70211
+The RDAF Supply Support Room.~
+This room is used by Gendhutt the Seller to sell things and memorabilias
+to help funding the RDAF. The government has cut the budget for
+the army, this shop is trying to figure it's own way out.
+Strange memorabilias from gods of Darkhaven and rations pack
+can be found here.
+~
+0 0 0
+D7
+~
+~
+0 0 70206
+S
+#70212
+The RDAF Communication Room.~
+This room is full with communication activities to monitor all 
+communication signal broadcasted throughout the land. this facilities 
+can intercept and decode any signal and use them as usefull 
+informations for the intelligence Departement of RDAF.
+~
+0 0 0
+D6
+~
+~
+0 0 70206
+S
+#70213
+The RDAF Donation Room~
+As the government cut the subsydies for the RDAF, the order now faces 
+a difficult era as the operational fee is increasing significantly. 
+The wealthy members of RDAF are called to donate a minimum of 1000 
+gold to support the order's operational activities. The fund will then
+be used to buy weapons and armors to fit the RDAF's needs.
+=====================================================================
+For equality, we have decided only a donation of 1000 coins will be
+accepted, donations other than that (more or less) will be ignored.
+=====================================================================
+~
+0 0 0
+D1
+~
+~
+0 0 70206
+S
+#70214
+The RDAF Medical Support Room.~
+~
+0 0 0
+D3
+~
+~
+0 0 70206
+S
+#70215
+A Secret Bedchamber.~
+This chamber is neatly arranged. The people living in this chamber
+will surely feel an ultimate comfort from it's atmosphere.
+A royal bed covered with silk and roses are here, while a mirror of
+gold is hanging on the wall.
+The floor is coated with the finest carpet from the realm of sands.
+You can smell an everlasting fragrance here, and a strong aura of
+love and caring.
+~
+0 0 0
+D5
+~
+~
+0 0 70210
+S
+#70216
+Teleporter~
+~
+0 0 0
+D5
+~
+~
+0 0 70206
+S
+#0
+
+
+#RESETS
+M 0 70201 1 70204
+D 0 70210 4 1
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  70201 spec_guard
+S
+
+
+#$

@@ -1,0 +1,956 @@
+#AREA   Hall of Fame~
+
+
+
+#VERSION 1
+#AUTHOR Prage~
+
+#RANGES
+1 116 1 116
+$
+
+#RESETMSG The echo of old battles seems to fill the halls~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 162450000
+
+#CLIMATE 0 0 0
+
+#MOBILES
+#48700
+mob first~
+first mob~
+First mob
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#48701
+knight guard~
+The knight~
+A knight stands solemnly here
+~
+~
+3 4194304 963 C
+48 0 0 5d100+10000 3d60+35
+0 0
+112 112 0
+15 13 14 14 15 18 11
+0 0 0 0 0
+0 17 0 0 65537 1 3
+0 0 2047 0 0 0 128 524292
+#48702
+knight guard~
+The knight~
+A knight stands solemnly here
+~
+~
+65 4194304 963 C
+48 0 0 5d100+10000 3d60+35
+0 0
+112 112 0
+15 13 14 14 15 18 11
+0 0 0 0 0
+0 17 0 0 65537 1 3
+0 0 2047 0 0 0 128 524292
+#48703
+elven gardener~
+An elven gardener~
+An elven gardener is here gently singing to the grass
+~
+~
+3 0 485 C
+40 0 0 5d100+10000 5d20+30
+0 0
+112 112 0
+11 17 15 17 13 19 14
+0 0 0 0 0
+1 19 0 0 3 2 3
+0 0 2047 0 0 0 511705088 6
+#48799
+Last mob~
+last mob~
+Last mob
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#48700
+first object~
+first object~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#48701
+edge fountain~
+The fountain edge~
+The edge of a great round fountain is here.~
+~
+25 0 0
+50 50 0 0
+1000 10000 1000
+E
+fountain edge~
+You see a huge marble fountain that stretches off to each side.
+In the middle is a statue of some sort, however it is hard to make out any
+detail for all the water that sprays out of it's torch.
+~
+#48702
+statue ~
+an evil looking statue~
+An evil looking statue stands here with a twisted grin.~
+~
+12 0 0
+0 0 0 0
+1000 0 0
+E
+stat statue~
+You see a statue with a ugly face twisted in an evil grin. In it's hand
+is a stone torch from which most of the water from the fountain flows from.
+~
+#48703
+statue aella~
+a statue of Aella~
+An ethereal statue of Aella stands here engulfed in a blaze of glory.~
+~
+15 0 0
+1100 1 0 1
+1000 0 0
+E
+statue stat aella~
+This ancient statue fashioned of pure ether depicts Aella the adventurer
+in the old Darkhaven Square. She is wielding a massive flaming sword in
+one hand and fashioning dozens of glowing balls of light in the other
+before a small gathering of puzzled onlookers and small bunnies. A small 
+plaque depics the importance of this event, but its words have been worn    
+off with time.
+~
+#48799
+last object~
+last object~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#48700
+The Hall of Fame(hallof.are)~
+This area is for players who have exceeded themselves in some way.
+They get a room, with a statue or portrait, whatever they wish so long
+as the request is reasonable.
+It's split into two parts, the main hall of fame for most players, and
+the dungeon of infamy for pk players.
+~
+0 3145732 0
+E
+DT DTs~
+This area contains no death traps.
+~
+S
+#48701
+The Foyer Of The Hall Of Fame~
+This is the entrance to the hall of fame. This room is made to look stunning
+with expensive carpet, and tapestries depicting famous battles lining the
+walls. An oddity of this room is one of the tapestries that simply shows a
+knight of the order of fame, who are the keepers of these halls, standing
+guard, at the bottom is a small inscription.
+~
+0 1073741832 1
+D2
+~
+~
+0 -1 48702
+E
+inscrip inscription~
+Here we stand forever with respect.
+~
+S
+#48702
+A Domed Room~
+The vaulted roof of this room is about the hight of five trolls standing on
+each others shoulders. It has an air of ceremony, which is precisely what
+it is used for, the induction ceremony into the hall of fame. Upen the roof
+are finely painted scenes of heroic deeds, and the walls are lined with
+tapestries of old battles and victories. The room leads in three directions
+to the east and west are the halls themselves, and to the north is the
+foyer.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48701
+D1
+~
+~
+0 -1 48714
+D3
+~
+~
+0 -1 48703
+S
+#48703
+The Western Hall~
+~
+0 1073741832 1
+D1
+~
+~
+0 -1 48702
+D2
+~
+~
+0 -1 48704
+S
+#48704
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48703
+D2
+~
+~
+0 -1 48705
+S
+#48705
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48704
+D2
+~
+~
+0 -1 48706
+S
+#48706
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48705
+D2
+~
+~
+0 -1 48707
+S
+#48707
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48706
+D2
+~
+~
+0 -1 48708
+S
+#48708
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48707
+D2
+~
+~
+0 -1 48709
+S
+#48709
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48708
+D2
+~
+~
+0 -1 48710
+S
+#48710
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48709
+D2
+~
+~
+0 -1 48711
+S
+#48711
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48710
+D2
+~
+~
+0 -1 48712
+S
+#48712
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48711
+D2
+~
+~
+0 -1 48713
+S
+#48713
+Along The Western Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48712
+D2
+~
+~
+0 -1 48725
+S
+#48714
+The Eastern Hall~
+~
+0 1073741832 1
+D2
+~
+~
+0 -1 48715
+D3
+~
+~
+0 -1 48702
+S
+#48715
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48714
+D2
+~
+~
+0 -1 48716
+S
+#48716
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48715
+D2
+~
+~
+0 -1 48717
+S
+#48717
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48716
+D2
+~
+~
+0 -1 48718
+S
+#48718
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48717
+D2
+~
+~
+0 -1 48719
+S
+#48719
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48718
+D2
+~
+~
+0 -1 48720
+S
+#48720
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48719
+D2
+~
+~
+0 -1 48721
+S
+#48721
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48720
+D2
+~
+~
+0 -1 48722
+S
+#48722
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48721
+D2
+~
+~
+0 -1 48723
+S
+#48723
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48722
+D2
+~
+~
+0 -1 48724
+S
+#48724
+Along The Eastern Hall~
+This part of the hall is bare, just waiting for some great soul to fill it.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48723
+D2
+~
+~
+0 -1 48726
+S
+#48725
+The Chamber of Aella the Mage~
+You have entered the oldest section of the hall. Grass grows up through the
+marble floor and the walls are cracked but still sturdy. In the corner lies
+a small, old statue of the ancient Metheus' apprentice.
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48713
+D1
+~
+~
+0 -1 48727
+S
+#48726
+The End Of The Eastern Hall~
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 48724
+D3
+~
+~
+0 -1 48728
+S
+#48727
+The North-Western Side Of The Fountain~
+Here is the great courtyard of the hall of fame, with the large marble
+fountain at it's centre. The ground is covered in well kept grass which
+forms a natural carpet to match the finest weaver's work. The air seems
+filled with a sense of peace and calm which is a testomony to the skill of the
+elven gardeners who tend it.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 48728
+D2
+~
+~
+0 -1 48730
+D3
+~
+~
+0 -1 48725
+D8
+~
+~
+2048 -1 48731
+S
+#48728
+The North-Eastern Side Of The Fountain~
+The great fountain spays a fine mist into the air and fills the courtyard
+with a sense of serenity. Despite the dampness, the grass looks like it would
+make a comfortable bed without even the need of drowsiness.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 48726
+D2
+~
+~
+0 -1 48729
+D3
+~
+~
+0 -1 48727
+D9
+~
+~
+2048 -1 48731
+S
+#48729
+The South-Eastern Side Of The Fountain~
+The falling of the water in the fountain seems to play a perfect harmony
+here, as if it has been designed to fill the soul with peace. The light mist
+that emanates from the fountain serves to keep the area cool even at the
+hottest of times. A hedge has been grown along the wall in a fashion that it
+appears to have formed of it's own accord, and only glimpses of the wall
+behind it can be seen.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 48728
+D3
+~
+~
+0 -1 48730
+D7
+~
+~
+2048 -1 48731
+S
+#48730
+The South-Western Side Of The Fountain~
+The sweet scent of the grass fills the air here. On the southern wall a mural
+has been carved depicting a paladin standing victorious over the body of a
+black dragon. The echo of the fountain against it seems to only add to the
+calmness of the courtyard, and yet blend it with the hint of glory.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 48727
+D1
+~
+~
+0 -1 48729
+D6
+~
+~
+2048 -1 48731
+S
+#48731
+Within The Fountain~
+The air within the fountain flows in an odd way. The peace outside the    
+fountain is not found within. The noise of the fountain becomes loud and 
+harsh, and the statue within is shown not as it looks from the outside.
+~
+0 1073741828 1
+D5
+~
+trapdoor~
+3 -1 48732
+D6
+~
+~
+0 -1 48728
+D7
+~
+~
+0 -1 48727
+D8
+~
+~
+0 -1 48729
+D9
+~
+~
+0 -1 48730
+S
+#48732
+A Dark Descent~
+There is a ladder here which is the only stable support. The walls are
+covered in a thick slime as water runs in from above. The darkness is thick, 
+without any sign of life, only a little light filters in from above, and all 
+that can be heard is a roaring from above and the splashing of water below.
+~
+0 1073741837 1
+D4
+~
+trapdoor~
+1 -1 48731
+D5
+~
+~
+0 -1 48733
+S
+#48733
+The Dungeon Of Infamy~
+The walls here are covered in thick slime and the air is filled with 
+dampness as water showers down from above. The floor is covered in a layer 
+of water and bits of debris that have fallen from the portal above. There  
+is a portal to the north, and above a ladder leads up into the light.
+~
+0 1073741833 1
+D0
+~
+~
+0 -1 48735
+D4
+~
+~
+0 -1 48732
+S
+#48734
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D3
+~
+~
+0 -1 48735
+S
+#48735
+Along The Dungeon Of Infamy~
+~
+0 1073741833 1
+D0
+~
+~
+0 -1 48738
+D1
+~
+~
+0 -1 48734
+D2
+~
+~
+0 -1 48733
+D3
+~
+~
+0 -1 48736
+S
+#48736
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D1
+~
+~
+0 -1 48735
+S
+#48737
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D3
+~
+~
+0 -1 48738
+S
+#48738
+Along The Dungeon Of Infamy~
+~
+0 1073741833 1
+D0
+~
+~
+0 -1 48741
+D1
+~
+~
+0 -1 48737
+D2
+~
+~
+0 -1 48735
+D3
+~
+~
+0 -1 48739
+S
+#48739
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D1
+~
+~
+0 -1 48738
+S
+#48740
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D3
+~
+~
+0 -1 48741
+S
+#48741
+Along The Dungeon Of Infamy~
+~
+0 1073741833 1
+D0
+~
+~
+0 -1 48744
+D1
+~
+~
+0 -1 48740
+D2
+~
+~
+0 -1 48738
+D3
+~
+~
+0 -1 48742
+S
+#48742
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D1
+~
+~
+0 -1 48741
+S
+#48743
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D3
+~
+~
+0 -1 48744
+S
+#48744
+Along The Dungeon Of Infamy~
+~
+0 1073741833 1
+D0
+~
+~
+0 -1 48747
+D1
+~
+~
+0 -1 48743
+D2
+~
+~
+0 -1 48741
+D3
+~
+~
+0 -1 48745
+S
+#48745
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D1
+~
+~
+0 -1 48744
+S
+#48746
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D3
+~
+~
+0 -1 48747
+S
+#48747
+Along The Dungeon Of Infamy~
+Here is the end of the dark hall, with the last two cells on either side.   
+The water that covers the floor seems to run out of a hole along the north  
+wall, where the stone has broken up with age, and fallen from the walls.    
+~
+0 1073741833 1
+D1
+~
+~
+0 -1 48746
+D2
+~
+~
+0 -1 48744
+D3
+~
+~
+0 -1 48748
+S
+#48748
+An Empty Cell~
+This cell is empty, until some dark soul is thrown in here.
+~
+0 1073741833 1
+D1
+~
+~
+0 -1 48747
+S
+#48799
+Last room~
+Last room man
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+M 1 48701 2 48703
+M 1 48701 2 48714
+M 1 48701 3 48701
+M 1 48701 4 48709
+M 1 48701 5 48720
+M 1 48702 1 48706
+M 1 48702 2 48717
+O 1 48701 1 48728
+O 1 48701 1 48727
+O 1 48701 1 48730
+M 1 48703 1 48729
+O 1 48701 1 48729
+O 1 48702 1 48731
+D 0 48731 5 1
+O 1 50163 1 48725
+O 1 48703 1 48725
+P 0 3412 1 0
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  48701 spec_janitor
+M  48702 spec_janitor
+M  48703 spec_cast_adept
+S
+
+
+#$

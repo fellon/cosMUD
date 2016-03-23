@@ -1,0 +1,591 @@
+#AREA   The Origin~
+
+
+
+#VERSION 1
+#AUTHOR Fairburn~
+
+#RANGES
+0 100 0 100
+$
+
+#RESETMSG A messge goes here~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 125000000
+
+#CLIMATE 0 0 0
+
+#MOBILES
+#50001
+First Mob~
+mob~
+Mob
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#50100
+Last Mob~
+mob~
+Mob
+~
+~
+1 0 0 C
+0 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#50001
+First Object~
+object~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#50100
+Last Object~
+object~
+~
+~
+0 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#50001
+First Room~
+First room
+start of the Village of The Origin
+~
+0 4 0
+S
+#50002
+Floating in a void~
+~
+0 1073741824 1
+S
+#50003
+Floating in a void~
+~
+0 1073741824 1
+S
+#50004
+Floating in a void~
+~
+0 1073741824 1
+S
+#50005
+Floating in a void~
+~
+0 1073741824 1
+S
+#50006
+Floating in a void~
+~
+0 1073741824 1
+S
+#50007
+Floating in a void~
+~
+0 1073741824 1
+S
+#50008
+Floating in a void~
+~
+0 1073741824 1
+S
+#50009
+Floating in a void~
+~
+0 1073741824 1
+S
+#50010
+Floating in a void~
+~
+0 1073741824 1
+S
+#50011
+Floating in a void~
+~
+0 1073741824 1
+S
+#50012
+Floating in a void~
+~
+0 1073741824 1
+S
+#50013
+Floating in a void~
+~
+0 1073741824 1
+S
+#50014
+Floating in a void~
+~
+0 1073741824 1
+S
+#50015
+Floating in a void~
+~
+0 1073741824 1
+S
+#50016
+Floating in a void~
+~
+0 1073741824 1
+S
+#50017
+Floating in a void~
+~
+0 1073741824 1
+S
+#50018
+Floating in a void~
+~
+0 1073741824 1
+S
+#50019
+Floating in a void~
+~
+0 1073741824 1
+S
+#50020
+Floating in a void~
+~
+0 1073741824 1
+S
+#50021
+Floating in a void~
+~
+0 1073741824 1
+S
+#50022
+Floating in a void~
+~
+0 1073741824 1
+S
+#50023
+Floating in a void~
+~
+0 1073741824 1
+S
+#50024
+Floating in a void~
+~
+0 1073741824 1
+S
+#50025
+Floating in a void~
+~
+0 1073741824 1
+S
+#50026
+Floating in a void~
+~
+0 1073741824 1
+S
+#50027
+Floating in a void~
+~
+0 1073741824 1
+S
+#50028
+Floating in a void~
+~
+0 1073741824 1
+S
+#50029
+Floating in a void~
+~
+0 1073741824 1
+S
+#50030
+Floating in a void~
+~
+0 1073741824 1
+S
+#50031
+Floating in a void~
+~
+0 1073741824 1
+S
+#50032
+Floating in a void~
+~
+0 1073741824 1
+S
+#50033
+Floating in a void~
+~
+0 1073741824 1
+S
+#50034
+Floating in a void~
+~
+0 1073741824 1
+S
+#50035
+Floating in a void~
+~
+0 1073741824 1
+S
+#50036
+Floating in a void~
+~
+0 1073741824 1
+S
+#50037
+Floating in a void~
+~
+0 1073741824 1
+S
+#50038
+Floating in a void~
+~
+0 1073741824 1
+S
+#50039
+Floating in a void~
+~
+0 1073741824 1
+S
+#50040
+Floating in a void~
+~
+0 1073741824 1
+S
+#50041
+Floating in a void~
+~
+0 1073741824 1
+S
+#50042
+Floating in a void~
+~
+0 1073741824 1
+S
+#50043
+Floating in a void~
+~
+0 1073741824 1
+S
+#50044
+Floating in a void~
+~
+0 1073741824 1
+S
+#50045
+Floating in a void~
+~
+0 1073741824 1
+S
+#50046
+Floating in a void~
+~
+0 1073741824 1
+S
+#50047
+Floating in a void~
+~
+0 1073741824 1
+S
+#50048
+Floating in a void~
+~
+0 1073741824 1
+S
+#50049
+Floating in a void~
+~
+0 1073741824 1
+S
+#50050
+Floating in a void~
+~
+0 1073741824 1
+S
+#50051
+Floating in a void~
+~
+0 1073741824 1
+S
+#50052
+Floating in a void~
+~
+0 1073741824 1
+S
+#50053
+Floating in a void~
+~
+0 1073741824 1
+S
+#50054
+Floating in a void~
+~
+0 1073741824 1
+S
+#50055
+Floating in a void~
+~
+0 1073741824 1
+S
+#50056
+Floating in a void~
+~
+0 1073741824 1
+S
+#50057
+Floating in a void~
+~
+0 1073741824 1
+S
+#50058
+Floating in a void~
+~
+0 1073741824 1
+S
+#50059
+Floating in a void~
+~
+0 1073741824 1
+S
+#50060
+Floating in a void~
+~
+0 1073741824 1
+S
+#50061
+Floating in a void~
+~
+0 1073741824 1
+S
+#50062
+Floating in a void~
+~
+0 1073741824 1
+S
+#50063
+Floating in a void~
+~
+0 1073741824 1
+S
+#50064
+Floating in a void~
+~
+0 1073741824 1
+S
+#50065
+Floating in a void~
+~
+0 1073741824 1
+S
+#50066
+Floating in a void~
+~
+0 1073741824 1
+S
+#50067
+Floating in a void~
+~
+0 1073741824 1
+S
+#50068
+Floating in a void~
+~
+0 1073741824 1
+S
+#50070
+Floating in a void~
+~
+0 1073741824 1
+S
+#50071
+Floating in a void~
+~
+0 1073741824 1
+S
+#50072
+Floating in a void~
+~
+0 1073741824 1
+S
+#50073
+Floating in a void~
+~
+0 1073741824 1
+S
+#50074
+Floating in a void~
+~
+0 1073741824 1
+S
+#50075
+Floating in a void~
+~
+0 1073741824 1
+S
+#50076
+Floating in a void~
+~
+0 1073741824 1
+S
+#50077
+Floating in a void~
+~
+0 1073741824 1
+S
+#50078
+Floating in a void~
+~
+0 1073741824 1
+S
+#50079
+Floating in a void~
+~
+0 1073741824 1
+S
+#50080
+Floating in a void~
+~
+0 1073741824 1
+S
+#50081
+Floating in a void~
+~
+0 1073741824 1
+S
+#50082
+Floating in a void~
+~
+0 1073741824 1
+S
+#50083
+Floating in a void~
+~
+0 1073741824 1
+S
+#50084
+Floating in a void~
+~
+0 1073741824 1
+S
+#50085
+Floating in a void~
+~
+0 1073741824 1
+S
+#50086
+Floating in a void~
+~
+0 1073741824 1
+S
+#50087
+Floating in a void~
+~
+0 1073741824 1
+S
+#50088
+Floating in a void~
+~
+0 1073741824 1
+S
+#50089
+Floating in a void~
+~
+0 1073741824 1
+S
+#50090
+Floating in a void~
+~
+0 1073741824 1
+S
+#50091
+Floating in a void~
+~
+0 1073741824 1
+S
+#50092
+Floating in a void~
+~
+0 1073741824 1
+S
+#50093
+Floating in a void~
+~
+0 1073741824 1
+S
+#50094
+Floating in a void~
+~
+0 1073741824 1
+S
+#50095
+Floating in a void~
+~
+0 1073741824 1
+S
+#50096
+Floating in a void~
+~
+0 1073741824 1
+S
+#50097
+Floating in a void~
+~
+0 1073741824 1
+S
+#50098
+Floating in a void~
+~
+0 1073741824 1
+S
+#50099
+Floating in a void~
+~
+0 1073741824 1
+S
+#50100
+Last Room~
+Last room
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$
