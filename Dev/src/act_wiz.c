@@ -7628,9 +7628,9 @@ void do_showclass( CHAR_DATA *ch, char *argument )
 	send_to_char( "No such class.\n\r", ch );
 	return;
     }
-    pager_printf_color( ch, "&wCLASS: &W%s\n\r&wPrime Attribute: &W%-14s
-&wWeapon: &W%-5d      &wGuild: &W%-5d\n\r",
-	class->who_name, affect_loc_name(class->attr_prime), class->weapon, class->guild );
+    pager_printf_color( ch, "&wCLASS: &W%s\n\r&wPrime Attribute: &W%-14s"
+        "&wWeapon: &W%-5d      &wGuild: &W%-5d\n\r",
+        class->who_name, affect_loc_name(class->attr_prime), class->weapon, class->guild );
     pager_printf_color( ch, "&wMax Skill Adept: &W%-3d             &wThac0 : &W%-5d     &wThac32: &W%d\n\r",
 	class->skill_adept, class->thac0_00, class->thac0_32 );
     pager_printf_color( ch, "&wHp Min/Hp Max  : &W%-2d/%-2d           &wMana  : &W%-3s      &wExpBase: &W%d\n\r",
