@@ -2168,8 +2168,8 @@ void do_orders( CHAR_DATA *ch, char *argument )
 	if ( !count )
 	  send_to_char( "There are no Orders currently formed.\n\r", ch );
 	else
-	  send_to_char( "___________________________________________________________________________\n\r\n\rUse 
-'orders <order>' for more detailed information.\n\r", ch );
+	  send_to_char( "___________________________________________________________________________\n\r\n\rUse "
+		"'orders <order>' for more detailed information.\n\r", ch );
 	return;
     }
 
