@@ -1,582 +1,0 @@
-#PLAYER
-Version      3
-Name         Athmoz~
-Description  He looks incredibly strong, and challenging him would not be a wise idea
-Athmoz is of pure evil, he emmits a red aura of darkness.
-Furious flames enshroud his body, as if he came straight from hell.
-~
-Sex          1
-Class        4
-Race         5
-Species      0
-Languages    1720367 1
-Level        90
-Played       1026564
-Room         239
-Memorized		21001 0 0 0 0 0 0 0
-HpManaMove   3680 2190 1229 189 1675 1261
-Gold         95899815
-Exp          1070940879
-Height          52
-Weight          144
-Act          570426952&4
-AffectedBy   98848
-Position     104
-Style     2
-Practice     144
-SavingThrows 0 0 0 0 0
-Alignment    -1000
-Favor	       2500
-Balance      5000000
-Glory        155
-MGlory       155
-Hitroll      0
-Damroll      0
-Armor        80
-ICEListen (null)~
-Resistant    256
-Mentalstate  0
-Password     AtcZQlt7OWBEE~
-Title         in da House yo yo~
-Extraname  MC~
-Lastname ~
-Bio          Who are you looking at man?
-Dont make me bust a cap in yo ass!@#
-&WYour backstab **** SMITES **** the bone naga! &R[&Y3252&R]&w
-Told yo crazy ass not to be trippin' on my tricks.
-Imma b*tch slap your bone naga hoe.
-Werd up homies
-West side Darkhaven nigga, all the way.
-&WYour backstab **** SMITES **** The Undead Wanderer! &R[&Y3432&R]&w
-I just popped yo ass wandera!
-~
-AuthedBy     Prage~
-Prompt       &Y(&R%A &G%h&Y/&G%H &R%b&Y/&R%B &B%v&Y/&B%V &P%a&Y)~
-FPrompt	     &Y(&B%A &G%h&Y/&G%H &R%b&Y/&R%B &C%v&Y/&C%V &B%c &Y)~
-Deity	     Aoskar~
-Clan         RDAF~
-Flags        491776
-PKills       1
-PDeaths      0
-MKills       8811
-MDeaths      16
-ArenaWins    15
-ArenaKills   39
-ArenaDeaths  17
-IllegalPK    0
-AttrPerm     18 10 14 16 13 9 13
-AttrMod      4 0 0 0 4 -1 0
-Condition    0 4 0 96
-Site         (Link-Dead)
-Spell        28 'cancelation'
-Spell        59 'chill touch'
-Spell        23 'control weather'
-Spell        35 'cover of darkness'
-Spell        23 'curse'
-Spell        20 'detect magic'
-Spell        19 'detect traps'
-Spell        47 'devils might'
-Spell        44 'dispel magic'
-Spell        19 'enchant weapon'
-Spell        95 'energy drain'
-Spell        95 'festering wounds'
-Spell        95 'fireball'
-Spell        19 'flash'
-Spell        46 'flight'
-Spell        19 'float'
-Spell        19 'harm'
-Spell        95 'identify'
-Spell        32 'infravision'
-Spell        29 'invis'
-Spell        19 'kindred strength'
-Spell        59 'locate object'
-Spell        89 'poison'
-Spell        21 'scry'
-Spell        44 'shield'
-Spell        29 'sleep'
-Spell        19 'teleport'
-Spell        40 'transport'
-Spell        19 'ventriloquate'
-Spell        46 'weaken'
-Spell        95 'word of recall'
-Skill        51 'aid'
-Skill        38 'bite'
-Skill        38 'bloodlet'
-Skill        53 'broach'
-Skill        19 'climb'
-Skill        19 'dig'
-Skill        87 'disarm'
-Skill        75 'dodge'
-Skill        100 'dual wield'
-Skill        100 'enhanced damage'
-Skill        26 'fade'
-Skill        95 'feed'
-Skill        90 'fourth attack'
-Skill        73 'frenzy'
-Skill        95 'hide'
-Skill        20 'kick'
-Skill        24 'limber'
-Skill        19 'mistform'
-Skill        19 'mount'
-Skill        94 'occulutus visum'
-Skill        100 'parry'
-Skill        70 'peek'
-Skill        85 'scan'
-Skill        54 'search'
-Skill        95 'second attack'
-Skill        95 'second cast'
-Skill        29 'serenity'
-Skill        95 'slit'
-Skill        95 'sneak'
-Skill        38 'spy'
-Skill        81 'steal'
-Skill        95 'third attack'
-Skill        45 'vomica pravus'
-Weapon       100 'bludgeons'
-Weapon       100 'flexible arms'
-Weapon       100 'long blades'
-Weapon       100 'pugilism'
-Weapon       100 'short blades'
-Weapon       17 'talonous arms'
-Tongue       100 'common'
-Tongue       99 'dwarven'
-Tongue       99 'elvish'
-Tongue       99 'gith'
-Tongue       99 'gnome'
-Tongue       99 'goblin'
-Tongue       99 'halfling'
-Tongue       99 'orcish'
-Tongue       99 'pixie'
-AffectData   'occulutus visum'   3   0  26 32
-AffectData   'shield' 1074 -20  17 0
-AffectData   'kindred strength' 138   4   1 0
-AffectData   'trollish vigor' 138  -1  25 0
-AffectData   'trollish vigor' 138   4   5 0
-AffectData   'sneak' 1035   0  26 32768
-Killed       10300 2
-Killed       10302 1
-Killed       21062 2
-Killed       21052 2
-Killed       217 1
-Killed       210 5
-Killed       209 1
-Killed       206 1
-Killed       201 1
-Killed       10301 2
-Killed       215 3
-Killed       216 5
-Killed       208 8
-Killed       200 3
-Killed       237 7
-Killed       236 8
-Killed       235 16
-Killed       234 19
-Killed       229 7
-Killed       228 8
-Killed       225 8
-Killed       231 2
-Killed       233 2
-i3invis	0
-End
-
-#OBJECT
-Vnum         12507
-WearLoc      1
-Level        45
-Values       7 8 0 0 0 0
-End
-
-#OBJECT
-Vnum         12503
-WearLoc      20
-Level        55
-Values       33 33 0 0 0 0
-End
-
-#OBJECT
-Vnum         12501
-WearLoc      12
-Level        53
-Values       20 20 0 0 0 0
-End
-
-#OBJECT
-Vnum         44
-Level        69
-Values       100 1 -1 0 0 0
-End
-
-#OBJECT
-Nest         1
-Count        2
-Name         flask potion flight~
-ShortDescr   a flight potion~
-Description  A strange potion labelled 'flight' sizzles in a glass flask.~
-Vnum         35
-Level        1
-Values       96 109 -1 -1 0 0
-Spell 1      'flight'
-End
-
-#OBJECT
-Nest         1
-Count        2
-Name         flask potion forcefield~
-ShortDescr   a forcefield potion~
-Description  A strange potion labelled 'forcefield' sizzles in a glass flask.~
-Vnum         35
-Level        1
-Values       96 112 -1 -1 0 0
-Spell 1      'forcefield'
-End
-
-#OBJECT
-Nest         1
-Vnum         13082
-Level        50
-Values       12 7 42 5 0 0
-End
-
-#OBJECT
-Nest         1
-Vnum         219
-Level        77
-Values       12 10 100 3 0 0
-End
-
-#OBJECT
-Nest         1
-Vnum         268
-Level        80
-Values       92 92 0 0 0 0
-End
-
-#OBJECT
-Nest         1
-Vnum         49814
-Values       3 3 0 0 0 0
-End
-
-#OBJECT
-Vnum         25514
-WearLoc      7
-Level        41
-Values       20 20 0 0 0 0
-End
-
-#OBJECT
-Vnum         24826
-WearLoc      10
-Level        43
-Values       13 13 0 0 0 0
-End
-
-#OBJECT
-Vnum         21046
-Values       75 1 0 1 0 0
-End
-
-#OBJECT
-Nest         1
-Count        6
-Vnum         21005
-Level        1
-Values       1 229 -1 -1 0 0
-Spell 1      'word of recall'
-End
-
-#OBJECT
-Nest         1
-Vnum         60959
-Values       1 0 0 0 0 0
-End
-
-#OBJECT
-Nest         1
-Name         note parchment paper mail Athmoz~
-ShortDescr   a note from Aella to Athmoz~
-Description  A note from Aella to Athmoz lies on the ground.~
-Vnum         36
-Values       2 2 2 0 0 0
-ExtraDescr   _sender_~ Aella~
-ExtraDescr   _text_~ #9909
-infernal myrmidonic opulentiatorthe infernal myrmidonic opulentiatorAn infernal
-tome of myrmidonic knowledge lays here.
-9 16910708 65537 1
-11 11 0 0
-1 0 0
-A
-13 90
-A
-18 2
-A
-19 2
-A
-32 95
-A
-46 95
-A
-40 10
-A
-53 95
-A
-~
-ExtraDescr   _to_~ Athmoz~
-ExtraDescr   _subject_~ Object Code~
-ExtraDescr   _date_~ Wed Jul 24 21:15:16 2002~
-ExtraDescr   note~ From: Aella
-To: Athmoz
-Subject: Object Code
-
-#9909
-infernal myrmidonic opulentiatorthe infernal myrmidonic opulentiatorAn infernal
-tome of myrmidonic knowledge lays here.
-9 16910708 65537 1
-11 11 0 0
-1 0 0
-A
-13 90
-A
-18 2
-A
-19 2
-A
-32 95
-A
-46 95
-A
-40 10
-A
-53 95
-A
-
-~
-End
-
-#OBJECT
-Nest         1
-Name         note parchment paper mail Athmoz~
-ShortDescr   a note from Aella to Athmoz~
-Description  A note from Aella to Athmoz lies on the ground.~
-Vnum         36
-Values       2 2 2 0 0 0
-ExtraDescr   _sender_~ Aella~
-ExtraDescr   _text_~ 48 10
-A
-50 95
-A
-34 95
-A
-4 -2
-> wear_prog 100if ispkill($n)
-mea $n You already know well the knowledge of combat within this device.
-mpforce $n remove 'infernal opulentiator'
-else
-mea $n _bre Your mind is wracked as esoteric knowlege of combat fills you!
-mer $n $n's mind is wracked as esoteric knowlege of combat fills $m!
-mpdamage $n 20
-endif
-|
-~
-ExtraDescr   _to_~ Athmoz~
-ExtraDescr   _subject_~ Part 2~
-ExtraDescr   _date_~ Wed Jul 24 21:15:21 2002~
-ExtraDescr   note~ From: Aella
-To: Athmoz
-Subject: Part 2
-
-48 10
-A
-50 95
-A
-34 95
-A
-4 -2
-> wear_prog 100if ispkill($n)
-mea $n You already know well the knowledge of combat within this device.
-mpforce $n remove 'infernal opulentiator'
-else
-mea $n _bre Your mind is wracked as esoteric knowlege of combat fills you!
-mer $n $n's mind is wracked as esoteric knowlege of combat fills $m!
-mpdamage $n 20
-endif
-|
-
-~
-End
-
-#OBJECT
-Nest         1
-Vnum         13083
-Level        50
-Values       12 4 8 6 0 0
-End
-
-#OBJECT
-Nest         1
-Name         scroll scribing summon~
-ShortDescr   a summon scroll~
-Description  A glowing scroll inscribed 'summon' lies in the dust.~
-Vnum         34
-Values       102 208 -1 -1 0 0
-Spell 1      'summon'
-End
-
-#OBJECT
-Nest         1
-Vnum         12611
-Level        45
-Values       45 90 173 100 0 0
-Spell 1      'ethereal funnel'
-Spell 2      'razorbait'
-Spell 3      'feebleness'
-End
-
-#OBJECT
-Nest         1
-Vnum         7930
-Level        54
-Values       48 122 122 122 0 0
-Spell 1      'heal'
-Spell 2      'heal'
-Spell 3      'heal'
-End
-
-#OBJECT
-Vnum         100019
-WearLoc      22
-Values       150 0 0 0 0 0
-End
-
-#OBJECT
-Nest         1
-Vnum         100096
-Values       1 0 144 0 0 0
-End
-
-#OBJECT
-Vnum         12507
-WearLoc      2
-Level        47
-Values       8 8 0 0 0 0
-End
-
-#OBJECT
-Vnum         25507
-WearLoc      12
-Level        36
-Values       11 11 0 0 0 0
-End
-
-#OBJECT
-Vnum         25568
-WearLoc      5
-Level        52
-Values       40 40 0 0 0 0
-End
-
-#OBJECT
-Vnum         12502
-WearLoc      19
-Level        53
-Values       20 20 0 0 0 0
-End
-
-#OBJECT
-Vnum         100001
-WearLoc      3
-Level        48
-Values       15 15 0 0 0 0
-End
-
-#OBJECT
-Vnum         100001
-WearLoc      4
-Level        46
-Values       13 13 0 0 0 0
-End
-
-#OBJECT
-Name         An iron mask rename~
-ShortDescr   An iron mask~
-Vnum         1208
-WearLoc      23
-Level        69
-Values       20 -300 0 0 0 0
-End
-
-#OBJECT
-Vnum         25518
-WearLoc      12
-Level        41
-Values       12 12 0 0 0 0
-End
-
-#OBJECT
-Vnum         46942
-WearLoc      14
-Level        46
-Values       11 11 0 0 0 0
-End
-
-#OBJECT
-Vnum         46923
-WearLoc      9
-Level        53
-Values       17 17 0 0 0 0
-End
-
-#OBJECT
-Vnum         46942
-WearLoc      15
-Level        48
-Values       11 11 0 0 0 0
-End
-
-#OBJECT
-Vnum         235
-WearLoc      13
-Level        79
-Values       1 1 0 0 0 0
-End
-
-#OBJECT
-Vnum         236
-WearLoc      6
-Level        88
-Values       7 7 0 0 0 0
-End
-
-#OBJECT
-Vnum         229
-WearLoc      8
-Level        90
-Values       -30 -30 0 0 0 0
-End
-
-#OBJECT
-Vnum         12505
-WearLoc      16
-Level        50
-Values       12 13 43 11 0 0
-End
-
-#OBJECT
-Vnum         46900
-WearLoc      18
-Level        52
-Values       12 12 144 6 0 0
-End
-
-#OBJECT
-Vnum         21049
-WearLoc      0
-Values       0 0 -1 0 0 0
-End
-
-#OBJECT
-Vnum         21049
-Values       0 0 -1 0 0 0
-End
-
-#END
