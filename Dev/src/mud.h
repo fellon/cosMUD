@@ -1,4 +1,8 @@
 /****************************************************************************
+* cosMUD 1.0 by Fellon, Chimerus, Prage, and Marten.                        *
+****************************************************************************/
+
+/****************************************************************************
  * ResortMUD 4.0 Beta by Ntanel, Garinan, Badastaz, Josh, Digifuzz, Senir,  *
  * Kratas, Scion, Shogar and Tagith.  Special thanks to Thoric, Nivek,      *
  * Altrag, Arlorn, Justice, Samson, Dace, HyperEye and Yakkov.              *
