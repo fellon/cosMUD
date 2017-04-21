@@ -1,113 +1,0 @@
-#PLAYER
-Version      3
-Name         Brack~
-Description  ~
-Sex          1
-Class        23
-Race         42
-Languages    1 1
-Level        8
-Played       30260
-Room         21194
-Memorized		21001 0 0 0 0 0 0 0
-HpManaMove   84 84 239 239 191 191
-Gold         287570
-Exp          423146
-Height          65
-Weight          100
-Act          570427000
-AffectedBy   16
-Position     106
-Style     2
-Practice     0
-SavingThrows 0 0 0 0 -6
-Alignment    40
-Favor	       1458
-Balance      0
-Glory        0
-MGlory       0
-Hitroll      6
-Damroll      0
-Armor        100
-ICEListen (null)~
-Resistant    2
-Mentalstate  -25
-Password     Br89362W9ddGI~
-Title         Ghost~
-Lastname  from Space~
-Bio          chat oh it can be only one line
-chat oh it can be only one line
-chat oh it can be only one line
-l
-c
-c
-Brack is a lean mean joke machine with a taste for the ladies and a hatred for 
-l
-whois brack
-exit
-chat crap
-lpksajf'lksjdf'lkasjd
-gfkasj
-~
-AuthedBy     Prage~
-Deity	     Mystra~
-Flags        98304
-PKills       1
-PDeaths      0
-MKills       282
-MDeaths      11
-ArenaWins    0
-ArenaKills   0
-ArenaDeaths  1
-IllegalPK    0
-AttrPerm     12 18 15 13 12 15 13
-AttrMod      0 0 0 0 0 0 0
-Condition    0 0 0 18
-Site         (Link-Dead)
-Spell        26 'armor'
-Spell        66 'continual light'
-Spell        29 'detect invis'
-Spell        19 'detect magic'
-Spell        95 'disruption'
-Spell        26 'elven beauty'
-Spell        19 'faerie fire'
-Spell        28 'float'
-Spell        30 'infravision'
-Spell        31 'invis'
-Spell        19 'know alignment'
-Spell        34 'locate object'
-Spell        19 'refresh'
-Spell        54 'teleport'
-Spell        95 'ventriloquate'
-Spell        19 'weaken'
-Skill        30 'dual wield'
-Skill        20 'kick'
-Weapon       19 'bludgeons'
-Weapon       19 'flexible arms'
-Weapon       50 'long blades'
-Weapon       19 'short blades'
-Tongue       100 'common'
-Tongue       100 'elvish'
-AffectData   'bless' 516   6  18 0
-AffectData   'bless' 516  -6  24 0
-Killed       15170 1
-Killed       7003 1
-i3invis	0
-End
-
-#ALIAS
-Name     sac;~
-Commands save~
-End
-
-#MOBILE
-Vnum	21059
-Room	8301
-Description The black cat appears frightened out of its mind...
-A neck tag says 'I belong to Brack'.
-~
-Position 12
-Flags 259
-EndMobile
-
-#END
